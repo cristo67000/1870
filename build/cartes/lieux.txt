@@ -1,0 +1,280 @@
+# Les lieux de la carte de campagne : « Nom affiché | page Wikipédia (si elle diffère) | rang ».
+# Rang 1 : toujours nommé ; 2 : à l'échelle moyenne ; 3 : de près ; sans rang : sert seulement
+# à placer des unités. « = lat, lon » à la place de la page fixe les coordonnées à la main.
+# `node build/fonds.mjs lieux` résout les coordonnées (Wikipédia) dans lieux.json.
+Paris | | 1
+Metz | | 1
+Strasbourg | | 1
+Sedan | | 1
+Orléans | | 1
+Lille | | 1
+Lyon | | 1
+Bordeaux | | 1
+Bruxelles | = 50.8467, 4.3525 | 1
+Cologne | | 1
+Francfort | Francfort-sur-le-Main | 1
+Munich | | 1
+Nancy | | 2
+Reims | | 2
+Châlons | Châlons-en-Champagne | 2
+Belfort | | 2
+Besançon | | 2
+Dijon | | 2
+Troyes | | 2
+Tours | | 2
+Le Mans | | 2
+Bourges | | 2
+Rouen | | 2
+Le Havre | | 2
+Amiens | | 2
+Sarrebruck | | 2
+Luxembourg | Luxembourg (ville) | 2
+Genève | | 2
+Berne | | 2
+Bâle | | 2
+Coblence | | 2
+Mayence | | 2
+Mannheim | | 2
+Karlsruhe | | 2
+Stuttgart | | 2
+Cassel | Cassel (Hesse) | 2
+Nantes | | 2
+Rennes | | 2
+Brest | | 2
+Marseille | | 2
+Versailles | | 3
+Toul | | 3
+Verdun | | 3
+Bar-le-Duc | | 3
+Rethel | | 3
+Montmédy | | 3
+Mézières | Charleville-Mézières | 3
+Thionville | | 3
+Longwy | | 3
+Wissembourg | | 3
+Haguenau | | 3
+Saverne | | 3
+Phalsbourg | | 3
+Bitche | | 3
+Lunéville | | 3
+Sélestat | | 3
+Colmar | | 3
+Neuf-Brisach | | 3
+Mulhouse | | 3
+Montbéliard | | 3
+Vesoul | | 3
+Pontarlier | | 3
+Autun | | 3
+Langres | | 3
+Chaumont | Chaumont (Haute-Marne) | 3
+Épinal | | 3
+Auxerre | | 3
+Châteaudun | | 3
+Blois | | 3
+Vendôme | | 3
+Laval | Laval (Mayenne) | 3
+Nevers | | 3
+Chartres | | 3
+Évreux | | 3
+Dieppe | Dieppe (Seine-Maritime) | 3
+Péronne | Péronne (Somme) | 3
+Saint-Quentin | | 3
+Arras | | 3
+Cambrai | | 3
+Laon | | 3
+Soissons | | 3
+Compiègne | | 3
+Beauvais | | 3
+Meaux | | 3
+Melun | | 3
+Alençon | | 3
+Caen | | 3
+Cherbourg | Cherbourg-en-Cotentin | 3
+Limoges | | 3
+Clermont-Ferrand | | 3
+Toulouse | | 3
+Liège | | 3
+Ems | Bad Ems | 3
+Trèves | = 49.7596, 6.6439 | 3
+Kaiserslautern | | 3
+Landau | Landau in der Pfalz | 3
+Spire | = 49.3194, 8.4311 | 3
+Fribourg | Fribourg-en-Brisgau | 3
+Camp de Châlons | Mourmelon-le-Grand |
+Vitry-le-François | |
+Sainte-Menehould | |
+Vouziers | |
+Le Chesne | Le Chesne (Ardennes) |
+Beaumont | Beaumont-en-Argonne |
+Mouzon | Mouzon (Ardennes) |
+Stenay | |
+Forbach | |
+Spicheren | |
+Saint-Avold | |
+Wœrth | |
+Frœschwiller | |
+Reichshoffen | |
+Sarreguemines | |
+Pont-à-Mousson | |
+Mars-la-Tour | |
+Gravelotte | |
+Saint-Privat | Saint-Privat-la-Montagne |
+Borny | = 49.1080, 6.2230 |
+Héricourt | Héricourt (Haute-Saône) |
+Villersexel | |
+Les Verrières | = 46.9040, 6.4800 |
+Nuits | Nuits-Saint-Georges |
+Saint-Dié | Saint-Dié-des-Vosges |
+Sens | Sens (Yonne) |
+Artenay | |
+Coulmiers | |
+Loigny | Loigny-la-Bataille |
+Beaune-la-Rolande | |
+Beaugency | |
+Conlie | |
+Gien | |
+Montargis | |
+Pithiviers | |
+Dreux | |
+Bapaume | |
+La Fère | |
+Château-Thierry | |
+Épernay | |
+Ferrières | Ferrières-en-Brie |
+Lagny | Lagny-sur-Marne |
+Sarrelouis | = 49.3136, 6.7516 |
+Hombourg | = 49.3264, 7.3386 |
+Rastatt | = 48.8589, 8.2096 |
+Kehl | = 48.5731, 7.8153 |
+Bouillon | = 49.7950, 5.0670 |
+Donchery | |
+Bazeilles | |
+Nouart | |
+Buzancy | Buzancy (Ardennes) |
+Grandpré | |
+Attigny | Attigny (Ardennes) |
+Suippes | |
+Clermont-en-Argonne | |
+Commercy | |
+Ligny-en-Barrois | |
+Neufchâteau | Neufchâteau (Vosges) |
+Sarrebourg | |
+Marsal | Marsal (Moselle) |
+Niederbronn | Niederbronn-les-Bains |
+Soultz | Soultz-sous-Forêts |
+Lauterbourg | |
+Brumath | |
+Rambervillers | |
+Nompatelize | |
+Fontenoy-sur-Moselle | |
+Gray | Gray (Haute-Saône) |
+Dole | |
+Arcey | Arcey (Doubs) |
+Clerval | = 47.3936, 6.4972 |
+Salins | Salins-les-Bains |
+Chagny | Chagny (Saône-et-Loire) |
+Vierzon | |
+Salbris | |
+La Ferté-Saint-Aubin | |
+Patay | |
+Toury | |
+Étampes | |
+Corbeil | Corbeil-Essonnes |
+Fontainebleau | |
+Nogent-le-Rotrou | |
+La Ferté-Bernard | |
+Saint-Calais | |
+Mayenne | Mayenne (commune) |
+Villers-Bretonneux | |
+Pont-Noyelles | |
+Albert | Albert (Somme) |
+Ham | Ham (Somme) |
+Douai | |
+Saint-Denis | Saint-Denis (Seine-Saint-Denis) |
+Champigny | Champigny-sur-Marne |
+Le Bourget | Le Bourget (Seine-Saint-Denis) |
+Buzenval | Rueil-Malmaison |
+Châtillon | Châtillon (Hauts-de-Seine) |
+Pontoise | |
+Mantes | Mantes-la-Jolie |
+Gisors | |
+Coulommiers | |
+Étain | Étain (Meuse) |
+Conflans | Conflans-en-Jarnisy |
+Briey | = 49.2494, 5.9389 |
+Boulay | Boulay-Moselle |
+Faulquemont | |
+Château-Salins | |
+Dieuze | |
+Blâmont | |
+Baccarat | |
+Mirecourt | |
+Vaucouleurs | |
+Joinville | Joinville (Haute-Marne) |
+Saint-Dizier | |
+Sézanne | |
+Montmirail | Montmirail (Marne) |
+Nogent-sur-Seine | |
+Provins | |
+Villeneuve-Saint-Georges | |
+Choisy-le-Roi | |
+Saint-Germain-en-Laye | |
+Gonesse | |
+Chelles | Chelles (Seine-et-Marne) |
+Senlis | Senlis (Oise) |
+Creil | |
+Noyon | |
+Saint-Mihiel | |
+Dun-sur-Meuse | |
+Carignan | Carignan (Ardennes) |
+Raucourt | Raucourt-et-Flaba |
+Vrigne-aux-Bois | |
+Tourteron | |
+Monthois | |
+Varennes-en-Argonne | |
+Lure | Lure (Haute-Saône) |
+Rioz | |
+Baume-les-Dames | |
+Ornans | |
+Mouthe | |
+Morteau | |
+Auxonne | |
+Beaune | |
+Chalon-sur-Saône | |
+Avallon | |
+Clamecy | Clamecy (Nièvre) |
+Cosne | Cosne-Cours-sur-Loire |
+Briare | |
+Châteauneuf-sur-Loire | |
+Meung-sur-Loire | |
+Marchenoir | |
+Fréteval | |
+Morée | Morée (Loir-et-Cher) |
+Montoire | Montoire-sur-le-Loir |
+Château-Renault | |
+Saint-Amand-Longpré | |
+Écommoy | |
+Sillé-le-Guillaume | |
+Sablé | Sablé-sur-Sarthe |
+Bonnétable | |
+Bellême | |
+Mortagne | Mortagne-au-Perche |
+Verneuil | Verneuil-sur-Avre |
+Vernon | Vernon (Eure) |
+Elbeuf | |
+Forges-les-Eaux | |
+Gournay | Gournay-en-Bray |
+Clermont | Clermont (Oise) |
+Montdidier | Montdidier (Somme) |
+Corbie | |
+Abbeville | |
+Doullens | |
+Vermand | |
+Saint-Omer | Saint-Omer (Pas-de-Calais) |
+Valenciennes | |
+Maubeuge | |
+Givet | |
+Rocroi | |
+Hirson | |
+Vervins | |
+Guise | Guise |

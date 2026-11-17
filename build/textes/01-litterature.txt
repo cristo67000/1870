@@ -1,0 +1,663 @@
+# 1870 — extraits de textes, lot 01 : la littérature (poèmes, romans et nouvelles).
+# Format : voir l'en-tête de build/annexes.mjs et build/CONSIGNES-TEXTES.md.
+# Textes copiés des transcriptions de Wikisource ; cotes Gallica prises sur data.bnf.fr.
+
+@ rimbaud-dormeur-du-val
+genre: poeme
+auteur: Arthur Rimbaud
+vie: 1854-1891
+titre: Le Dormeur du val
+oeuvre: Poésies complètes
+annee: 1870
+quand: 1870-10
+intro: Rimbaud va avoir seize ans. En octobre 1870, un mois après Sedan, il fugue de Charleville, à
+  quelques lieues du champ de bataille, gagne la Belgique à pied puis Douai, où il recopie ses vers
+  pour le poète Paul Demeny. Le sonnet ne nomme ni armée ni combat : il décrit un paysage, et
+  garde pour son dernier vers ce que le lecteur doit comprendre. C'est devenu le poème de cette
+  guerre le plus lu en France.
+v: C’est un trou de verdure où chante une rivière
+v: Accrochant follement aux herbes des haillons
+v: D’argent ; où le soleil, de la montagne fière,
+v: Luit : c’est un petit val qui mousse de rayons.
+v:
+v: Un soldat jeune, bouche ouverte, tête nue,
+v: Et la nuque baignant dans le frais cresson bleu,
+v: Dort ; il est étendu dans l’herbe, sous la nue,
+v: Pâle dans son lit vert où la lumière pleut.
+v:
+v: Les pieds dans les glaïeuls, il dort. Souriant comme
+v: Sourirait un enfant malade, il fait un somme :
+v: Nature, berce-le chaudement : il a froid.
+v:
+v: Les parfums ne font pas frissonner sa narine ;
+v: Il dort dans le soleil, la main sur sa poitrine
+v: Tranquille. Il a deux trous rouges au côté droit.
+gallica: bpt6k1522733b = Poésies complètes, préface de Paul Verlaine, Paris, Léon Vanier, 1895
+preuve: data.bnf.fr, notice cb32572590m
+source: ws Poésies (Rimbaud)/éd. Vanier, 1895/Le Dormeur du val
+pour: litterature-de-la-guerre, guerre-de-1870
+
+@ rimbaud-le-mal
+genre: poeme
+auteur: Arthur Rimbaud
+vie: 1854-1891
+titre: Le Mal
+oeuvre: Poésies complètes
+annee: 1870
+quand: 1870
+intro: Sonnet de 1870, du même cahier que « Le Dormeur du val », confié à Paul Demeny à Douai.
+  Rimbaud est alors élève au collège de Charleville, à une vingtaine de kilomètres de Sedan. Il
+  ne prend parti pour aucun camp : il met d'un côté les bataillons qui « croulent », de l'autre
+  une Église tranquille, que seul réveille le sou des mères en deuil.
+v: Tandis que les crachats rouges de la mitraille
+v: Sifflent tout le jour par l’infini du ciel bleu ;
+v: Qu’écarlates ou verts, près du Roi qui les raille,
+v: Croulent les bataillons en masse dans le feu ;
+v:
+v: Tandis qu’une folie épouvantable, broie
+v: Et fait de cent milliers d’hommes un tas fumant ;
+v: — Pauvres morts ! dans l’été, dans l’herbe, dans ta joie,
+v: Nature ! ô toi qui fis ces hommes saintement !… —
+v:
+v: — Il est un Dieu, qui rit aux nappes damassées
+v: Des autels, à l’encens, aux grands calices d’or ;
+v: Qui dans le bercement des hosannah s’endort,
+v:
+v: Et se réveille, quand des mères, ramassées
+v: Dans l’angoisse, et pleurant sous leur vieux bonnet noir,
+v: Lui donnent un gros sou lié dans leur mouchoir !
+gallica: bpt6k1522733b = Poésies complètes, préface de Paul Verlaine, Paris, Léon Vanier, 1895
+preuve: data.bnf.fr, notice cb32572590m
+source: ws Poésies (Rimbaud)/éd. Vanier, 1895/Le Mal
+pour: litterature-de-la-guerre, bilan-de-la-guerre, guerre-de-1870
+
+@ rimbaud-sarrebruck
+genre: poeme
+auteur: Arthur Rimbaud
+vie: 1854-1891
+titre: L’Éclatante Victoire de Sarrebruck
+oeuvre: Poésies complètes
+annee: 1870
+quand: 1870-08-02
+intro: Le 2 août 1870, le 2e corps de Frossard prend les hauteurs de Sarrebruck sous les yeux de
+  Napoléon III et du prince impérial ; la presse officielle en fait une victoire. En octobre,
+  Rimbaud décrit — ou invente — une image populaire, avec ce sous-titre : « remportée aux cris de
+  Vive l'Empereur ! (Gravure belge brillamment coloriée, se vend à Charleroi, 35 centimes.) »
+  Pitou, Dumanet et Boquillon sont les troupiers types de la caricature du temps ; le dernier
+  répond à sa façon.
+v: Au milieu, l’Empereur, dans une apothéose
+v: Bleue et jaune, s’en va, raide, sur son dada
+v: Flamboyant ; très heureux, — car il voit tout en rose,
+v: Féroce comme Zeus et doux comme un papa ;
+v:
+v: En bas, les bons Pioupious qui faisaient la sieste
+v: Près des tambours dorés et des rouges canons,
+v: Se lèvent gentiment. Pitou remet sa veste,
+v: Et, tourné vers le Chef, s’étourdit de grands noms
+v:
+v: À droite, Dumanet, appuyé sur la crosse
+v: De son chassepot, sent frémir sa nuque en brosse,
+v: Et : « Vive l’Empereur !! » — Son voisin reste coi…
+v:
+v: Un schako surgit, comme un soleil noir… — Au centre,
+v: Boquillon, rouge et bleu, très naïf, sur son ventre
+v: Se dresse, et, — présentant ses derrières : « De quoi ?… »
+gallica: bpt6k1522733b = Poésies complètes, préface de Paul Verlaine, Paris, Léon Vanier, 1895
+preuve: data.bnf.fr, notice cb32572590m
+source: ws Poésies (Rimbaud)/éd. Vanier, 1895/L’Éclatante victoire de Sarrebrück
+pour: combat-de-sarrebruck, napoleon-iii, chansons-et-images, litterature-de-la-guerre
+
+@ rimbaud-rages-de-cesars
+genre: poeme
+auteur: Arthur Rimbaud
+vie: 1854-1891
+titre: Rages de Césars
+oeuvre: Poésies complètes
+annee: 1870
+quand: 1870-09
+intro: Après Sedan, Napoléon III est conduit en captivité au château de Wilhelmshöhe, près de
+  Cassel. Rimbaud, qui a grandi sous l'Empire et le déteste, l'imagine dans le parc, le cigare
+  aux dents. Le « Compère en lunettes » est Émile Ollivier, chef du ministère qui déclara la
+  guerre ; Saint-Cloud, la résidence d'où l'empereur partit pour l'armée le 28 juillet 1870.
+v: L’Homme pâle, le long des pelouses fleuries,
+v: Chemine, en habit noir, et le cigare aux dents :
+v: L’Homme pâle repense aux fleurs des Tuileries
+v: — Et parfois son œil terne a des regards ardents…
+v:
+v: Car l’Empereur est soûl de ses vingt ans d’orgie !
+v: Il s’était dit : « Je vais souffler la Liberté
+v: Bien délicatement, ainsi qu’une bougie ! »
+v: La liberté revit ! Il se sent éreinté !
+v:
+v: Il est pris. — Oh ! quel nom sur ses lèvres muettes
+v: Tressaille ? Quel regret implacable le mord ?
+v: On ne le saura pas. L’Empereur a l’œil mort.
+v:
+v: Il repense peut-être au Compère en lunettes…
+v: — Et regarde filer de son cigare en feu,
+v: Comme aux soirs de Saint-Cloud, un fin nuage bleu.
+gallica: bpt6k1522733b = Poésies complètes, préface de Paul Verlaine, Paris, Léon Vanier, 1895
+preuve: data.bnf.fr, notice cb32572590m
+source: ws Poésies (Rimbaud)/éd. Vanier, 1895/Rages de Césars
+pour: napoleon-iii, capitulation-de-sedan, emile-ollivier, litterature-de-la-guerre
+
+@ hugo-sedan
+genre: poeme
+auteur: Victor Hugo
+vie: 1802-1885
+titre: Sedan
+oeuvre: L’Année terrible
+annee: 1872
+quand: 1870-09-01
+intro: Rentré d'exil le 5 septembre 1870, au lendemain de la chute de l'Empire, Hugo passe le
+  siège à Paris et publie en 1872 *L'Année terrible*, journal en vers qui va d'août 1870 à
+  juillet 1871. « Sedan » en est la première grande pièce. Pour l'auteur des *Châtiments*, la
+  défaite est le châtiment de celui qu'il appelait « Napoléon le Petit » : avec son épée,
+  c'est toute l'histoire militaire de la France que l'empereur rend. Sections IV et VI.
+v: Azincourt est riant. Désormais Ramillies,
+v: Trafalgar, plaisent presque à nos mélancolies ;
+v: Poitiers n’est plus le deuil, Blenheim n’est plus l’affront,
+v: Crécy n’est plus le champ où l’on baisse le front,
+v: Le noir Rosbach nous fait l’effet d’une victoire.
+v: France, voici le lieu hideux de ton histoire,
+v: Sedan. Ce nom funèbre, où tout vient s’éclipser,
+v: Crache-le, pour ne plus jamais le prononcer.
+v:
+v: […]
+v:
+v: Alors la Gaule, alors la France, alors la gloire,
+v: Alors Brennus, l’audace, et Clovis, la victoire,
+v: Alors le vieux titan celtique aux cheveux longs,
+v: Alors le groupe altier des batailles, Châlons,
+v: Tolbiac la farouche, Arezzo la cruelle,
+v: Bovines, Marignan, Beaugé, Mons-en-Puelle,
+v: Tours, Ravenne, Agnadel sur son haut palefroi,
+v: Fornoue, Ivry, Coutras, Cérisolles, Rocroy,
+v: Denain et Fontenoy, toutes ces immortelles
+v: Mêlant l’éclair du front au flamboiement des ailes,
+v: Jemmape, Hohenlinden, Lodi, Wagram, Eylau,
+v: Les hommes du dernier carré de Waterloo,
+v: Et tous ces chefs de guerre, Héristal, Charlemagne,
+v: Charles-Martel, Turenne, effroi de l’Allemagne,
+v: Condé, Villars, fameux par un si fier succès,
+v: Cet Achille, Kléber, ce Scipion, Desaix,
+v: Napoléon, plus grand que César et Pompée,
+v: Par la main d’un bandit rendirent leur épée.
+gallica: bpt6k6558092h = L’Année terrible, Paris, Michel Lévy frères, 1872
+preuve: data.bnf.fr, notice cb30625309z
+source: ws L’Année terrible/Sedan
+pour: capitulation-de-sedan, napoleon-iii, victor-hugo-en-1870, litterature-de-la-guerre
+
+@ hugo-lettre-a-une-femme
+genre: poeme
+auteur: Victor Hugo
+vie: 1802-1885
+titre: Lettre à une femme (par ballon monté, 10 janvier)
+oeuvre: L’Année terrible
+annee: 1871
+quand: 1871-01-10
+intro: Datée du 10 janvier 1871 et partie « par ballon monté », cette lettre en vers s'adresse à
+  une amie restée hors de Paris. Hugo, soixante-huit ans, vit le siège avec ses petits-enfants
+  Georges et Jeanne ; le bombardement de la ville a commencé cinq jours plus tôt. Schmitz est le
+  chef d'état-major du gouverneur Trochu, qui signe les communiqués. Le ton est à la bravade :
+  la faim, le froid et la nuit deviennent des curiosités. Début de la pièce.
+v: Paris terrible et gai combat. Bonjour, madame.
+v: On est un peuple, on est un monde, on est une âme.
+v: Chacun se donne à tous et nul ne songe à soi.
+v: Nous sommes sans soleil, sans appui, sans effroi.
+v: Tout ira bien pourvu que jamais on ne dorme.
+v: Schmitz fait des bulletins plats sur la guerre énorme ;
+v: C’est Eschyle traduit par le père Brumoy.
+v: J’ai payé quinze francs quatre œufs frais, non pour moi,
+v: Mais pour mon petit George et ma petite Jeanne.
+v: Nous mangeons du cheval, du rat, de l’ours, de l’âne.
+v: Paris est si bien pris, cerné, muré, noué,
+v: Gardé, que notre ventre est l’arche de Noé ;
+v: Dans nos flancs toute bête, honnête ou mal famée,
+v: Pénètre, et chien et chat, le mammon, le pygmée,
+v: Tout entre, et la souris rencontre l’éléphant.
+v: Plus d’arbres ; on les coupe, on les scie on les fend ;
+v: Paris sur ses chenets met les Champs-Élysées.
+v: On a l’onglée aux doigts et le givre aux croisées,
+v: Plus de feu pour sécher le linge des lavoirs,
+v: Et l’on ne change plus de chemise. Les soirs
+v: Un grand murmure sombre abonde au coin des rues,
+v: C’est la foule ; tantôt ce sont des voix bourrues,
+v: Tantôt des chants, parfois de belliqueux appels.
+v: La Seine lentement traîne des archipels
+v: De glaçons hésitants, lourds, où la canonnière
+v: Court, laissant derrière elle une écumante ornière.
+v: On vit de rien, on vit de tout, on est content.
+v: Sur nos tables sans nappe, où la faim nous attend,
+v: Une pomme de terre arrachée à sa crypte
+v: Est reine, et les oignons sont dieux comme en Égypte.
+v: Nous manquons de charbon, mais notre pain est noir.
+v: Plus de gaz ; Paris dort sous un large éteignoir ;
+v: À six heures du soir, ténèbres. Des tempêtes
+v: De bombes font un bruit monstrueux sur nos têtes.
+v: D’un bel éclat d’obus j’ai fait mon encrier.
+v: Paris assassiné ne daigne pas crier.
+gallica: bpt6k6558092h = L’Année terrible, Paris, Michel Lévy frères, 1872
+preuve: data.bnf.fr, notice cb30625309z
+source: ws L’Année terrible/Lettre à une femme
+pour: vie-a-paris-pendant-le-siege, bombardement-de-paris, ballons-du-siege, victor-hugo-en-1870
+
+@ hugo-le-pigeon
+genre: poeme
+auteur: Victor Hugo
+vie: 1802-1885
+titre: Le Pigeon
+oeuvre: L’Année terrible
+annee: 1871
+quand: 1871-01
+intro: Pendant le siège, les nouvelles de province n'entrent dans Paris que par les pigeons
+  emportés en ballon, qui reviennent chargés de dépêches photographiées en réduction. Hugo,
+  parmi les pièces de janvier 1871, fait de l'oiseau l'« atome » qui vient en aide au
+  « colosse » : la ville sans gaz, vue d'en haut comme un lac noir. Début de la pièce, avec
+  une coupe.
+v: Sur terre un gouffre d’ombre énorme où rien ne luit,
+v: Comme si l’on avait versé là de la nuit,
+v: Et qui semble un lac noir ; dans le ciel un point sombre.
+v:
+v: Lac étrange. Des flots, non, mais des toits sans nombre ;
+v: Des ponts comme à Memphis, des tours comme à Sion ;
+v: Des têtes, des regards, des voix ; ô vision !
+v: Cette stagnation de ténèbres murmure,
+v: Et ce lac est vivant, une enceinte le mure,
+v: Et sur lui de l’abîme on croit voir l’affreux sceau.
+v:
+v: Le lac sombre est la ville, et le point noir l’oiseau ;
+v: Le vague alérion vole au peuple fantôme ;
+v: Et l’un vient au secours de l’autre. C’est l’atome
+v: Qui vient dans l’ombre en aide au colosse.
+v:
+v: […]
+v:
+v: Il songe à sa femelle, à sa douce couvée,
+v: Au nid, à sa maison, pas encor retrouvée,
+v: Au roucoulement tendre, au mois de mai charmant ;
+v: Il vole ; et cependant, au fond du firmament,
+v: Il traîne à son insu toute notre ombre humaine ;
+v: Et tandis que l’instinct vers son toit le ramène
+v: Et que sa petite âme est toute à ses amours,
+v: Sous sa plume humble et frêle il a les noirs tambours,
+v: Les clairons, la mitraille éclatant par volées,
+v: La France et l’Allemagne éperdument mêlées,
+v: La bataille, l’assaut, les vaincus, les vainqueurs,
+v: Et le chuchotement mystérieux des cœurs,
+v: Et le vaste avenir qui, fatal, enveloppe
+v: Dans le sort de Paris le destin de l’Europe.
+gallica: bpt6k6558092h = L’Année terrible, Paris, Michel Lévy frères, 1872
+preuve: data.bnf.fr, notice cb30625309z
+source: ws L’Année terrible/Le Pigeon
+pour: pigeons-voyageurs, siege-de-paris, victor-hugo-en-1870
+
+@ hugo-betise-de-la-guerre
+genre: poeme
+auteur: Victor Hugo
+vie: 1802-1885
+titre: Bêtise de la guerre
+oeuvre: L’Année terrible
+annee: 1871
+quand: 1871-01
+intro: Quatorze vers placés parmi les pièces de janvier 1871 de *L'Année terrible*. Le 18, dans
+  la galerie des Glaces de Versailles, le roi de Prusse est proclamé empereur allemand, quatre
+  mois et demi après la chute de Napoléon III à Sedan. Hugo, qui en septembre appelait encore
+  les Allemands à la fraternité, ne voit plus que l'absurdité d'une guerre qui remplace un
+  empire par un autre.
+v: Ouvrière sans yeux, Pénélope imbécile,
+v: Berceuse du chaos où le néant oscille,
+v: Guerre, ô guerre occupée au choc des escadrons,
+v: Toute pleine du bruit furieux des clairons,
+v: Ô buveuse de sang, qui, farouche, flétrie,
+v: Hideuse, entraînes l’homme en cette ivrognerie,
+v: Nuée où le destin se déforme, où Dieu fuit,
+v: Où flotte une clarté plus noire que la nuit,
+v: Folle immense, de vent et de foudres armée,
+v: À quoi sers-tu, géante, à quoi sers-tu, fumée,
+v: Si tes écroulements reconstruisent le mal,
+v: Si pour le bestial tu chasses l’animal,
+v: Si tu ne sais, dans l’ombre où ton hasard se vautre,
+v: Défaire un empereur que pour en faire un autre ?
+gallica: bpt6k6558092h = L’Année terrible, Paris, Michel Lévy frères, 1872
+preuve: data.bnf.fr, notice cb30625309z
+source: ws L’Année terrible/Bêtise de la guerre
+pour: proclamation-de-l-empire-allemand, victor-hugo-en-1870, consequences-de-la-guerre
+
+@ hugo-avant-la-conclusion-du-traite
+genre: poeme
+auteur: Victor Hugo
+vie: 1802-1885
+titre: Avant la conclusion du traité
+oeuvre: L’Année terrible
+annee: 1871
+quand: 1871-02-14
+intro: Élu député de Paris le 8 février 1871, Hugo siège à Bordeaux, où l'Assemblée s'apprête à
+  traiter. Ces strophes datées du 14 février disent ce qu'il redoute : une France amputée de
+  « deux provinces » et déshonorée. Le 1er mars, il parle et vote contre les préliminaires qui
+  cèdent l'Alsace et une partie de la Lorraine ; il démissionne le 8. Début et fin de la pièce.
+v: Si nous terminions cette guerre
+v: Comme la Prusse le voudrait,
+v: La France serait comme un verre
+v: Sur la table d’un cabaret ;
+v:
+v: On le vide, puis on le brise.
+v: Notre fier pays disparaît.
+v: Ô deuil ! il est ce qu’on méprise,
+v: Lui qui fut ce qu’on admirait.
+v:
+v: Noir lendemain ! l’effroi pour règle ;
+v: Toute lie est bue à son tour ;
+v: Et le vautour vient après l’aigle,
+v: Et l’orfraie après le vautour ;
+v:
+v: Deux provinces écartelées ;
+v: Strasbourg en croix, Metz au cachot ;
+v: Sedan, déserteur des mêlées,
+v: Marquant la France d’un fer chaud ;
+v:
+v: […]
+v:
+v: Naufrage ! Adieu les grandes tâches !
+v: Tout est trompé ; tout est trompeur ;
+v: On dit de nos drapeaux : Ces lâches !
+v: Et de nos canons : Ils ont peur !
+v:
+v: Plus de fierté ; plus d’espérance ;
+v: Sur l’histoire un suaire épais… —
+v: Dieu, ne fais pas tomber la France
+v: Dans l’abîme de cette paix !
+gallica: bpt6k6558092h = L’Année terrible, Paris, Michel Lévy frères, 1872
+preuve: data.bnf.fr, notice cb30625309z
+source: ws L’Année terrible/Avant la conclusion du traité
+pour: preliminaires-de-versailles, alsace-lorraine, assemblee-de-bordeaux, victor-hugo-en-1870
+
+@ daudet-derniere-classe
+genre: recit
+auteur: Alphonse Daudet
+vie: 1840-1897
+titre: La Dernière Classe
+oeuvre: Contes du lundi
+annee: 1873
+quand: 1872
+intro: Ce « récit d'un petit Alsacien » ouvre les *Contes du lundi* (1873). Daudet, Nîmois devenu
+  parisien, n'est pas du pays et simplifie : le dialecte que le petit Franz parle chez lui
+  n'apparaît pas, et l'allemand ne fut imposé à l'école que par étapes. Mais aucune page n'a
+  autant fait pour fixer en France l'image des provinces perdues ; des générations d'écoliers
+  l'ont lue ou copiée en dictée.
+p: Pendant que je m’étonnais de tout cela, M. Hamel était monté dans sa chaire, et de la même voix douce et grave dont il m’avait reçu, il nous dit :
+p: « Mes enfants, c’est la dernière fois que je vous fais la classe. L’ordre est venu de Berlin de ne plus enseigner que l’allemand dans les écoles de l’Alsace et de la Lorraine… Le nouveau maître arrive demain. Aujourd’hui, c’est votre dernière leçon de français. Je vous prie d’être bien attentifs. »
+p: Ces quelques paroles me bouleversèrent. Ah ! les misérables, voilà ce qu’ils avaient affiché à la mairie.
+p: Ma dernière leçon de français !…
+p: […]
+p: Alors, d’une chose à l’autre, M. Hamel se mit à nous parler de la langue française, disant que c’était la plus belle langue du monde, la plus claire, la plus solide : qu’il fallait la garder entre nous et ne jamais l’oublier, parce que, quand un peuple tombe esclave, tant qu’il tient bien sa langue, c’est comme s’il tenait la clef de sa prison… […]
+p: La leçon finie, on passa à l’écriture. Pour ce jour-là, M. Hamel nous avait préparé des exemples tout neufs, sur lesquels était écrit en belle ronde : *France, Alsace, France, Alsace*. Cela faisait comme des petits drapeaux qui flottaient tout autour de la classe, pendus à la tringle de nos pupitres. Il fallait voir comme chacun s’appliquait, et quel silence ! On n’entendait rien que le grincement des plumes sur le papier. Un moment des hannetons entrèrent ; mais personne n’y fit attention, pas même les tout petits qui s’appliquaient à tracer leurs *bâtons*, avec un cœur, une conscience, comme si cela encore était du français… Sur la toiture de l’école, des pigeons roucoulaient tout bas, et je me disais en les écoutant :
+p: « Est-ce qu’on ne va pas les obliger à chanter en allemand, eux aussi ? »
+p: […]
+p: Tout à coup l’horloge de l’église sonna midi, puis l’Angelus. Au même moment, les trompettes des Prussiens qui revenaient de l’exercice éclatèrent sous nos fenêtres… M. Hamel se leva tout pâle, dans sa chaire. Jamais il ne m’avait paru si grand.
+p: « Mes amis, dit-il, mes amis, je… je… »
+p: Mais quelque chose l’étouffait. Il ne pouvait pas achever sa phrase.
+p: Alors il se tourna vers le tableau, prit un morceau de craie et, en appuyant de toutes ses forces, il écrivit aussi gros qu’il put :
+p: « VIVE LA FRANCE ! »
+p: Puis il resta là, la tête appuyée au mur, et, sans parler, avec sa main, il nous faisait signe :
+p: « C’est fini… allez-vous-en. »
+gallica: bpt6k5478171s = Contes du lundi, Paris, Alphonse Lemerre, 1873
+preuve: data.bnf.fr, notice cb303026361
+source: ws Les Contes du lundi/La Dernière classe
+pour: alsace-lorraine, optants, litterature-de-la-guerre
+
+@ daudet-partie-de-billard
+genre: recit
+auteur: Alphonse Daudet
+vie: 1840-1897
+titre: La Partie de billard
+oeuvre: Contes du lundi
+annee: 1873
+intro: Un des *Contes du lundi* (1873), écrits pour les journaux au lendemain de la défaite. Le
+  maréchal n'est pas nommé, la bataille non plus ; on y a souvent reconnu Bazaine, dont
+  l'inaction devant Metz allait être jugée cette année-là. Daudet oppose deux mondes que
+  sépare une pelouse : les soldats qui attendent des ordres sous la pluie, et un état-major
+  de cour qui a gardé les façons de Compiègne.
+p: La salle à manger, dont les fenêtres donnent sur le perron, laisse voir une table à moitié desservie, des bouteilles débouchées, des verres ternis et vides, blafards, sur la nappe froissée, toute une fin de repas, les convives partis. Dans la pièce à côté, on entend des éclats de voix, des rires, des billes qui roulent, des verres qui se choquent. Le maréchal est en train de faire sa partie ; et voilà pourquoi l’armée attend des ordres. Quand le maréchal a commencé sa partie, le ciel peut bien crouler, rien au monde ne saurait l’empêcher de la finir.
+p: […]
+p: C’est une partie vraiment intéressante. Les billes courent, se frôlent, croisent leurs couleurs. Les bandes rendent bien, le tapis s’échauffe… Soudain la flamme d’un coup de canon passe dans le ciel. Un bruit sourd fait trembler les vitres. Tout le monde tressaille ; on se regarde avec inquiétude. Seul le maréchal n’a rien vu, rien entendu : penché sur le billard, il est en train de combiner un magnifique effet de recul ; c’est son fort, à lui, les effets de recul !…
+p: Mais voilà un nouvel éclair, puis un autre. Les coups de canon se succèdent, se précipitent. Les aides de camp courent aux fenêtres. Est-ce que les Prussiens attaqueraient ?
+p: « Eh bien, qu’ils attaquent ! dit le maréchal en mettant du blanc… À vous de jouer, capitaine. »
+p: […]
+p: Qu’on attende ses ordres !
+p: C’est bien ce qu’ils font, les pauvres gens. Le vent leur chasse la pluie et la mitraille en pleine figure. Des bataillons entiers sont écrasés, pendant que d’autres restent inutiles, l’arme au bras, sans pouvoir se rendre compte de leur inaction. Rien à faire. On attend des ordres… Par exemple, comme on n’a pas besoin d’ordres pour mourir, les hommes tombent par centaines derrière les buissons, dans les fossés, en face du grand château silencieux. Même tombés, la mitraille les déchire encore, et par leurs blessures ouvertes coule sans bruit le sang généreux de la France… Là-haut, dans la salle de billard, cela chauffe terriblement : le maréchal a repris son avance ; mais le petit capitaine se défend comme un lion…
+p: Dix-sept ! dix-huit ! dix-neuf !…
+p: À peine a-t-on le temps de marquer les points. Le bruit de la bataille se rapproche. Le maréchal ne joue plus que pour un. Déjà des obus arrivent dans le parc. En voilà un qui éclate au-dessus de la pièce d’eau. Le miroir s’éraille ; un cygne nage, épeuré, dans un tourbillon de plumes sanglantes. C’est le dernier coup…
+p: Maintenant, un grand silence. Rien que la pluie qui tombe sur les charmilles, un roulement confus au bas du coteau, et par les chemins détrempés, quelque chose comme le piétinement d’un troupeau qui se hâte… L’armée est en pleine déroute. Le maréchal a gagné sa partie.
+gallica: bpt6k5478171s = Contes du lundi, Paris, Alphonse Lemerre, 1873
+preuve: data.bnf.fr, notice cb303026361
+source: ws Les Contes du lundi/La Partie de billard
+pour: commandement-francais, bazaine, armee-du-rhin, litterature-de-la-guerre
+
+@ daudet-siege-de-berlin
+genre: recit
+auteur: Alphonse Daudet
+vie: 1840-1897
+titre: Le Siège de Berlin
+oeuvre: Contes du lundi
+annee: 1873
+quand: 1871-03-01
+intro: Un médecin raconte. Le colonel Jouve, ancien cuirassier du premier Empire, frappé
+  d'apoplexie à la nouvelle de Wissembourg, ne revit que parce que sa petite-fille lui invente,
+  de bulletin en bulletin, une campagne victorieuse en Allemagne, pendant que Paris est
+  investi. Daudet, garde national pendant le siège, mène la fable jusqu'au 1er mars 1871,
+  jour où les troupes allemandes entrent dans Paris par les Champs-Élysées.
+p: « Le premier jour de l’investissement, je montai chez eux — je me souviens — très ému, avec cette angoisse au cœur que nous donnaient à tous les portes de Paris fermées, la bataille sous nos murs, nos banlieues devenues frontières. Je trouvai le bonhomme assis sur son lit, jubilant et fier :
+p: « — Eh bien, me dit-il, le voilà donc commencé ce siège !
+p: « Je le regardai, stupéfait :
+p: « — Comment, colonel, vous savez ?…
+p: « Sa petite-fille se tourna vers moi :
+p: « — Eh ! oui, docteur… C’est la grande nouvelle… Le siège de Berlin est commencé.
+p: […]
+p: « Pauvre père Jouve ! Il s’était sans doute imaginé qu’on voulait l’empêcher d’assister à ce défilé de nos troupes, pour lui éviter une trop grande émotion. Aussi se garda-t-il bien de parler à personne ; mais le lendemain, à l’heure même où les bataillons prussiens s’engageaient timidement sur la voie qui mène de la porte Maillot aux Tuileries, la fenêtre de là-haut s’ouvrit doucement, et le colonel parut sur le balcon avec son casque, sa grande latte, toute sa vieille défroque glorieuse d’ancien cuirassier de Milhaud. Je me demande encore quel effort de volonté, quel sursaut de vie l’avait ainsi mis sur pied et harnaché. Ce qu’il y a de sûr, c’est qu’il était là, debout derrière la rampe, s’étonnant de trouver les avenues si larges, si muettes, les persiennes des maisons fermées, Paris sinistre comme un grand lazaret, partout des drapeaux, mais si singuliers, tout blancs avec des croix rouges, et personne pour aller au-devant de nos soldats.
+p: « Un moment il put croire qu’il s’était trompé…
+p: « Mais non ! là-bas, derrière l’Arc de Triomphe, c’était un bruissement confus, une ligne noire qui s’avançait dans le jour levant… Puis, peu à peu, les aiguilles des casques brillèrent, les petits tambours d’Iéna se mirent à battre, et sous l’arc de l’Étoile, rythmée par le pas lourd des sections, par le heurt des sabres, éclata la Marche triomphale de Schubert !…
+p: « Alors, dans le silence morne de la place, on entendit un cri, un cri terrible : « Aux armes !… aux armes !… les Prussiens. » Et les quatre uhlans de l’avant-garde purent voir là-haut, sur le balcon, un grand vieillard chanceler en remuant les bras, et tomber raide. Cette fois, le colonel Jouve était bien mort. »
+gallica: bpt6k5478171s = Contes du lundi, Paris, Alphonse Lemerre, 1873
+preuve: data.bnf.fr, notice cb303026361
+source: ws Les Contes du lundi/Le Siège de Berlin
+pour: siege-de-paris, preliminaires-de-versailles, litterature-de-la-guerre
+
+@ maupassant-boule-de-suif
+genre: recit
+auteur: Guy de Maupassant
+vie: 1850-1893
+titre: Boule de suif : la retraite à travers Rouen
+oeuvre: Les Soirées de Médan
+annee: 1880
+quand: 1870-12-05
+intro: Maupassant a vingt ans en 1870. Soldat dans l'intendance à Rouen, il a vu la retraite de
+  décembre devant la Ire armée allemande, qui entre dans la ville le 5. Dix ans plus tard,
+  « Boule de suif », parue dans le recueil collectif *Les Soirées de Médan*, le rend célèbre
+  du jour au lendemain. Avant l'histoire de la diligence, la nouvelle s'ouvre sur ce tableau
+  d'une armée défaite et d'une ville qui attend l'occupant.
+p: Pendant plusieurs jours de suite des lambeaux d’armée en déroute avaient traversé la ville. Ce n’était point de la troupe, mais des hordes débandées. Les hommes avaient la barbe longue et sale, des uniformes en guenilles, et ils avançaient d’une allure molle, sans drapeau, sans régiment. Tous semblaient accablés, éreintés, incapables d’une pensée ou d’une résolution, marchant seulement par habitude, et tombant de fatigue sitôt qu’ils s’arrêtaient. On voyait surtout des mobilisés, gens pacifiques, rentiers tranquilles, pliant sous le poids du fusil ; des petits moblots alertes, faciles à l’épouvante et prompts à l’enthousiasme, prêts à l’attaque comme à la fuite ; puis, au milieu d’eux, quelques culottes rouges, débris d’une division moulue dans une grande bataille ; des artilleurs sombres alignés avec ces fantassins divers ; et, parfois, le casque brillant d’un dragon au pied pesant qui suivait avec peine la marche plus légère des lignards.
+p: Des légions de francs-tireurs aux appellations héroïques : « les Vengeurs de la Défaite — les Citoyens de la Tombe — les Partageurs de la Mort » — passaient à leur tour, avec des airs de bandits.
+p: […]
+p: Les Prussiens allaient entrer dans Rouen, disait-on.
+p: […]
+p: Dans l’après-midi du jour qui suivit le départ des troupes françaises, quelques uhlans, sortis on ne sait d’où, traversèrent la ville avec célérité. Puis, un peu plus tard, une masse noire descendit de la côte Sainte-Catherine, tandis que deux autres flots envahisseurs apparaissaient par les routes de Darnetal et de Boisguillaume. Les avant-gardes des trois corps, juste au même moment, se joignirent sur la place de l’Hôtel de Ville ; et, par toutes les rues voisines, l’armée allemande arrivait, déroulant ses bataillons qui faisaient sonner les pavés sous leur pas dur et rythmé.
+p: […]
+p: Il y avait cependant quelque chose dans l’air, quelque chose de subtil et d’inconnu, une atmosphère étrangère intolérable, comme une odeur répandue, l’odeur de l’invasion. Elle emplissait les demeures et les places publiques, changeait le goût des aliments, donnait l’impression d’être en voyage, très loin, chez des tribus barbares et dangereuses.
+gallica: bpt6k810287 = Les Soirées de Médan, Paris, G. Charpentier, 1880
+preuve: data.bnf.fr, notice cb42343113f
+source: ws Les Soirées de Médan/Boule de suif
+pour: france-occupee, francs-tireurs, garde-mobile, litterature-de-la-guerre
+
+@ maupassant-deux-amis
+genre: recit
+auteur: Guy de Maupassant
+vie: 1850-1893
+titre: Deux amis
+oeuvre: Mademoiselle Fifi
+annee: 1883
+quand: 1871-01
+intro: Parue dans *Gil Blas* en février 1883 et reprise dans *Mademoiselle Fifi*, la nouvelle se
+  passe en janvier 1871, aux derniers jours du siège. Deux gardes nationaux, un horloger et un
+  mercier, pêcheurs du dimanche, obtiennent un laissez-passer pour retourner à l'île Marante,
+  près de Colombes, entre les lignes. Le Mont-Valérien, la grande forteresse de l'ouest
+  parisien, tire au-dessus d'eux. Quelques minutes plus tard, ils seront pris pour des
+  espions et fusillés.
+p: Paris était bloqué, affamé et râlant. Les moineaux se faisaient bien rares sur les toits, et les égouts se dépeuplaient. On mangeait n’importe quoi.
+p: […]
+p: Le bon soleil leur coulait sa chaleur entre les épaules ; ils n’écoutaient plus rien ; ils ne pensaient plus à rien ; ils ignoraient le reste du monde ; ils pêchaient.
+p: Mais soudain un bruit sourd qui semblait venir de sous terre fit trembler le sol. Le canon se remettait à tonner.
+p: Morissot tourna la tête, et par-dessus la berge il aperçut, là-bas, sur la gauche, la grande silhouette du Mont-Valérien, qui portait au front une aigrette blanche, une buée de poudre qu’il venait de cracher.
+p: Et aussitôt un second jet de fumée partit du sommet de la forteresse ; et quelques instants après une nouvelle détonation gronda.
+p: Puis d’autres suivirent, et de moment en moment, la montagne jetait son haleine de mort, soufflait ses vapeurs laiteuses qui s’élevaient lentement dans le ciel calme, faisaient un nuage au-dessus d’elle.
+p: M. Sauvage haussa les épaules : « Voilà qu’ils recommencent, » dit-il.
+p: Morissot, qui regardait anxieusement plonger coup sur coup la plume de son flotteur, fut pris soudain d’une colère d’homme paisible contre ces enragés qui se battaient ainsi, et il grommela : « Faut-il être stupide pour se tuer comme ça. »
+p: M. Sauvage reprit : « C’est pis que des bêtes. »
+p: Et Morissot, qui venait de saisir une ablette, déclara : « Et dire que ce sera toujours ainsi tant qu’il y aura des gouvernements. »
+p: M. Sauvage l’arrêta : « La République n’aurait pas déclaré la guerre… »
+p: Morissot l’interrompit : « Avec les rois on a la guerre au dehors ; avec la République on a la guerre au dedans. »
+p: Et tranquillement ils se mirent à discuter, débrouillant les grands problèmes politiques avec une raison saine d’hommes doux et bornés, tombant d’accord sur ce point, qu’on ne serait jamais libres. Et le Mont-Valérien tonnait sans repos, démolissant à coups de boulet des maisons françaises, broyant des vies, écrasant des êtres, mettant fin à bien des rêves, à bien des joies attendues, à bien des bonheurs espérés, ouvrant en des cœurs de femmes, en des cœurs de filles, en des cœurs de mères, là-bas, en d’autres pays, des souffrances qui ne finiraient plus.
+p: « C’est la vie, » déclara M. Sauvage.
+p: « Dites plutôt que c’est la mort, » reprit en riant Morissot.
+gallica: bpt6k58551006 = Mlle Fifi : nouveaux contes, Paris, Victor Havard, 1883
+preuve: data.bnf.fr, notice cb30910566f
+source: ws Mademoiselle Fifi (recueil, Ollendorff 1898)/Deux amis
+pour: siege-de-paris, vie-a-paris-pendant-le-siege, fortifications-de-paris, litterature-de-la-guerre
+
+@ maupassant-mere-sauvage
+genre: recit
+auteur: Guy de Maupassant
+vie: 1850-1893
+titre: La Mère Sauvage
+oeuvre: Miss Harriet
+annee: 1884
+intro: Parue dans *Le Gaulois* du 3 mars 1884 et recueillie la même année dans *Miss Harriet*.
+  Normand, Maupassant a vu l'occupation de l'hiver 1870-1871 et y revient dans de nombreux
+  contes. Ici, quatre soldats prussiens logent chez une vieille paysanne dont le fils est à
+  l'armée. Lorsqu'elle le saura tué, elle brûlera sa maison avec eux dedans, et sera fusillée.
+  Avant le drame, cette page dit ce qu'est la guerre pour les humbles des deux camps.
+p: Un jour les Prussiens arrivèrent. On les distribua aux habitants, selon la fortune et les ressources de chacun. La vieille, qu’on savait riche, en eut quatre.
+p: C’étaient quatre gros garçons à la chair blonde, à la barbe blonde, aux yeux bleus, demeurés gras malgré les fatigues qu’ils avaient endurées déjà, et bons enfants, bien qu’en pays conquis. Seuls chez cette femme âgée, ils se montrèrent pleins de prévenances pour elle, lui épargnant, autant qu’ils le pouvaient, des fatigues et des dépenses. On les voyait tous les quatre faire leur toilette autour du puits, le matin, en manches de chemise, mouillant à grande eau, dans le jour cru des neiges, leur chair blanche et rose d’hommes du Nord, tandis que la mère Sauvage allait et venait, préparant la soupe. Puis on les voyait nettoyer la cuisine, frotter les carreaux, casser du bois, éplucher les pommes de terre, laver le linge, accomplir toutes les besognes de la maison, comme quatre bons fils autour de leur mère.
+p: Mais elle pensait sans cesse au sien, la vieille, à son grand maigre au nez crochu, aux yeux bruns, à la forte moustache qui faisait sur sa lèvre un bourrelet de poils noirs. Elle demandait chaque jour, à chacun des soldats installés à son foyer :
+p: — Savez-vous où est parti le régiment français, vingt-troisième de marche ? Mon garçon est dedans.
+p: Ils répondaient : « Non, bas su, bas savoir tu tout. » Et, comprenant sa peine et ses inquiétudes, eux qui avaient des mères là-bas, ils lui rendaient mille petits soins. Elle les aimait bien, d’ailleurs, ses quatre ennemis ; car les paysans n’ont guère les haines patriotiques ; cela n’appartient qu’aux classes supérieures. Les humbles, ceux qui paient le plus parce qu’ils sont pauvres et que toute charge nouvelle les accable, ceux qu’on tue par masses, qui forment la vraie chair à canon, parce qu’ils sont le nombre, ceux qui souffrent enfin le plus cruellement des atroces misères de la guerre, parce qu’ils sont les plus faibles et les moins résistants, ne comprennent guère ces ardeurs belliqueuses, ce point d’honneur excitable et ces prétendues combinaisons politiques qui épuisent en six mois deux nations, la victorieuse comme la vaincue.
+gallica: bpt6k58416576 = Miss Harriet, Paris, Victor Havard, 1884
+preuve: data.bnf.fr, notice cb30910585q
+source: ws Miss Harriet (recueil)/Édition Conard, 1910/La Mère sauvage
+pour: france-occupee, bilan-de-la-guerre, litterature-de-la-guerre
+
+@ zola-debacle-alsace
+genre: recit
+auteur: Émile Zola
+vie: 1840-1902
+titre: « Je la connais bien, mon Alsace »
+oeuvre: La Débâcle
+annee: 1892
+quand: 1870-08-06
+intro: *La Débâcle* (1892), avant-dernier roman des *Rougon-Macquart*, suit une escouade du 7e
+  corps de Mulhouse à Sedan, puis jusqu'à la Commune. Zola a parcouru le terrain en 1891 et
+  interrogé des témoins. Le livre s'ouvre au camp de Mulhouse, le soir du 6 août 1870, alors
+  que se livre, sans qu'on le sache encore, la bataille de Frœschwiller. Weiss, un Alsacien,
+  dit au jeune soldat Maurice ce que le pays a vu depuis quinze jours.
+p: — Une défaite, le ciel nous en garde !… Vous savez, je suis de ce pays, mon grand-père et ma grand’mère ont été assassinés par les Cosaques, en 1814 ; et, quand je songe à l’invasion, mes poings se serrent, je ferais le coup de feu, avec ma redingote, comme un troupier !… Une défaite, non, non ! je ne veux pas la croire possible !
+p: Il se calma, il eut un abandon d’épaules, plein d’accablement.
+p: — Seulement, que voulez-vous ! je ne suis pas tranquille… Je la connais bien, mon Alsace ; je viens de la traverser encore, pour mes affaires ; et nous avons vu, nous autres, ce qui crevait les yeux des généraux, et ce qu’ils ont refusé de voir… Ah ! la guerre avec la Prusse, nous la désirions, il y avait longtemps que nous attendions paisiblement de régler cette vieille querelle. Mais ça n’empêchait pas nos relations de bon voisinage avec Bade et avec la Bavière, nous avons tous des parents ou des amis, de l’autre côté du Rhin. Nous pensions qu’ils rêvaient comme nous d’abattre l’orgueil insupportable des Prussiens… Et nous, si calmes, si résolus, voilà plus de quinze jours que l’impatience et l’inquiétude nous prennent, à voir comment tout va de mal en pis. Dès la déclaration de guerre, on a laissé les cavaliers ennemis terrifier les villages, reconnaître le terrain, couper les fils télégraphiques. Bade et la Bavière se lèvent, d’énormes mouvements de troupes ont lieu dans le Palatinat, les renseignements venus de partout, des marchés, des foires, nous prouvent que la frontière est menacée ; et, quand les habitants, les maires des communes, effrayés enfin, accourent dire cela aux officiers qui passent, ceux-ci haussent les épaules : des hallucinations de poltrons, l’ennemi est loin… Quoi ? lorsqu’il n’aurait pas fallu perdre une heure, les jours et les jours se passent ! Que peut-on attendre ? que l’Allemagne tout entière nous tombe sur les reins !
+p: Il parlait d’une voix basse et désolée, comme s’il se fût répété ces choses à lui-même, après les avoir pensées longtemps.
+gallica: bpt6k645832 = La Débâcle, Paris, G. Charpentier et E. Fasquelle, 1892
+preuve: data.bnf.fr, notice cb316907606
+source: ws La Débâcle/Partie 1/Chapitre I
+pour: combat-de-schirlenhof, commandement-francais, etats-allemands-du-sud, bataille-de-froeschwiller-woerth
+
+@ zola-debacle-floing
+genre: recit
+auteur: Émile Zola
+vie: 1840-1902
+titre: La charge de Floing
+oeuvre: La Débâcle
+annee: 1892
+quand: 1870-09-01
+intro: Le 1er septembre 1870, vers deux heures de l'après-midi, la cavalerie du général
+  Margueritte charge depuis le calvaire d'Illy, au-dessus de Floing, pour tenter de rompre
+  l'encerclement de l'armée dans Sedan. Son chef vient d'être blessé à mort ; Galliffet mène les
+  charges. Zola les fait vivre par Prosper, chasseur d'Afrique, et son cheval Zéphir. D'en
+  face, le roi Guillaume aurait dit : « Ah ! les braves gens ! »
+p: Mais, à ce moment, sur la crête du coteau, un officier parut, à cheval, blessé, et que deux hommes soutenaient. On ne le reconnut pas d’abord. Puis, un grondement s’éleva, roula en une clameur furieuse. C’était le général Margueritte, dont une balle venait de traverser les joues, et qui devait en mourir. Il ne pouvait parler, il agita le bras, là-bas, vers l’ennemi.
+p: La clameur grandissait toujours.
+p: — Notre général… Vengeons-le, vengeons-le !
+p: Alors, le colonel du premier régiment, levant en l’air son sabre, cria d’une voix de tonnerre :
+p: — Chargez !
+p: Les trompettes sonnaient, la masse s’ébranla, d’abord au trot. Prosper se trouvait au premier rang, mais presque à l’extrémité de l’aile droite. Le grand danger est au centre, où le tir de l’ennemi s’acharne d’instinct. Lorsqu’on fut sur la crête du calvaire et que l’on commença à descendre de l’autre côté, vers la vaste plaine, il aperçut très nettement, à un millier de mètres, les carrés prussiens sur lesquels on les jetait. D’ailleurs, il trottait comme dans un rêve, il avait une légèreté, un flottement d’être endormi, un vide extraordinaire de cervelle, qui le laissait sans une idée. C’était la machine qui allait, sous une impulsion irrésistible. On répétait : « Sentez la botte ! sentez la botte ! » pour serrer les rangs le plus possible et leur donner une résistance de granit. Puis, à mesure que le trot s’accélérait, se changeait en galop enragé, les chasseurs d’Afrique poussaient, à la mode arabe, des cris sauvages, qui affolaient leurs montures. Bientôt, ce fut une course diabolique, un train d’enfer, ce furieux galop, ces hurlements féroces, que le crépitement des balles accompagnait d’un bruit de grêle, en tapant sur tout le métal, les gamelles, les bidons, le cuivre des uniformes et des harnais. Dans cette grêle, passait l’ouragan de vent et de foudre dont le sol tremblait, laissant au soleil une odeur de laine brûlée et de fauves en sueur.
+p: […]
+p: Maurice et Jean, qui avaient suivi l’héroïque galop des escadrons, eurent un cri de colère :
+p: — Tonnerre de Dieu, ça ne sert à rien d’être brave !
+gallica: bpt6k645832 = La Débâcle, Paris, G. Charpentier et E. Fasquelle, 1892
+preuve: data.bnf.fr, notice cb316907606
+source: ws La Débâcle/Partie 2/Chapitre V
+pour: charges-de-floing, general-margueritte, cavalerie-en-1870, bataille-de-sedan
+
+@ zola-debacle-camp-de-la-misere
+genre: recit
+auteur: Émile Zola
+vie: 1840-1902
+titre: Le camp de la Misère
+oeuvre: La Débâcle
+annee: 1892
+quand: 1870-09
+intro: Après la capitulation du 2 septembre 1870, les quelque quatre-vingt mille prisonniers de
+  l'armée de Châlons sont parqués dans la presqu'île d'Iges, une boucle de la Meuse en aval
+  de Sedan, fermée par un canal. Ils y restent plusieurs jours sous la pluie, presque sans
+  vivres, avant de partir en colonnes pour l'Allemagne. Les soldats ont donné son nom au
+  lieu ; Zola s'appuie sur leurs récits.
+p: Et la journée du lendemain, et la journée du surlendemain, furent vraiment abominables, sous les continuelles ondées, si drues et si fréquentes, que les vêtements n’avaient pas le temps de sécher sur le corps. La famine commençait, il ne restait plus un biscuit, plus de lard ni de café. Pendant ces deux jours, le lundi et le mardi, on vécut de pommes de terre volées dans les champs voisins ; et encore, vers la fin du deuxième jour, se faisaient-elles si rares, que les soldats ayant de l’argent les achetaient jusqu’à cinq sous pièce. Des clairons sonnaient bien à la distribution, le caporal s’était même hâté de se rendre devant un grand hangar de la Tour à Glaire, où le bruit courait qu’on délivrait des rations de pain. Mais, une première fois, il avait attendu là, pendant trois heures, inutilement ; puis, une seconde, il s’était pris de querelle avec un Bavarois. Si les officiers français ne pouvaient rien, dans l’impuissance où ils étaient d’agir, l’état-major allemand avait-il donc parqué l’armée vaincue sous la pluie, avec l’intention de la laisser crever de faim ? Pas une précaution ne semblait avoir été prise, pas un effort n’était fait pour nourrir les quatre-vingt mille hommes dont l’agonie commençait, dans cet enfer effroyable que les soldats allaient nommer le camp de la misère, un nom de détresse dont les plus braves devaient garder le frisson.
+p: […]
+p: Ainsi que Maurice l’avait prévu, les milliers de chevaux emprisonnés avec l’armée, et qu’on ne pouvait nourrir, étaient un danger qui croissait de jour en jour. D’abord, ils avaient mangé l’écorce des arbres, ensuite ils s’étaient attaqués aux treillages, aux palissades, à toutes les planches qu’ils rencontraient, et maintenant ils se dévoraient entre eux. On les voyait se jeter les uns sur les autres, pour s’arracher les crins de la queue, qu’ils mâchaient furieusement, au milieu d’un flot d’écume. Mais, la nuit surtout, ils devenaient terribles, comme si l’obscurité les eût hantés de cauchemars. Ils se réunissaient, se ruaient sur les rares tentes debout, attirés par la paille. Vainement, les hommes, pour les écarter, avaient allumé de grands feux, qui semblaient les exciter davantage. Leurs hennissements étaient si lamentables, si effrayants, qu’on aurait dit des rugissements de bêtes fauves. On les chassait, ils revenaient plus nombreux et plus féroces. Et, à chaque instant, dans les ténèbres, on entendait le long cri d’agonie de quelque soldat perdu, que l’enragé galop venait d’écraser.
+gallica: bpt6k645832 = La Débâcle, Paris, G. Charpentier et E. Fasquelle, 1892
+preuve: data.bnf.fr, notice cb316907606
+source: ws La Débâcle/Partie 3/Chapitre II
+pour: capitulation-de-sedan, prisonniers-de-guerre, armee-de-chalons, intendance-et-ravitaillement
+
+@ zola-attaque-du-moulin
+genre: recit
+auteur: Émile Zola
+vie: 1840-1902
+titre: L’Attaque du moulin
+oeuvre: Les Soirées de Médan
+annee: 1880
+quand: 1870-08
+intro: Zola ouvre avec cette nouvelle *Les Soirées de Médan* (1880), le recueil où six écrivains
+  racontent chacun leur guerre de 1870. Le moulin du père Merlier, dans un village lorrain
+  imaginaire, est pris par les Prussiens puis repris par les Français ; Dominique, que
+  Françoise devait épouser, vient d'être fusillé pour avoir fait le coup de feu sans être
+  soldat et refusé de guider l'ennemi. La dernière page, douze ans avant *La Débâcle*, dit
+  ce que vaut une victoire.
+p: Ah ! le pauvre moulin ! Des boulets le perçaient de part en part. Une moitié de la toiture fut enlevée. Deux murs s’écroulèrent. Mais c’était surtout du côté de la Morelle que le désastre devint lamentable. Les lierres, arrachés des murailles ébranlées, pendaient comme des guenilles ; la rivière emportait des débris de toutes sortes, et l’on voyait, par une brèche, la chambre de Françoise, avec son lit, dont les rideaux blancs étaient soigneusement tirés. Coup sur coup, la vieille roue reçut deux boulets, et elle eut un gémissement suprême : les palettes furent charriées dans le courant, la carcasse s’écrasa. C’était l’âme du gai moulin qui venait de s’exhaler.
+p: Puis, les Français donnèrent l’assaut. Il y eut un furieux combat à l’arme blanche. Sous le ciel couleur de rouille, le coupe-gorge de la vallée s’emplissait de morts. Les larges prairies semblaient farouches, avec leurs grands arbres isolés, leurs rideaux de peupliers qui les tachaient d’ombre. À droite et à gauche, les forêts étaient comme les murailles d’un cirque qui enfermaient les combattants, tandis que les sources, les fontaines et les eaux courantes prenaient des bruits de sanglots, dans la panique de la campagne.
+p: Sous le hangar, Françoise n’avait pas bougé, accroupie en face du corps de Dominique. Le père Merlier venait d’être tué raide par une balle perdue. Alors, comme les Prussiens étaient exterminés et que le moulin brûlait, le capitaine français entra le premier dans la cour. Depuis le commencement de la campagne, c’était l’unique succès qu’il remportait. Aussi, tout enflammé, grandissant sa haute taille, riait-il de son air aimable de beau cavalier. Et, apercevant Françoise imbécile entre les cadavres de son mari et de son père, au milieu des mines fumantes du moulin, il la salua galamment de son épée, en criant :
+p: — Victoire ! victoire !
+gallica: bpt6k810287 = Les Soirées de Médan, Paris, G. Charpentier, 1880
+preuve: data.bnf.fr, notice cb42343113f
+source: ws Les Soirées de Médan/L’Attaque du moulin
+pour: litterature-de-la-guerre, francs-tireurs, guerre-de-1870
+
+@ huysmans-sac-au-dos
+genre: recit
+auteur: Joris-Karl Huysmans
+vie: 1848-1907
+titre: Sac au dos : les mobiles de la Seine au camp de Châlons
+oeuvre: Les Soirées de Médan
+annee: 1880
+quand: 1870-08
+intro: Huysmans a vingt-deux ans en 1870 et sert dans la garde mobile de la Seine. Envoyé au
+  camp de Châlons, vite malade, il fait toute sa guerre d'hôpital en hôpital ; il en tire
+  « Sac au dos », paru à Bruxelles en 1877 et refondu pour *Les Soirées de Médan*. Les mobiles
+  parisiens, sans équipement et frondeurs, conspuèrent réellement le maréchal Canrobert au
+  camp ; on les renvoya à Paris au milieu du mois d'août.
+p: Peu à peu le soleil s’allume, nous roulions toujours ; nous finîmes pourtant bien par arriver ! Partis le soir à huit heures, nous étions rendus le lendemain à trois heures de l’après-midi à Châlons. Deux mobiles étaient restés en route, l’un qui avait piqué une tête du haut d’un wagon dans une rivière ; l’autre qui s’était brisé la tête au rebord d’un pont. Le reste, après avoir pillé les cahutes et les jardins rencontrés sur la route, aux stations du train, bâillait, les lèvres bouffies de vin et les yeux gros, ou bien jouait, se jetant d’un bout de la voiture à l’autre des tiges d’arbustes et des cages à poulets qu’ils avaient volés.
+p: Le débarquement s’opéra avec le même ordre que le départ. Rien n’était prêt : ni cantine, ni paille, ni manteaux, ni armes, rien, absolument rien. Des tentes seulement pleines de fumier et de poux, quittées à l’instant par des troupes parties à la frontière. Trois jours durant, nous vécûmes au hasard de Mourmelon, mangeant un cervelas un jour, buvant un bol de café au lait un autre, exploités à outrance par les habitants, couchant n’importe comment, sans paille et sans couverture. Tout cela n’était vraiment pas fait pour nous engager à prendre goût au métier qu’on nous infligeait.
+p: […]
+p: Un jour ou deux s’écoulent ; on nous faisait monter la garde avec des piquets, nous buvions beaucoup d’eau-de-vie, et les claquedents de Mourmelon étaient sans cesse pleins, quand subitement Canrobert nous passe en revue sur le front de bandière. Je le vois encore, sur un grand cheval, courbé en deux sur la selle, les cheveux au vent, les moustaches cirées dans un visage blême. Une révolte éclate. Privés de tout, et mal convaincus par ce maréchal que nous ne manquions de rien, nous beuglâmes en chœur, lorsqu’il parla de réprimer par la force nos plaintes : « Ran, plan, plan ! cent mille hommes par terre, à Paris ! à Paris ! »
+p: Canrobert devint livide et il cria, en plantant son cheval au milieu de nous : Chapeau bas devant un maréchal de France ! De nouvelles huées partirent des rangs ; alors tournant bride, suivi de son état-major en déroute, il nous menaça du doigt, sifflant entre ses dents serrées : Vous me le payerez cher, messieurs les Parisiens !
+gallica: bpt6k810287 = Les Soirées de Médan, Paris, G. Charpentier, 1880
+preuve: data.bnf.fr, notice cb42343113f
+source: ws Les Soirées de Médan/Sac au dos
+pour: garde-mobile, mobilisation-de-1870, canrobert, intendance-et-ravitaillement

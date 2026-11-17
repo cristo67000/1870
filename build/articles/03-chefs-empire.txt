@@ -1,0 +1,495 @@
+# 1870 — lot 03 : les chefs de l'Empire. Dix-sept personnages du côté français, de l'empereur
+# aux généraux de l'armée du Rhin et de l'armée de Châlons, dans l'ordre du plan.
+# Dates recoupées sur Wikipédia (fr, en, de), la Fondation Napoléon, l'Académie française et
+
+# ── Le pouvoir ─────────────────────────────────────────────────────────────
+
+@ napoleon-iii
+cat: personnages
+nom: Napoléon III
+alias: Louis-Napoléon Bonaparte, l'empereur, Napoléon 3, Badinguet, l'homme de Sedan, Wilhelmshöhe, Chislehurst
+dates: 1808 – 1873
+an: 1808
+fin: 1873
+camp: fr
+role: empereur des Français, commandant en chef jusqu'au 12 août
+def: Empereur des Français depuis 1852, malade, il se laisse entraîner dans la guerre en juillet 1870, commande en personne l'armée du Rhin jusqu'au 12 août, suit l'armée de Châlons sans plus rien diriger et se constitue prisonnier à Sedan le 2 septembre 1870.
+texte: Neveu de Napoléon Ier, élu président de la République en décembre 1848, auteur du coup d'État du 2 décembre 1851, empereur un an plus tard, Louis-Napoléon Bonaparte a fait la guerre en Crimée et en Italie, où il commandait lui-même à Magenta et à Solférino (1859). En 1870, il a soixante-deux ans et son régime vient de se transformer : le ministère du 2 janvier et le plébiscite du 8 mai paraissent avoir raffermi [[second-empire-en-1870|l'Empire]]. Mais l'homme est usé. Il souffre depuis des années d'un calcul de la vessie ; au début de juillet 1870, une consultation de cinq médecins (Sée, Nélaton, Ricord, Fauvel, Corvisart) confirme le diagnostic sans oser l'opération, et la crise diplomatique éclate avant qu'on ait rien décidé. Il monte difficilement à cheval et cache sa souffrance à ceux qui l'approchent.
+texte: Dans la crise née de la [[candidature-hohenzollern]], il n'est pas le plus ardent. Le retrait du prince Léopold, le 12 juillet, le soulage ; il laisse pourtant le [[duc-de-gramont]] exiger du roi de Prusse des garanties pour l'avenir : la dépêche part le soir même, après un entretien à Saint-Cloud entre le ministre et lui, sans que le Conseil ait délibéré. Après la [[depeche-d-ems]], le 14 juillet, il penche encore un moment pour un congrès européen, puis cède, au conseil du soir, aux partisans de la guerre : l'[[imperatrice-eugenie|impératrice]], Gramont, le [[edmond-le-boeuf|maréchal Le Bœuf]] qui répond de l'armée, une presse et une rue parisiennes qui crient « À Berlin ! ». Les historiens voient en lui un souverain qui ne voulait pas cette guerre et qui n'a pas eu la force de l'empêcher, parce qu'un nouveau recul devant la Prusse, après Sadowa et l'affaire du Luxembourg, lui paraissait mortel pour la dynastie.
+texte: Comme en 1859, il veut commander lui-même. Par lettres patentes du 23 juillet, il confie la régence à l'impératrice ; le 28, il quitte Saint-Cloud en train avec le prince impérial, âgé de quatorze ans, et prend à Metz la tête de l'[[armee-du-rhin|armée du Rhin]], Le Bœuf étant son major général. Il y trouve des corps incomplets, étirés de Thionville à Belfort, et renonce à l'offensive au-delà du Rhin qu'il avait projetée. Le 2 août, il assiste avec son fils au [[combat-de-sarrebruck|combat de Sarrebruck]], petit succès sans lendemain. Le 6, ses lieutenants sont battus le même jour à [[bataille-de-froeschwiller-woerth|Frœschwiller]] et à [[bataille-de-spicheren|Spicheren]]. Il parle de ramener l'armée sur Châlons, puis y renonce ; il songe à rentrer à Paris, et la régente lui télégraphie de n'en rien faire s'il ne veut pas déchaîner une révolution. Le 12 août, sous la pression de la Chambre et du nouveau ministère, il remet le commandement à [[bazaine|Bazaine]] et se sépare de Le Bœuf.
+texte: Dès lors, il n'est plus qu'un personnage encombrant. Il quitte Metz le 14 août, passe à Gravelotte la nuit du 15 au 16 et part à l'aube pour Verdun, quelques heures avant que les Allemands ne coupent la route à [[bataille-de-mars-la-tour|Mars-la-Tour]] ; le soir, il est au camp de Châlons. Le 17, une conférence y réunit autour de lui [[mac-mahon|Mac-Mahon]], le prince Napoléon et le [[trochu|général Trochu]] : on décide que l'empereur rentrera à Paris, précédé de Trochu nommé gouverneur, et que l'[[armee-de-chalons|armée de Châlons]] se repliera sous la capitale. L'impératrice et le [[comte-de-palikao]] s'y opposent : son retour, vaincu, serait le signal de l'émeute. Il s'incline et suit en voiture, de Reims à la Meuse, une armée qu'il ne commande pas et dont les soldats le huent parfois. Le soir de la défaite de [[bataille-de-beaumont|Beaumont]], le 30 août, il gagne Sedan en chemin de fer et refuse de pousser jusqu'à Mézières, pour ne pas se séparer des troupes.
+texte: Le 1er septembre, pendant la [[bataille-de-sedan]], il passe plusieurs heures à cheval sous les obus, du côté de Bazeilles et de Balan : ceux qui l'accompagnent ont compris qu'il cherchait la mort. Rentré à la sous-préfecture, voyant l'armée refluer dans la place et le massacre continuer sans espoir, il fait hisser le drapeau blanc dans l'après-midi, alors que [[wimpffen|Wimpffen]] veut encore tenter une percée. Vers 18 h, le général Reille porte au roi de Prusse, sur la hauteur de Frénois, un billet de quelques lignes : « Monsieur mon frère, n'ayant pu mourir au milieu de mes troupes, il ne me reste qu'à remettre mon épée entre les mains de Votre Majesté. » Le lendemain à l'aube, parti au-devant de [[guillaume-ier|Guillaume Ier]], il est arrêté sur la route de Donchery par [[bismarck|Bismarck]], avec qui il s'entretient dans la maison d'un tisserand. Il n'obtient rien pour l'armée, dont Wimpffen signe la [[capitulation-de-sedan|capitulation]] au château de Bellevue, et ne voit le roi qu'ensuite, un quart d'heure.
+texte: Le 3 septembre, il part pour l'Allemagne par la Belgique ; le 5, il arrive au château de Wilhelmshöhe, près de Cassel, où son oncle Jérôme avait résidé comme roi de Westphalie. Il y apprend la révolution du [[quatre-septembre|4 septembre]]. Captif bien traité, il écrit pour se justifier, rappelle la [[loi-niel|réforme militaire]] que le Corps législatif lui avait rognée, et laisse ses fidèles sonder Bismarck sur une restauration qui n'aboutit pas. Le 1er mars 1871, l'[[assemblee-de-bordeaux|Assemblée de Bordeaux]] vote sa déchéance et le déclare « responsable de la ruine, de l'invasion et du démembrement de la France ». Libéré le 19 mars, il rejoint l'impératrice et son fils à Camden Place, à Chislehurst, près de Londres. Il y meurt le 9 janvier 1873, après deux opérations de la pierre ; ses derniers mots, adressés à son médecin Conneau, auraient été pour demander s'ils n'avaient pas été des lâches à Sedan. Son corps repose depuis 1888 dans la crypte de l'abbaye de Farnborough.
+repere: 12 juillet 1870 — Après le retrait de la candidature Hohenzollern, il laisse Gramont demander des garanties au roi de Prusse.
+repere: 14 juillet 1870 — Le conseil du soir, à Saint-Cloud, décide la guerre.
+repere: 28 juillet 1870 — Il quitte Saint-Cloud pour Metz et prend le commandement de l'armée du Rhin.
+repere: 12 août 1870 — Il remet le commandement en chef à Bazaine.
+repere: 16 août 1870 — Parti de Gravelotte à l'aube, il arrive le soir au camp de Châlons.
+repere: 17 août 1870 — Conférence de Châlons : son retour à Paris, décidé, est refusé par la régente.
+repere: 1er septembre 1870 — À Sedan, il fait hisser le drapeau blanc et écrit au roi de Prusse.
+repere: 2 septembre 1870 — Entrevue avec Bismarck près de Donchery, puis avec Guillaume Ier au château de Bellevue.
+repere: 5 septembre 1870 — Il arrive au château de Wilhelmshöhe, où il reste captif jusqu'au 19 mars 1871.
+repere: 9 janvier 1873 — Il meurt à Chislehurst.
+attention: Napoléon III n'a capitulé ni pour la France ni pour l'armée. À Sedan, il ne rend que sa personne ; à Bismarck qui veut savoir s'il traite de la paix, il répond que cela regarde le gouvernement de la régente, et c'est Wimpffen qui signe la capitulation des troupes. Quant au « lâche de Sedan » des pamphlets, il ne s'accorde pas avec les témoins du 1er septembre, qui montrent l'empereur longtemps exposé au feu.
+lien: wp Napoléon III
+lien: en Napoleon III
+sources: Wikipédia (fr : Napoléon III, Bataille de Sedan ; en : Napoleon III, Battle of Sedan) ; Fondation Napoléon (napoleon.org), « Les trois régences de l'impératrice Eugénie »
+voir: second-empire-en-1870, imperatrice-eugenie, declaration-de-guerre, armee-du-rhin, armee-de-chalons, bataille-de-sedan, capitulation-de-sedan, quatre-septembre
+
+@ imperatrice-eugenie
+cat: personnages
+nom: L'impératrice Eugénie
+alias: Eugénie de Montijo, Eugenia de Guzmán, comtesse de Teba, la régente, l'Espagnole, « c'est ma guerre »
+dates: 1826 – 1920
+an: 1826
+fin: 1920
+camp: fr
+role: impératrice régente
+def: Épouse de Napoléon III, régente à partir du 28 juillet 1870, elle pèse pour la guerre puis contre le retour de l'empereur à Paris, quitte les Tuileries le 4 septembre et gagne l'Angleterre, où commence un exil d'un demi-siècle.
+texte: Eugenia de Montijo, comtesse de Teba, née à Grenade en 1826, a épousé [[napoleon-iii|Napoléon III]] en janvier 1853 et lui a donné en 1856 un fils, le prince impérial. Catholique fervente, attachée au pouvoir temporel du pape, méfiante envers l'évolution libérale du régime, elle siège au Conseil des ministres depuis 1866 et a déjà exercé deux fois la régence, en 1859 et en 1865. Autour d'elle se groupent les bonapartistes autoritaires, pour qui [[emile-ollivier|Émile Ollivier]] est un intrus.
+texte: Dans la crise de juillet 1870, elle est du parti de la fermeté. Elle assiste, le soir du 14 juillet à Saint-Cloud, au conseil où l'idée d'un congrès est abandonnée et la guerre résolue. Sur ce qu'elle y a dit, les témoignages divergent : certains la montrent plaidant avec feu, Ollivier assure dans ses souvenirs qu'elle s'est tue. Elle pense, comme beaucoup dans son entourage, qu'un succès militaire assurerait le trône de son fils. Mais la décision n'a pas été la sienne : elle est celle d'un empereur affaibli, d'un Conseil divisé puis rallié, d'une Chambre qui vote les crédits à une immense majorité. Les historiens, d'accord sur son influence, ne la tiennent plus pour l'auteur de la [[declaration-de-guerre|déclaration de guerre]].
+texte: Régente à partir du départ de l'empereur, le 28 juillet, avec des pouvoirs que bornent les lettres patentes du 23, elle devient le vrai centre du gouvernement après les défaites du 6 août. Le 7, elle rentre de Saint-Cloud aux Tuileries, convoque les Chambres et détourne l'empereur de revenir : on dirait qu'il a quitté l'armée pour fuir le danger. Le 9, le Corps législatif renverse Ollivier ; elle appelle le [[comte-de-palikao]]. Le 17 août, quand la conférence de Châlons décide de ramener l'empereur et l'[[armee-de-chalons|armée de Châlons]] sous Paris, elle s'y oppose avec son ministre : le souverain vaincu serait accueilli par l'émeute, et l'on ne peut abandonner [[bazaine|Bazaine]]. Son veto au retour de Napoléon III est établi ; la direction donnée ensuite à l'armée, vers Montmédy puis [[bataille-de-sedan|Sedan]], vient du ministre de la Guerre et du Conseil qu'elle préside. Le [[trochu|général Trochu]], qui ne l'aimait pas, lui a reconnu dans ces semaines « du calme, du caractère, du cœur, des sentiments bien plus français qu'impérialistes ».
+texte: Le 3 septembre, elle apprend la capitulation. Le 4, elle refuse d'abdiquer, comme le lui demandent des députés, et refuse aussi qu'on la défende par les armes. Vers 15 h, le Palais-Bourbon envahi, elle quitte les Tuileries par les galeries du Louvre avec sa lectrice, Mme Lebreton, conduite par les ambassadeurs d'Autriche et d'Italie, Metternich et Nigra : c'est la fin de la journée du [[quatre-septembre|4 septembre]]. Elle se réfugie chez son dentiste américain, le docteur Thomas Evans, qui la mène en voiture à Deauville ; le yacht d'un Anglais, sir John Burgoyne, lui fait traverser la Manche par gros temps. Elle débarque à Ryde, dans l'île de Wight, le 8 septembre, retrouve son fils à Hastings et s'installe bientôt à Camden Place, à Chislehurst.
+texte: De l'exil, elle refuse de prêter la main aux combinaisons de [[bismarck|Bismarck]], qui laisse croire à Bazaine qu'il traitera avec la régence : ni à [[bourbaki|Bourbaki]], sorti de Metz en septembre, ni au général Boyer, en octobre, elle ne donne le blanc-seing qui eût livré des provinces. Elle écrit au roi de Prusse pour demander la fin de la guerre ; [[guillaume-ier|Guillaume]] lui répond de Versailles, le 26 octobre 1870, qu'il doit insister sur des cessions de territoire « qui n'ont d'autre but que de reculer le point de départ des armées françaises qui à l'avenir viendront nous attaquer ». Veuve en 1873, frappée par la mort du prince impérial, tué par les Zoulous le 1er juin 1879, elle fonde l'abbaye de Farnborough, où reposent l'empereur et leur fils. En 1918, elle fait remettre la lettre de Guillaume à Clemenceau, qui la verse aux Archives nationales : l'aveu que l'annexion répondait à un calcul militaire sert la cause du retour de l'[[alsace-lorraine|Alsace-Lorraine]]. Elle meurt à Madrid le 11 juillet 1920, à quatre-vingt-quatorze ans.
+repere: 30 janvier 1853 — Mariage religieux avec Napoléon III à Notre-Dame de Paris.
+repere: 14 juillet 1870 — Elle assiste au conseil de Saint-Cloud qui décide la guerre.
+repere: 28 juillet 1870 — Départ de l'empereur pour Metz : sa troisième régence commence.
+repere: 9 août 1870 — Chute d'Ollivier ; elle appelle le comte de Palikao.
+repere: 17 août 1870 — Elle s'oppose au retour de l'empereur à Paris.
+repere: 4 septembre 1870, vers 15 h — Elle quitte les Tuileries et se cache chez le docteur Evans.
+repere: 8 septembre 1870 — Elle débarque à Ryde, en Angleterre.
+repere: 26 octobre 1870 — Guillaume Ier lui écrit que la Prusse exigera des cessions de territoire.
+repere: 11 juillet 1920 — Elle meurt à Madrid.
+attention: « C'est ma guerre » : le mot qui a fait d'elle la responsable du désastre ne repose sur aucun témoin direct. Il circule après la chute de l'Empire comme une confidence faite à un diplomate, sur l'autorité de Thiers et de ses adversaires républicains ; elle l'a toujours nié, encore dans ses entretiens avec Maurice Paléologue, publiés en 1928. Qu'elle ait souhaité la guerre est certain ; qu'elle l'ait revendiquée en ces termes ne l'est pas.
+lien: wp Eugénie de Montijo
+lien: url https://www.napoleon.org/histoire-des-2-empires/articles/les-trois-regences-de-limperatrice-eugenie/ = Fondation Napoléon : les trois régences de l'impératrice
+lien: url https://www.napoleon.org/histoire-des-2-empires/articles/une-chronique-de-thierry-lentz-limperatrice-le-tigre-et-le-retour-de-lalsace-lorraine-en-1918 = Thierry Lentz : la lettre de Guillaume Ier remise à Clemenceau en 1918
+sources: Wikipédia (fr : Eugénie de Montijo, Napoléon III ; en : Napoleon III) ; Fondation Napoléon, « Les trois régences de l'impératrice Eugénie » ; Thierry Lentz, « L'Impératrice, le Tigre et le retour de l'Alsace-Lorraine en 1918 » (napoleon.org)
+voir: napoleon-iii, comte-de-palikao, emile-ollivier, quatre-septembre, armee-de-chalons, alsace-lorraine, mots-de-1870
+
+@ emile-ollivier
+cat: personnages
+nom: Émile Ollivier
+alias: Ollivier, l'homme au cœur léger, « d'un cœur léger », ministère du 2 janvier, L'Empire libéral
+dates: 1825 – 1913
+an: 1825
+fin: 1913
+camp: fr
+role: garde des Sceaux, chef du ministère du 2 janvier
+def: Ancien républicain rallié à l'Empire libéral, chef du ministère du 2 janvier 1870, il accepte la guerre « le cœur léger » le 15 juillet, est renversé le 9 août après les premières défaites et passe quarante ans à se justifier.
+texte: Fils d'un républicain marseillais, commissaire de la République à vingt-deux ans en 1848, avocat, Émile Ollivier entre au Corps législatif en 1857 parmi « les Cinq », seuls opposants républicains. Convaincu qu'on peut libéraliser l'Empire de l'intérieur, il rapporte la loi de 1864 qui supprime le délit de coalition, se rapproche de [[napoleon-iii|Napoléon III]] et rompt avec ses amis. Le 27 décembre 1869, l'empereur le charge de former un cabinet appuyé sur la majorité de la Chambre : c'est le ministère du 2 janvier 1870, où il prend la Justice et les Cultes sans avoir le titre de chef du gouvernement. Le plébiscite du 8 mai paraît consacrer [[second-empire-en-1870|l'Empire libéral]]. Le 30 juin, il assure à la tribune qu'« à aucune époque le maintien de la paix en Europe n'a été plus assuré ».
+texte: Trois jours plus tard éclate l'affaire de la [[candidature-hohenzollern]]. Ollivier approuve la déclaration menaçante lue le 6 juillet par le [[duc-de-gramont]], mais tient la renonciation du 12 pour une victoire suffisante. La demande de garanties adressée le soir même au roi de Prusse est arrêtée à Saint-Cloud entre l'empereur et Gramont ; il ne l'apprend qu'après coup, et la couvre. Le 14, après la [[depeche-d-ems]], le Conseil rappelle les réserves, se rallie un moment à l'idée d'un congrès, puis, le soir, décide la guerre. Lui qui voulait la paix se range à l'avis de ses collègues : il juge l'honneur du pays engagé et croit l'armée prête, sur la parole du [[edmond-le-boeuf|maréchal Le Bœuf]].
+texte: Le 15 juillet, il lit au Corps législatif l'exposé qui demande les crédits. [[adolphe-thiers|Thiers]] l'interrompt : la France a obtenu satisfaction sur le fond, on va verser le sang « pour une question de forme », qu'on montre les dépêches. Ollivier ne les communique qu'à une commission et lâche la phrase qui le suivra jusqu'à la mort : « De ce jour commence pour les ministres mes collègues et pour moi une grande responsabilité. Nous l'acceptons le cœur léger. » La gauche se récrie ; il s'explique aussitôt — « je veux dire d'un cœur que le remords n'alourdit pas, d'un cœur confiant » —, mais le mot est parti. Dans la nuit, les crédits sont votés à une écrasante majorité ; la [[declaration-de-guerre]] est remise à Berlin le 19.
+texte: La suite est brève. Resté à Paris auprès de la régente, il veut, après les défaites du 6 août, le retour de l'empereur, et fait préparer des mandats d'arrêt contre les chefs de l'opposition ; l'[[imperatrice-eugenie|impératrice]] refuse l'un et l'autre. Le 9 août, la Chambre vote à une immense majorité un ordre du jour de défiance ; il démissionne, remplacé par le [[comte-de-palikao]], et part pour l'Italie, où il reste jusqu'en 1873.
+texte: Il a quarante-cinq ans et il lui en reste quarante-trois à vivre. Élu à l'Académie française le 7 avril 1870, au fauteuil de Lamartine, il n'y sera jamais reçu en séance solennelle : en 1874, son discours contient un éloge de l'Empire dont Guizot demande la suppression, il refuse, et la réception est ajournée pour toujours. Battu aux élections de 1876, il se retire dans sa propriété de La Moutte, à Saint-Tropez, et consacre le reste de sa vie aux dix-sept volumes de *L'Empire libéral* (1895-1915), plaidoyer immense et source de premier ordre. La guerre y est un « guet-apens » de [[bismarck|Bismarck]], que la France ne pouvait esquiver sans déshonneur. Les historiens lui donnent raison sur les calculs du chancelier et tort sur le reste : après le retrait du 12 juillet, la paix était sauvée, et c'est son gouvernement qui a rouvert la crise. Il meurt à Saint-Gervais-les-Bains le 20 août 1913.
+repere: 5 juillet 1857 — Élu député de la Seine, il devient l'orateur des « Cinq ».
+repere: 2 janvier 1870 — Formation du ministère dont il est le chef, comme garde des Sceaux.
+repere: 30 juin 1870 — Il déclare à la tribune que la paix de l'Europe n'a jamais été mieux assurée.
+repere: 15 juillet 1870 — Au Corps législatif, il accepte la guerre « le cœur léger ».
+repere: 9 août 1870 — La Chambre le renverse ; il part pour l'Italie.
+repere: 1895 – 1915 — Publication des dix-sept volumes de *L'Empire libéral*.
+repere: 20 août 1913 — Il meurt à Saint-Gervais-les-Bains.
+attention: Le « cœur léger » est authentique : il figure aux comptes rendus de la séance du 15 juillet 1870. Mais on le cite presque toujours sans la suite, où Ollivier précise qu'il parle d'une conscience sans remords, non d'une guerre faite gaiement. La forme courante, « cette guerre, nous la déclarons d'un cœur léger », n'est pas celle qu'il a prononcée, et la séance est du 15 juillet, non du 17 comme on le lit parfois.
+lien: wp Émile Ollivier (homme politique)
+lien: url https://www.academie-francaise.fr/les-immortels/emile-ollivier = Académie française : notice d'Émile Ollivier
+sources: Wikipédia (fr : Émile Ollivier (homme politique)) ; Académie française, notice des immortels ; Fondation Napoléon, « Les trois régences de l'impératrice Eugénie »
+voir: second-empire-en-1870, duc-de-gramont, candidature-hohenzollern, depeche-d-ems, declaration-de-guerre, adolphe-thiers, comte-de-palikao, mots-de-1870
+
+@ duc-de-gramont
+cat: personnages
+nom: Le duc de Gramont
+alias: Agénor de Gramont, Antoine Alfred Agénor de Gramont, duc de Guiche, prince de Bidache, demande de garanties
+dates: 1819 – 1880
+an: 1819
+fin: 1880
+camp: fr
+role: ministre des Affaires étrangères
+def: Diplomate de carrière, ministre des Affaires étrangères depuis le 15 mai 1870, il mène la crise de juillet avec raideur — déclaration du 6, demande de garanties du 12 — et entre en guerre en comptant sur des alliances autrichienne et italienne qui n'existaient pas.
+texte: Antoine Alfred Agénor, duc de Guiche puis dixième duc de Gramont, né à Paris en 1819 dans une grande famille légitimiste dont la jeune génération s'est ralliée à Louis-Napoléon, a quitté l'armée après Polytechnique pour la diplomatie : Cassel et Stuttgart en 1852, Turin en 1853, Rome en 1857, Vienne en 1861. Neuf ans d'ambassade auprès de François-Joseph en ont fait un familier de l'aristocratie autrichienne, qui rêve d'effacer Sadowa, et l'ont persuadé que l'Autriche suivrait la France. Quand [[napoleon-iii|Napoléon III]] l'appelle aux Affaires étrangères, le 15 mai 1870, c'est un homme de cour et de chancellerie, sans expérience des Chambres, qui prend en main la politique extérieure du [[emile-ollivier|ministère Ollivier]].
+texte: Le 3 juillet, Paris apprend la [[candidature-hohenzollern]]. Le 6, Gramont lit au Corps législatif une déclaration arrêtée en Conseil, dont l'empereur et Ollivier ont durci les termes : la France ne souffrira pas qu'une puissance étrangère place un de ses princes « sur le trône de Charles-Quint » ; sinon, « nous saurions remplir notre devoir sans hésitation et sans faiblesse ». [[bismarck|Bismarck]] y verra une menace, la main sur la garde de l'épée. Le 10, Gramont presse l'ambassadeur Benedetti, envoyé à Ems auprès de [[guillaume-ier|Guillaume Ier]] : si le roi ne conseille pas la renonciation, « c'est la guerre tout de suite, et dans quelques jours nous sommes au Rhin ». Le 12, le père du prince retire la candidature. Le succès est complet ; Gramont le juge insuffisant. Il suggère à l'ambassadeur de Prusse une lettre du roi à l'empereur et, le soir, d'accord avec Napoléon III et sans prévenir Ollivier, télégraphie à Benedetti d'obtenir l'assurance que le roi n'autorisera plus jamais cette candidature. De cette exigence sortent le refus d'Ems, la [[depeche-d-ems|dépêche]] publiée par Bismarck et la guerre.
+texte: Le 15 juillet, pendant qu'Ollivier parle au Corps législatif, il fait la même communication au Sénat. La commission chargée d'examiner les crédits conclut, sur ses explications, que les exigences françaises n'ont jamais varié — c'est inexact — et retient que la France ne sera pas seule. Il le croit. Des lettres ont été échangées en 1869 entre les souverains, l'archiduc Albert est venu à Paris, le général Lebrun est allé à Vienne en juin 1870 ; mais aucun traité n'a été signé. Le 20 juillet, le chancelier Beust fait savoir que l'Autriche reste neutre. L'Italie met pour prix de son concours l'évacuation de Rome, que Gramont refuse : « si l'Italie ne veut pas marcher, qu'elle reste », aurait-il dit le 30 juillet, selon le prince Napoléon. Les défaites du 6 août achèvent l'[[isolement-diplomatique|isolement de la France]].
+texte: Le ministère tombe le 9 août. Gramont passe en Angleterre après le 4 septembre, puis revient à Paris. Devenu l'un des boucs émissaires de la défaite, il publie en 1872 *La France et la Prusse avant la guerre* et soutient devant la commission d'enquête que Vienne avait poussé à la guerre et promis son aide, ce qui ouvre, au début de 1873, une polémique publique avec Beust. Ollivier, qui ne l'accable pas, l'a jugé d'une phrase : il était resté un ambassadeur, habitué à obéir à son souverain, sans idée de ce qu'exige un régime parlementaire. Il meurt à Paris en janvier 1880.
+repere: 15 mai 1870 — Il est nommé ministre des Affaires étrangères.
+repere: 6 juillet 1870 — Il lit au Corps législatif la déclaration sur la candidature Hohenzollern.
+repere: 12 juillet 1870, au soir — Il télégraphie à Benedetti de demander au roi des garanties pour l'avenir.
+repere: 15 juillet 1870 — Il annonce la guerre au Sénat.
+repere: 20 juillet 1870 — L'Autriche-Hongrie se déclare neutre.
+repere: 9 août 1870 — Chute du ministère Ollivier.
+repere: 1872 — Il publie *La France et la Prusse avant la guerre*.
+attention: On a fait de Gramont l'unique artisan de la guerre. La déclaration du 6 juillet a été rédigée en Conseil ; la demande de garanties du 12 est son œuvre, mais décidée avec l'empereur ; et c'est Bismarck qui a choisi d'y répondre par un affront public. Sa faute propre est ailleurs : avoir tenu pour acquises des alliances qui n'étaient que des conversations.
+lien: wp Agénor de Gramont (1819-1880)
+lien: en Agénor de Gramont, 10th Duke of Gramont
+sources: Wikipédia (fr : Agénor de Gramont (1819-1880) ; en : Agénor de Gramont, 10th Duke of Gramont, qui suit Ollivier, *L'Empire libéral*) ; *The Spectator*, 4 janvier 1873
+voir: candidature-hohenzollern, depeche-d-ems, emile-ollivier, declaration-de-guerre, isolement-diplomatique, causes-de-la-guerre, napoleon-iii
+
+@ edmond-le-boeuf
+cat: personnages
+nom: Le maréchal Le Bœuf
+alias: Edmond Le Bœuf, Lebœuf, Leboeuf, Le Boeuf, bouton de guêtre, archi-prêts, archiprêts, major général
+dates: 1809 – 1888
+an: 1809
+fin: 1888
+camp: fr
+role: ministre de la Guerre, major général de l'armée du Rhin
+def: Artilleur, ministre de la Guerre depuis août 1869 et maréchal depuis mars 1870, il garantit en juillet que l'armée est prête, devient major général de l'armée du Rhin, est écarté le 12 août et finit la campagne à la tête du 3e corps, enfermé dans Metz.
+texte: Polytechnicien, officier d'artillerie formé en Algérie, Edmond Le Bœuf a commandé l'artillerie d'un corps devant Sébastopol, puis celle de toute l'armée en Italie, en 1859. Aide de camp de l'empereur, président du comité de l'artillerie, il succède au maréchal Niel au ministère de la Guerre le 21 août 1869 et reçoit le bâton le 24 mars 1870. Il n'a ni l'autorité ni l'obstination de son prédécesseur : pour ménager une Chambre avare de crédits, il laisse dépérir la [[garde-mobile|garde mobile]] créée par la [[loi-niel|loi Niel]] et ne croit pas la guerre prochaine.
+texte: Dans les conseils des 14 et 15 juillet 1870, il est l'homme dont tout dépend : si le ministre de la Guerre ne répond pas de l'armée, personne n'osera rompre. Il en répond. Le comte de Leusse, député du Bas-Rhin, qui avait servi sous lui en Crimée, raconte l'avoir averti avant le vote que les Allemands étaient prêts et s'être entendu répondre : « Jamais la France n'a été si prête, jamais l'Allemagne ne l'a été aussi peu. Je suis prêt, absolument prêt. » Le maréchal ne ment pas tout à fait : les arsenaux sont garnis, le [[fusil-chassepot|chassepot]] est excellent. Mais il confond avoir du matériel et pouvoir le mettre à temps entre les mains des troupes. Pour gagner les Allemands de vitesse, il fait partir les régiments vers la frontière avant qu'ils aient reçu leurs réservistes : [[mobilisation-de-1870|mobilisation]] et concentration se mêlent, les dépôts sont à l'autre bout du pays, et à la fin de juillet l'[[armee-du-rhin|armée du Rhin]] ne réunit guère plus de 200 000 hommes, mal pourvus.
+texte: Major général de cette armée, c'est-à-dire chef d'état-major d'un [[napoleon-iii|empereur]] malade qui commande en titre, il n'impose aucun plan aux chefs de corps. Après [[bataille-de-froeschwiller-woerth|Frœschwiller]] et [[bataille-de-spicheren|Spicheren]], la Chambre réclame son départ ; le 12 août, il est relevé, le jour où l'empereur remet le commandement à [[bazaine|Bazaine]]. Il ne quitte pas l'armée. Le général Decaen ayant été mortellement blessé à [[bataille-de-borny|Borny]], il prend le 3e corps, qu'il conduit le 16 août à [[bataille-de-mars-la-tour|Rezonville]], le 18 au centre de la ligne française à [[bataille-de-gravelotte|Gravelotte]], puis les 31 août et 1er septembre à [[bataille-de-noisseville|Noisseville]], où il porte l'effort principal de la sortie. On l'y voit s'exposer sans mesure, en homme qui ne tient plus à survivre. Pendant le [[siege-de-metz|blocus de Metz]], il est de ceux qui s'opposent à toute idée de reddition.
+texte: Emmené en captivité le 29 octobre, libéré après l'armistice, il dépose à la fin de 1871 devant les commissions d'enquête, reconnaît ses erreurs de ministre et rejette sur Bazaine seul la perte de l'armée de Metz. Puis il se retire au château du Moncel, à Bailleul, près d'Argentan, où il meurt le 7 juin 1888, à l'écart de toute vie publique.
+repere: 21 août 1869 — Il devient ministre de la Guerre après la mort du maréchal Niel.
+repere: 24 mars 1870 — Il est fait maréchal de France.
+repere: 14-15 juillet 1870 — Il répond de l'armée devant le Conseil et devant les députés.
+repere: 12 août 1870 — Il est relevé de ses fonctions de major général.
+repere: 18 août 1870 — Il commande le 3e corps à la bataille de Gravelotte – Saint-Privat.
+repere: 31 août 1870 — Son corps mène la sortie de Noisseville.
+repere: 29 octobre 1870 — Il part en captivité après la capitulation de Metz.
+repere: 7 juin 1888 — Il meurt au château du Moncel, à Bailleul (Orne).
+attention: « Nous sommes prêts, archi-prêts ; la guerre dût-elle durer deux ans, il ne manquerait pas un bouton de guêtre à nos soldats » : aucun compte rendu officiel ne porte cette phrase. On la lit sous des formes qui varient (un an, deux ans), placée tantôt au Conseil, tantôt devant la commission du Corps législatif, tantôt en réplique à Thiers, toujours de seconde main. Le fond, lui, est attesté par des témoins directs comme Leusse : Le Bœuf a bien garanti que l'armée était prête.
+lien: wp Edmond Le Bœuf
+lien: de Edmond Lebœuf
+sources: Wikipédia (fr : Edmond Le Bœuf ; de : Edmond Lebœuf)
+voir: mobilisation-de-1870, armee-du-rhin, loi-niel, commandement-francais, napoleon-iii, bazaine, siege-de-metz, mots-de-1870
+
+@ comte-de-palikao
+cat: personnages
+nom: Le comte de Palikao
+alias: Charles Cousin-Montauban, Cousin de Montauban, général de Montauban, Palikao, ministère des vingt-quatre jours
+dates: 1796 – 1878
+an: 1796
+fin: 1878
+camp: fr
+role: chef du ministère et ministre de la Guerre (10 août – 4 septembre)
+def: Général de l'armée d'Afrique, vainqueur des Chinois à Palikao en 1860, il devient à soixante-quatorze ans, le 10 août 1870, chef du dernier ministère de l'Empire et ministre de la Guerre ; il lève des troupes avec énergie et pousse l'armée de Châlons au secours de Bazaine.
+texte: Charles Cousin-Montauban, né à Paris en 1796, a fait l'essentiel de sa carrière en Algérie, de 1831 à 1857, dans les chasseurs d'Afrique et les spahis ; c'est à lui qu'Abd el-Kader se rend en décembre 1847. En 1860, il commande le corps français de l'expédition de Chine : la victoire du pont de Palikao (Baliqiao), le 21 septembre, ouvre Pékin aux alliés et lui vaut en 1862 le titre de comte ; le sac du palais d'Été, qui suit, lui coûte la dotation que l'empereur demandait pour lui. Depuis 1865, il commande à Lyon. En juillet 1870, on ne lui a pas donné de corps d'armée.
+texte: Le 9 août, [[emile-ollivier|Ollivier]] renversé, l'[[imperatrice-eugenie|impératrice]] régente l'appelle à Paris et le charge de former le cabinet ; il prend la Guerre. Ce ministère de bonapartistes autoritaires dure vingt-quatre jours. Palikao y déploie une activité que ses adversaires ont reconnue : il fait donner à [[bazaine|Bazaine]] le commandement de l'[[armee-du-rhin|armée du Rhin]], rappelle des troupes d'Algérie, forme avec les dépôts et l'infanterie de marine de nouveaux corps, le 12e, le 13e, le 14e, appelle la [[garde-mobile|garde mobile]], arme Paris. Sans lui, ni l'[[armee-de-chalons|armée de Châlons]] ni la défense de la capitale n'auraient eu ces moyens.
+texte: Mais il veut aussi diriger la guerre de son cabinet. Le 17 août, il refuse, avec la régente, le retour de l'empereur et le repli sur Paris décidés à Châlons. Son plan est d'aller tendre la main à Bazaine : [[mac-mahon|Mac-Mahon]] marcherait vers Montmédy, prendrait à revers les assiégeants de Metz, et les deux armées réunies se retourneraient contre le [[kronprinz-frederic-guillaume|Kronprinz]]. Le calcul suppose des troupes rapides et un adversaire lent ; c'est l'inverse. Le 27 août, au Chesne, Mac-Mahon, qui sent deux armées allemandes sur son flanc, annonce qu'il se dérobe vers Mézières. Palikao lui télégraphie dans la nuit : « Si vous abandonnez Bazaine, la révolution est dans Paris », lui assure qu'il a de l'avance sur l'ennemi et lui demande, au nom du Conseil, de continuer. Le maréchal obéit. Trois jours plus tard, c'est [[bataille-de-beaumont|Beaumont]], puis [[bataille-de-sedan|Sedan]].
+texte: Le 3 septembre, il n'annonce d'abord à la Chambre qu'une partie de la vérité. Le 4, il propose un conseil de gouvernement dont il serait le lieutenant général ; la salle est envahie avant le vote et la République proclamée : c'est le [[quatre-septembre|4 septembre]]. Il passe en Belgique et publie dès 1871 *Un ministère de la guerre de vingt-quatre jours*, où il soutient que la marche sur Metz était la seule chance de salut et qu'elle a été mal exécutée ; il dépose dans le même sens devant la commission d'enquête. Il meurt le 8 janvier 1878.
+repere: 21 septembre 1860 — Victoire du pont de Palikao, près de Pékin.
+repere: 22 janvier 1862 — Un décret le fait comte de Palikao.
+repere: 10 août 1870 — Il forme le ministère et prend le portefeuille de la Guerre.
+repere: 17 août 1870 — Il s'oppose au retour de l'empereur et de l'armée de Châlons sous Paris.
+repere: nuit du 27 au 28 août 1870 — Il télégraphie à Mac-Mahon de ne pas abandonner Bazaine.
+repere: 4 septembre 1870 — Son ministère est emporté par la révolution ; il gagne la Belgique.
+repere: 8 janvier 1878 — Il meurt, à quatre-vingt-un ans.
+attention: Palikao a-t-il « envoyé l'armée à Sedan » ? Il a imposé la direction, vers Metz, et pesé de tout son poids le 27 août ; mais Mac-Mahon n'a jamais voulu s'abriter derrière ses ordres, et Sedan n'était dans le plan de personne : l'armée y a été acculée après Beaumont. Le reproche fondé est d'avoir prétendu régler de Paris, sur la carte, les mouvements d'une armée qu'il ne voyait pas.
+lien: wp Charles Cousin-Montauban
+lien: de Charles Cousin-Montauban
+sources: Wikipédia (fr : Charles Cousin-Montauban, Bataille de Sedan ; de : Charles Cousin-Montauban) ; Fondation Napoléon, « Les trois régences de l'impératrice Eugénie »
+voir: imperatrice-eugenie, mac-mahon, armee-de-chalons, bazaine, bataille-de-sedan, quatre-septembre, commandement-francais
+
+# ── Les maréchaux ──────────────────────────────────────────────────────────
+
+@ mac-mahon
+cat: personnages
+nom: Mac-Mahon
+alias: Patrice de Mac Mahon, MacMahon, maréchal de Mac-Mahon, duc de Magenta, noyer de Mac-Mahon, « J'y suis, j'y reste »
+dates: 1808 – 1893
+an: 1808
+fin: 1893
+camp: fr
+role: commandant du 1er corps, puis de l'armée de Châlons
+def: Maréchal de France, duc de Magenta, il commande en Alsace le 1er corps, battu à Frœschwiller le 6 août 1870, puis l'armée de Châlons, qu'il mène à Sedan, où il est blessé dès le matin de la bataille ; il sera le chef de l'armée de Versailles et le deuxième président de la IIIe République.
+texte: Né en 1808 au château de Sully, en Bourgogne, seizième de dix-sept enfants, saint-cyrien, Patrice de Mac-Mahon doit sa carrière à l'Algérie, où il est blessé à l'assaut de Constantine en 1837, à la Crimée, où sa division enlève Malakoff le 8 septembre 1855, et à l'Italie : le 4 juin 1859, à Magenta, il pousse ses troupes en avant sans ordres et décide de la victoire, ce qui lui vaut le bâton de maréchal et un titre de duc. En octobre 1861, il représente la France au couronnement de [[guillaume-ier|Guillaume Ier]] à Kœnigsberg. Gouverneur général de l'Algérie depuis 1864, il est rappelé en juillet 1870 pour commander le 1er corps de l'[[armee-du-rhin|armée du Rhin]], où servent zouaves et [[armee-d-afrique|turcos]].
+texte: Il arrive à Strasbourg le 23 juillet. Sa mission, notifiée le lendemain, est de défendre la frontière de Huningue à Lauterbourg, avec l'appui du 7e corps encore en formation. Le 31, il confère à Metz avec [[napoleon-iii|l'empereur]] ; le 1er août, l'ordre vient de porter le 1er corps vers la frontière du nord. Ses divisions s'y échelonnent de Wissembourg à Haguenau, sans cavalerie poussée au-delà de la Lauter : on ne sait rien de l'ennemi. Le 4 août, parti de Strasbourg en train, il apprend en route qu'on se bat à [[bataille-de-wissembourg|Wissembourg]], galope jusqu'au col du Pigeonnier et, de midi à la fin de l'après-midi, regarde à la lunette la division d'[[abel-douay|Abel Douay]] écrasée, puis la IIIe armée franchir la Lauter : soixante mille hommes, estime son état-major. Le lieutenant-colonel de Cugnac, qui a reconstitué ces heures en interrogeant les aides de camp, note que le cas d'un général en chef examinant ainsi à loisir l'armée adverse est sans doute unique, et que l'avantage fut perdu dès le lendemain, faute d'avoir gardé le contact.
+texte: Le soir, il couche à Reichshoffen chez le comte de Leusse, député et maire, et télégraphie à l'empereur qu'il livrera bataille sur la Sauer s'il le faut, mais qu'il lui faudrait trois divisions de renfort. Le 5, il range une quarantaine de milliers d'hommes sur les hauteurs de Frœschwiller, de Nehwiller à Morsbronn ; le soir, il apprend que le 5e corps du général de Failly, à Bitche, passe sous ses ordres, et l'appelle aussitôt. La dépêche, expédiée de Reichshoffen à 20 h 10, n'est remise à Bitche qu'à 23 h, pour vingt-quatre kilomètres ; Failly, qui craint pour Bitche, n'enverra qu'une division, trop tard. Le maréchal compte se battre le 7. Le 6 au matin, croyant sur de faux rapports que l'ennemi se dérobe vers le nord, il prend pour une démonstration l'engagement d'avant-postes qui devient la [[bataille-de-froeschwiller-woerth]]. Il la conduit en soldat, tient huit heures contre un adversaire deux fois plus nombreux, lance ses cuirassiers pour dégager sa droite — ce sont les [[charges-de-reichshoffen]] — et n'ordonne la retraite que vers 16 h. L'Alsace est perdue en une journée.
+texte: La retraite, par Saverne et Lunéville, est une débâcle que l'ennemi ne poursuit pas ; le chemin de fer ramène les débris du 1er corps au camp de Châlons, où Mac-Mahon reçoit le 17 août le commandement de l'[[armee-de-chalons|armée de Châlons]] : quatre corps, environ 120 000 hommes de valeur très inégale. Il veut la replier sur Paris. Le [[comte-de-palikao]] et la régente exigent qu'il secoure [[bazaine|Bazaine]], bloqué dans Metz. Il gagne Reims le 21 et se met en marche le 23 vers Montmédy. L'armée avance mal, mal nourrie ; la presse a révélé sa direction et [[moltke|Moltke]] fait pivoter deux armées vers le nord. Le 27, au Chesne, Mac-Mahon décide de se dérober vers Mézières ; dans la nuit, un télégramme de Palikao l'en détourne. Le 30, le 5e corps est surpris à [[bataille-de-beaumont|Beaumont]]. Le 31, l'armée s'entasse autour de Sedan ; le maréchal, qui croit n'avoir affaire qu'à soixante ou soixante-dix mille Allemands, ne se hâte pas d'en sortir.
+texte: Le 1er septembre, la [[bataille-de-sedan]] commence avant le jour à Bazeilles. Accouru de ce côté, Mac-Mahon est grièvement blessé par un éclat d'obus entre 6 h et 7 h et se fait ramener en ville. Il désigne pour le remplacer [[ducrot|Ducrot]], qui ordonne la retraite vers l'ouest ; [[wimpffen|Wimpffen]], porteur d'une lettre du ministre, réclame le commandement et donne l'ordre contraire. La blessure épargne au maréchal de signer la [[capitulation-de-sedan|capitulation]] ; il n'a pourtant jamais cherché à s'abriter derrière les ordres de Paris. Prisonnier, interné à Wiesbaden, où il dicte des notes sur la campagne, il est libéré en mars 1871.
+texte: [[adolphe-thiers|Thiers]] lui confie aussitôt l'armée de Versailles, qui reprend Paris à la [[commune-de-paris|Commune]] pendant la Semaine sanglante de mai 1871. Le 24 mai 1873, la majorité monarchiste de l'Assemblée l'élit président de la République ; en décembre, il commue la peine de mort prononcée contre Bazaine au [[proces-de-bazaine|procès de Trianon]]. Sa présidence s'achève par la crise du 16 mai 1877 et par sa démission, le 30 janvier 1879. Il meurt le 17 octobre 1893 au château de la Forêt, à Montcresson, et repose aux Invalides.
+texte: Brave, loyal, Mac-Mahon reste le type du chef qui se bat bien et prévoit mal. On lui a reproché d'avoir accepté la bataille à Frœschwiller à un contre deux, puis d'avoir marché vers Metz contre son jugement. Cugnac s'en prend moins à l'homme qu'aux « habitudes militaires de l'époque » : pas d'éclairage par la cavalerie, pas de cartes — le maréchal n'avait de l'Alsace qu'une carte au 1/400 000 complétée à la main —, quatorze heures pour obtenir une réponse de Bitche, à trente kilomètres. Leusse, qui le vit de près, conclut de même : si l'on avait su ce qu'on avait devant soi, on n'aurait jamais livré la bataille. À Wœrth, on a longtemps montré le « noyer de Mac-Mahon », aujourd'hui disparu, d'où il aurait suivi le combat.
+repere: 4 juin 1859 — Vainqueur à Magenta, il est fait maréchal de France et duc de Magenta.
+repere: 23 juillet 1870 — Il arrive à Strasbourg et prend le commandement du 1er corps.
+repere: 4 août 1870, vers midi — Du col du Pigeonnier, il assiste à la défaite de la division Douay à Wissembourg.
+repere: 5 août 1870 — Les 5e et 7e corps passent sous ses ordres ; il appelle Failly à Reichshoffen.
+repere: 6 août 1870 — Il est battu à Frœschwiller par la IIIe armée du Kronprinz.
+repere: 17 août 1870 — Il reçoit le commandement de l'armée de Châlons.
+repere: 23 août 1870 — L'armée quitte Reims en direction de Montmédy.
+repere: 27 août 1870 — Au Chesne, il décide la retraite sur Mézières, puis y renonce sur l'injonction de Paris.
+repere: 1er septembre 1870 — Blessé devant Sedan au début de la matinée, il remet le commandement à Ducrot.
+repere: 24 mai 1873 — Il est élu président de la République.
+attention: Le matin du 6 août, Mac-Mahon a-t-il accepté de battre en retraite ? Leusse raconte, dès 1871, que Ducrot et Raoult l'envoyèrent plaider auprès du maréchal un repli vers les Vosges et que celui-ci, après une longue discussion, y consentit, trop tard. Ni les notes du maréchal ni le journal du 1er corps n'en disent mot, et ses aides de camp n'en avaient aucun souvenir : pour Cugnac, la démarche est certaine, mais le projet « n'a pas dépassé les limites d'une conversation ». Quant au « J'y suis, j'y reste ! » de Malakoff, son authenticité n'a jamais été établie.
+lien: wp Patrice de Mac Mahon
+lien: en Patrice de MacMahon
+sources: Wikipédia (fr : Patrice de Mac Mahon, Bataille de Sedan ; en : Patrice de MacMahon)
+voir: bataille-de-wissembourg, bataille-de-froeschwiller-woerth, charges-de-reichshoffen, armee-de-chalons, bataille-de-sedan, ducrot, comte-de-palikao, commune-de-paris
+
+@ bazaine
+cat: personnages
+nom: Bazaine
+alias: François Achille Bazaine, maréchal Bazaine, « Bazaine a trahi », le traître de Metz
+dates: 1811 – 1888
+an: 1811
+fin: 1888
+camp: fr
+role: commandant en chef de l'armée du Rhin
+def: Sorti du rang, maréchal du Mexique, commandant en chef de l'armée du Rhin à partir du 12 août 1870, il se laisse enfermer dans Metz après Gravelotte, négocie avec l'ennemi et capitule le 27 octobre ; condamné à mort en 1873, gracié, évadé, il meurt à Madrid.
+texte: François Achille Bazaine, né à Versailles en 1811, échoue à Polytechnique et s'engage comme simple soldat au 37e de ligne en mars 1831. La Légion étrangère, l'Algérie, où il est blessé à la Macta, l'Espagne des guerres carlistes le font officier ; la Crimée le fait général, commandant de Sébastopol conquise ; il mène une division en Italie en 1859. Au Mexique, où il prend la tête du corps expéditionnaire en 1863, il reçoit le bâton de maréchal le 5 septembre 1864, épouse une Mexicaine de dix-huit ans et se voit reprocher, au retour, d'avoir prolongé l'aventure. En 1870, ce soldat de fortune que la cour n'aime pas est populaire jusque dans l'opposition : c'est « notre glorieux Bazaine », le seul maréchal que les premières défaites n'aient pas atteint.
+texte: Il commande d'abord le 3e corps. Le 6 août, ses divisions, à quelques lieues de [[bataille-de-spicheren|Spicheren]], n'arrivent pas au secours de [[frossard|Frossard]]. Le 12, cédant à la Chambre et à l'opinion, [[napoleon-iii|Napoléon III]] lui remet le commandement de l'[[armee-du-rhin|armée du Rhin]], quelque 180 000 hommes massés sous Metz, qu'il faut ramener vers Verdun et Châlons. Bazaine n'a jamais manié pareille masse et tient à l'écart son état-major, auquel il préfère ses officiers d'ordonnance. Le passage de la Moselle traîne. Le 14, à [[bataille-de-borny|Borny]], une attaque allemande le retarde encore ; un éclat d'obus l'y frappe à l'épaule. Le 16, sur la route de Verdun, l'armée se heurte à [[bataille-de-mars-la-tour|Rezonville]] à un corps prussien, puis deux : Bazaine, brave au feu, ne songe qu'à ne pas être coupé de Metz et ne pousse pas son avantage. Dans la nuit, alléguant le manque de munitions, il ordonne de reculer vers la place.
+texte: Le 18 août, à [[bataille-de-gravelotte|Gravelotte – Saint-Privat]], il reste loin de sa droite où tout se décide, n'envoie pas à [[canrobert|Canrobert]] les renforts qu'il réclame et ne paraît pas sur le champ de bataille. L'armée se replie sous les forts, où le [[prince-frederic-charles]] l'investit. La sortie de [[bataille-de-noisseville|Noisseville]], le 31 août et le 1er septembre, au moment où [[mac-mahon|Mac-Mahon]] approche, est menée sans vigueur et abandonnée. Après Sedan et le [[quatre-septembre|4 septembre]], Bazaine commande la seule armée régulière qui reste à la France. Il ne reconnaît pas franchement le gouvernement de la Défense nationale et ne tente plus rien de sérieux, hors un grand fourrage, le 7 octobre.
+texte: C'est alors que la politique entre dans le camp. Le 23 septembre, un intrigant nommé Régnier, passé par le quartier général de [[bismarck|Bismarck]], vient parler d'une paix signée par la régente, que l'armée de Metz irait garantir à l'intérieur ; Bazaine l'écoute et laisse partir [[bourbaki|Bourbaki]] pour l'Angleterre. Le 10 octobre, les vivres s'épuisant, un conseil des chefs de corps décide d'ouvrir des pourparlers. Le général Boyer porte à Versailles une note où le maréchal, voyant « la société menacée » par « un parti violent », se demande si son armée « n'est pas destinée à devenir le palladium de la société » ; Bismarck exige un engagement de la régente, et l'[[imperatrice-eugenie|impératrice]], à Chislehurst, refuse de céder du territoire. Il ne reste qu'à se rendre. On a mangé les chevaux, les hôpitaux débordent, il pleut depuis quinze jours. La capitulation est signée le 27 octobre au château de Frescaty par le général Jarras : trois maréchaux, plus de 150 000 hommes — 173 000 selon le chiffre le plus répandu, malades et blessés compris —, les canons, la place, les drapeaux. Ainsi finit le [[siege-de-metz|siège de Metz]].
+texte: De Tours, [[gambetta|Gambetta]] lance le mot qui restera : « Le maréchal Bazaine a trahi. » La chute de Metz libère l'armée de Frédéric-Charles, qui marche sur la Loire. Rentré de captivité, blâmé par le conseil d'enquête sur les capitulations, Bazaine demande lui-même des juges. Le [[proces-de-bazaine|procès]] se tient au Grand Trianon du 6 octobre au 10 décembre 1873, sous la présidence du duc d'Aumale. Le conseil de guerre le déclare coupable, à l'unanimité, d'avoir capitulé en rase campagne et traité avec l'ennemi sans avoir fait tout ce que prescrivaient le devoir et l'honneur ; il le condamne à mort avec dégradation, et signe aussitôt un recours en grâce. Mac-Mahon commue la peine en vingt ans de détention. Enfermé au fort de l'île Sainte-Marguerite, Bazaine s'en évade dans la nuit du 9 au 10 août 1874, avec l'aide de sa femme, et gagne l'Italie, puis Madrid. Il y vit pauvrement, publie en 1883 ses *Épisodes de la guerre de 1870 et le blocus de Metz*, est blessé d'un coup de poignard par un Français en avril 1887 et meurt le 23 septembre 1888.
+texte: Trois lectures s'affrontent depuis 1870. La trahison, au sens où l'entendait Gambetta — une armée vendue —, n'a jamais été prouvée et n'était pas le chef d'accusation. L'incapacité est la thèse la plus simple : un bon divisionnaire écrasé par un commandement trop grand, passif, défiant, qui préfère de « belles positions » sous une forteresse à une bataille en rase campagne. Le calcul politique est attesté par ses propres notes : après le 4 septembre, il a voulu garder son armée intacte pour peser sur la paix et « sauver le pays de ses propres excès », et Bismarck l'a amusé jusqu'à la famine. La plupart des historiens combinent les deux dernières ; beaucoup ajoutent qu'il a servi de coupable commode à une armée et à un pays qui avaient besoin d'expliquer la défaite.
+repere: 28 mars 1831 — Il s'engage comme simple soldat au 37e de ligne.
+repere: 5 septembre 1864 — Il est fait maréchal de France au Mexique.
+repere: 12 août 1870 — Il reçoit le commandement en chef de l'armée du Rhin.
+repere: 16 août 1870 — Bataille de Rezonville ; dans la nuit, il ordonne le repli vers Metz.
+repere: 18 août 1870 — Bataille de Gravelotte – Saint-Privat ; l'armée rentre sous les forts de Metz.
+repere: 23 septembre 1870 — Régnier se présente à Metz ; Bourbaki part pour l'Angleterre.
+repere: 10 octobre 1870 — Le conseil des chefs de corps décide de négocier ; mission du général Boyer.
+repere: 27 octobre 1870 — La capitulation de l'armée et de la place est signée à Frescaty.
+repere: 10 décembre 1873 — Le conseil de guerre de Trianon le condamne à mort ; la peine est commuée.
+repere: nuit du 9 au 10 août 1874 — Il s'évade de l'île Sainte-Marguerite.
+attention: « Bazaine le traître » est un jugement politique, non le verdict de 1873. Le conseil de guerre l'a condamné pour avoir capitulé en rase campagne et négocié sans avoir épuisé ses moyens de défense, crimes prévus par le code militaire ; il n'a pas retenu d'entente avec l'ennemi pour livrer l'armée. Les chiffres de la capitulation varient selon les sources de 140 000 à 180 000 hommes.
+lien: wp François Achille Bazaine
+lien: en François Achille Bazaine
+sources: Wikipédia (fr : François Achille Bazaine, Siège de Metz (1870) ; en : François Achille Bazaine ; de : François-Achille Bazaine)
+voir: armee-du-rhin, siege-de-metz, bataille-de-mars-la-tour, bataille-de-gravelotte, proces-de-bazaine, canrobert, bourbaki, idees-recues-sur-1870
+
+@ canrobert
+cat: personnages
+nom: Canrobert
+alias: François Certain de Canrobert, François Certain Canrobert, maréchal Canrobert, 6e corps, Saint-Privat
+dates: 1809 – 1895
+an: 1809
+fin: 1895
+camp: fr
+role: maréchal de France, commandant du 6e corps de l'armée du Rhin
+def: Maréchal de France, vétéran d'Algérie, de Crimée et d'Italie, il commande en 1870 le 6e corps de l'armée du Rhin, refuse le commandement en chef au profit de Bazaine et tient Saint-Privat le 18 août sans recevoir de secours ; il est fait prisonnier à la capitulation de Metz.
+texte: Né en 1809 à Saint-Céré, dans le Lot, saint-cyrien, François Certain Canrobert passe une quinzaine d'années en Algérie, où il se fait une réputation de bravoure. Général de brigade en 1850, il prend part à Paris au coup d'État du 2 décembre 1851, et l'Empire ne l'oubliera pas. En Crimée, il succède à Saint-Arnaud à la tête de l'armée d'Orient à la fin de septembre 1854, est blessé à l'Alma et à Inkerman, puis, jugé trop timoré, laisse la place à Pélissier en mai 1855. Maréchal en 1856, il commande un corps en Italie, à Magenta et à Solférino. En 1870, à soixante et un ans, c'est l'un des grands noms de l'armée impériale.
+texte: À la déclaration de guerre, il forme au camp de Châlons le 6e corps, avec des troupes venues de Paris et de Soissons. Appelé à Metz, il n'y fait transporter par chemin de fer que son infanterie : sa cavalerie et sa réserve d'artillerie restent à Châlons, et d'une de ses divisions un seul régiment le rejoint. Le 12 août, quand [[napoleon-iii|Napoléon III]] abandonne le commandement de l'[[armee-du-rhin|armée du Rhin]], Canrobert, le plus ancien des maréchaux présents, se récuse et s'efface devant [[bazaine|Bazaine]], son cadet, sous lequel il sert dès lors en subordonné discipliné. Le 16 août, à [[bataille-de-mars-la-tour|Rezonville]], son corps soutient le choc des Prussiens d'Alvensleben.
+texte: Le 18 août, à [[bataille-de-gravelotte|Saint-Privat]], il tient l'extrémité nord de la ligne française, sur un plateau découvert, sans outils pour se retrancher et avec trop peu de canons. Ses fantassins, postés derrière les murs du village, brisent l'assaut de la Garde prussienne ; mais l'artillerie allemande écrase Saint-Privat, les munitions s'épuisent, et les appels qu'il adresse à Bazaine restent presque sans réponse. Débordé par les Saxons à la nuit tombante, il évacue le village. De cette journée date sa légende : celle d'un chef qui a tenu et qu'on a laissé seul.
+texte: Enfermé dans Metz, il prend part à la sortie de [[bataille-de-noisseville|Noisseville]] et au combat de Ladonchamps, le 7 octobre, siège au conseil qui décide d'ouvrir des pourparlers, et devient prisonnier à la capitulation du 27 octobre. Libéré en mars 1871, il entre au conseil supérieur de la guerre, puis au Sénat, élu du Lot en 1876, de la Charente de 1879 à 1894 : il est l'une des figures du parti bonapartiste. Doyen des maréchaux, il meurt à Paris le 28 janvier 1895 et repose aux Invalides.
+repere: 27 juin 1809 — Il naît à Saint-Céré, dans le Lot.
+repere: 2 décembre 1851 — Général de brigade, il prend part au coup d'État à Paris.
+repere: septembre 1854 — Il succède à Saint-Arnaud à la tête de l'armée d'Orient, en Crimée.
+repere: 18 mars 1856 — Il est fait maréchal de France.
+repere: 12 août 1870 — Il refuse le commandement de l'armée du Rhin, qui passe à Bazaine.
+repere: 18 août 1870 — Son 6e corps tient Saint-Privat jusqu'au soir, puis évacue le village.
+repere: 27 octobre 1870 — Il est fait prisonnier à la capitulation de Metz.
+repere: 28 janvier 1895 — Il meurt à Paris.
+attention: Le refus du 12 août est établi ; son motif l'est moins. On le dit volontiers effrayé par la responsabilité, mais l'empereur, pressé par la Chambre et par une opinion qui réclamait Bazaine, penchait déjà pour celui-ci. Quant au mot « Tout va bien, signé Canrobert », qui moquerait ses dépêches optimistes de Crimée, il circule sans source précise.
+lien: wp François Certain de Canrobert
+lien: en François Certain de Canrobert
+sources: Wikipédia (fr et en : François Certain de Canrobert ; fr : Bataille de Saint-Privat ; de : Schlacht bei Gravelotte) ; E. Ollivier, « La Guerre de 1870 », passage sur le transport du 6e corps (Wikisource).
+voir: armee-du-rhin, bataille-de-gravelotte, bataille-de-mars-la-tour, bazaine, siege-de-metz, bataille-de-noisseville, napoleon-iii
+
+# ── Les généraux ───────────────────────────────────────────────────────────
+
+@ frossard
+cat: personnages
+nom: Frossard
+alias: Charles Auguste Frossard, général Frossard, 2e corps, gouverneur du prince impérial
+dates: 1807 – 1875
+an: 1807
+fin: 1875
+camp: fr
+role: commandant du 2e corps de l'armée du Rhin
+def: Général du génie, gouverneur du prince impérial, il commande en 1870 le 2e corps de l'armée du Rhin : il enlève Sarrebruck le 2 août, est battu à Spicheren le 6, se bat ensuite à Rezonville et à Gravelotte, et finit prisonnier dans Metz.
+texte: Né à Versailles en 1807, polytechnicien, officier du génie, Charles Auguste Frossard fait une carrière de savant soldat : défense du fort Clausel, en Algérie, en 1835, fortifications de Paris, siège de Rome en 1849, où il est blessé, travaux d'attaque contre Malakoff devant Sébastopol, qui lui valent les étoiles de général en 1855. Chef du génie de l'armée d'Italie en 1859, il retient l'attention de [[napoleon-iii|Napoléon III]], qui en fait son aide de camp et, en 1867, le gouverneur du prince impérial. Il est de ceux qui, entre 1866 et 1870, jugent inévitable la guerre avec l'Allemagne, et il a étudié de près la frontière de Lorraine.
+texte: En juillet 1870, l'empereur lui laisse le choix entre le commandement d'un corps et la direction du génie de l'armée ; il prend le 2e corps. Le 2 août, ses divisions chassent de Sarrebruck un faible détachement prussien, sous les yeux de l'empereur et de son élève : c'est le [[combat-de-sarrebruck|combat de Sarrebruck]], petite affaire aussitôt célébrée. Le 6, retranché sur les hauteurs de [[bataille-de-spicheren|Spicheren]], qu'il tient pour une position magnifique, il résiste tout le jour à des Prussiens de plus en plus nombreux, attend en vain les divisions de [[bazaine|Bazaine]] et ordonne la retraite vers 19 h, quand l'ennemi menace Forbach et sa ligne de retraite. Il a infligé plus de pertes qu'il n'en a subi ; il n'en est pas moins vaincu, le jour même de [[bataille-de-froeschwiller-woerth|Frœschwiller]].
+texte: Le 16 août, à [[bataille-de-mars-la-tour|Rezonville]], son corps, le plus avancé sur la route de Verdun, reçoit le premier choc des Prussiens et perd Vionville et Flavigny. Le 18, à [[bataille-de-gravelotte|Gravelotte]], retranché au Point-du-Jour, au-dessus du ravin de la Mance, il repousse toute la journée les attaques de la Ire armée. Bloqué dans Metz, il est fait prisonnier à la capitulation. Rentré, il publie en 1872 un *Rapport sur les opérations du 2e corps* et retrouve le comité des fortifications, qu'il préside à partir de 1874 et qui prépare la nouvelle défense des frontières. Il meurt en 1875 à Châteauvillain, en Haute-Marne.
+repere: 1807 — Il naît à Versailles.
+repere: mai 1855 — Il est fait général après avoir dirigé devant Sébastopol les travaux d'attaque contre Malakoff.
+repere: 1867 — Napoléon III le nomme gouverneur du prince impérial.
+repere: 2 août 1870 — Son 2e corps enlève les hauteurs de Sarrebruck.
+repere: 6 août 1870 — Battu à Spicheren, il se retire sur Sarreguemines.
+repere: 16 août 1870 — À Rezonville, son corps reçoit le premier choc.
+repere: 18 août 1870 — À Gravelotte, il tient le Point-du-Jour toute la journée.
+repere: 27 octobre 1870 — Il est fait prisonnier à la capitulation de Metz.
+repere: 1875 — Il meurt à Châteauvillain.
+lien: wp Charles Auguste Frossard
+lien: de Charles Auguste Frossard
+sources: Wikipédia (fr, de et en : Charles Auguste Frossard ; de : Schlacht bei Mars-la-Tour) ; les dates exactes de naissance et de mort diffèrent entre les pages française et allemande, d'où les seules années ici.
+voir: combat-de-sarrebruck, bataille-de-spicheren, bataille-de-mars-la-tour, bataille-de-gravelotte, armee-du-rhin, napoleon-iii, siege-de-metz
+
+@ abel-douay
+cat: personnages
+nom: Abel Douay
+alias: Charles Abel Douay, général Douay, général Abel Douay, Schafbusch, Geisberg
+dates: 1809 – 1870
+an: 1809
+fin: 1870
+camp: fr
+role: commandant de la 2e division du 1er corps
+def: Général de division, il commande la 2e division du 1er corps, envoyée seule à Wissembourg ; le 4 août 1870, attaqué par la IIIe armée allemande, il est mortellement blessé en ordonnant la retraite. C'est le premier général français tué dans la guerre.
+texte: Né à Draguignan en 1809, fils d'un capitaine d'infanterie, Charles Abel Douay sort de Saint-Cyr en 1829 et fait une longue carrière de fantassin : infanterie de marine aux Antilles, chasseurs à pied à Strasbourg de 1840 à 1844, 8e bataillon de chasseurs en Algérie, où il assiste à la soumission d'Abd el-Kader. Général de brigade en 1855, il est blessé au pied à Solférino, le 24 juin 1859, le jour où son frère Gustave y est tué à la tête de son régiment ; un autre frère, Félix, est lui aussi général. Divisionnaire en 1866, il commande la 7e division militaire, à Besançon.
+texte: Le 17 juillet 1870, il reçoit la 2e division du 1er corps de [[mac-mahon|Mac-Mahon]]. Envoyée seule à Wissembourg, incomplète et sans renseignements, sa division est attaquée le 4 août au matin par trois corps allemands ([[bataille-de-wissembourg]]). Vers 10 h 30, Douay comprend qu'il a devant lui une armée et ordonne la retraite vers le col du Pigeonnier ; vers 11 h, un éclat d'obus l'atteint au ventre. Transporté à la ferme du Schafbusch, il y meurt quelques minutes plus tard. Mac-Mahon, à quelques kilomètres, l'ignore longtemps : à 14 h 30, il télégraphie encore à l'empereur que Douay est « blessé très grièvement » ; ce n'est qu'à 22 h qu'il annonce sa mort. Le soir, le [[kronprinz-frederic-guillaume|Kronprinz]] vient se recueillir devant sa dépouille, scène qu'Anton von Werner peindra en 1889-1890 après avoir interrogé les témoins. Le surlendemain, le sous-préfet Hepp le fait inhumer à Wissembourg ; des fusils prussiens tirent des salves sur la fosse.
+texte: Ses restes reposent depuis 1872 au nouveau cimetière de Wissembourg ; sa tunique est au musée de l'Armée. Une stèle marque sur le Geisberg l'endroit où il fut frappé, et le monument français du Geisberg, inauguré en 1909 devant quelque 50 000 personnes, détruit en 1940 et rebâti en 1960, honore les soldats tombés « sous le général Abel Douay ». Draguignan a donné son nom à une caserne et à une place.
+repere: 2 mars 1809 — Il naît à Draguignan.
+repere: 24 juin 1859 — Il est blessé à Solférino, où son frère Gustave est tué.
+repere: 12 août 1866 — Il est nommé général de division.
+repere: 17 juillet 1870 — Il reçoit la 2e division du 1er corps de l'armée du Rhin.
+repere: 4 août 1870, vers 11 h — Mortellement blessé à Wissembourg, il meurt à la ferme du Schafbusch.
+repere: 17 octobre 1909 — Le monument français du Geisberg est inauguré.
+attention: Il ne faut le confondre ni avec son frère cadet Félix Douay, chef du 7e corps à Belfort puis à Sedan, qui survécut à la guerre, ni avec le général Raoult, que des récits donnent parfois pour le général tué à Wissembourg : Raoult fut mortellement blessé deux jours plus tard, à Frœschwiller.
+lien: wp Abel Douay
+lien: de Abel Douay
+sources: Wikipédia (fr : Abel Douay, Bataille de Wissembourg (1870) ; de : Abel Douay)
+voir: bataille-de-wissembourg, mac-mahon, ducrot, kronprinz-frederic-guillaume, armee-d-afrique, sur-les-champs-de-bataille-d-alsace
+
+@ ducrot
+cat: personnages
+nom: Ducrot
+alias: Auguste-Alexandre Ducrot, Auguste Alexandre Ducrot, général Ducrot, fort Ducrot, « pot de chambre », « mort ou victorieux »
+dates: 1817 – 1882
+an: 1817
+fin: 1882
+camp: fr
+role: commandant de la 1re division, puis du 1er corps ; à Paris, de la 2e armée
+def: Général de division, il commande à Strasbourg avant la guerre et s'y inquiète de la Prusse, mène une division à Frœschwiller, puis le 1er corps et, quelques heures, l'armée à Sedan ; évadé, il dirige à Paris la grande sortie de Champigny.
+texte: Né à Nevers en 1817, saint-cyrien, Auguste-Alexandre Ducrot fait en Algérie, dans les bureaux arabes et les colonnes, l'essentiel d'une carrière qui passe aussi par la Baltique, l'Italie de 1859 et la Syrie. Général de division en 1865, il commande à Strasbourg, de 1865 à mai 1870, la 6e division militaire, et observe l'Allemagne de près. Après Sadowa, il est avec [[trochu|Trochu]] de ceux qui réclament des réformes. Dans les débats de 1866 sur les places de l'Est, il juge que Strasbourg, faute de forts détachés, ne tiendrait pas huit jours devant l'artillerie moderne ; en 1869, il écrit à [[frossard|Frossard]] pour l'alerter sur les préparatifs prussiens. On ne l'écoute guère : en 1870, la place n'a toujours aucun fort avancé.
+texte: Rappelé à Strasbourg le 17 juillet 1870, il reçoit la 1re division du 1er corps de [[mac-mahon|Mac-Mahon]]. Il connaît le pays et, à la fin de juillet, fait évacuer Wissembourg et Lauterbourg pour ne pas disperser ses troupes ; mais le 3 août, il se dit convaincu que l'ennemi n'est en force nulle part à proximité, et le lendemain la division d'[[abel-douay|Abel Douay]], renvoyée à Wissembourg, y est écrasée. Le 6, à [[bataille-de-froeschwiller-woerth|Frœschwiller]], où il avait plaidé à l'aube pour un repli vers les Vosges, il tient l'aile gauche face aux Bavarois. Le 17 août, au camp de Châlons, il prend le 1er corps.
+texte: À Sedan, le 31 août, il conseille en vain de masser l'armée sur le plateau d'Illy pour garder la route de Mézières. Le 1er septembre, Mac-Mahon blessé lui remet le commandement ; vers 7 h, il ordonne la retraite vers l'ouest. Vers 8 h 30, [[wimpffen|Wimpffen]] lui prend le commandement et casse l'ordre. Ducrot reprend son corps, lance l'après-midi la cavalerie aux [[charges-de-floing|charges de Floing]], et refuse ensuite d'endosser une capitulation qu'il n'a pas voulue. On lui prête sur la situation de l'armée le mot cru du « pot de chambre », resté parmi les [[mots-de-1870|mots de 1870]].
+texte: Prisonnier, il donne sa parole de se présenter à Pont-à-Mousson, où on le laisse se rendre seul ; il s'y présente, s'échappe dans la cohue de la gare et rentre à Paris le 16 septembre. Le gouvernement de la Défense nationale lui confie les 13e et 14e corps : le 19 septembre, il échoue à garder les hauteurs de Châtillon ([[combat-de-chatillon]]), et l'investissement se referme. En novembre, il reçoit la 2e armée de Paris. Avant la grande sortie sur la Marne, il jure dans une proclamation de ne rentrer dans Paris que « mort ou victorieux » ; du 30 novembre au 3 décembre, à [[bataille-de-champigny|Champigny]] et à Villiers, ses troupes passent la rivière, se brisent sur les hauteurs tenues par les Wurtembergeois et les Saxons, puis repassent la Marne par −14 °C. Il revient vivant, légèrement blessé à la nuque, et vaincu. Il combat encore à [[bataille-de-buzenval|Buzenval]], le 19 janvier 1871.
+texte: Élu député légitimiste de la Nièvre le 8 février 1871, il se justifie par ses livres, *La Journée de Sedan* (1871), *Wissembourg* (1873), *La Défense de Paris*, contre Wimpffen surtout. Commandant du 8e corps à Bourges à partir de 1872, il travaille ouvertement à la restauration du comte de Chambord ; pendant la crise du 16 mai 1877, il suggère à Mac-Mahon un cabinet militaire où il prendrait l'Intérieur. La victoire des républicains lui coûte son commandement. Il meurt à Versailles le 16 août 1882. Après 1918, l'un des forts allemands de la ceinture de Strasbourg, à Mundolsheim, reçoit son nom.
+repere: 24 février 1817 — Il naît à Nevers.
+repere: 1865 — Général de division, il prend à Strasbourg le commandement de la 6e division militaire.
+repere: 17 juillet 1870 — Rappelé à Strasbourg, il reçoit la 1re division du 1er corps.
+repere: 6 août 1870 — Il tient l'aile gauche française à Frœschwiller.
+repere: 1er septembre 1870, vers 7 h — À Sedan, il succède à Mac-Mahon blessé et ordonne la retraite ; Wimpffen l'annule.
+repere: 16 septembre 1870 — Évadé à Pont-à-Mousson, il arrive à Paris.
+repere: 30 novembre 1870 — Il lance la grande sortie de la Marne, à Champigny et Villiers.
+repere: 8 février 1871 — Il est élu député de la Nièvre.
+repere: 16 août 1882 — Il meurt à Versailles.
+attention: A-t-il manqué à sa parole ? Les sources ne s'accordent pas sur ce qu'il avait promis : de se présenter à Pont-à-Mousson, ce qu'il fit avant de s'enfuir de la gare, ou de ne plus combattre pendant la guerre. Dans le premier cas, sa parole était tenue et son évasion celle d'un prisonnier ordinaire ; dans le second, il se parjura, comme l'affirma Bismarck dans une circulaire qui le flétrissait et qui trouva de l'écho jusque chez des officiers français.
+lien: wp Auguste Alexandre Ducrot
+lien: wp Fort Ducrot
+lien: en Auguste-Alexandre Ducrot
+sources: Wikipédia (fr : Auguste Alexandre Ducrot, Fort Ducrot, Bataille de Champigny ; de et en : Auguste-Alexandre Ducrot ; de : Schlacht von Sedan) ; Archives d'Alsace, D. Hartmann, « La guerre de 1870 : la déchirure », fiche 14 (avis de Ducrot sur Strasbourg, d'après fort-frere.fr) ; Prodromes de Frœschwiller).
+voir: bataille-de-froeschwiller-woerth, bataille-de-sedan, wimpffen, mac-mahon, bataille-de-champigny, siege-de-strasbourg, combat-de-chatillon, mots-de-1870
+
+@ wimpffen
+cat: personnages
+nom: Wimpffen
+alias: Emmanuel Félix de Wimpffen, baron de Wimpffen, général de Wimpffen, Wimpfen, Emanuel Félix de Wimpffen
+dates: 1811 – 1884
+an: 1811
+fin: 1884
+camp: fr
+role: commandant du 5e corps, puis de l'armée de Châlons à Sedan
+def: Général venu d'Algérie, il rejoint l'armée de Châlons à la veille de Sedan avec une lettre qui lui donne la succession de Mac-Mahon ; le 1er septembre 1870, il prend le commandement à Ducrot, annule la retraite et signe le lendemain la capitulation.
+texte: Né à Laon en 1811, fils naturel d'un général baron d'Empire, Emmanuel Félix de Wimpffen sort de Saint-Cyr en 1832 et fait presque toute sa carrière avec les troupes d'Afrique : il commande en 1848 le bataillon de tirailleurs indigènes d'Alger, mène en Crimée un régiment de tirailleurs algériens à l'Alma et à Inkerman, et devient général de brigade en 1855. Blessé à Magenta à la tête d'une brigade de la Garde, il est fait général de division le lendemain, 5 juin 1859. Commandant de la province d'Alger, puis de celle d'Oran, il conduit au printemps de 1870 une colonne de 3 000 hommes jusqu'à l'oued Guir, aux confins du Sud. En juillet, on ne lui donne rien dans l'[[armee-du-rhin|armée du Rhin]].
+texte: Après les défaites d'août, le [[comte-de-palikao|comte de Palikao]] l'appelle à remplacer Failly à la tête du 5e corps et lui remet une lettre de service qui lui confie le commandement de l'[[armee-de-chalons|armée de Châlons]] si [[mac-mahon|Mac-Mahon]] venait à être empêché. Il rejoint l'armée au lendemain de [[bataille-de-beaumont|Beaumont]], parmi les fuyards du 5e corps. Le 1er septembre, vers 8 h 30, quand [[ducrot|Ducrot]], désigné par le maréchal blessé, a déjà ordonné la retraite vers Mézières, il produit sa lettre, réclame le commandement comme plus ancien et annule l'ordre : il veut percer à l'est, vers Carignan. Il s'y obstine toute la journée, dégarnit le nord pour nourrir l'attaque, rallie l'après-midi quelques milliers d'hommes avec Lebrun, invite l'empereur à se mettre à leur tête et pousse jusqu'à Balan. Quand le drapeau blanc monte sur la citadelle, il refuse encore de s'y résoudre.
+texte: Le soir, l'empereur le charge de négocier. Il tente de se récuser, puis passe la nuit à Donchery face à [[moltke|Moltke]] et à Bismarck, demande en vain que l'armée soit libérée sur parole et signe le 2 septembre, au château de Bellevue, la [[capitulation-de-sedan|capitulation]] qui fait prisonniers 83 000 hommes. Interné en Allemagne, il se retire ensuite à Alger, mais passe ses dernières années à se défendre : dès 1871, son *Sedan* et *La Journée de Sedan* de Ducrot ouvrent une querelle de responsabilités qui ne s'éteindra pas. Candidat républicain à Saint-Denis en 1876, il recueille 1 717 voix sur 12 679. Il meurt à Paris en 1884 ; les papiers qu'il laisse paraissent en 1887 sous le titre *La Bataille de Sedan. Les véritables coupables*.
+repere: 13 septembre 1811 — Il naît à Laon.
+repere: 5 juin 1859 — Blessé la veille à Magenta, il est nommé général de division.
+repere: avril 1870 — Il conduit une colonne de 3 000 hommes jusqu'à l'oued Guir, dans le Sud algérien.
+repere: 31 août 1870 — Nommé à la tête du 5e corps, il rejoint l'armée de Châlons autour de Sedan.
+repere: 1er septembre 1870, vers 8 h 30 — Il prend le commandement de l'armée et annule la retraite ordonnée par Ducrot.
+repere: nuit du 1er au 2 septembre 1870 — À Donchery, il négocie en vain avec Moltke et Bismarck.
+repere: 2 septembre 1870 — Il signe la capitulation au château de Bellevue.
+repere: 1884 — Il meurt à Paris.
+attention: Wimpffen a-t-il perdu Sedan en cassant l'ordre de retraite de Ducrot ? C'est la thèse de Ducrot et de ses partisans. Mais Moltke attendait justement ce mouvement vers l'ouest : le XIe corps tenait déjà Donchery et la route de Mézières, et le Ve corps montait vers Illy, si bien qu'il est douteux que la retraite eût sauvé plus qu'une partie de l'armée. La faute première, l'entrée dans la cuvette de Sedan, n'était pas la sienne.
+lien: wp Emmanuel Félix de Wimpffen
+lien: en Emmanuel Félix de Wimpffen
+sources: Wikipédia (fr : Emmanuel Félix de Wimpffen, Bataille de Sedan ; de : Emanuel Félix de Wimpffen, Schlacht von Sedan ; en : Emmanuel Félix de Wimpffen, Battle of Sedan ; it : Battaglia di Sedan).
+voir: bataille-de-sedan, capitulation-de-sedan, ducrot, mac-mahon, comte-de-palikao, armee-de-chalons, armee-d-afrique
+
+@ bourbaki
+cat: personnages
+nom: Bourbaki
+alias: Charles Denis Bourbaki, Charles Denis Sauter Bourbaki, général Bourbaki, affaire Régnier, armée de Bourbaki, panorama Bourbaki
+dates: 1816 – 1897
+an: 1816
+fin: 1897
+camp: fr
+role: commandant de la Garde impériale, puis de l'armée de l'Est
+def: Général d'ascendance grecque, chef de la Garde impériale en 1870, il quitte Metz assiégé pour une mission imaginaire auprès de l'impératrice ; rallié à Gambetta, il conduit l'armée de l'Est vers Belfort, échoue sur la Lizaine et tente de se tuer avant l'internement de ses troupes en Suisse.
+texte: Né à Pau en 1816, fils d'un colonel grec de la Grande Armée mort en 1827 dans la guerre d'indépendance de la Grèce, Charles Denis Bourbaki doit sa réputation à l'armée d'Afrique : zouaves, Légion étrangère, tirailleurs de Constantine, puis le 1er zouaves, qu'il commande au siège de Laghouat en 1852. Il se distingue en Crimée, à l'Alma, à Inkerman et devant Sébastopol, puis à Magenta et à Solférino ; en 1862, on lui propose le trône vacant de Grèce, qu'il décline. Commandant d'une division de la Garde, aide de camp de l'empereur en 1869, il reçoit en juillet 1870 le commandement de toute la Garde impériale.
+texte: Le 18 août, à [[bataille-de-gravelotte|Saint-Privat]], la Garde est la seule réserve de [[bazaine|Bazaine]] : elle reste presque tout le jour derrière la gauche, et quand Bourbaki se décide à porter une division vers le nord, il la ramène devant le flot des fuyards. On le lui reprochera. Puis vient l'affaire la plus étrange du siège de Metz. Le 23 septembre se présente au quartier général un certain Edmond Régnier, muni d'un laissez-passer de [[bismarck|Bismarck]] et d'une photographie signée du prince impérial ; il assure que la paix se négocie et que l'impératrice attend en Angleterre un maréchal ou un général de l'armée de Metz. Bazaine laisse partir Bourbaki, qui traverse les lignes allemandes et gagne Hastings : l'[[imperatrice-eugenie|impératrice]] ne l'a pas appelé et ne sait rien. Revenu sur le continent, il ne peut rentrer dans Metz, son sauf-conduit allemand étant périmé de quelques jours.
+texte: Il offre alors ses services à [[gambetta|Gambetta]]. Le 22 octobre, il reçoit le commandement de la région du Nord, où il commence à organiser, avec le colonel Farre et le préfet Testelin, l'[[armee-du-nord|armée du Nord]] ; rappelé le 10 novembre, il passe à l'armée de la Loire. À la fin de décembre, la Délégation lui confie la grande manœuvre de l'hiver : porter vers l'est, par chemin de fer, une armée de plus de cent mille hommes pour débloquer Belfort et menacer les communications allemandes. C'est l'[[armee-de-l-est|armée de l'Est]]. Le 9 janvier 1871, il bat Werder à [[bataille-de-villersexel|Villersexel]] mais n'en tire rien ; du 15 au 17 janvier, ses troupes mal nourries et mal équipées échouent en plein hiver sur la Lizaine, à trois lieues de Belfort ([[bataille-d-hericourt]]). Prises entre Werder et l'armée du Sud de [[edwin-von-manteuffel|Manteuffel]], elles refluent sur Besançon, puis vers Pontarlier.
+texte: Le 26 janvier, voyant son armée perdue, il remet le commandement à [[clinchant|Clinchant]] et, dans la nuit, se tire une balle dans la tête ; la balle dévie sur le crâne, et il survit. C'est Clinchant qui conduit l'armée en Suisse, où plus de 80 000 hommes sont internés au début de février ([[retraite-de-l-armee-de-l-est]]). Rétabli, fait grand-croix de la Légion d'honneur en avril 1871, Bourbaki devient en juillet gouverneur militaire de Lyon. Soupçonné d'avoir trempé dans le complot militaire présumé de 1877, il est relevé en février 1879. Il meurt à Bayonne en 1897. Son nom reste attaché au panorama d'Édouard Castres, à Lucerne, qui montre l'entrée de son armée en Suisse.
+repere: 22 avril 1816 — Il naît à Pau.
+repere: 1862 — Il décline le trône de Grèce qu'on lui propose.
+repere: juillet 1870 — Il reçoit le commandement de la Garde impériale.
+repere: 18 août 1870 — À Saint-Privat, la Garde reste presque inemployée.
+repere: septembre 1870 — Sur la foi de Régnier, il quitte Metz pour l'Angleterre, et n'y peut rentrer.
+repere: 22 octobre 1870 — Gambetta lui confie la région du Nord.
+repere: 9 janvier 1871 — Il bat Werder à Villersexel.
+repere: 15 janvier 1871 — L'armée de l'Est attaque sur la Lizaine ; elle renonce le 17.
+repere: 26 janvier 1871 — Il remet le commandement à Clinchant et tente de se suicider.
+repere: 22 septembre 1897 — Il meurt à Bayonne.
+attention: « L'armée de Bourbaki » qui entre en Suisse, comme disent le panorama de Lucerne et bien des manuels, n'était plus commandée par lui : c'est Clinchant qui signa le 1er février 1871 aux Verrières la convention d'internement, Bourbaki ayant remis son commandement et tenté de se tuer six jours plus tôt. On lui reprocha aussi, après la guerre, un excès de prudence sur la Lizaine ; les officiers de son entourage l'ont contesté.
+lien: wp Charles Denis Bourbaki
+lien: en Charles-Denis Bourbaki
+sources: Wikipédia (fr : Charles Denis Bourbaki ; en : Charles-Denis Bourbaki ; fr : Bataille de Saint-Privat).
+voir: armee-de-l-est, bataille-d-hericourt, retraite-de-l-armee-de-l-est, clinchant, siege-de-metz, bazaine, imperatrice-eugenie, armee-du-nord
+
+@ general-uhrich
+cat: personnages
+nom: Le général Uhrich
+alias: Jean-Jacques Uhrich, Jean-Jacques-Alexis Uhrich, Jean Uhrich, Uhrich, avenue Uhrich, fort Uhrich
+dates: 1802 – 1886
+an: 1802
+fin: 1886
+camp: fr
+role: gouverneur de Strasbourg pendant le siège
+def: Général de division rappelé de sa retraite en juillet 1870, ce Lorrain de Phalsbourg commande la place de Strasbourg pendant le siège et la rend le 28 septembre 1870, la brèche ouverte. Fêté à Paris, il est blâmé en 1872 par le conseil d'enquête sur les capitulations.
+texte: Né à Phalsbourg en 1802, Jean-Jacques Uhrich appartient à la toute première promotion de Saint-Cyr (1818-1820). Fantassin, il fait la campagne d'Espagne de 1823, sert en Algérie à partir de 1834, commande une brigade de la Garde au siège de Sébastopol, puis une division en Italie en 1859. Conseiller général du canton de Phalsbourg, il est à la retraite quand la guerre éclate. Rappelé, il prend à soixante-huit ans le commandement de la 6e division militaire et de la place de Strasbourg ; depuis le 21 juillet 1870, la garnison est sous ses ordres.
+texte: Le départ du 1er corps vers le nord, puis la défaite de [[bataille-de-froeschwiller-woerth|Frœschwiller]], lui laissent une place sans forts détachés, une artillerie disparate et une garnison de rencontre — quelques bataillons, des fuyards, des marins, des douaniers, la garde mobile —, environ 17 000 hommes. Il tient quarante-six jours de blocus et de bombardement contre les Badois et les Prussiens de [[august-von-werder|Werder]] ([[siege-de-strasbourg]]). Le 27 septembre, quand le génie lui annonce que la brèche du bastion 11 est praticable et l'assaut possible d'une heure à l'autre, il réunit le conseil de défense et décide de capituler, pour épargner à la ville l'assaut et le combat de rues. Le drapeau blanc monte sur la cathédrale ; dans les rues, des groupes crient : « Uhrich est un traître, Kuss est un Prussien ! » La capitulation est signée le 28 à 2 h du matin, dans un wagon, à Koenigshoffen.
+texte: Il est d'abord un héros : Paris a donné son nom à une avenue pendant le siège, Nantes le donne à un quai le 4 octobre, et le gouvernement de la Défense nationale le fait grand-croix de la Légion d'honneur le 6 octobre 1870. Le revers vient avec la paix : en 1872, le conseil d'enquête sur les capitulations lui adresse un blâme, et Uhrich répond en publiant ses *Documents relatifs au siège de Strasbourg*. L'avenue Uhrich redevient avenue du Bois-de-Boulogne, l'actuelle avenue Foch. Sa ville natale, assiégée elle aussi en 1870 ([[siege-de-phalsbourg]]), devient allemande avec l'annexion. Il meurt à Paris en 1886 ; en 1918, l'un des forts allemands de la ceinture de Strasbourg, à Illkirch-Graffenstaden, reçoit son nom.
+repere: 15 février 1802 — Il naît à Phalsbourg.
+repere: 1818 — Il entre à Saint-Cyr, dans la première promotion de l'école.
+repere: 1859 — Il commande une division pendant la campagne d'Italie.
+repere: 21 juillet 1870 — Rappelé de sa retraite, il prend en main la garnison de Strasbourg.
+repere: 13 août 1870 — Strasbourg est investie.
+repere: 27 septembre 1870, 14 h — Averti que la brèche est praticable, il décide avec le conseil de défense de capituler.
+repere: 28 septembre 1870, 2 h — La capitulation est signée à Koenigshoffen.
+repere: 6 octobre 1870 — Il est fait grand-croix de la Légion d'honneur.
+repere: 1872 — Le conseil d'enquête sur les capitulations le blâme.
+repere: 9 octobre 1886 — Il meurt à Paris.
+lien: wp Jean Uhrich
+lien: de Jean-Jacques Uhrich
+sources: Wikipédia (fr : Jean Uhrich, Enceinte de Strasbourg ; de : Jean-Jacques Uhrich) ; Archives d'Alsace, D. Hartmann, « La guerre de 1870 : la déchirure », fiche 14, d'après F. Burckel, *Strasbourg brûle-t-il ?*, 2010, et le journal d'Ernest Frantz
+voir: siege-de-strasbourg, august-von-werder, emile-kuss, siege-de-phalsbourg, places-fortes-en-1870, ducrot
+
+@ general-margueritte
+cat: personnages
+nom: Le général Margueritte
+alias: Jean-Auguste Margueritte, général Margueritte, Margueritte, croix Margueritte, chat de Margueritte
+dates: 1823 – 1870
+an: 1823
+fin: 1870
+camp: fr
+role: commandant de la division de cavalerie de réserve de l'armée de Châlons
+def: Officier de cavalerie sorti du rang et formé en Algérie, il commande à Sedan la division de chasseurs d'Afrique et de cavalerie légère ; blessé au visage avant les charges de Floing, le 1er septembre 1870, il meurt cinq jours plus tard. Il est le père des écrivains Paul et Victor Margueritte.
+texte: Né en 1823 à Manheulles, dans la Meuse, fils d'un gendarme envoyé en Algérie en 1831, Jean-Auguste Margueritte grandit à Kouba, apprend l'arabe très jeune et s'engage à quatorze ans comme interprète chez les gendarmes maures. Il gravit tous les grades en Afrique — spahis, bureaux arabes de Miliana et de Teniet el-Had, commandement du cercle de Laghouat —, sert au Mexique, commande les 3e puis 1er chasseurs d'Afrique et devient général de brigade en 1867. Il écrit aussi sur la chasse et les Arabes ; un petit félin du désert, le chat des sables, porte son nom scientifique, *Felis margarita*.
+texte: En 1870, il commande à l'armée du Rhin une brigade de [[armee-d-afrique|chasseurs d'Afrique]] ; blessé d'un coup de sabre le 12 août près de Pont-à-Mousson, il escorte le 16 l'empereur de Gravelotte à Verdun. À l'armée de Châlons, il reçoit une division de réserve : des chasseurs d'Afrique, des hussards, des chasseurs à cheval et deux batteries à cheval. Le 1er septembre, sur le plateau qui sépare Floing d'Illy, il est promu général de division ; vers 14 h, parti reconnaître le terrain avant la charge que [[ducrot|Ducrot]] vient d'ordonner, il reçoit une balle qui lui traverse les joues et lui coupe la langue. Défiguré, muet, il passe devant ses chasseurs, qui l'acclament, et leur montre l'ennemi du geste ; ses escadrons chargent sous [[galliffet|Galliffet]] ([[charges-de-floing]]). Évacué en Belgique, il meurt le 6 septembre au château de Beauraing.
+texte: Sa mort fait de lui une figure du souvenir : statues, croix près d'Illy, une allée du Champ-de-Mars à Paris, le lycée de Verdun gardent son nom. Ses fils lui consacrent des livres, *Mon père* de Paul (1884), *Un grand Français* de Victor (1930), et écrivent ensemble une *Histoire de la guerre de 1870-71* et *Les Braves Gens*, dont un récit raconte la charge du plateau d'Illy ([[litterature-de-la-guerre]]).
+repere: 15 janvier 1823 — Il naît à Manheulles, dans la Meuse.
+repere: 1er décembre 1867 — Il est nommé général de brigade, à Alger.
+repere: 12 août 1870 — Il est blessé d'un coup de sabre au combat de Pont-à-Mousson.
+repere: 16 août 1870 — Ses chasseurs d'Afrique escortent l'empereur de Gravelotte à Verdun.
+repere: 1er septembre 1870, vers 14 h — Promu général de division le jour même, il est grièvement blessé au visage au-dessus de Floing.
+repere: 6 septembre 1870 — Il meurt au château de Beauraing, en Belgique.
+attention: Les récits divergent sur sa blessure : selon les uns, il tomba en menant la première charge ; selon l'historique du 1er chasseurs d'Afrique et la page allemande de Wikipédia, il fut atteint en reconnaissant le terrain, avant l'attaque, et c'est Galliffet qui mena les escadrons. Il ne mourut pas sur le champ de bataille, mais cinq jours plus tard, en Belgique.
+lien: wp Jean-Auguste Margueritte
+lien: de Jean-Auguste Margueritte
+sources: Wikipédia (fr : Jean-Auguste Margueritte, 1er régiment de chasseurs d'Afrique ; de : Jean-Auguste Margueritte, Schlacht von Sedan ; en : Jean Auguste Margueritte, Battle of Sedan).
+voir: charges-de-floing, bataille-de-sedan, galliffet, armee-d-afrique, cavalerie-en-1870, litterature-de-la-guerre
+
+@ galliffet
+cat: personnages
+nom: Galliffet
+alias: Gaston de Galliffet, marquis de Galliffet, général de Galliffet, Gallifet, « Tant qu'il en restera un », « Assassin ? Présent ! »
+dates: 1830 – 1909
+an: 1830
+fin: 1909
+camp: fr
+role: commandant d'une brigade de chasseurs d'Afrique à Sedan
+def: Officier de cavalerie, général de brigade à la veille de Sedan, il mène le 1er septembre 1870 les charges de Floing après la blessure de Margueritte ; en 1871, il prend une part sanglante à la répression de la Commune, et devient en 1899 ministre de la Guerre.
+texte: Né à Paris en 1830 dans une famille noble que la Révolution avait en partie ruinée, Gaston de Galliffet s'engage en 1848 et fait carrière à cheval : guides de la Garde en Crimée, Algérie, Italie, puis Mexique, où il est très grièvement blessé au ventre devant Puebla, le 19 avril 1863. Officier d'ordonnance de Napoléon III, familier de la cour, il commande ensuite la contre-guérilla au Mexique, puis, colonel en 1867, le 3e chasseurs d'Afrique, avec lequel il entre en campagne en 1870 ; le 16 août, il fait partie de l'escorte qui conduit l'empereur de Gravelotte à Verdun.
+texte: Nommé général de brigade le 30 août, il reçoit dans la division [[general-margueritte|Margueritte]] la brigade des chasseurs d'Afrique. Le 1er septembre, à [[bataille-de-sedan|Sedan]], quand Margueritte tombe, blessé au visage, c'est lui qui prend la tête des escadrons et les relance à plusieurs reprises contre l'infanterie du XIe corps prussien, au-dessus de Floing : ce sont les [[charges-de-floing|charges de Floing]], qui lui valent une gloire durable. Il est fait prisonnier à la capitulation.
+texte: Rentré de captivité en mars 1871, il reçoit une brigade de cavalerie de l'armée de Versailles. Contre la [[commune-de-paris|Commune]], dès avril puis pendant la Semaine sanglante, il fait fusiller sans jugement des prisonniers, qu'il choisit parfois lui-même dans les colonnes de captifs ; le surnom de « massacreur de la Commune » ne le quittera plus. Réformateur de la cavalerie dans les années 1880, membre du Conseil supérieur de la guerre, il devient le 22 juin 1899, en pleine affaire Dreyfus, ministre de la Guerre de Waldeck-Rousseau. Aux députés de gauche qui l'accueillent aux cris d'« Assassin ! », il lance : « Assassin ? Présent ! » Il démissionne en mai 1900 et meurt à Paris en 1909.
+repere: 23 janvier 1830 — Il naît à Paris.
+repere: 19 avril 1863 — Il est grièvement blessé au ventre au siège de Puebla, au Mexique.
+repere: 1867 — Il devient colonel du 3e chasseurs d'Afrique.
+repere: 30 août 1870 — Il est nommé général de brigade.
+repere: 1er septembre 1870 — Après la blessure de Margueritte, il mène les charges de Floing.
+repere: mai 1871 — À la tête d'une brigade de l'armée de Versailles, il prend part à la répression de la Commune.
+repere: 22 juin 1899 — Il devient ministre de la Guerre dans le cabinet Waldeck-Rousseau.
+repere: juillet 1909 — Il meurt à Paris.
+attention: Le nombre de ses victimes de 1871 reste discuté : ses adversaires parlaient de 3 000 fusillés, des estimations plus récentes et mal assurées le ramènent à quelques dizaines ou quelques centaines. Les exécutions sans jugement, elles, ne font pas de doute ; la scène où il fait sortir des rangs les prisonniers aux cheveux gris, coupables à ses yeux d'avoir « vu juin 1848 », est restée attachée à son nom. Sa date de naissance varie aussi : 1830 pour la plupart des sources, 1831 pour la page française de Wikipédia.
+lien: wp Gaston de Galliffet
+lien: de Gaston de Galliffet
+sources: Wikipédia (fr : Gaston de Galliffet, 1er régiment de chasseurs d'Afrique ; de : Gaston de Galliffet ; en : Gaston, Marquis de Galliffet) ; Fondation Napoléon, compte rendu de R. Biguenet et L. Corlouër, *Tant qu'il en restera un !*, 2026.
+voir: charges-de-floing, general-margueritte, bataille-de-sedan, commune-de-paris, armee-d-afrique, cavalerie-en-1870

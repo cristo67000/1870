@@ -1,0 +1,566 @@
+# 1870 — lot 12 : armes et techniques. Les seize articles de la catégorie « armes », dans l'ordre du plan.
+# Fiches techniques : mêmes libellés d'une arme à l'autre (Mise en service, Calibre, Longueur, Poids,
+# Mécanisme, Munition, Portée utile, Portée maximale ou Hausse graduée jusqu'à, Cadence, Production ;
+# pour les canons : Calibre, Métal, Chargement, Poids de l'obus, Portée utile, Portée maximale, Fusée, Cadence).
+# Chiffres vérifiés sur Wikipédia (fr, de, en) ; les fourchettes sont dites dans le texte.
+
+# ── Les fusils ─────────────────────────────────────────────────────────────
+
+@ fusil-chassepot
+cat: armes
+nom: Le fusil Chassepot
+alias: Chassepot, chassepot, fusil modèle 1866, fusil d'infanterie modèle 1866, fusil à aiguille français, Chassepotgewehr, Mutzig
+dates: 1866 – 1874
+camp: fr
+def: Fusil réglementaire de l'infanterie française en 1870, adopté le 30 août 1866 : une arme à verrou de 11 mm, chargée par la culasse, qui porte deux fois plus loin que le fusil Dreyse des Prussiens et leur inflige l'essentiel de leurs pertes.
+texte: Antoine Alphonse Chassepot naît le 4 mars 1833 à Mutzig, dans le Bas-Rhin, où une manufacture d'armes occupe l'ancien château des Rohan. Fils et neveu de contrôleurs d'armes, il entre à dix-huit ans à la manufacture de Châtellerault, puis travaille à celle de Saint-Étienne. Dès 1858, il présente un fusil qui se charge par la culasse et dont la fermeture est rendue étanche par une rondelle de caoutchouc ; l'arme, essayée dans la troupe en 1863, ne convainc pas. Tout change le 3 juillet 1866 : à Sadowa, le fusil à aiguille des Prussiens écrase l'infanterie autrichienne, qui charge encore ses armes par la bouche. [[napoleon-iii|Napoléon III]], qui pousse depuis 1864 à l'adoption d'une arme à culasse, fait presser les essais. Le 30 août 1866, le troisième modèle de Chassepot, à aiguille cette fois, devient le « fusil d'infanterie modèle 1866 ». L'inventeur reçoit la Légion d'honneur et une prime de 30 000 francs.
+texte: C'est une arme à un coup, à verrou. Le tireur arme, relève le levier, tire la culasse en arrière, glisse une cartouche dans la chambre, repousse et rabat le levier : il peut le faire couché ou à genoux, à l'abri, ce qu'interdisait le chargement par la bouche. La cartouche, en papier recouvert de soie, renferme 5,6 g de poudre noire, une amorce et une balle de plomb de 25 g ; l'aiguille la perce pour frapper l'amorce, et l'enveloppe brûle avec la charge. La nouveauté décisive est l'obturateur : une rondelle de caoutchouc que la pression des gaz écrase contre les parois et qui empêche les fuites vers l'arrière. Avec un calibre réduit à 11 mm et une charge plus forte, la balle part à 400 m/s environ, contre 300 pour le [[fusil-dreyse|fusil Dreyse]] ; sa trajectoire est plus tendue, sa portée double.
+texte: Les chiffres varient selon les sources. La hausse est graduée jusqu'à 1 200 m, et c'est la portée que l'on retient d'ordinaire, contre 600 m pour l'arme prussienne ; il s'agit d'un feu de masse sur une troupe, car le tir ajusté sur un homme isolé ne dépasse guère 200 m, et la balle porte encore, sans précision, jusque vers 1 600 m. La cadence va de 7 à 15 coups par minute selon les auteurs ; un officier prussien, Heinrich von Löbell, comptait en 1867 huit coups pour un tireur ordinaire, douze pour un tireur exercé. L'arme pèse un peu plus de 4 kg et mesure 1,31 m, 1,88 m avec son [[armes-blanches|sabre-baïonnette]].
+texte: Le baptême du feu a lieu le 3 novembre 1867 à Mentana, près de Rome, où le corps expéditionnaire français soutient les troupes du pape contre les volontaires de [[garibaldi|Garibaldi]]. Les garibaldiens laissent un millier de tués et de blessés et 1 400 prisonniers ; les Français ont 2 morts et 36 blessés. Le général de Failly écrit au ministre de la Guerre que « nos fusils Chassepot ont fait merveille » ; le mot, rendu public et cité depuis sous plusieurs formes, reste attaché à l'arme. En 1868, toute l'armée active en est pourvue. La fabrication mobilise les manufactures impériales de Saint-Étienne, de Châtellerault, de Tulle et de Mutzig, que l'on équipe de machines, et une société privée, Cahen-Lyon et Cie, à qui Chassepot a cédé ses droits et qui sous-traite en Angleterre, en Belgique et en Italie. Au 1er juillet 1870, l'inventaire compte 1 037 555 fusils : de quoi armer l'[[armee-francaise-en-1870|armée de ligne]] et ses réserves, non les centaines de milliers d'hommes levés ensuite, [[garde-mobile|mobiles]] et [[garde-nationale|gardes nationaux]], qui recevront souvent [[fusils-de-la-defense-nationale|des fusils de toute provenance]].
+texte: Sur le champ de bataille de 1870, le Chassepot dicte sa loi à l'infanterie. Les Français ouvrent le feu à 600 m, parfois à 1 000 ou 1 200 ; les Allemands, qui ne peuvent guère commencer le leur qu'à 300 pas, doivent franchir tout cet espace sans répondre. Le 6 août, la victoire de [[bataille-de-froeschwiller-woerth|Wœrth]] coûte plus de 10 000 hommes à la IIIe armée, et celle de [[bataille-de-spicheren|Spicheren]] environ 4 500 tués et blessés aux Prussiens, deux fois plus qu'au vaincu. Le 18 août, devant Saint-Privat, la Garde prussienne monte en rangs serrés sur un glacis nu que tiennent les fantassins de [[canrobert|Canrobert]] : elle perd environ 8 000 hommes sur 18 000. Ce jour-là, à la [[bataille-de-gravelotte|bataille de Gravelotte]], les Allemands ont plus de 20 000 hommes hors de combat, les Français 12 000. La leçon est vite tirée : ne plus attaquer de front avant que l'artillerie ait écrasé la défense, avancer par bonds, en ordre dispersé, et tourner les positions (voir [[tactique-en-1870]]).
+texte: L'arme a ses faiblesses. Les résidus du papier et de la soie encrassent la chambre : après une vingtaine de coups, il faut nettoyer, et les ratés se multiplient. La rondelle de caoutchouc durcit et se déchire, l'aiguille casse ; chaque soldat doit porter des pièces de rechange. Or elles manquent. Le comte de Leusse, député et maire de Reichshoffen, qui voit arriver les troupes en Alsace en juillet 1870, rapporte dans ses souvenirs que des régiments n'ont ni aiguilles ni rondelles de rechange, et que des réservistes n'avaient jamais tenu un Chassepot quelques jours avant d'aller au feu. La cartouche craint l'humidité ; le tir rapide à grande distance vide les gibernes, et le ravitaillement suit mal. Surtout, le fusil ne peut rien contre des batteries qui tirent de 2 000 ou 3 000 m : la supériorité du Chassepot est annulée par celle du [[canon-krupp|canon Krupp]].
+texte: Les Allemands prennent à la France 665 327 Chassepots ; beaucoup, raccourcis et transformés pour la cartouche métallique, armeront leur cavalerie et leur train. Le nouveau fusil allemand, le Mauser modèle 1871, reprend au vaincu son calibre de 11 mm et le dessin de son canon. En France, le capitaine Gras adapte en 1874 la culasse à une cartouche à étui de laiton, qui supprime l'encrassement : le fusil Gras n'est qu'un Chassepot corrigé, et presque tous les modèle 1866 restants sont transformés (voir [[reformes-militaires-apres-1871]]). La fabrication cesse en 1875, après deux millions d'armes environ ; certains auteurs en comptent davantage.
+repere: 4 mars 1833 — Antoine Alphonse Chassepot naît à Mutzig (Bas-Rhin), dans une famille de contrôleurs d'armes.
+repere: 1858 — Il présente un premier fusil à culasse et à obturateur de caoutchouc, encore à percussion extérieure.
+repere: 3 juillet 1866 — À Sadowa, le fusil à aiguille prussien bat les fusils autrichiens chargés par la bouche.
+repere: 30 août 1866 — Un décret adopte le fusil d'infanterie modèle 1866.
+repere: 3 novembre 1867 — Mentana : premier emploi au combat, contre les volontaires de Garibaldi.
+repere: 1868 — Toute l'armée active est armée du Chassepot.
+repere: 1er juillet 1870 — L'inventaire compte 1 037 555 fusils.
+repere: 6 août 1870 — À Wœrth et à Spicheren, les vainqueurs allemands perdent plus de tués et de blessés que les vaincus.
+repere: 18 août 1870 — Devant Saint-Privat, la Garde prussienne perd environ 8 000 hommes sous le feu des Chassepots.
+repere: 1874 — Le fusil Gras, à cartouche métallique, remplace le Chassepot, dont il garde le mécanisme.
+attention: Les 1 200 m du Chassepot sont la dernière graduation de sa hausse, non la distance à laquelle un soldat touche un homme : à cette portée, on arrose une colonne ou une batterie. Et le meilleur fusil n'a pas décidé des batailles : à Gravelotte, la plupart des Français tombés l'ont été sous les obus, tirés de plus loin que ne porte aucun fusil.
+fiche: Mise en service = 1866 (adopté le 30 août)
+fiche: Calibre = 11 mm
+fiche: Longueur = 1,31 m (1,88 m avec le sabre-baïonnette)
+fiche: Poids = 4,1 kg (4,7 kg avec le sabre-baïonnette)
+fiche: Mécanisme = culasse mobile à verrou, percussion par aiguille, obturateur en caoutchouc ; un coup
+fiche: Munition = cartouche combustible en papier et soie ; balle de plomb de 25 g, 5,6 g de poudre noire
+fiche: Vitesse initiale = 400 à 420 m/s
+fiche: Portée utile = 1 200 m en feu de masse (tir ajusté sur un homme : 200 m)
+fiche: Hausse graduée jusqu'à = 1 200 m
+fiche: Portée maximale = environ 1 600 m
+fiche: Cadence = 8 à 12 coups par minute
+fiche: Production = 1 037 555 fusils au 1er juillet 1870 ; environ 2 millions jusqu'en 1875
+lien: wp Chassepot modèle 1866
+lien: de Chassepotgewehr
+lien: url https://musee-armee.fr/fileadmin/user_upload/Documents/Support-Visite-Fiches-Objets/Fiches-1815-1870/MA_fiche-chassepot.pdf = Musée de l'Armée, fiche-objet « Le fusil Chassepot (1866) et sa cartouche »
+sources: Wikipédia (fr : Chassepot modèle 1866, Antoine Alphonse Chassepot, Bataille de Mentana, Bataille de Saint-Privat ; de : Chassepotgewehr, qui cite Löbell, 1867 ; en : Chassepot, Battle of Gravelotte, Battle of Spicheren) ; musée de l'Armée, fiche-objet « Le fusil Chassepot »
+voir: fusil-dreyse, fusils-bavarois, canon-krupp, armes-blanches, tactique-en-1870, bataille-de-gravelotte, armee-francaise-en-1870, fusils-de-la-defense-nationale
+
+@ fusil-dreyse
+cat: armes
+nom: Le fusil Dreyse
+alias: Dreyse, fusil à aiguille, fusil à aiguille prussien, Zündnadelgewehr, Dreyse-Zündnadelgewehr, modèle 1841, modèle 1862
+dates: 1841 – 1876
+camp: de
+def: Fusil à aiguille de l'infanterie prussienne, adopté en 1840 : la première arme de guerre chargée par la culasse, victorieuse à Sadowa en 1866, mais surclassée en 1870 par le Chassepot, qui porte deux fois plus loin.
+texte: Le *Zündnadelgewehr*, « fusil à aiguille », est l'œuvre de Johann Nikolaus Dreyse (1787-1867), armurier de Sömmerda, en Thuringe, et élève du Suisse Pauly. Son idée, mûrie à partir de 1827 : réunir dans une cartouche de papier la balle, la poudre et l'amorce, et enflammer celle-ci par une longue aiguille qui traverse la charge. En 1840, le roi Frédéric-Guillaume IV en commande 60 000 ; pour garder le secret, l'arme est baptisée « fusil léger à percussion modèle 1841 » et dort d'abord dans les arsenaux. Distribuée à partir de 1848, employée en 1849 contre les insurgés de Dresde, du Palatinat et de Bade, puis au Danemark en 1864, elle fait sensation le 3 juillet 1866 à Sadowa, où les Prussiens, qui rechargent couchés, tirent environ trois fois plus vite que les Autrichiens.
+texte: En 1870, c'est pourtant une arme d'une autre génération. Son calibre est resté énorme, 15,43 mm ; la balle de 31 g, logée dans un sabot qui porte l'amorce, ne quitte le canon qu'à 300 m/s environ. La culasse ferme métal contre métal, sans joint : une partie des gaz s'échappe, la pression est faible, la trajectoire courbe. Le verrou est dur — il faut le frapper de la paume, parfois d'une pierre quand l'arme a chauffé — et l'aiguille, plongée dans la charge qui brûle, se tord ou casse. Contre une troupe, le fusil porte à 600 m ; sur un homme isolé, à 200 m. La hausse du modèle 1862, le plus répandu, s'arrête à 700 pas, soit 527 m. La cadence, qui atteint 12 coups par minute au stand, tombe à 3 à 5 au combat selon les auteurs allemands ; les Français donnent 6 à 8.
+texte: Les Prussiens connaissent ces défauts. Depuis 1869, la manufacture de Spandau transforme les fusils selon le procédé du contremaître Beck, qui leur donne un joint de caoutchouc imité de celui du [[fusil-chassepot|Chassepot]] et une balle plus légère ; mais la guerre éclate trop tôt, et les rares unités pourvues de l'arme transformée doivent la rendre pour que toute l'armée tire la même cartouche. La Prusse entre donc en campagne avec quelque 1 150 000 fusils à aiguille de modèle ancien. Les Badois et les Wurtembergeois, armés à la prussienne depuis 1866, portent le même ; seuls les Bavarois ont [[fusils-bavarois|d'autres fusils]].
+texte: Devant le Chassepot, le fantassin allemand doit parcourir plusieurs centaines de mètres sous les balles avant de pouvoir répondre : il lui faut, disent les Allemands, « passer sous le feu ». Les pertes de [[bataille-de-froeschwiller-woerth|Wœrth]], de [[bataille-de-spicheren|Spicheren]] et surtout de Saint-Privat, où la Garde est fauchée en colonnes serrées le 18 août (voir la [[bataille-de-gravelotte|bataille de Gravelotte]]), viennent de là ; le lieutenant Paul von Hindenburg, qui y était, en a laissé le récit. L'armée allemande compense par ce qui lui reste : le nombre, des soldats mieux exercés au tir, des compagnies qui manœuvrent en ordre dispersé et cherchent les flancs (voir [[tactique-en-1870]]), et surtout l'[[canon-krupp|artillerie Krupp]], chargée de faire taire la défense avant l'assaut. Le Dreyse reste en service jusqu'en 1876, le temps de distribuer le Mauser modèle 1871, à cartouche métallique.
+repere: 1827 — À Sömmerda, Dreyse conçoit l'allumage de la charge par une aiguille.
+repere: 4 décembre 1840 — La Prusse adopte l'arme sous le nom de « fusil léger à percussion modèle 1841 ».
+repere: 1848 — Premier bataillon armé ; des fusils sont volés à l'arsenal de Berlin pendant la révolution de mars.
+repere: 3 juillet 1866 — Sadowa : le fusil à aiguille l'emporte sur les fusils autrichiens chargés par la bouche.
+repere: 1869 — Début de la transformation Beck, interrompue par la guerre.
+repere: 18 août 1870 — À Saint-Privat, la Garde prussienne est décimée avant d'être à portée de tir.
+repere: 1876 — Les derniers fusils à aiguille sont remplacés par le Mauser modèle 1871.
+attention: Le fusil à aiguille n'a pas gagné seul la guerre de 1866 : les historiens allemands font la part de la tactique de feu voulue par [[moltke|Moltke]] et de l'instruction du tir. Et son infériorité de 1870 n'a pas empêché la victoire, parce que la décision est passée de l'infanterie à l'artillerie.
+fiche: Mise en service = 1841 (adopté le 4 décembre 1840, distribué à partir de 1848)
+fiche: Calibre = 15,43 mm
+fiche: Longueur = 1,34 m (modèle 1862) ; 1,43 m (modèle 1841)
+fiche: Poids = 4,8 kg (modèle 1862) ; 4,9 kg (modèle 1841)
+fiche: Mécanisme = culasse mobile à verrou, percussion par une longue aiguille, sans obturateur ; un coup
+fiche: Munition = cartouche combustible en papier ; balle de plomb de 31 g portée par un sabot, 4,9 g de poudre noire
+fiche: Vitesse initiale = 295 à 305 m/s
+fiche: Portée utile = 600 m en feu de masse (tir ajusté sur un homme : 200 m)
+fiche: Hausse graduée jusqu'à = 527 m (700 pas, modèle 1862) ; 603 m (800 pas, fusil de fusiliers modèle 1860)
+fiche: Cadence = 5 coups par minute au combat (jusqu'à 12 au stand)
+fiche: Production = environ 1 150 000 fusils dans les arsenaux prussiens en 1870
+lien: wp Fusil Dreyse
+lien: de Dreyse-Zündnadelgewehr
+lien: en Dreyse needle gun
+sources: Wikipédia (de : Dreyse-Zündnadelgewehr, Chassepotgewehr, Deutsch-Französischer Krieg ; fr : Fusil Dreyse ; en : Dreyse needle gun)
+voir: fusil-chassepot, fusils-bavarois, canon-krupp, tactique-en-1870, armee-allemande-en-1870, bataille-de-gravelotte, moltke
+
+# ── Canons et mitrailleuses ────────────────────────────────────────────────
+
+@ mitrailleuse-de-reffye
+cat: armes
+nom: Le canon à balles
+alias: mitrailleuse, mitrailleuse de Reffye, mitrailleuse Reffye, canon à balles modèle 1866, Reffye, mitrailleuse Montigny, Höllenmaschine
+dates: 1866 – 1871
+camp: fr
+def: Mitrailleuse à 25 tubes mise au point à Meudon par le commandant de Reffye et fabriquée dans le secret à partir de 1865. Servie par des artilleurs et employée comme un canon, à grande distance, elle n'a pas tenu les promesses de l'« arme secrète » de Napoléon III.
+texte: L'idée vient de Belgique, où l'ingénieur Montigny achève en 1863 une mitrailleuse à 37 tubes. Le comité de l'artillerie français l'examine, puis décide de construire sa propre arme. En mai 1864, le général [[edmond-le-boeuf|Le Bœuf]] remet à [[napoleon-iii|Napoléon III]] une « Note sur le canon à balles » ; en septembre 1865, la fabrication commence aux ateliers de Meudon, sous la direction d'un officier d'ordonnance de l'empereur, Jean-Baptiste Verchère de Reffye, né à Strasbourg en 1821. Le budget de l'armée étant absorbé par le [[fusil-chassepot|Chassepot]], l'empereur paie sur ses fonds secrets. Le secret est si bien gardé que presque personne n'apprend à se servir de l'engin. En juillet 1870, 215 pièces existent, avec cinq millions de cartouches ; 190 sont en état de partir.
+texte: L'arme ressemble à un canon de bronze monté sur un affût d'artillerie : 340 kg, 855 avec l'affût. Le manchon renferme 25 tubes rayés de 13 mm, rangés par cinq. On applique contre eux un bloc d'acier garni d'avance de 25 cartouches, on serre une vis, et un servant tourne une manivelle qui fait partir les coups l'un après l'autre ; trois blocs tournent, l'un au tir, l'autre à l'extraction, le troisième au garnissage. Des servants exercés tirent quatre salves par minute, cent coups, cinq en cas de presse. La cartouche, à culot de laiton, lance une balle de 50 g bien plus puissante que celle d'un fusil : l'arme porte utilement à 1 800 m, au plus à 3 400 m. Pour Reffye, elle ne doit tirer qu'aux distances où le fusil ne porte plus, de 1 000 à 2 500 m, et remplacer la boîte à mitraille que le canon rayé tire mal.
+texte: C'est donc en pièce d'artillerie qu'elle fait la guerre : chaque division d'infanterie de l'[[armee-du-rhin|armée du Rhin]] a une batterie de six canons à balles à côté de ses deux batteries de 4. Placées dans la ligne des canons, à plus de 1 400 m de l'ennemi pour échapper au fusil, les mitrailleuses voient mal où tombent leurs balles ; leur gerbe, trop serrée, crible le même homme au lieu de balayer un front ; et l'artillerie allemande, qui les redoute, en fait sa première cible à des distances où elles ne peuvent répondre (voir les [[canon-krupp|canons Krupp]]). À Frœschwiller, le 1er corps en perd cinq. Le comte de Leusse, maire de Reichshoffen, rapporte que dans la division qu'il a vue arriver un seul officier savait s'en servir, et qu'on tira quelques coups à blanc l'avant-veille du départ ; un capitaine d'artillerie, au lendemain de la défaite, les traite de jouets d'enfants devant le canon prussien.
+texte: Bien placée, pourtant, la mitrailleuse tue. Le 16 août, à la [[bataille-de-mars-la-tour|bataille de Mars-la-Tour]], et le 18, à la [[bataille-de-gravelotte|bataille de Gravelotte]], où la batterie du capitaine Barbe trouve vite la distance, des colonnes prussiennes sont hachées ; les soldats allemands parlent de « machine infernale ». Mais on conclut après la guerre que le Chassepot a fait bien plus de victimes. Près de deux cents pièces sont détruites ou prises en 1870 ; Reffye en fait construire 122 autres à Nantes pour les armées de la Défense nationale, qui achètent aussi des mitrailleuses Gatling. Les dernières salves sont pour les fédérés, au printemps de 1871 (voir la [[commune-de-paris|Commune de Paris]]). L'armée renonce ensuite à l'emploi en campagne et relègue les survivantes dans les fossés des forts, d'où les dernières sont retirées en 1908. Le mot, lui, est resté : en français, la mitrailleuse désigne depuis l'arme automatique.
+repere: 1863 — Le Belge Montigny achève sa mitrailleuse à 37 tubes, modèle du canon à balles français.
+repere: mai 1864 — Le général Le Bœuf remet à Napoléon III sa « Note sur le canon à balles ».
+repere: septembre 1865 — La fabrication commence à Meudon, dans le secret, sous la direction de Reffye.
+repere: juillet 1870 — 215 pièces sont construites, 190 en état de faire campagne.
+repere: 6 août 1870 — À Frœschwiller, cinq mitrailleuses restent aux mains des Allemands.
+repere: 18 août 1870 — À Gravelotte, la batterie Barbe inflige de lourdes pertes à l'infanterie prussienne.
+repere: 1908 — Les dernières mitrailleuses de Reffye sont retirées des forts de l'Est.
+attention: Le canon à balles n'est pas l'ancêtre manqué de la mitrailleuse moderne, qui tire de près et balaie le terrain : c'est une pièce lourde, tirée par des chevaux, faite pour le tir lointain. Son échec tient moins à sa mécanique qu'à son emploi et à son petit nombre : moins de deux cents pièces pour toute l'armée, servies par des hommes qui ne l'avaient presque jamais vue tirer.
+fiche: Mise en service = 1866
+fiche: Calibre = 13 mm
+fiche: Longueur = 1,75 m
+fiche: Poids = 340 kg (855 kg avec l'affût)
+fiche: Mécanisme = 25 tubes rayés fixes ; bloc de culasse amovible garni de 25 cartouches, tir à la manivelle
+fiche: Munition = cartouche à percussion centrale, culot de laiton et corps de carton ; balle de 50 g, 12 g de poudre noire
+fiche: Portée utile = 1 800 m
+fiche: Portée maximale = 3 400 m
+fiche: Cadence = 100 coups par minute (4 salves de 25), 125 au plus
+fiche: Production = 215 pièces en juillet 1870, dont 190 en service ; 122 de plus à Nantes pendant la guerre
+fiche: Batterie = 6 pièces, une batterie par division d'infanterie
+lien: en Mitrailleuse
+lien: wp Jean-Baptiste Verchère de Reffye
+lien: de Mitrailleuse
+sources: Wikipédia (en : Mitrailleuse ; fr : Mitrailleuse, Jean-Baptiste Verchère de Reffye, Armée du Rhin (1870) ; de : Schlacht bei Wörth, Schlacht bei Gravelotte)
+voir: canon-krupp, artillerie-francaise, canon-de-7, fusil-chassepot, bataille-de-gravelotte, bataille-de-mars-la-tour, tactique-en-1870
+
+@ canon-krupp
+cat: armes
+nom: Les canons Krupp
+alias: canon Krupp, Krupp, canon de 4 livres, canon de 6 livres, C/61, C/64, C/67, Alfred Krupp, roi du canon, Kanonenkönig, artillerie prussienne, artillerie allemande
+dates: 1861 – 1873
+camp: de
+def: Canons de campagne prussiens en acier, rayés et chargés par la culasse, sortis des usines d'Alfred Krupp à Essen. Leurs obus à fusée percutante et leur emploi en masse donnent à l'artillerie allemande, en 1870, une supériorité qui décide des grandes batailles.
+texte: Alfred Krupp (1812-1887) hérite à quatorze ans de la petite fonderie d'acier que son père a fondée à Essen. Il fait fortune avec les bandages de roues sans soudure des chemins de fer, mais son ambition est ailleurs : couler des canons en acier. Son premier tube, livré à l'arsenal prussien en 1847, y attend deux ans avant d'être essayé, et les artilleurs, fidèles au bronze, se méfient d'un métal qu'ils croient cassant comme la fonte. La Prusse se décide pourtant : en 1859, elle adopte un canon rayé en acier, chargé par la culasse, et en avril 1860 elle commande 312 pièces de 6 livres. L'usine d'Essen forge bientôt ses lingots sous un marteau-pilon de 50 tonnes et vend à toutes les grandes puissances, sauf à la France. À l'Exposition universelle de 1867, à Paris, ses canons trônent sous les yeux de [[napoleon-iii|Napoléon III]], artilleur de formation, et la presse parisienne surnomme Krupp le « roi du canon ».
+texte: Deux pièces de campagne font la guerre de 1870. Le canon de 6 livres modèle 1861 (C/61), de 91,5 mm, tire un obus de 6,9 kg ; le canon de 4 livres modèle 1864 (C/64), de 78,5 mm, plus léger et plus mobile, un obus de 4,3 kg. Tous deux sont en acier fondu, rayés, et se chargent par l'arrière : le premier se ferme par un piston, le second par un double coin qu'un seul servant manœuvre. En 1866, pendant la guerre contre l'Autriche, quelques canons de 4 ont éclaté ; des officiers ont réclamé le retour au bronze, mais l'enquête a montré que la faute tenait au dessin de la culasse, non au métal, et le modèle corrigé de 1867 (C/67) n'a plus connu d'accident. Les batteries lourdes ont le canon de 6, les batteries légères et à cheval le canon de 4 ; une batterie compte six pièces.
+texte: Le canon de 4 porte à 3 450 m ; pour le canon de 6, les instructions prussiennes fixent le tir utile à 1 900 m environ contre une petite troupe et jusqu'à 3 750 m contre une masse ou un village. En pratique, les batteries allemandes ouvrent le feu entre 2 000 et 3 000 m. Bien servie, une pièce de 4 tire jusqu'à dix coups par minute, car le servant ne passe plus devant la bouche pour recharger. Sur le papier, ces portées ne dépassent pas de beaucoup celle du canon de 4 français, donné pour 3 000 m. L'avantage tient à la précision du tube, à la vitesse du chargement, et surtout à la fusée.
+texte: L'obus prussien, chemisé de plomb pour mordre dans les rayures, porte une fusée percutante, conçue en 1859 par l'officier Neumann : il éclate au choc, là où il tombe, quelle que soit la distance. Le chef de pièce voit le coup, corrige, et encadre son but en quelques tirs. L'obus français, lui, porte le plus souvent une fusée fusante réglée d'avance sur deux durées : il n'éclate bien qu'à deux distances, trop tôt ou trop tard partout ailleurs (voir l'[[artillerie-francaise|artillerie française]]). Les batteries allemandes peuvent donc s'établir hors d'atteinte, faire taire les canons adverses, puis se rapprocher pour écraser l'infanterie.
+texte: Reste l'emploi. Aux premières batailles, l'artillerie allemande n'entre souvent en ligne qu'après que l'infanterie a payé cher une position ; puis la méthode s'inverse, et les batteries, poussées en tête des colonnes, se déploient par dizaines sur une même ligne. Le 6 août, depuis les hauteurs de Gunstett, elles écrasent Frœschwiller et Elsasshausen (voir la [[bataille-de-froeschwiller-woerth|bataille de Frœschwiller-Wœrth]]). Le 18 août, après l'échec sanglant de la Garde devant les [[fusil-chassepot|Chassepots]], ce sont les canons qui ruinent Saint-Privat avant l'assaut final : les Allemands ont ce jour-là 732 pièces contre 520 (voir la [[bataille-de-gravelotte|bataille de Gravelotte]]). Le 1er septembre, à la [[bataille-de-sedan|bataille de Sedan]], 774 canons garnissent les hauteurs autour de la cuvette où s'entasse l'[[armee-de-chalons|armée de Châlons]], qui en a 564 ; pour la première fois, le canon est l'arme principale, et il vise l'infanterie autant que les batteries. Les Français tombent sans pouvoir atteindre ceux qui les tuent.
+texte: Les vaincus ne s'y trompent pas. À Sedan, [[ducrot|Ducrot]] résume la situation d'un mot de corps de garde resté fameux (voir [[mots-de-1870]]) ; le lendemain, selon un propos souvent cité en Allemagne et dont la lettre n'est pas garantie, Napoléon III aurait dit au roi [[guillaume-ier|Guillaume]] que son artillerie avait gagné la campagne. Pendant toute la guerre, les pièces de campagne allemandes tirent 362 662 coups. Les usines d'Essen fournissent aussi de grosses pièces qui bombardent Strasbourg, Belfort et Paris (voir l'[[artillerie-de-siege|artillerie de siège]]). Après 1871, les commandes affluent du monde entier, et la France refait son artillerie, culasse, acier et fusée percutante, jusqu'au canon de 75 de 1897 (voir [[reformes-militaires-apres-1871]]).
+repere: 1847 — Krupp coule son premier canon d'acier ; l'arsenal prussien ne l'essaie que deux ans plus tard.
+repere: 1859 — La Prusse adopte le canon rayé de 6 livres en acier, chargé par la culasse (C/61).
+repere: avril 1860 — Première grande commande prussienne : 312 canons de 6 livres.
+repere: 1864 — Le canon de 4 livres C/64 est essayé au feu contre le Danemark.
+repere: 1866 — Des canons de 4 éclatent pendant la guerre contre l'Autriche ; la culasse est redessinée (C/67).
+repere: 1867 — Krupp expose ses canons à Paris, à l'Exposition universelle.
+repere: 18 août 1870 — 732 pièces allemandes à Gravelotte ; Saint-Privat est écrasé avant l'assaut.
+repere: 1er septembre 1870 — Sedan : 774 canons encerclent l'armée de Châlons.
+repere: 14 juillet 1887 — Mort d'Alfred Krupp à Essen.
+attention: La France n'a pas « refusé » par aveuglement les canons Krupp. Son comité de l'artillerie avait essayé l'acier de 1864 à 1867 et y avait renoncé après les éclatements de 1866 ; il tenait aussi à ne pas dépendre d'un fournisseur étranger. Pour Christophe Pommier, du musée de l'Armée, la supériorité prussienne tient plus à la doctrine qu'au matériel : même armée de canons Krupp, l'artillerie française aurait été surclassée. Quant à la portée « double » qu'on prête souvent aux pièces prussiennes, elle est exagérée : c'est la fusée qui fait l'écart.
+fiche: Mise en service = 1861 (canon de 6 livres C/61), 1864 (canon de 4 livres C/64), 1867 (C/67)
+fiche: Calibre = 78,5 mm (canon de 4 livres) ; 91,5 mm (canon de 6 livres)
+fiche: Métal = acier fondu
+fiche: Chargement = culasse (double coin sur le canon de 4, piston sur le canon de 6)
+fiche: Poids de l'obus = 4,3 kg (canon de 4) ; 6,9 kg (canon de 6)
+fiche: Portée utile = 2 000 à 3 000 m
+fiche: Portée maximale = 3 450 m (canon de 4) ; environ 3 750 m (canon de 6)
+fiche: Fusée = percutante (l'obus éclate au choc)
+fiche: Cadence = jusqu'à 10 coups par minute
+fiche: Vitesse initiale = 341 m/s (canon de 4) ; 331 m/s (canon de 6)
+fiche: Batterie = 6 pièces
+lien: wp Canon rayé C/64
+lien: de 4-Pfünder-Feldkanone C/67
+lien: url https://www.napoleon.org/histoire-des-2-empires/articles/une-chronique-de-christophe-pommier-pourquoi-la-france-ne-sest-elle-pas-equipee-de-canons-krupp-avant-1870/ = Christophe Pommier, « Pourquoi la France ne s'est-elle pas équipée de canons Krupp avant 1870 ? » (Fondation Napoléon)
+sources: Wikipédia (de : 4-Pfünder-Feldkanone C/64, 4-Pfünder-Feldkanone C/67, 6-Pfünder-Feldkanone C/61, 6-Pfünder-Feldkanone C/64, Alfred Krupp, Deutsch-Französischer Krieg, Schlacht von Sedan, Schlacht bei Gravelotte ; en : C64 (field gun), Krupp gun, Franco-Prussian War ; fr : Canon rayé C/64, Alfred Krupp, Canon de 7 modèle 1867) ; Christophe Pommier, chronique de la Fondation Napoléon, 2025
+voir: artillerie-francaise, canon-de-7, artillerie-de-siege, mitrailleuse-de-reffye, fusil-chassepot, bataille-de-sedan, bataille-de-gravelotte, tactique-en-1870
+
+@ artillerie-francaise
+cat: armes
+nom: L'artillerie française
+alias: système La Hitte, système Lahitte, canon de 4, canon de 4 rayé, canon de 12, canon rayé modèle 1858, La Hitte, Treuille de Beaulieu, artillerie de campagne française
+dates: 1858 – 1870
+camp: fr
+def: Les canons de campagne français de 1870 sont ceux du système La Hitte, adopté en 1858 : des pièces de bronze rayées, chargées par la bouche, qui avaient triomphé en Italie en 1859. Onze ans plus tard, leur chargement lent et leur fusée à deux durées les livrent aux canons Krupp.
+texte: En mars 1858, l'armée française adopte les premiers canons rayés de campagne. Le principe vient du lieutenant-colonel Treuille de Beaulieu, directeur de l'atelier de précision ; le général Ducos de La Hitte, président du comité de l'artillerie, l'impose et lui donne son nom. Des rayures sont creusées dans l'âme des tubes de bronze ; l'obus, allongé, porte des saillies qui les suivent, et se glisse toujours par la bouche. Le projectile pèse deux fois plus que l'ancien boulet pour un même calibre et porte à 3 000 m. Le « canon de 4 » tire désormais un obus de 4 kg environ, le « canon de 12 », l'ancienne pièce de Napoléon III rayée après coup, un obus de 11,5 kg. À la campagne d'Italie de 1859, face aux canons lisses autrichiens, l'avantage est net. L'armée s'en tient là.
+texte: En 1870, le canon de 4 rayé de campagne, de 86,5 mm, est la pièce de presque toutes les batteries : chaque division d'infanterie en a deux, de six pièces, plus une batterie de [[mitrailleuse-de-reffye|canons à balles]] ; les canons de 12 sont dans les réserves. Le tube, léger, se manie bien. Mais il faut le charger par la bouche, servant debout devant la pièce, ce qui ralentit le tir, et l'usage français, par crainte du gaspillage, déconseille le feu rapide que recherchent les Prussiens. Les Allemands ont en outre le nombre : quatre pièces pour mille hommes contre trois, 732 contre 520 à la [[bataille-de-gravelotte|bataille de Gravelotte]], 774 contre 564 à la [[bataille-de-sedan|bataille de Sedan]].
+texte: Le défaut le plus grave est dans l'obus. Il peut éclater au choc, mais les coffres contiennent surtout des obus à fusée fusante à deux durées : la mèche, réglée d'avance, ne fait éclater le projectile qu'à deux distances. Entre les deux, ou au-delà, l'obus éclate en l'air ou s'enterre sans effet, et les artilleurs en sont réduits à tirer à ricochet pour rattraper l'écart. En face, l'obus prussien à fusée percutante éclate où il tombe (voir les [[canon-krupp|canons Krupp]]). Les batteries allemandes s'installent à 2 000 ou 3 000 m, démontent les pièces françaises, puis se tournent contre l'infanterie. À Frœschwiller, à Saint-Privat, à Sedan, les artilleurs français se font tuer sur leurs pièces sans pouvoir rendre les coups.
+texte: Le comité de l'artillerie n'ignorait pas le chargement par la culasse : de 1859 à 1866, il avait acheté et comparé des matériels suédois, anglais et prussiens, et essayé l'acier, sans être convaincu. En 1868, [[napoleon-iii|Napoléon III]] charge en secret le commandant de Reffye d'étudier une pièce de campagne à culasse ; elle est au point au début de 1870, trop tard pour armer les batteries (voir le [[canon-de-7|canon de 7]]). La Défense nationale fait donc la guerre avec ce qui reste des canons de 4 et de 12, avec des pièces de marine et de place, et avec des obus à fusée percutante : ce sont eux qui sèment la panique chez les Bavarois à la [[bataille-de-coulmiers|bataille de Coulmiers]], le 9 novembre, devant l'[[armee-de-la-loire|armée de la Loire]]. Après la défaite, le bronze et le chargement par la bouche sont abandonnés (voir [[reformes-militaires-apres-1871]]).
+repere: 1847 — Le capitaine Tamisier propose l'obus allongé guidé par des rayures.
+repere: mars 1858 — Adoption du système La Hitte : canons de bronze rayés, chargés par la bouche.
+repere: 1859 — Campagne d'Italie : premier emploi de canons rayés sur un champ de bataille.
+repere: 1868 — Napoléon III fait étudier en secret un canon de campagne à culasse.
+repere: 18 août 1870 — À Gravelotte, 520 pièces françaises contre 732 allemandes.
+repere: 1er septembre 1870 — À Sedan, l'artillerie de l'armée de Châlons est écrasée par les batteries allemandes.
+repere: 9 novembre 1870 — À Coulmiers, l'artillerie de l'armée de la Loire tire des obus percutants.
+attention: Les canons français n'étaient ni des antiquités ni de mauvaises pièces : en 1859, ils étaient les premiers canons rayés à paraître sur un champ de bataille, et leur portée théorique approchait celle des canons prussiens. Ce qui les condamne en 1870, c'est la fusée, la lenteur du tir, le nombre et l'emploi.
+fiche: Mise en service = 1858 (système La Hitte)
+fiche: Calibre = 86,5 mm (canon de 4) ; 121 mm (canon de 12)
+fiche: Métal = bronze
+fiche: Chargement = bouche
+fiche: Poids de l'obus = 4 kg (canon de 4) ; 11,5 kg (canon de 12)
+fiche: Portée utile = moins de 2 000 m en pratique, à deux distances fixées par la fusée
+fiche: Portée maximale = 3 000 m
+fiche: Fusée = fusante à deux durées, le plus souvent ; percutante, plus répandue à la fin de la guerre
+fiche: Poids = 330 kg pour le tube du canon de 4 (1,43 m)
+fiche: Batterie = 6 pièces
+lien: wp Système Lahitte
+lien: wp Canon de 4 modèle 1858
+lien: en La Hitte system
+sources: Wikipédia (fr : Système Lahitte, Canon de 4 modèle 1858, Armée du Rhin (1870), Guerre franco-allemande de 1870 ; en : La Hitte system, Franco-Prussian War) ; Christophe Pommier, chronique de la Fondation Napoléon, 2025
+voir: canon-krupp, canon-de-7, mitrailleuse-de-reffye, artillerie-de-siege, armee-francaise-en-1870, tactique-en-1870, bataille-de-sedan
+
+# ── Paris assiégé : communications et remparts ─────────────────────────────
+
+@ ballons-du-siege
+cat: armes
+nom: Les ballons du siège
+alias: ballon monté, ballons montés, ballon-poste, poste aérienne, Nadar, Godard, Duruof, Tissandier, Rampont, Neptune, Armand-Barbès, Ville d'Orléans, aérostiers
+dates: 23 septembre 1870 – 28 janvier 1871
+quand: 1870-09-23
+jusqu: 1871-01-28
+camp: fr
+def: Du 23 septembre 1870 au 28 janvier 1871, 66 ou 67 ballons quittent Paris assiégé avec des passagers, des pigeons et deux à trois millions de lettres : la première poste aérienne régulière, et le seul lien de la capitale avec la province.
+texte: Le 19 septembre 1870 au matin, les derniers fils du télégraphe sont coupés : Paris est isolé (voir le [[siege-de-paris|siège de Paris]]). Le photographe Nadar, qui a formé de son propre chef une compagnie d'aérostiers avec Dartois et Jules Duruof, campe place Saint-Pierre, au pied de Montmartre, et propose d'abord des ballons captifs pour observer l'ennemi. Le directeur général des Postes, Germain Rampont, y voit le moyen de faire sortir le courrier. Le 23 septembre, à 8 h, Duruof s'élève seul à bord du *Neptune* avec 125 kg de dépêches ; trois heures plus tard, il se pose près d'Évreux, à une centaine de kilomètres. Deux décrets du 27 septembre créent le service : les lettres, sur papier mince, ne doivent pas peser plus de 4 g et sont taxées 20 centimes.
+texte: Les vieux ballons épuisés, on en fabrique en série dans les gares vides : les frères Godard à la gare d'Orléans, puis à celle de l'Est, où Eugène Godard en construit 33 ; Dartois et Yon, associés de Nadar, à la gare du Nord. Ce sont des sphères de 2 000 m³ en percaline vernie, gonflées au gaz d'éclairage, sans aucun moyen de direction : elles vont où le vent les pousse. Faute d'aéronautes, on forme en quelques jours des marins et des gymnastes. Le 7 octobre, à 11 h 10, [[gambetta|Gambetta]] part de la place Saint-Pierre à bord de l'*Armand-Barbès*, avec Spuller et seize pigeons, pour rejoindre la [[delegation-de-tours|Délégation de Tours]] ; il se pose à Épineuse, dans l'Oise. Le 30 septembre, le savant Gaston Tissandier est sorti de même ; avec son frère Albert, il tentera en vain de rentrer dans Paris par la voie des airs.
+texte: À partir du 18 novembre, pour échapper aux fusils et aux canons que Krupp a montés contre eux, les ballons partent de nuit, sans savoir où le vent les mène. La *Ville d'Orléans*, partie de la gare du Nord le 24 novembre, se pose en Norvège, au Lifjell, après 1 246 km : un record involontaire. Le *Montgolfier* tombe à Heiligenberg, en Alsace occupée, où les habitants cachent l'équipage, qui regagne les lignes françaises à pied par les Vosges. D'autres finissent en Bavière ou près de Wetzlar ; cinq sont capturés. Deux disparaissent en mer avec leur pilote : le *Jacquard*, du marin Alexandre Prince, à la fin de novembre, et le *Richard-Wallace*, d'Émile Lacaze, le 27 janvier. Le dernier, le *Général-Cambronne*, part le 28 janvier 1871, jour de l'[[armistice-de-1871|armistice]].
+texte: Les ballons emportent aussi les [[pigeons-voyageurs|pigeons]] qui rapporteront les dépêches de la province, du matériel, des fonds, des officiers, et même l'astronome Janssen, parti observer une éclipse. Le retour, lui, n'a jamais été possible. Ces vols ont montré qu'une ville investie pouvait encore parler au pays, et les ateliers des gares passent pour la première fabrication en série d'aéronefs.
+repere: 19 septembre 1870 — Paris est investi ; les derniers fils télégraphiques sont coupés.
+repere: 23 septembre 1870, 8 h — Jules Duruof quitte la place Saint-Pierre à bord du *Neptune*, premier ballon du siège.
+repere: 27 septembre 1870 — Deux décrets organisent la poste par ballons.
+repere: 7 octobre 1870, 11 h 10 — Gambetta s'envole à bord de l'*Armand-Barbès*.
+repere: 12 novembre 1870 — Le *Niépce* emporte Dagron et son matériel ; le *Daguerre*, parti avec lui, est abattu et pris.
+repere: 18 novembre 1870 — Premiers départs de nuit.
+repere: 24 novembre 1870 — La *Ville d'Orléans* part pour un vol qui s'achève en Norvège.
+repere: 28 janvier 1871 — Départ du *Général-Cambronne*, dernier ballon du siège.
+attention: Les totaux diffèrent d'une liste à l'autre : 65, 66 ou 67 ballons selon que l'on compte ou non certains départs, 2 à 3 millions de lettres, 10 à 11 tonnes de courrier. Le bilan le plus cité donne 66 ballons, 164 personnes, 381 pigeons et 5 chiens. Les dates de quelques départs (le *Jacquard*, le *Richard-Wallace*) varient aussi de deux jours selon les auteurs.
+fiche: Premier ballon = le Neptune, 23 septembre 1870
+fiche: Dernier ballon = le Général-Cambronne, 28 janvier 1871
+fiche: Ballons partis = 66 (65 à 67 selon les listes)
+fiche: Personnes transportées = 164
+fiche: Courrier = 2 à 3 millions de lettres, 10 à 11 tonnes
+fiche: Pigeons emportés = 381 (363 selon d'autres comptes)
+fiche: Ballons capturés = 5 ; perdus en mer : 2
+fiche: Volume = 2 000 m³, gonflé au gaz d'éclairage
+fiche: Plus long vol = 1 246 km (la Ville d'Orléans, de Paris au Lifjell, Norvège)
+lien: wp Ballon monté
+lien: wp Liste des ballons sortis de Paris pendant le siège de 1870-1871
+lien: de Ballonpost
+sources: Wikipédia (fr : Ballon monté, Liste des ballons sortis de Paris pendant le siège de 1870-1871, Nadar, Eugène Godard ; de : Ballonpost ; en : Balloon mail, Pigeon post)
+voir: pigeons-voyageurs, telegraphe-en-1870, siege-de-paris, gambetta, delegation-de-tours, vie-a-paris-pendant-le-siege, fortifications-de-paris
+
+@ pigeons-voyageurs
+cat: armes
+nom: Pigeons et dépêches microfilmées
+alias: pigeons voyageurs, pigeongramme, dépêches par pigeons, microfilm, microphotographie, Dagron, René Dagron, Steenackers, Rampont, colombophilie
+dates: septembre 1870 – février 1871
+camp: fr
+def: Sortis de Paris en ballon, les pigeons voyageurs y rapportent les dépêches de la province, réduites par la photographie sur des pellicules de quelques centimètres : plus d'un million de messages pour une cinquantaine d'oiseaux rentrés.
+texte: Les [[ballons-du-siege|ballons]] sortent de Paris, mais n'y rentrent pas. Pour le chemin du retour, il n'y a que le pigeon, qui regagne son colombier. Dès le 25 septembre 1870, le deuxième ballon en emporte trois ; presque tous en prendront ensuite, et l'*Armand-Barbès* de [[gambetta|Gambetta]] en a seize. Les oiseaux sont conduits à Tours, puis à Poitiers quand la [[delegation-de-tours|Délégation]] se replie, et lâchés le plus près possible de Paris, la dépêche roulée dans un tuyau de plume attaché à la queue. La première, datée du 27 septembre, arrive le 1er octobre. Le service, tenu à Tours par le directeur des Télégraphes, Steenackers, est d'abord réservé au gouvernement ; il s'ouvre aux particuliers au début de novembre.
+texte: Un pigeon ne porte presque rien : tout tient donc à la réduction. On compose d'abord les dépêches en caractères d'imprimerie, comme les colonnes d'un journal, et on les photographie sur papier. Puis vient René Dagron, photographe parisien qui a breveté en 1859 un procédé de microphotographie et vend des vues minuscules enchâssées dans des bijoux. D'accord avec Rampont, directeur des Postes, il quitte Paris le 12 novembre à bord du *Niépce*, avec son matériel ; le ballon tombe en zone occupée, Dagron s'échappe, gagne Tours, et ne réussit qu'en décembre des pellicules de collodion satisfaisantes. Chaque page en contient quelque 3 000 dépêches ; un seul tube en porte jusqu'à une vingtaine. La même dépêche est confiée à plusieurs pigeons, lâcher après lâcher, jusqu'à ce que Paris en accuse réception : en moyenne vingt-deux fois pour les messages privés.
+texte: À Paris, le gardien du colombier détache le tube et le porte au bureau central des télégraphes. Les pellicules, serrées entre deux lames de verre, sont projetées sur un écran par une lanterne ; des employés recopient, et les messages sont distribués comme des télégrammes. À la mi-novembre, un pigeon apporte ainsi la nouvelle de la victoire de [[bataille-de-coulmiers|Coulmiers]]. On évalue le total à 115 000 ou 150 000 dépêches officielles et à un million de messages privés.
+texte: Le prix en est lourd. Le froid, la neige, le brouillard de cet hiver égarent les oiseaux ; les chasseurs en tuent, et les Allemands leur auraient opposé des faucons. Sur les 360 à 380 pigeons sortis de Paris, une cinquantaine seulement y rentrent avec leurs dépêches, 57 selon le compte le plus répandu. Le dernier lâcher a lieu au début de février 1871. La leçon est retenue : toutes les armées d'Europe créent après la guerre des colombiers militaires, et le microfilm de Dagron a fait ses preuves.
+repere: 25 septembre 1870 — Le deuxième ballon du siège emporte les trois premiers pigeons.
+repere: 1er octobre 1870 — La première dépêche par pigeon, datée du 27 septembre, arrive à Paris.
+repere: 4 novembre 1870 — Le service est ouvert aux correspondances privées.
+repere: 12 novembre 1870 — Dagron quitte Paris en ballon avec son matériel de microphotographie.
+repere: mi-novembre 1870 — Un pigeon annonce à Paris la victoire de Coulmiers.
+repere: 11 décembre 1870 — Dagron obtient ses premières pellicules de qualité.
+repere: 1er février 1871 — Fin officielle du service ; derniers lâchers les 1er et 3 février.
+attention: Les chiffres ne sont pas sûrs : 358, 363 ou 381 pigeons emportés selon les auteurs, « une cinquantaine » ou 57 rentrés, 115 000 ou 150 000 dépêches officielles. Les faucons dressés par les Prussiens, souvent cités, relèvent d'une tradition que les sources lues ne permettent pas d'établir.
+fiche: Pigeons sortis de Paris = 363 à 381
+fiche: Pigeons rentrés avec leurs dépêches = 57 (une cinquantaine)
+fiche: Dépêches officielles = 115 000 à 150 000
+fiche: Messages privés = environ 1 million
+fiche: Par pellicule = environ 3 000 dépêches
+fiche: Bases de départ = Tours, puis Poitiers
+lien: wp Pigeons voyageurs de l'armée française pendant la guerre franco-allemande de 1870-1871
+lien: wp René Dagron
+lien: en Pigeon post
+sources: Wikipédia (en : Pigeon post ; fr : Pigeons voyageurs de l'armée française pendant la guerre franco-allemande de 1870-1871, René Dagron, Colombophilie militaire, Ballon monté, François-Frédéric Steenackers)
+voir: ballons-du-siege, telegraphe-en-1870, siege-de-paris, delegation-de-tours, gambetta, photographie-et-presse, vie-a-paris-pendant-le-siege
+
+@ fortifications-de-paris
+cat: armes
+nom: Les fortifications de Paris
+alias: enceinte de Thiers, fortifs, forts de Paris, forts détachés, Mont-Valérien, bastions, zone, redoute de Châtillon, plateau d'Avron
+dates: 1841 – 1871
+camp: fr
+def: En 1870, Paris est la plus grande place forte du monde : une enceinte continue de 33 km à 94 bastions, bâtie de 1841 à 1845 sous l'impulsion de Thiers, et seize forts détachés. Elle arrête l'assaut, non la faim ni les canons à longue portée.
+texte: L'invasion de 1814 et la crise d'Orient de 1840 ont décidé la monarchie de Juillet à fortifier la capitale. [[adolphe-thiers|Thiers]], président du Conseil, lance les travaux en 1840 ; une loi de 1841 ouvre 140 millions de francs, et le général Dode de la Brunerie dirige le chantier, achevé vers 1845. L'enceinte, que les Parisiens appelleront « les fortifs », enferme la ville et les villages voisins sur 33 à 34 km : 94 bastions, 17 portes, 23 barrières, 8 poternes, des passages pour les chemins de fer et les canaux. Derrière un glacis de 250 m où il est interdit de bâtir, un fossé large de 40 m précède un mur d'escarpe de 10 m de haut, épais de 3,50 m ; une rue militaire court à l'intérieur.
+texte: À une distance de 2 à 5 km, seize forts couvrent les approches : au sud, Issy, Vanves, Montrouge, Bicêtre, Ivry et Charenton ; à l'est, Vincennes, Nogent, Rosny, Noisy et Romainville ; au nord, Aubervilliers et les trois ouvrages de Saint-Denis, le fort de l'Est, la Double-Couronne et la Briche ; à l'ouest, seul sur sa butte, le Mont-Valérien. Conçus pour les canons de 1840, ils sont trop près de la ville et dominés, au sud, par les hauteurs de Châtillon, de Clamart et de Meudon.
+texte: En juillet 1870, personne n'imagine un siège : l'enceinte ne sert plus que de barrière d'octroi, sans armement ni entretien. À partir de la mi-août, on travaille dans la hâte. Quatre-vingt mille hommes dégagent les champs de tir, rasent la zone, abattent une partie du bois de Boulogne ; on mure des portes, on barre la Seine pour mettre de l'eau dans le fossé, on fait venir des arsenaux et des côtes plus de 3 000 pièces lourdes, servies en partie par 14 000 marins canonniers (voir la [[marine-en-1870|marine en 1870]]). L'enceinte est partagée en neuf secteurs, six sur la rive droite et trois sur la rive gauche, confiés à des amiraux et à des généraux et gardés par la [[garde-nationale|garde nationale]]. Six redoutes neuves sont armées, dont Gennevilliers, Créteil, le Moulin-Saquet et les Hautes-Bruyères. Mais celles de Montretout et de Châtillon ne sont pas finies.
+texte: Le 19 septembre, le [[combat-de-chatillon|combat de Châtillon]] livre aux Allemands ce plateau, d'où leurs pièces de siège atteindront la ville. Ils ne tentent pas l'assaut : ils s'établissent à 10 ou 12 km, sur une ligne de 80 à 100 km, et attendent (voir le [[siege-de-paris|siège de Paris]]). Les forts tiennent quatre mois, appuient les sorties, encaissent à partir du 27 décembre le feu de l'[[artillerie-de-siege|artillerie de siège]], qui chasse les Français du plateau d'Avron puis frappe la rive gauche (voir le [[bombardement-de-paris|bombardement de Paris]]). Aucun n'est pris de vive force ; l'[[armistice-de-1871|armistice]] les livre les 29 et 30 janvier 1871, sauf Vincennes. Au printemps, les mêmes remparts servent à la [[commune-de-paris|Commune]] contre l'armée de Versailles, qui entre le 21 mai par un bastion laissé sans gardes. Une seconde ceinture de forts, à 20 km, est bâtie après 1874 ; l'enceinte, déclassée en 1919, est démolie dans les années 1920.
+repere: 1840 — Thiers fait décider la fortification de Paris.
+repere: 1841 — Une loi ouvre 140 millions de francs pour l'enceinte et les forts.
+repere: 1845 — Achèvement des travaux, selon la date la plus souvent donnée (1844 ou 1846 chez d'autres).
+repere: août 1870 — Mise en état de défense : armement, démolitions dans la zone, redoutes nouvelles.
+repere: 19 septembre 1870 — La redoute inachevée de Châtillon est perdue ; Paris est investi.
+repere: 27 décembre 1870 — Les batteries allemandes ouvrent le feu sur le plateau d'Avron et les forts de l'Est.
+repere: 29 janvier 1871 — Remise des forts à l'armée allemande, en exécution de l'armistice.
+repere: 19 avril 1919 — Loi de déclassement de l'enceinte.
+attention: Les chiffres flottent : 94 bastions pour la plupart des auteurs, 95 pour quelques-uns ; 15 ou 16 forts selon que l'on compte Vincennes ; 33 ou 34 km de tour. Et l'on a dit à tort ces fortifications inutiles : elles ont interdit toute attaque brusquée et immobilisé une grande armée allemande pendant plus de quatre mois. Leur défaut était leur tracé, trop proche d'une ville que le canon de 1870 atteignait par-dessus elles.
+fiche: Construction = 1841-1845
+fiche: Enceinte = 33 à 34 km, 94 bastions, 17 portes
+fiche: Escarpe et fossé = mur de 10 m de haut, fossé de 40 m, glacis de 250 m
+fiche: Forts détachés = 16, à une distance de 2 à 5 km
+fiche: Armement en 1870 = plus de 3 000 pièces lourdes
+fiche: Secteurs = 9 (6 sur la rive droite, 3 sur la rive gauche)
+fiche: Coût = 140 millions de francs (loi de 1841)
+lien: wp Enceinte de Thiers
+lien: wp Fortifications de Paris aux XIXe et XXe siècles
+lien: en Thiers wall
+sources: Wikipédia (fr : Enceinte de Thiers, Fortifications de Paris aux XIXe et XXe siècles, Siège de Paris (1870-1871) ; en : Thiers wall)
+voir: siege-de-paris, bombardement-de-paris, combat-de-chatillon, artillerie-de-siege, places-fortes-en-1870, adolphe-thiers, marine-en-1870, garde-nationale
+
+# ── Les autres fusils ──────────────────────────────────────────────────────
+
+@ fusils-bavarois
+cat: armes
+nom: Les fusils bavarois
+alias: Podewils, fusil Podewils, Podewils-Lindner, système Lindner, Infanteriegewehr M/1858, Werder, fusil Werder, Werdergewehr, Werder-Gewehr M/1869, Blitzgewehr, fusil-éclair
+dates: 1858 – 1877
+camp: de
+def: Les deux corps bavarois de 1870 ne tirent pas avec le fusil à aiguille prussien : la plupart portent le Podewils, vieux fusil à percussion transformé en 1867 pour se charger par la culasse, et quelques bataillons le Werder modèle 1869, premier fusil allemand à cartouche métallique.
+texte: En 1866, la Bavière combat aux côtés de l'Autriche, et ses fantassins affrontent le fusil à aiguille avec une arme qui se charge par la bouche : le fusil d'infanterie modèle 1858, dû à Philipp von Podewils, directeur de la manufacture royale d'Amberg. Ce fusil de 13,9 mm est précis et porte loin ; Theodor Fontane, qui a écrit l'histoire de cette guerre, le juge « excellent ». Mais une arme de ce genre ne se recharge guère que debout, sous le feu. Après la défaite, l'armée bavaroise est réformée, et le plus pressé est de faire du neuf avec l'ancien : en 1867, les fusils Podewils reçoivent une culasse conçue par Edward Lindner, un cylindre à filetage interrompu que l'on tourne, puis que l'on tire en arrière pour ouvrir la chambre.
+texte: L'arme transformée garde l'allumage d'un fusil à percussion. La cartouche de papier contient 4,65 g de poudre et une balle de 27,65 g ; une capsule est logée à sa base, que le soldat doit placer sur la cheminée avant de charger, puis il arme un chien extérieur. C'est un geste de plus qu'avec le [[fusil-dreyse|fusil Dreyse]], et les historiens de l'armement tiennent le Podewils-Lindner pour inférieur à la fois au fusil prussien et au [[fusil-chassepot|Chassepot]].
+texte: Le fusil neuf vient de Nuremberg. Johann Ludwig Werder, directeur technique de la fabrique de machines Cramer-Klett, présente en 1867 à la commission d'essai que préside le prince Luitpold une arme à bloc tombant : un bloc d'acier s'abaisse pour découvrir la chambre, où l'on glisse une cartouche métallique de 11 mm à amorçage central. Plus de papier qui encrasse, plus d'aiguille qui casse, et l'étui de métal fait joint. Le roi [[louis-ii-de-baviere|Louis II]] l'adopte le 18 avril 1869. La balle de 22 g part à 385 m/s environ et porte au plus à 2 200 m. Un tireur très exercé tire jusqu'à dix-huit coups par minute, d'où le surnom de *Blitzgewehr*, « fusil-éclair ».
+texte: La guerre arrive trop tôt. La distribution commence en mai 1870 ; en juillet, quatre bataillons de chasseurs seulement ont le Werder, et douze sur cinquante-huit à la fin de la guerre. Les deux corps bavarois de la [[armees-allemandes-en-campagne|IIIe armée]], celui de [[von-der-tann|von der Tann]] et celui de Hartmann, font donc campagne avec le Podewils, de [[bataille-de-wissembourg|Wissembourg]] à [[bataille-de-bazeilles|Bazeilles]], puis devant Paris et jusqu'à [[bataille-de-coulmiers|Coulmiers]]. Aucune de leurs deux cartouches n'entre dans le fusil prussien : les Bavarois ont leurs propres munitions à transporter.
+texte: Aux essais de 1870-1871, qui doivent donner un fusil à toute l'armée allemande, le Werder est le principal rival du Mauser, retenu à la fin de 1871. La Bavière, qui garde en temps de paix une armée à elle (voir les [[etats-allemands-du-sud|États allemands du Sud]]), conserve son fusil, mais l'adapte en 1875-1876 à la cartouche du Mauser ; à partir de 1877, elle achète à son tour le Mauser modèle 1871.
+repere: 1858 — La Bavière adopte le fusil d'infanterie de Podewils, chargé par la bouche.
+repere: 1866 — Alliés de l'Autriche, les Bavarois sont battus par les Prussiens dans la campagne du Main.
+repere: 1867 — Les fusils Podewils sont transformés pour se charger par la culasse, selon le système Lindner.
+repere: 18 avril 1869 — Louis II adopte le fusil Werder modèle 1869.
+repere: mai 1870 — Début de la distribution du Werder dans l'infanterie.
+repere: juillet 1870 — À l'entrée en guerre, quatre bataillons de chasseurs seulement ont le Werder.
+repere: fin 1871 — Le Mauser est préféré au Werder pour armer l'armée allemande.
+repere: 1877 — La Bavière commence à remplacer le Werder par le Mauser modèle 1871.
+attention: Le surnom de « fusil-éclair » a fait croire que les Bavarois tiraient plus vite que tout le monde en 1870. C'est vrai de quelques bataillons : les dix-huit coups par minute sont un chiffre de tireur d'élite, et presque toute l'infanterie bavaroise s'est battue avec un vieux fusil transformé, inférieur au Dreyse. Le nombre d'unités armées du Werder en 1870 varie d'ailleurs selon les auteurs.
+fiche: Mise en service = 1858 (Podewils, transformé en 1867) ; 1869 (Werder, adopté le 18 avril)
+fiche: Calibre = 13,9 mm (Podewils) ; 11 mm (Werder)
+fiche: Longueur = 1,32 m (Werder)
+fiche: Mécanisme = Podewils-Lindner : culasse à vis, capsule et chien extérieur ; Werder : bloc tombant, percussion centrale ; un coup
+fiche: Munition = Podewils : cartouche de papier, balle de 27,65 g, 4,65 g de poudre ; Werder : cartouche métallique de 11 × 50 mm, balle de 22 g, 4,3 g de poudre
+fiche: Vitesse initiale = 385 m/s (Werder)
+fiche: Cadence = jusqu'à 18 coups par minute (Werder, tireur très exercé)
+fiche: Production = environ 127 000 Werder de 1869 à 1873
+lien: de Werder-Gewehr M/1869
+lien: de Infanteriegewehr M/1858
+lien: en Podewils gun
+sources: Wikipédia (de : Werder-Gewehr M/1869, Infanteriegewehr M/1858, Johann Ludwig Werder, Bayerische Heeresreform, Frühe Verschlüsse von Handfeuerwaffen, Mauser Modell 71 ; en : Podewils gun ; it : M1869 Werder ; fr : Bataille d'Helmstadt) ; Francis Averous, notes sur le Werder (militaryrifles.com)
+voir: fusil-dreyse, fusil-chassepot, etats-allemands-du-sud, von-der-tann, louis-ii-de-baviere, armee-allemande-en-1870, bataille-de-bazeilles
+
+@ fusils-de-la-defense-nationale
+cat: armes
+nom: Les fusils de la Défense nationale
+alias: fusil à tabatière, tabatière, fusil modèle 1867, Remington, Remington égyptien, Snider, Springfield, Spencer, Sharps, Enfield, commission d'armement, Le Cesne, Lecesne, fusils américains
+dates: 1867 – 1874
+camp: fr
+def: Pour armer les centaines de milliers d'hommes levés après le 4 septembre 1870, la France transforme ses vieux fusils en fusils « à tabatière » et en achète dans le monde entier, surtout aux États-Unis : une dizaine de modèles, autant de cartouches.
+texte: Au 1er juillet 1870, la France possède un peu plus d'un million de [[fusil-chassepot|Chassepots]] : de quoi armer l'armée de ligne, non les masses levées après le [[quatre-septembre|4 septembre]], et les capitulations de [[capitulation-de-sedan|Sedan]] et de [[siege-de-metz|Metz]] en livrent des centaines de milliers à l'ennemi. Pour armer les [[garde-mobile|mobiles]], les [[garde-nationale|gardes nationaux]] mobilisés et les [[francs-tireurs]] que lève [[gambetta|Gambetta]], il faut puiser dans les vieux arsenaux et acheter partout.
+texte: La première ressource est le fusil à tabatière. Depuis 1867, l'industrie privée transforme d'anciens fusils à percussion, des modèles 1822, 1842, 1853 ou 1857, en armes chargées par la culasse : on ouvre l'arrière du canon et l'on y monte un bloc à charnière qui bascule vers la droite, comme le couvercle d'une tabatière. L'arme tire une cartouche de 17,8 mm à culot de cuivre et corps de papier, qui pousse une balle de 48 g. Elle ne vaut pas le Chassepot : sa hausse s'arrête à 600 m. En juillet 1870, quelque 358 000 fusils sont transformés ; 1,4 million d'armes se chargent encore par la bouche.
+texte: Le 29 septembre, à Tours, un décret de la [[delegation-de-tours|Délégation]] confie à la commission d'armement tout ce qui touche à l'armement des gardes nationales, des volontaires et des francs-tireurs, avec 25 millions de francs et le droit de correspondre directement avec les agents diplomatiques à l'étranger. Elle est présidée par Jules Le Cesne, député du Havre, un négociant qui a fait fortune dans le coton aux États-Unis. On achète 24 732 Snider anglais, des Enfield, et surtout, en Amérique, qui liquide les surplus de la guerre de Sécession, des Springfield, des carabines Spencer à sept coups, des Sharps et des Remington, dont un lot commandé par le khédive d'Égypte, qui le cède à la France. Le 1er octobre, le paquebot *La Fayette* débarque à Brest 11 300 Remington.
+texte: À Washington, le secrétaire à la Guerre Belknap a vendu des armes réformées à un intermédiaire lié à la maison Remington, agent de la France, puis 54 millions de cartouches ; en 1872, une enquête du Congrès, réclamée au nom de la neutralité par les sénateurs Sumner et Schurz, le met hors de cause. Reste le casse-tête des munitions : le 11 mm du Chassepot, le 18 mm de la tabatière, le .43 égyptien des Remington, le .50 des Springfield, le .577 des Snider, les cartouches de papier des fusils à baguette. Chaque arme a la sienne, et les convois se trompent. Au [[camp-de-conlie|camp de Conlie]], les mobilisés bretons reçoivent des fusils rouillés et des cartouches avariées.
+texte: La tabatière est retirée après l'adoption du fusil Gras, en 1874 (voir [[reformes-militaires-apres-1871]]). Elle a laissé une trace inattendue : le groupe de Barrias inauguré en 1883 au rond-point de Courbevoie, *La Défense de Paris*, montre un garde mobile qui charge son fusil à tabatière, et le quartier de la Défense doit son nom au monument.
+repere: 1867 — Début de la transformation des vieux fusils à percussion en fusils à tabatière.
+repere: juillet 1870 — Environ 358 000 fusils à tabatière sont prêts ; 1,4 million d'armes se chargent encore par la bouche.
+repere: 29 septembre 1870 — À Tours, un décret charge la commission d'armement d'armer gardes nationales, volontaires et francs-tireurs.
+repere: 1er octobre 1870 — Le *La Fayette* débarque à Brest 11 300 fusils Remington.
+repere: 20 février 1872 — Le Sénat américain crée une commission d'enquête sur les ventes d'armes à la France.
+repere: 1874 — Adoption du fusil Gras ; la tabatière est retirée du service.
+repere: 12 août 1883 — Inauguration de *La Défense de Paris*, de Barrias, au rond-point de Courbevoie.
+attention: On imagine les armées de la Défense nationale équipées de vieilleries. Beaucoup des armes achetées étaient modernes, à cartouche métallique, et la carabine Spencer tirait plus vite que le Chassepot. Le mal tenait au mélange des modèles et des calibres et aux retards : à Conlie, les fusils promis n'arrivent pas, et un lot débarqué au Havre en octobre n'entre à l'arsenal de Bordeaux que le 30 janvier 1871, après l'armistice.
+fiche: Mise en service = 1867 (fusil à tabatière) ; achats à l'étranger à partir de septembre 1870
+fiche: Calibre = 17,8 mm (tabatière) ; de 11,4 à 14,7 mm pour les fusils achetés (Remington, Springfield, Snider)
+fiche: Longueur = 1,42 m (fusil d'infanterie à tabatière)
+fiche: Poids = 4,2 à 4,4 kg (tabatière)
+fiche: Mécanisme = tabatière : bloc à charnière qui bascule sur le côté ; un coup (Spencer : magasin de sept cartouches)
+fiche: Munition = tabatière : cartouche à culot de cuivre et corps de papier, balle de 48 g
+fiche: Portée utile = 600 m
+fiche: Hausse graduée jusqu'à = 600 m (fusil d'infanterie à tabatière)
+fiche: Production = environ 358 000 tabatières en juillet 1870
+fiche: Achats à l'étranger = Snider (24 732), Enfield, Springfield, Spencer, Sharps, Remington
+lien: en Tabatière rifle
+lien: wp Jules Lecesne
+lien: url https://www.loire1870.fr/pages/pa_pdf/decrets_du_gdn_01.pdf = Décret de la Délégation de Tours du 29 septembre 1870 sur la commission d'armement (loire1870.fr)
+sources: Wikipédia (en : Tabatière rifle, Snider–Enfield, Remington Rolling Block rifle, Spencer repeating rifle, Springfield Model 1866, .577 Snider, William W. Belknap ; de : Tabatièregewehr ; fr : Jules Lecesne, Remington Rolling Block, Camp de Conlie, La Défense de Paris (groupe sculpté)) ; décret du 29 septembre 1870 (loire1870.fr) ; militaryrifles.com, fiche du fusil à tabatière ; tirsportifchabris.fr, cargaisons d'armes américaines d'après le rapport d'enquête parlementaire Boreau-Lajanadie ; William B. Edwards, Civil War Guns (enquête du Sénat de 1872)
+voir: fusil-chassepot, garde-mobile, garde-nationale, camp-de-conlie, delegation-de-tours, gambetta, armee-de-la-loire, francs-tireurs
+
+# ── Les autres canons ──────────────────────────────────────────────────────
+
+@ canon-de-7
+cat: armes
+nom: Le canon de 7
+alias: canon de 7 Reffye, canon Reffye, canon de 85 mm, canon de 7 modèle 1867, canon de campagne de 7 modèle 1870, canons de la souscription, souscription des canons, le Châtiment
+dates: 1868 – 1873
+camp: fr
+def: Canon de campagne en bronze de 85 mm, chargé par la culasse, mis au point par le commandant de Reffye à la veille de la guerre. Paris assiégé le fabrique dans ses propres ateliers, en partie grâce à une souscription publique.
+texte: En juillet 1870, l'armée française n'a pas un seul canon de campagne qui se charge par la culasse. La pièce existe pourtant. En 1868, [[napoleon-iii|Napoléon III]] a chargé en secret le commandant de Reffye, le père du [[mitrailleuse-de-reffye|canon à balles]], d'en étudier une ; au début de 1870, les essais sont concluants, mais la guerre éclate avant la fabrication en série (voir l'[[artillerie-francaise|artillerie française]]).
+texte: C'est un tube de bronze rayé de 85 mm, fermé à l'arrière par une vis : on la dévisse, on la tire en arrière, puis on la fait pivoter vers la gauche sur une charnière pour découvrir la chambre. L'obus de fonte, chemisé de plomb comme l'obus prussien, pèse près de 7 kg, d'où le nom de la pièce, et sa fusée percutante le fait éclater au choc, à toute distance : c'est la leçon des [[canon-krupp|canons Krupp]]. La charge, faite d'anneaux de poudre comprimée, se dose selon la distance. Mais l'arme est lourde, 666 kg pour le tube et sa culasse, deux fois le tube du canon prussien de 6, et la vis s'encrasse vite avec la grosse poudre noire du temps.
+texte: Le [[siege-de-paris|siège de Paris]] lui donne sa chance. Coupée du pays, la capitale doit fondre ses canons elle-même. La fabrication commence à Meudon ; quand l'investissement livre les hauteurs du sud aux Allemands, elle passe aux ateliers de l'industrie parisienne, qui coulent des tubes de bronze et en tirent d'autres de l'acier des essieux de chemin de fer. Le ministère des Travaux publics en commande 300 ; la défense en voudrait 1 500. Combien en sort-il ? Les estimations vont de 200 à 800.
+texte: Pour payer des canons, Paris souscrit. Le 22 octobre, la mairie du XIVe arrondissement placarde un appel, « Des canons », signé de Louis Asseline ; le même jour, [[victor-hugo-en-1870|Victor Hugo]] verse au *Siècle*, pour la « souscription nationale pour les canons dont Paris a besoin », les 500 francs que lui ont rapportés les cinq mille premiers exemplaires des *Châtiments*. Le lendemain, le 17e bataillon de la [[garde-nationale|garde nationale]] lui demande d'être le premier à donner « un sou pour un canon » ; le 25, il prépare une lecture publique des *Châtiments* pour offrir une pièce qui s'appellera le « Châtiment ». Tout n'est pas canon de 7 : le 17e bataillon rêve d'une pièce de 24 cm « égale aux canons Krupp ».
+texte: Après la capitulation, les Allemands emportent 33 canons de 7. Les canons payés par souscription restent à la garde nationale, qui les tient pour siens : c'est pour les reprendre qu'[[adolphe-thiers|Adolphe Thiers]] envoie la troupe à Montmartre le 18 mars 1871 (voir la [[commune-de-paris|Commune de Paris]]). Trop lourd pour la campagne, le canon de 7 n'est pas reconduit : Reffye fait adopter en 1873 de nouvelles pièces de 75 et de 85 mm (voir [[reformes-militaires-apres-1871]]).
+repere: 1868 — Napoléon III charge en secret Reffye d'étudier un canon de campagne à culasse.
+repere: début 1870 — Les essais sont concluants ; la guerre empêche la fabrication en série.
+repere: septembre 1870 — Paris investi, la fabrication passe de Meudon aux ateliers parisiens.
+repere: 22 octobre 1870 — Appel « Des canons » de la mairie du XIVe ; Victor Hugo verse 500 francs à la souscription nationale.
+repere: 25 octobre 1870 — Hugo prépare une lecture des *Châtiments* pour offrir un canon, le « Châtiment ».
+repere: 18 mars 1871 — La troupe tente d'enlever les canons de la garde nationale à Montmartre.
+repere: 1873 — Reffye fait adopter de nouveaux canons de 75 et de 85 mm.
+attention: Un état des commandes du siège annonce « 300 canons de 7 centimètres », « portant à 8 000 m ». Le nom est déformé, car le 7 désigne le poids de l'obus et non le calibre, qui est de 85 mm ; et la portée, que les tables donnent pour 3 200 m, est plus que doublée. Les chiffres de production varient de même, de 200 à 800 pièces selon les auteurs.
+fiche: Mise en service = 1870 (étudié à partir de 1868, dit aussi « modèle 1867 »)
+fiche: Calibre = 85 mm
+fiche: Métal = bronze (une partie en acier pendant le siège de Paris)
+fiche: Chargement = culasse, fermée par une vis
+fiche: Poids de l'obus = 6,85 kg (obus de fonte chemisé de plomb)
+fiche: Fusée = percutante
+fiche: Vitesse initiale = 383 m/s
+fiche: Portée maximale = 3 200 m
+fiche: Poids = 666 kg pour le tube et sa culasse
+fiche: Production = 200 à 800 pièces à Paris pendant le siège, selon les estimations
+lien: wp Canon de 7 modèle 1867
+lien: en Reffye 85 mm cannon
+lien: ws Choses vues/Extraits des Carnets/Pendant le siège de Paris
+sources: Wikipédia (fr : Canon de 7 modèle 1867, Jean-Baptiste Verchère de Reffye, Chronologie du siège de Paris (1870-1871), Soulèvement du 18 mars 1871 ; de : Canon de 7 modèle 1867 ; en : Reffye 85 mm cannon, Reffye 75 mm cannon) ; Victor Hugo, Choses vues, carnets du siège de Paris (Wikisource) ; Christophe Pommier, chronique de la Fondation Napoléon ; BnF, notice de l'affiche « Des canons : souscription patriotique », mairie du XIVe, 22 octobre 1870
+voir: mitrailleuse-de-reffye, artillerie-francaise, canon-krupp, siege-de-paris, victor-hugo-en-1870, garde-nationale, commune-de-paris
+
+@ artillerie-de-siege
+cat: armes
+nom: L'artillerie de siège
+alias: parc de siège, pièces de siège, canons de siège, mortiers, mortier rayé, mortier de 21 cm, canon de 15 cm, canon de 24, Belagerungsartillerie, Belagerungspark, Fußartillerie, artillerie à pied, tir indirect
+dates: août 1870 – février 1871
+camp: de
+def: Les pièces lourdes qui attaquent et défendent les places : canons rayés de 12 et de 15 cm, mortiers lisses et premiers mortiers rayés. Le parc de siège allemand ouvre la brèche de Strasbourg, bombarde Belfort et atteint Paris à plus de sept kilomètres.
+texte: Une place ne se prend pas avec des canons de campagne. Il faut un parc de siège : des pièces lourdes, des centaines de milliers de projectiles, des compagnies d'artillerie à pied pour les servir. Dès 1858, la Prusse a décidé que son artillerie de siège et de place aurait des canons rayés chargés par la culasse, de 9, de 12 et de 15 cm, les « canons de 6, de 12 et de 24 », qui lancent des obus de 7, de 14 et de 28 kg environ. Le canon de 15 cm est en bronze dans son modèle de 1861, en acier dans celui de 1864. Les mortiers, qui tirent en cloche par-dessus les remparts, sont encore pour la plupart des pièces lisses chargées par la bouche, comme le mortier de 25 livres, de 23 cm, qui lance à 1 700 m au plus une bombe de 30 à 40 kg.
+texte: Le premier grand parc sert devant [[siege-de-strasbourg|Strasbourg]]. Installé à Vendenheim et, sur la rive badoise, à Kork, il réunit 366 canons et mortiers et 320 404 projectiles, servis par 6 000 artilleurs. Les premiers mortiers rayés de 21 cm, en bronze, encore en petit nombre, y font leurs débuts. La brèche de la lunette 53 est l'œuvre d'un tir indirect : la batterie, à 800 m, ne voit pas le mur qu'elle frappe, et un millier d'obus y ouvrent un passage large de plus de vingt-cinq mètres.
+texte: Devant [[siege-de-paris|Paris]], tout est affaire de transport. La voie ferrée reste longtemps coupée, et chaque pièce, chaque obus doit finir la route en voiture. L'effort ne commence vraiment qu'en décembre, quand le roi confie les transports à [[albrecht-von-roon|Roon]] : il faut amener quelque 2 500 tonnes de munitions. Le parc du front sud s'installe à Villacoublay, dans la cour de la ferme Rabourdin. Le feu s'ouvre le 27 décembre à l'est, le 5 janvier au sud ; les canonniers pointent au plus haut et forcent les charges, et leurs obus tombent sur la rive gauche à plus de sept kilomètres de Châtillon (voir le [[bombardement-de-paris|bombardement de Paris]]).
+texte: En juillet, l'enceinte de Paris n'avait aucune pièce en batterie. À la mi-octobre, 2 140 bouches à feu garnissent remparts et forts ; la marine apporte ses gros canons et ses canonniers, et le seul fort de Montrouge reçoit huit canons de marine de 16 cm et 1 323 marins (voir la [[marine-en-1870|marine en 1870]]). Plus nombreux, les canons français tirent par des embrasures, et l'ennemi les repère ; les pièces allemandes, sur des affûts hauts, tirent par-dessus le parapet. À [[siege-de-belfort|Belfort]], [[denfert-rochereau|Denfert-Rochereau]] retourne la méthode : il descend des pièces des remparts dans les fossés et dans la ville, d'où elles tirent sans être vues.
+texte: Après 1871, la France repousse ses ceintures de forts loin des villes, pour tenir les batteries de l'assiégeant hors de portée des maisons (voir [[reformes-militaires-apres-1871]] et [[places-fortes-en-1870]]).
+repere: 1858 — La Prusse choisit des canons rayés à culasse de 9, 12 et 15 cm pour son artillerie de siège et de place.
+repere: 23 août 1870 — L'artillerie de siège ouvre le feu sur Strasbourg.
+repere: 3 décembre 1870 — Début du bombardement de Belfort.
+repere: décembre 1870 — Le roi confie à Roon le transport du parc de siège devant Paris.
+repere: 27 décembre 1870, 7 h 45 — Soixante-seize pièces ouvrent le feu sur le plateau d'Avron et les forts de l'Est.
+repere: 5 janvier 1871 — Quatre-vingt-dix-huit pièces battent les forts du sud ; premiers obus sur la rive gauche.
+repere: 26 janvier 1871 — Le feu cesse devant Paris à minuit.
+repere: 8 février 1871 — Les Perches prises, l'artillerie allemande bat de près le Château de Belfort.
+attention: Les Parisiens attribuent le bombardement aux « gigantesques canons Krupp ». En 1871, un officier de secteur rapporte dans la *Revue des Deux Mondes*, d'après la presse allemande, 1 500 canons en position devant Paris et des projectiles de 94 kg lancés à 8 km. Le feu s'ouvre avec 174 pièces, et les plus longues portées s'obtiennent en pointant au plus haut et en forçant les charges : les chiffres du temps sont à prendre avec prudence.
+fiche: Mise en service = 1861 (canon de 15 cm en bronze) ; 1864 (en acier)
+fiche: Calibre = 9, 12 et 15 cm (canons rayés) ; 21 cm (mortier rayé) ; 23 cm (mortier lisse de 25 livres)
+fiche: Métal = bronze ou acier (canons de 15 cm)
+fiche: Chargement = culasse (canons rayés) ; bouche (mortiers lisses)
+fiche: Poids de l'obus = 7, 14 et 28 à 35 kg (canons de 6, de 12 et de 24) ; 30 à 40 kg (mortier de 25 livres)
+fiche: Fusée = percutante ; fusante pour les obus à balles
+fiche: Portée maximale = 7 à 8 km (Paris, janvier 1871, au plus haut pointage) ; 1 725 m (mortier de 25 livres)
+fiche: Parc de Strasbourg = 366 canons et mortiers, 320 404 projectiles
+fiche: Devant Paris = 76 pièces le 27 décembre 1870, 98 le 5 janvier 1871
+lien: ws Le Canon Krupp et le bombardement de Paris
+lien: de 25-Pfünder-Mörser (Preussen)
+sources: Wikipédia (en : Siege of Strasbourg, 21 cm RK L/19, 15 cm RK L/26, 15 cm Ring Kanone C/72, 21 cm Mörser 99, Siege of Paris (1870–1871) ; de : 25-Pfünder-Mörser (Preussen), Belagerung von Paris (1870–1871), Belagerung von Straßburg, Rheinisches Fußartillerie-Regiment Nr. 8 ; fr : Vélizy-Villacoublay, Chronologie du siège de Paris (1870-1871)) ; L. Simonin, « Le canon Krupp et le bombardement de Paris », Revue des Deux Mondes, 1871 (Wikisource) ; Encyclopædia Britannica, 1911, « Fortification and Siegecraft » (Wikisource)
+voir: siege-de-strasbourg, siege-de-paris, bombardement-de-paris, siege-de-belfort, canon-krupp, places-fortes-en-1870, fortifications-de-paris, denfert-rochereau
+
+# ── L'homme, sa tenue, ses fils ────────────────────────────────────────────
+
+@ armes-blanches
+cat: armes
+nom: Sabres, lances et baïonnettes
+alias: arme blanche, armes blanches, baïonnette, sabre-baïonnette, yatagan, sabre de cavalerie, latte, lance, lance des uhlans, cuirasse, charge à la baïonnette
+dates: 1870 – 1871
+def: Baïonnette du fantassin, sabre et lance du cavalier, cuirasse des régiments lourds : en 1870, l'arme blanche garde tout son prestige et une place dans chaque règlement. Devant le fusil à tir rapide et le canon rayé, elle ne fait plus qu'une part infime des blessures.
+texte: Chaque fantassin de 1870 porte une baïonnette. Celle du [[fusil-chassepot|Chassepot]] est un sabre-baïonnette dont la lame de 57 cm, à double courbure, imite le yatagan oriental : elle fait du fusil une pique de 1,88 m. Le Bavarois a lui aussi un yatagan pour son Werder (voir les [[fusils-bavarois|fusils bavarois]]). Les officiers ont le sabre ou l'épée, qui sert surtout à montrer la direction.
+texte: La cavalerie vit encore pour le choc (voir la [[cavalerie-en-1870|cavalerie]]). Les cuirassiers français, onze régiments qui n'ont pas chargé depuis Waterloo, vont au combat sous le casque à crinière et la cuirasse d'acier, que la France portera encore en 1914 ; la Prusse a dix régiments de cuirassiers. Les uhlans allemands ont la lance ; dans les campagnes envahies, on finit par appeler « uhlan » tout cavalier allemand.
+texte: Les grandes charges montrent ce que vaut le fer contre le feu. Le 6 août, à Morsbronn puis à Elsasshausen, les cuirassiers de la brigade Michel et de la division Bonnemains sont fusillés dans les houblonnières et les rues avant d'avoir joint personne (voir les [[charges-de-reichshoffen|charges de Reichshoffen]]). Le 1er septembre, les [[charges-de-floing|charges de Floing]] se brisent de même sur l'infanterie allemande. Le 16 août, à la [[bataille-de-mars-la-tour|bataille de Mars-la-Tour]], la brigade de [[von-bredow|von Bredow]] atteint les batteries françaises, mais elle y laisse une grande partie des siens. Sabre contre sabre, on ne se bat guère que ce soir-là, dans la grande mêlée de cavalerie qui clôt la journée.
+texte: Dans l'infanterie, la baïonnette reste le dernier mot des ordres. À Frœschwiller, les [[armee-d-afrique|turcos]] chargent ainsi pour reprendre des canons ; à [[bataille-de-coulmiers|Coulmiers]], l'infanterie de l'armée de la Loire aborde les villages à la baïonnette. Mais le corps à corps est rare : presque toujours, l'un des deux adversaires cède avant le contact, ou tombe avant d'arriver. Les statistiques médicales allemandes, telles que les rapporte la littérature chirurgicale de la fin du siècle, comptent environ 600 blessures par sabre, lance ou baïonnette sur 98 000 blessés, soit moins de 1 % (voir le [[service-de-sante|service de santé]]).
+texte: L'arme blanche a surtout un effet moral : la baïonnette donne à la troupe la résolution d'avancer, et l'apparition des lances suffit souvent à vider un village. Aucune armée n'y renonce après la guerre.
+repere: 1866 — Le sabre-baïonnette à lame de yatagan est adopté avec le Chassepot.
+repere: 6 août 1870 — À Morsbronn et à Elsasshausen, les cuirassiers français sont détruits par le feu de l'infanterie.
+repere: 16 août 1870 — Mars-la-Tour : charge de la brigade von Bredow, puis grande mêlée de cavalerie.
+repere: 1er septembre 1870 — À Floing, les charges de la cavalerie française échouent devant les fusils allemands.
+repere: 9 novembre 1870 — À Coulmiers, l'infanterie de l'armée de la Loire emporte les villages à la baïonnette.
+attention: Les récits et les tableaux d'après-guerre sont pleins de charges à la baïonnette et de sabres levés. Les relevés des chirurgiens disent autre chose : l'arme blanche compte pour moins d'une blessure sur cent. Le chiffre ne dit rien des morts restés sur place, et il est cité ici de seconde main : c'est un ordre de grandeur.
+fiche: Sabre-baïonnette du Chassepot = lame de 57 cm, à double courbure (yatagan)
+fiche: Fusil et baïonnette = 1,88 m (Chassepot)
+fiche: Cuirassiers = 11 régiments français, 10 prussiens
+fiche: Uhlans = lance
+fiche: Blessures par arme blanche = environ 600 sur 98 000 blessés allemands recensés (moins de 1 %)
+lien: en Cuirassier
+lien: en Uhlan
+sources: Wikipédia (en : Cuirassier, Uhlan ; de : Kürassiere, Werder-Gewehr M/1869 ; fr : Chassepot modèle 1866) ; chiffre des blessures cité de seconde main d'après un traité de chirurgie de guerre de 1888, non consulté directement
+voir: cavalerie-en-1870, charges-de-reichshoffen, charges-de-floing, von-bredow, bataille-de-mars-la-tour, fusil-chassepot, service-de-sante, tactique-en-1870
+
+@ uniformes-francais
+cat: armes
+nom: Les uniformes français
+alias: pantalon garance, pantalon rouge, capote, képi, shako, tenue de campagne, zouave, turco, moblot, uniforme français, garance
+dates: 1870 – 1871
+camp: fr
+def: Le fantassin français de 1870 fait campagne en capote gris de fer bleuté, pantalon garance et képi. Autour de lui, les tenues orientales de l'armée d'Afrique, les casques des cuirassiers, puis les effets improvisés des mobiles et des francs-tireurs.
+texte: Le soldat de ligne porte le pantalon garance, ce rouge que l'infanterie a adopté en 1829, et la capote de laine « gris de fer bleuté », son vêtement de campagne. Sur le dos, le sac, avec la couverture, la toile de tente, la gamelle et les vivres ; à la ceinture, les cartouches et le [[armes-blanches|sabre-baïonnette]]. La coiffure de tenue est le shako, mais c'est le képi garance que l'on voit partout. Le comte de Leusse, maire de Reichshoffen, note en juillet 1870 que de Strasbourg à son village tous les soldats du 1er corps ont jeté leur shako dans les fossés des routes : [[ducrot|Ducrot]] avait demandé en vain qu'on les laisse au dépôt, et ils servent depuis, écrit-il, de jouets aux gamins d'Alsace.
+texte: Les chasseurs à pied sont en tunique bleue, et leur pantalon est d'une autre teinte que celui de la ligne. Les cuirassiers gardent le casque à crinière et la cuirasse d'acier (voir la [[cavalerie-en-1870|cavalerie]]). La Garde impériale ajoute ses distinctions, que la campagne efface vite.
+texte: L'[[armee-d-afrique|armée d'Afrique]] tranche sur le reste. Le zouave porte la veste courte, le gilet sans manches, la large ceinture de laine, le pantalon bouffant et la chéchia ; un ovale de drap sur la veste, le « tombeau », distingue les trois régiments : garance au 1er, blanc au 2e, jaune au 3e. Le tirailleur algérien, le « turco », a la même coupe « à l'orientale », en bleu à parements jaunes, avec la ceinture rouge. Les Allemands apprennent à reconnaître de loin ces silhouettes à [[bataille-de-wissembourg|Wissembourg]] et à [[bataille-de-froeschwiller-woerth|Frœschwiller]].
+texte: Après [[bataille-de-sedan|Sedan]], l'uniforme devient ce que l'on peut. Il faut habiller en quelques semaines des centaines de milliers d'hommes : à Paris, du 5 septembre au 12 octobre, le ministère de l'Intérieur distribue 563 736 effets à la [[garde-mobile|garde mobile]] et 55 850 à la [[garde-nationale|garde nationale]] sédentaire, qui se contente souvent d'un képi et d'une vareuse. Les [[francs-tireurs]] s'habillent à leur idée, et les Allemands tirent argument de ces tenues de fantaisie pour leur refuser la qualité de soldats. Les marins des forts gardent leur tenue de bord (voir la [[marine-en-1870|marine en 1870]]), les garibaldiens leur chemise rouge (voir l'[[armee-des-vosges|armée des Vosges]]). Dans les armées de province, l'hiver trouve des régiments entiers sans capotes ni souliers solides ; au [[camp-de-conlie|camp de Conlie]], les mobilisés bretons vivent dans la boue sous des tentes mal jointes.
+repere: 1829 — L'infanterie française adopte le pantalon garance.
+repere: 1852 — Trois régiments de zouaves, distingués par la couleur du « tombeau » de la veste.
+repere: juillet 1870 — En marche vers la frontière, les soldats du 1er corps jettent leurs shakos.
+repere: septembre 1870 — Paris habille en hâte ses gardes mobiles : plus de 560 000 effets distribués en cinq semaines.
+repere: hiver 1870-1871 — Les armées de province font campagne avec des effets de toute provenance.
+attention: On reproche au pantalon rouge d'avoir fait du soldat une cible. Le grief vaut pour 1914. En 1870, toutes les armées s'habillent de couleurs franches, le bleu foncé des Prussiens ne se voit pas moins, et la fumée de la poudre noire couvre vite les lignes. Ce qui a manqué aux armées de la République, ce n'est pas une teinte discrète : ce sont des souliers, des capotes et des couvertures.
+fiche: Infanterie de ligne = capote gris de fer bleuté, pantalon garance, képi (shako en tenue)
+fiche: Chasseurs à pied = tunique bleue
+fiche: Zouaves = veste courte, pantalon bouffant, chéchia ; « tombeau » garance, blanc ou jaune selon le régiment
+fiche: Tirailleurs algériens = même coupe, veste bleue à parements jaunes, ceinture rouge
+fiche: Cuirassiers = casque à crinière et cuirasse d'acier
+fiche: Effets distribués à Paris = 637 471 du 5 septembre au 12 octobre 1870
+lien: wp Zouave
+lien: wp Tirailleurs algériens
+lien: wp Corps des chasseurs à pied en France
+sources: Wikipédia (fr : Uniforme militaire, Bleu horizon, Zouave, Tirailleurs algériens, Corps des chasseurs à pied en France, Chronologie du siège de Paris (1870-1871), Camp de Conlie ; en : Cuirassier)
+voir: uniformes-allemands, armee-francaise-en-1870, armee-d-afrique, garde-mobile, garde-nationale, francs-tireurs, armes-blanches
+
+@ uniformes-allemands
+cat: armes
+nom: Les uniformes allemands
+alias: casque à pointe, Pickelhaube, Helm mit Spitze, Waffenrock, tunique bleue, casque à chenille, Raupenhelm, uhlan, tschapka, hussard, uniforme prussien, bleu de Prusse
+dates: 1842 – 1871
+camp: de
+def: Tunique bleu foncé et casque de cuir à pointe : la silhouette du fantassin prussien, fixée en 1842, devient en 1870 l'image même de l'envahisseur. Mais les Bavarois sont en bleu clair sous un casque à chenille, les chasseurs en vert, et chaque arme de la cavalerie a sa tenue.
+texte: En 1842, le roi Frédéric-Guillaume IV ordonne pour son armée, sauf les chasseurs, les hussards et les uhlans, un casque nouveau, officiellement le « casque à pointe », que le public appelle *Pickelhaube*. Trop lourd en métal pour les troupes à pied, il est fait de cuir pressé garni de métal ; un fabricant de Haspe, Christian Harkort, en reçoit la première commande en novembre 1842, et la troupe le coiffe l'année suivante. La pointe doit faire dévier les coups de sabre. D'abord très haut, le casque s'abaisse de modèle en modèle, tandis que la tunique, le *Waffenrock*, prend sa forme définitive : une seule rangée de huit boutons.
+texte: En 1870, le fantassin prussien porte cette tunique bleu foncé, le casque à pointe et des bottes courtes. Les artilleurs ont la même tunique à col noir, et leur casque se termine par une boule au lieu d'une pointe. Les chasseurs et les tirailleurs sont en vert foncé et gardent le shako, comme les soldats du train, en bleu foncé à col bleu clair.
+texte: Tous les Allemands ne sont pas en bleu de Prusse. Les Saxons, entrés dans la [[confederation-de-l-allemagne-du-nord|Confédération de l'Allemagne du Nord]], sont désormais habillés sur le modèle prussien, casque à pointe compris. Les Bavarois, eux, gardent le bleu clair traditionnel de leur infanterie et le casque à chenille, un casque surmonté d'un épais cimier, adopté en 1801 et qu'ils ne quitteront qu'en 1886, à la mort de [[louis-ii-de-baviere|Louis II]] (voir les [[etats-allemands-du-sud|États allemands du Sud]]). À [[bataille-de-bazeilles|Bazeilles]] comme à [[bataille-de-coulmiers|Coulmiers]], les Français savent ainsi à qui ils ont affaire.
+texte: La cavalerie est la plus variée : cuirassiers, dragons, hussards, uhlans ont chacun leur coupe et leurs couleurs. Les uhlans portent la *tschapka* à plateau carré héritée des lanciers polonais, et la [[armes-blanches|lance]]. Ce sont eux, lancés en avant des colonnes, que les villages voient souvent arriver les premiers (voir la [[cavalerie-en-1870|cavalerie]]) ; pendant le [[siege-de-paris|siège de Paris]], on les charge même de suivre au galop les [[ballons-du-siege|ballons]]. Pour les Français de 1870, tout cavalier allemand devient un uhlan, comme tout Allemand un « Prussien » et un « casque à pointe ».
+texte: Après 1871, la Bavière garde sa couleur, mais la coupe et l'équipement s'alignent sur le modèle prussien. Le casque à pointe, adopté par d'autres États, devient pour la caricature le signe du militarisme allemand (voir [[chansons-et-images]]) ; au milieu de la Grande Guerre, le casque d'acier le remplace au front.
+repere: 1801 — La Bavière adopte le casque à chenille pour toutes ses armes.
+repere: 1842 — Frédéric-Guillaume IV ordonne le casque à pointe pour l'armée prussienne.
+repere: 1843 — Le casque de cuir est distribué à la troupe.
+repere: 1870 — Les Bavarois font campagne en bleu clair, sous le casque à chenille.
+repere: 1886 — La Bavière abandonne le casque à chenille.
+repere: 1916 — Le casque d'acier remplace le casque à pointe au front.
+attention: On ne sait pas au juste si le casque à pointe est une invention prussienne. Selon une tradition que rien n'établit, Frédéric-Guillaume IV en aurait vu en 1842 un modèle d'essai sur le bureau du tsar ; la Russie n'adopte le sien qu'en 1846. Et l'image d'une armée allemande uniformément bleu sombre est fausse pour 1870 : deux corps d'armée entiers, les Bavarois, étaient en bleu clair.
+fiche: Infanterie prussienne = tunique bleu foncé à huit boutons, casque de cuir à pointe
+fiche: Artillerie = tunique bleu foncé à col noir, casque à boule
+fiche: Chasseurs = tunique vert foncé, shako
+fiche: Infanterie bavaroise = tunique bleu clair, casque à chenille (jusqu'en 1886)
+fiche: Uhlans = tschapka et lance
+fiche: Casque à pointe = ordonné en 1842, distribué en 1843
+lien: de Pickelhaube
+lien: de Raupenhelm
+lien: de Preußische Armee
+sources: Wikipédia (de : Pickelhaube, Raupenhelm, Preußische Armee, Bayerische Armee, Sächsische Armee ; en : Uhlan)
+voir: uniformes-francais, armee-allemande-en-1870, landwehr, etats-allemands-du-sud, cavalerie-en-1870, armes-blanches, chansons-et-images
+
+@ telegraphe-en-1870
+cat: armes
+nom: Le télégraphe
+alias: télégraphe électrique, télégraphie militaire, télégraphe de campagne, dépêche, dépêches, télégramme, câble de la Seine, boules de Moulins, boule de Moulins, Steenackers, Feldtelegraphie
+dates: 1870 – 1871
+def: En 1870, la guerre se commande et se raconte par dépêches. Le télégraphe porte les ordres, les nouvelles et les fausses nouvelles ; couper les fils est le premier geste de l'envahisseur, et Paris assiégé demande au fleuve ce que le fil ne donne plus.
+texte: La guerre commence par un télégramme : celui que [[bismarck|Bismarck]] resserre le 13 juillet et livre à la presse (voir la [[depeche-d-ems|dépêche d'Ems]]). Elle se prépare par d'autres, ordres de [[mobilisation-de-1870|mobilisation]] et appels de généraux qui cherchent leurs troupes. Les armées se servent du réseau civil, que complètent des lignes de campagne ; à la fin de juillet, la presse annonce que des postes télégraphiques établis le long du Rhin avertissent aussitôt le quartier général de Strasbourg de ce qui se passe à la frontière. Couper le fil est le premier acte de guerre : la patrouille du [[comte-zeppelin|comte Zeppelin]] détruit la ligne de Wissembourg dès le 24 juillet, les Badois coupent celle de Strasbourg le 12 août.
+texte: L'outil ne vaut que par l'emploi qu'on en fait. Le lieutenant-colonel de Cugnac a reconstitué les dépêches échangées entre [[mac-mahon|Mac-Mahon]] et le général de Failly avant la [[bataille-de-froeschwiller-woerth|bataille de Frœschwiller]]. Le 5 août, l'ordre d'accourir avec tout le 5e corps est déposé au bureau de Reichshoffen à 20 h 10 ; il n'est remis à Bitche que vers 23 h, pour vingt-quatre kilomètres. À Bitche, on dispute pour savoir si une dépêche de la veille parle de Lemberg ou de Lembach. Le lendemain, c'est sous les balles, vers midi, que l'on déchiffre le télégramme de Paris annonçant au maréchal qu'il a devant lui toute l'armée du [[kronprinz-frederic-guillaume|Kronprinz]]. Cugnac conclut qu'il fallait quatorze heures pour obtenir une réponse d'une ville distante de trente kilomètres.
+texte: Le fil fait aussi l'opinion : les dépêches officielles, affichées, donnent le ton, et les fausses nouvelles courent aussi vite qu'elles (voir [[photographie-et-presse]]).
+texte: Le 19 septembre, la dernière ligne qui sortait de Paris, celle de l'Ouest, est coupée. On avait immergé un câble dans la Seine pour garder un lien avec la province : lui aussi est sectionné. Restent les [[ballons-du-siege|ballons]] pour sortir, les [[pigeons-voyageurs|pigeons]] pour rentrer, et le fleuve lui-même. Trois inventeurs proposent d'enfermer les lettres dans des cylindres de zinc étanches, munis d'ailettes, que l'on immerge en amont, près de Montereau, et qui doivent rouler sur le fond jusqu'à un filet tendu aux abords de la capitale. Le courrier, taxé un franc au lieu de vingt centimes, est réuni à Moulins, dans l'Allier. Les discussions avec l'administration font perdre des semaines. Du 5 au 28 janvier 1871, cinquante-cinq « boules de Moulins » sont jetées à l'eau, dans une Seine qui charrie des glaces : aucune n'arrive avant la fin du siège. On en a retrouvé plus de la moitié depuis, jusqu'à l'embouchure du fleuve.
+texte: En province, Steenackers, directeur général des Télégraphes, réunit à Tours les Postes et le Télégraphe (voir la [[delegation-de-tours|Délégation de Tours]]) ; c'est son service qui achemine les dépêches par pigeons. Le télégraphe a sa légende, celle de [[juliette-dodu|Juliette Dodu]], qui dirigeait le bureau de Pithiviers.
+repere: 13 juillet 1870 — La dépêche d'Ems, abrégée par Bismarck, est communiquée à la presse.
+repere: 24 juillet 1870 — La patrouille de Zeppelin détruit la ligne télégraphique de Wissembourg.
+repere: 5 août 1870, 20 h 10 — L'appel de Mac-Mahon à Failly part de Reichshoffen ; il n'arrive à Bitche que vers 23 h.
+repere: 19 septembre 1870 — La dernière ligne télégraphique de Paris est coupée.
+repere: 26 décembre 1870 — Un décret organise l'envoi du courrier vers Paris par les boules de Moulins.
+repere: 5 janvier 1871 — Les premières boules sont immergées dans la Seine, en amont de Paris.
+repere: 28 janvier 1871 — Fin des immersions ; aucune boule n'a atteint Paris.
+attention: Les heures des dépêches de Frœschwiller viennent de l'ouvrage de Cugnac (1911), plaidoyer pour Mac-Mahon et Failly, lu ici dans une copie numérisée imparfaite : l'ordre de grandeur est sûr, non la minute. Et l'histoire de Juliette Dodu captant les dépêches allemandes sur le fil est discutée : l'article qui lui est consacré dit ce que l'on en sait vraiment.
+fiche: Paris isolé = 19 septembre 1870 (dernière ligne coupée)
+fiche: Boules de Moulins = 55, immergées du 5 au 28 janvier 1871 ; aucune reçue pendant le siège
+fiche: Taxe d'une lettre par boule = 1 franc, au lieu de 20 centimes
+fiche: De Reichshoffen à Bitche, 5 août 1870 = près de trois heures pour 24 km de fil
+lien: wp Boule de Moulins
+lien: wp François-Frédéric Steenackers
+lien: wp Juliette Dodu
+sources: Wikipédia (fr : Boule de Moulins, François-Frédéric Steenackers, Juliette Dodu, Chronologie du siège de Paris (1870-1871)) ; herodote.net (câble de la Seine)
+voir: depeche-d-ems, ballons-du-siege, pigeons-voyageurs, juliette-dodu, mobilisation-de-1870, siege-de-paris, delegation-de-tours, photographie-et-presse

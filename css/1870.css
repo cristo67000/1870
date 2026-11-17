@@ -1,0 +1,223 @@
+/*
+ * 1870 — ce qui est propre à l'application : les couleurs des deux camps, le
+ * théâtre (cartes animées), la frise, les rapports de force, les textes.
+ * Chargé après theme.css et app.css, qu'il complète et retouche.
+ */
+:root {
+  --papier: #f3f0e8;
+  --papier-2: #e8e4d9;
+  --surface: #fffefb;
+  --surface-2: #f6f3ec;
+  --encre: #1f2126;
+  --encre-2: #474a52;
+  --discret: #6c6f77;
+  --trait: #ddd8cb;
+  --trait-fort: #c2bcab;
+  --rouge: #a3303a;
+  --accent: #8c2f39;
+  --fr: #2f5fa3;
+  --fr-clair: #d9e3f3;
+  --de: #2b2d33;
+  --de-clair: #d8d8da;
+  --sur-de: #fff;
+  --indecis: #9a958a;
+  --c-mer: #cfdde3;
+  --c-terre: #f4efe2;
+  --c-bois: #dfe6cf;
+  --c-eau: #8fb3c7;
+  --c-frontiere: #9d8f7a;
+  --c-ville: #6f675c;
+  --c-annexion: rgba(163, 48, 58, 0.22);
+}
+html[data-theme="sombre"] {
+  --papier: #15171c; --papier-2: #1b1e25; --surface: #22252d; --surface-2: #292d36; --encre: #e9e6de; --encre-2: #c5c2b8;
+  --discret: #9c9a92; --trait: #30343e; --trait-fort: #474c58; --rouge: #e3848c; --accent: #e3848c;
+  --fr: #7fa6e6; --fr-clair: #26354f; --de: #e4e1d8; --de-clair: #4a4c52; --sur-de: #16181c; --indecis: #7d7a72;
+  --c-mer: #18222b; --c-terre: #2a2c31; --c-bois: #2c3528; --c-eau: #46657a; --c-frontiere: #6f6759; --c-ville: #a8a399;
+  --c-annexion: rgba(227, 132, 140, 0.28);
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme="clair"]) {
+    --papier: #15171c; --papier-2: #1b1e25; --surface: #22252d; --surface-2: #292d36; --encre: #e9e6de; --encre-2: #c5c2b8;
+    --discret: #9c9a92; --trait: #30343e; --trait-fort: #474c58; --rouge: #e3848c; --accent: #e3848c;
+    --fr: #7fa6e6; --fr-clair: #26354f; --de: #e4e1d8; --de-clair: #4a4c52; --sur-de: #16181c; --indecis: #7d7a72;
+    --c-mer: #18222b; --c-terre: #2a2c31; --c-bois: #2c3528; --c-eau: #46657a; --c-frontiere: #6f6759; --c-ville: #a8a399;
+    --c-annexion: rgba(227, 132, 140, 0.28);
+  }
+}
+
+/* ── Le logo ────────────────────────────────────────────────────────────── */
+.logo-fond { fill: #1c2536; stroke: #1c2536; }
+.logo-an { fill: #f3f0e8; font-family: var(--serif); font-weight: 700; font-size: 21px; letter-spacing: 0.02em; }
+.logo-bleu { fill: #3f6fb5; }
+.logo-noir { fill: #b3303a; }
+#demarrage .marque { color: var(--encre); }
+
+/* ── L'accueil ──────────────────────────────────────────────────────────── */
+.heros { background: radial-gradient(120% 140% at 10% 0%, #2c3b57 0%, #1c2536 55%, #12161f 100%); }
+.heros::after { background: radial-gradient(circle, rgba(179, 48, 58, 0.5) 0%, rgba(179, 48, 58, 0) 70%); }
+.heros p { color: #d5dae4; }
+.heros .heros-sur { font-size: 0.8rem; letter-spacing: 0.12em; text-transform: uppercase; color: #aab3c4; margin-bottom: 4px; }
+.heros h2 { font-family: var(--serif); font-size: 1.9rem; }
+.saisie-date input::placeholder { color: #aab3c4; }
+.affiche-carte { display: flex; align-items: center; gap: 12px; padding: 14px; margin: 4px 0 14px; }
+.affiche-carte .corps { flex: 1; min-width: 0; }
+.affiche-carte .corps p { margin: 0; }
+.affiche-signes { flex: none; width: 54px; height: 44px; position: relative; border-radius: 10px; background: var(--c-terre); border: 1px solid var(--trait); overflow: hidden; }
+.affiche-signes i { position: absolute; width: 20px; height: 9px; border-radius: 3px; }
+.affiche-signes i.camp-de { left: 28px; top: 8px; background: var(--de); }
+.affiche-signes i.camp-fr { left: 6px; top: 26px; background: var(--fr); }
+.affiche-signes b { position: absolute; left: 22px; top: 12px; color: var(--rouge); font-size: 15px; }
+.bouton-jouer { display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px; border-radius: 999px; border: 0; background: var(--encre); color: var(--papier); font-size: 0.9rem; font-weight: 600; white-space: nowrap; }
+.bouton-jouer .icone { width: 16px; height: 16px; }
+.citation { font-family: var(--serif); font-style: italic; }
+.vignette-texte { color: var(--teinte); background: color-mix(in srgb, var(--teinte) 14%, var(--surface)); }
+
+/* ── Les deux camps ─────────────────────────────────────────────────────── */
+.camp-texte-fr { color: var(--fr); font-weight: 600; }
+.camp-texte-de { color: var(--de); font-weight: 600; }
+.th-pastille { display: inline-block; width: 14px; height: 9px; border-radius: 3px; background: var(--indecis); margin: 0 5px 0 8px; vertical-align: baseline; }
+.th-pastille:first-child { margin-left: 0; }
+.th-pastille.camp-fr { background: var(--fr); }
+.th-pastille.camp-de { background: var(--de); }
+.duel-barre { display: block; height: 12px; border-radius: 3px; background: var(--indecis); min-width: 0; }
+.duel-barre.camp-fr, .portee-barre.camp-fr { background: var(--fr); }
+.duel-barre.camp-de, .portee-barre.camp-de { background: var(--de); }
+
+/* ── Le théâtre ─────────────────────────────────────────────────────────── */
+.titre-carte { font-family: var(--serif); font-size: 1.25rem; margin: 6px 0 2px; }
+.theatre-cadre { position: relative; border-radius: var(--rayon); overflow: hidden; border: 1px solid var(--trait-fort); background: var(--c-terre); box-shadow: var(--ombre); }
+.theatre-svg { display: block; width: 100%; height: min(62vh, 520px); touch-action: none; user-select: none; -webkit-user-select: none; cursor: grab; }
+.theatre-attente { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; margin: 0; }
+.th-cadrer { position: absolute; right: 8px; top: 8px; background: var(--surface); border: 1px solid var(--trait-fort); border-radius: 10px; box-shadow: var(--ombre); }
+.th-mer { fill: var(--c-mer); }
+.th-terre { fill: var(--c-terre); }
+.th-bois { fill: var(--c-bois); }
+.th-lac { fill: var(--c-mer); }
+.th-eau { fill: none; stroke: var(--c-eau); stroke-linecap: round; stroke-linejoin: round; vector-effect: non-scaling-stroke; }
+.th-eau-1 { stroke-width: 1.7; }
+.th-eau-2 { stroke-width: 0.9; }
+.th-frontiere { fill: none; stroke: var(--c-frontiere); stroke-width: 1.1; stroke-dasharray: 5 3; vector-effect: non-scaling-stroke; }
+.th-annexion, .th-annexion-bord { display: none; }
+.avec-annexion .th-annexion { display: inline; fill: var(--c-annexion); }
+.avec-annexion .th-annexion-bord { display: inline; fill: none; stroke: var(--rouge); stroke-width: 2; vector-effect: non-scaling-stroke; }
+.th-ville circle { fill: var(--c-ville); }
+.th-ville text { fill: var(--c-ville); font-family: var(--sans); paint-order: stroke; stroke: var(--c-terre); stroke-width: 0.22em; stroke-linejoin: round; }
+.th-rang-1 text { font-weight: 600; fill: var(--encre-2); }
+.th-traces { fill: none; stroke-linecap: round; }
+.th-trace { opacity: 0.55; }
+.th-trace.camp-fr { stroke: var(--fr); }
+.th-trace.camp-de { stroke: var(--de); }
+.th-unite rect { stroke: var(--surface); }
+.th-unite.camp-fr rect { fill: var(--fr); }
+.th-unite.camp-de rect { fill: var(--de); }
+.th-unite text { font-family: var(--sans); font-weight: 700; fill: #fff; pointer-events: none; }
+.th-unite.camp-de text { fill: var(--sur-de); }
+.th-marque .th-signe { fill: var(--indecis); font-weight: 700; paint-order: stroke; stroke: var(--c-terre); stroke-width: 0.18em; }
+.th-marque.th-bataille .th-signe, .th-marque.th-ville .th-signe { fill: var(--rouge); }
+.th-marque.th-siege .th-signe { fill: var(--rouge); }
+.th-marque:not(.actuelle) .th-signe { opacity: 0.6; }
+.th-nom-marque { font-family: var(--serif); font-weight: 700; fill: var(--encre); paint-order: stroke; stroke: var(--c-terre); stroke-width: 0.25em; stroke-linejoin: round; }
+.th-marque:not(.actuelle) .th-nom-marque { font-weight: 400; font-style: italic; fill: var(--encre-2); }
+.theatre-commandes { display: flex; align-items: center; gap: 6px; margin: 10px 0 4px; }
+.theatre-commandes input[type="range"] { flex: 1; min-width: 60px; accent-color: var(--rouge); }
+.theatre-commandes .bouton-icone:disabled { opacity: 0.35; }
+.th-compteur { min-width: 3.6em; text-align: right; font-variant-numeric: tabular-nums; }
+.theatre-recit { background: var(--surface); border: 1px solid var(--trait); border-radius: var(--rayon); padding: 14px 16px; margin: 8px 0; min-height: 9.5em; }
+.theatre-recit h3 { font-family: var(--serif); font-size: 1.15rem; margin: 2px 0 8px; }
+.theatre-recit p { margin: 0 0 8px; }
+.th-date { color: var(--rouge); font-weight: 700; font-size: 0.85rem; letter-spacing: 0.04em; text-transform: uppercase; }
+.th-liens { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px !important; }
+.th-liens .puce { text-decoration: none; }
+.theatre-legende { margin: 6px 0 0; }
+.theatre-legende .th-signe { color: var(--rouge); font-weight: 700; margin: 0 4px 0 8px; }
+.theatre-credit { margin: 2px 0 0; }
+.lien-carte { display: flex; align-items: center; gap: 12px; padding: 12px; }
+.lien-carte .corps { flex: 1; min-width: 0; }
+.lien-carte .corps p { margin: 0; }
+.lien-carte .pastille-section { flex: none; width: 40px; height: 40px; border-radius: 12px; background: var(--fr-clair); color: var(--fr); display: inline-flex; align-items: center; justify-content: center; }
+
+/* ── L'article : encadré, fiche, rôle ───────────────────────────────────── */
+.article-role { margin: 2px 0 0; color: var(--encre-2); }
+.encadre { background: var(--surface); border: 1px solid var(--trait); border-left: 4px solid var(--teinte, var(--rouge)); border-radius: var(--rayon-petit); padding: 12px 14px; margin: 14px 0; }
+.encadre p { margin: 0 0 6px; }
+.encadre-issue { font-weight: 600; }
+.encadre-table { margin: 8px 0; }
+.encadre-ligne { display: grid; grid-template-columns: 1fr auto 1fr; gap: 8px; align-items: center; padding: 3px 0; }
+.encadre-ligne > :last-child { text-align: right; }
+.encadre-ligne > :nth-child(2) { text-align: center; min-width: 3.6em; }
+.encadre-chefs { font-size: 0.9rem; }
+.encadre-cote { display: flex; align-items: center; gap: 6px; justify-content: flex-end; }
+.encadre-cote.encadre-droite { justify-content: flex-start; }
+.encadre-cote .duel-barre { flex: 0 1 auto; }
+.encadre-ligne .encadre-cote:first-child { flex-direction: row; }
+.encadre-valeur { font-variant-numeric: tabular-nums; font-size: 0.9rem; white-space: nowrap; }
+.encadre-note { margin-top: 6px !important; }
+.fiche { display: grid; grid-template-columns: minmax(7.5em, 36%) 1fr; gap: 0; margin: 0; border: 1px solid var(--trait); border-radius: var(--rayon-petit); overflow: hidden; background: var(--surface); }
+.fiche dt, .fiche dd { margin: 0; padding: 7px 12px; border-bottom: 1px solid var(--trait); }
+.fiche dt { color: var(--discret); font-size: 0.9rem; background: var(--surface-2); }
+.fiche dt:last-of-type, .fiche dd:last-of-type { border-bottom: 0; }
+
+/* ── La frise ───────────────────────────────────────────────────────────── */
+.regard { background: var(--surface); border: 1px solid var(--trait); border-radius: var(--rayon); padding: 10px 12px 8px; margin-bottom: 14px; overflow: hidden; }
+.regard-axe { position: relative; height: 20px; border-bottom: 1px solid var(--trait-fort); margin-bottom: 6px; }
+.regard-mois { position: absolute; top: 0; font-size: 0.68rem; color: var(--discret); white-space: nowrap; border-left: 1px solid var(--trait-fort); padding-left: 3px; height: 20px; }
+.regard-lignes { position: relative; }
+.regard-ligne { position: relative; display: block; height: 17px; }
+.regard-batailles { height: 26px; border-bottom: 1px dashed var(--trait); margin-bottom: 4px; }
+.regard-nom { position: absolute; right: 0; top: 4px; font-size: 0.68rem; color: var(--discret); }
+.regard-trait { position: absolute; top: 2px; width: 5px; height: 20px; margin-left: -2px; border-radius: 2px; background: var(--indecis); }
+.regard-trait.camp-fr { background: var(--fr); }
+.regard-trait.camp-de { background: var(--de); }
+.regard-barre { position: absolute; top: 4px; height: 9px; border-radius: 3px; background: var(--indecis); }
+.regard-barre.camp-fr { background: var(--fr); }
+.regard-barre.camp-de { background: var(--de); }
+.regard-etiquette { position: absolute; top: 0; font-size: 0.7rem; line-height: 17px; color: var(--encre-2); white-space: nowrap; padding: 0 5px; }
+.regard-legende { margin: 6px 0 0; }
+.chrono-mois { position: sticky; top: calc(var(--barre) + var(--sup)); z-index: 2; background: var(--papier); font-family: var(--serif); font-size: 1.05rem; padding: 8px 0 6px; margin: 10px 0 0; border-bottom: 1px solid var(--trait-fort); }
+.chrono-liste { margin: 0; padding: 0; }
+.chrono-fait { display: flex; gap: 10px; align-items: baseline; padding: 8px 0; border-bottom: 1px solid var(--trait); }
+.chrono-jour { flex: none; width: 2em; text-align: right; font-family: var(--serif); font-size: 1.15rem; font-weight: 700; color: var(--teinte, var(--discret)); font-variant-numeric: tabular-nums; }
+.chrono-corps { flex: 1; min-width: 0; color: var(--encre); text-decoration: none; }
+.chrono-titre { display: block; font-weight: 600; }
+.chrono-sous { display: block; }
+.chrono-simple .chrono-corps { color: var(--encre-2); }
+
+/* ── Les rapports de force ──────────────────────────────────────────────── */
+.duels { margin-top: 10px; }
+.duel-entete { display: flex; justify-content: space-between; margin: 0 0 4px; }
+.duel { display: block; padding: 7px 0; border-bottom: 1px solid var(--trait); color: var(--encre); text-decoration: none; }
+.duel-nom { display: block; font-weight: 600; font-size: 0.92rem; margin-bottom: 3px; }
+.duel-barres { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; }
+.duel-cote { display: flex; align-items: center; gap: 6px; }
+.duel-fr { justify-content: flex-end; }
+.duel-valeur { font-size: 0.8rem; font-variant-numeric: tabular-nums; white-space: nowrap; color: var(--encre-2); }
+.duel-fr .duel-barre { border-radius: 3px 0 0 3px; }
+.duel-de .duel-barre { border-radius: 0 3px 3px 0; }
+.portees { margin-top: 8px; }
+.portee { display: grid; grid-template-columns: minmax(8em, 34%) 1fr; gap: 2px 10px; align-items: center; padding: 7px 0; border-bottom: 1px solid var(--trait); color: var(--encre); text-decoration: none; }
+.portee-nom { font-weight: 600; font-size: 0.9rem; }
+.portee-piste { display: block; height: 12px; background: var(--surface-2); border-radius: 3px; }
+.portee-barre { display: block; height: 12px; border-radius: 3px; background: var(--indecis); }
+.portee-valeur { grid-column: 2; color: var(--discret); }
+
+/* ── Les textes ─────────────────────────────────────────────────────────── */
+.texte-intro { color: var(--encre-2); border-left: 3px solid var(--teinte); padding-left: 12px; margin: 12px 0 18px; }
+.texte-corps { font-family: var(--serif); font-size: 1.08rem; line-height: 1.62; }
+.texte-prose p { margin: 0 0 0.9em; text-align: left; hyphens: auto; }
+.texte-vers .strophe { white-space: pre-line; margin: 0 0 1.1em; }
+.texte-vers .vers { display: inline-block; padding-left: 1.6em; text-indent: -1.6em; }
+.texte-corps .lu { background: color-mix(in srgb, var(--teinte) 14%, transparent); border-radius: 4px; }
+.carte-texte .dates i { font-style: italic; }
+
+.regard-etiquette.dedans { color: #fff; font-weight: 600; line-height: 17px; }
+.regard-barre.camp-de + .regard-etiquette.dedans { color: var(--sur-de); }
+
+.th-marque.th-fort .th-signe { fill: var(--fr); opacity: 1; stroke-width: 0.12em; }
+.th-marque.th-fort.camp-de .th-signe { fill: var(--de); }
+.th-marque.th-feu .th-signe { fill: #d9631e; }
+.theatre-legende .th-signe-fort { color: var(--fr); font-size: 0.8em; }
+.theatre-legende .th-signe-feu { color: #d9631e; }
+
+.retour-application { margin-top: 24px; }
+.duel-groupe { font-family: var(--serif); font-size: 1.05rem; margin: 16px 0 4px; }

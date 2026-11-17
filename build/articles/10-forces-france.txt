@@ -1,0 +1,447 @@
+# 1870 — lot 10 : les forces françaises. Les seize articles de la section « 10-forces-france » du plan, dans l'ordre.
+# Armées : « quand » = formation, « jusqu » = fin ; fiches aux mêmes libellés (Formation, Chef, Corps, Effectif, Fin).
+# Chiffres datés et qualifiés ; les fourchettes sont dites dans le texte quand les sources divergent.
+
+@ armee-francaise-en-1870
+cat: forces
+nom: L'armée française en 1870
+alias: armée impériale, armée du Second Empire, armée de ligne, tirage au sort, mauvais numéro, bon numéro, remplacement, remplaçant, exonération, dotation de l'armée, loi Soult, rengagés
+dates: juillet 1870
+camp: fr
+def: En juillet 1870, la France entre en guerre avec une armée de métier : des soldats tirés au sort pour sept ans ou rengagés, aguerris en Algérie, en Crimée, en Italie et au Mexique, bien armés, mais trop peu nombreux, organisés dans la hâte et mal commandés.
+texte: L'armée du Second Empire repose sur la loi Soult du 21 mars 1832. Chaque année, une loi fixe le contingent à lever ; les jeunes gens de vingt ans tirent au sort dans leur canton, et les « mauvais numéros » doivent sept ans de service. Ceux qui en ont les moyens se font remplacer : un remplaçant, souvent procuré par une compagnie spécialisée, part à leur place contre argent. En avril 1855, l'exonération retire ce commerce aux compagnies : le conscrit qui veut se libérer verse une somme fixée par l'État à une caisse, la dotation de l'armée, qui paie des primes de rengagement aux soldats restés sous les drapeaux. L'armée y gagne des hommes d'expérience et y perd sa jeunesse. Une partie de chaque contingent, faute de crédits, est en outre laissée dans ses foyers sans instruction : selon l'historienne Annie Crépin, près des deux tiers des conscrits du Second Empire n'en reçoivent aucune.
+texte: Ce système donne une armée solide, mais courte. Sadowa, le 3 juillet 1866, révèle l'écart : la Prusse, où le service est obligatoire, a pu réunir 730 000 hommes instruits ; la France en compte 655 000 sur le papier, dont la moitié à peine est en état de servir, et son ministre de la Guerre n'en voit bientôt que 200 000 à porter sur le Rhin. La [[loi-niel|loi Niel]] du 1er février 1868, rognée par le Corps législatif, ramène le service actif à cinq ans, suivis de quatre ans de réserve, rétablit le remplacement et crée une [[garde-mobile|garde mobile]] qui, en juillet 1870, n'existe guère que sur les registres.
+texte: Au début de juillet 1870, l'armée compte près de 640 000 hommes sur le papier. La moitié à peine peut entrer en campagne : il faut laisser des troupes en Algérie et dans la division d'occupation de Rome, garnir les dépôts et les places, compter la gendarmerie et les services. Le rappel des réservistes, décidé le 14 juillet, doit compléter les régiments ; mais ces hommes, souvent sans instruction récente, arrivent tard. Au début d'août, l'[[armee-du-rhin|armée du Rhin]] réunit de 220 000 à 250 000 hommes selon les décomptes, face à près du double d'Allemands (voir [[effectifs-compares]]).
+texte: L'organisation trahit une armée faite pour la paix et les expéditions lointaines. En dehors de la Garde impériale, il n'existe en temps de paix ni corps d'armée ni divisions constitués : on les forme à la déclaration de guerre, avec des régiments venus de toute la France, sous des généraux qui ne les connaissent pas et des états-majors improvisés. Les régiments servent loin de leur dépôt, qui n'est pas dans la région où ils recrutent, et le réserviste doit y passer prendre armes et équipement avant de rejoindre son corps : des milliers d'hommes errent de gare en gare (voir [[mobilisation-de-1870]]). L'intendance, centralisée, ne sait pas nourrir une armée en mouvement ([[intendance-et-ravitaillement]]). Le corps d'état-major, recruté au sortir des écoles, vit dans les bureaux et connaît mal la troupe ; il n'y a ni école de guerre ni plan de campagne arrêté, et les officiers manquent de cartes de leur propre frontière.
+texte: Cette armée a pourtant de vraies forces. Ses soldats sont des hommes faits, ses sous-officiers expérimentés, et près de la moitié de ses officiers sont sortis du rang. Elle a fait la guerre presque sans interruption depuis la conquête de l'Algérie, vaincu en Crimée et en Italie, combattu au Mexique, et passait jusqu'en 1866 pour la meilleure d'Europe. Son fusil, le [[fusil-chassepot|Chassepot]], dont l'inventaire du 1er juillet 1870 compte 1 037 555 exemplaires, surclasse celui des Prussiens, et elle garde le secret de la [[mitrailleuse-de-reffye|mitrailleuse]]. Son point faible est l'[[artillerie-francaise|artillerie]], de bronze et chargée par la bouche, que les canons Krupp dominent dès les premiers jours. Ses chefs, braves et souvent passifs, ont appris la guerre dans les colonnes d'Afrique, non à faire manœuvrer cent mille hommes (voir [[commandement-francais]]).
+texte: Les premiers combats montrent ces qualités et ces faiblesses à la fois. À [[bataille-de-spicheren|Spicheren]], à Wœrth, à Saint-Privat, les vainqueurs perdent plus d'hommes que les vaincus ; mais les Français, toujours moins nombreux au point décisif, sont tournés, bousculés, ramenés en arrière. En moins de trois mois, l'armée impériale disparaît : l'[[armee-de-chalons|armée de Châlons]] capitule à [[capitulation-de-sedan|Sedan]] le 2 septembre, l'armée du Rhin dans Metz le 27 octobre, et plus de 250 000 hommes partent en captivité ([[prisonniers-de-guerre]]). Restent les dépôts, l'[[armee-d-afrique|armée d'Afrique]], les marins et les mobiles : c'est avec eux que la Défense nationale lève les armées de province, qui portent encore l'uniforme impérial sans en avoir les cadres. La leçon sera tirée par les [[reformes-militaires-apres-1871|lois de 1872 et 1873]].
+repere: 21 mars 1832 — La loi Soult établit le tirage au sort et un service de sept ans, avec faculté de remplacement.
+repere: avril 1855 — L'exonération remplace le commerce des remplaçants : le conscrit libéré paie l'État, qui finance des primes de rengagement.
+repere: 3 juillet 1866 — Sadowa révèle la puissance de l'armée prussienne et lance le projet de réforme.
+repere: 1er février 1868 — La loi Niel est promulguée : cinq ans d'active, quatre de réserve, une garde mobile.
+repere: 13 août 1869 — Mort du maréchal Niel ; Le Bœuf lui succède au ministère de la Guerre le 21.
+repere: 1er juillet 1870 — L'inventaire compte 1 037 555 fusils Chassepot.
+repere: 14 juillet 1870 — Le Conseil des ministres décide le rappel des réservistes.
+repere: 28 juillet 1870 — Napoléon III prend à Metz le commandement de l'armée du Rhin.
+repere: 2 septembre 1870 — L'armée de Châlons capitule à Sedan.
+repere: 27 octobre 1870 — L'armée du Rhin capitule dans Metz : de l'armée impériale, il ne reste presque rien en campagne.
+attention: La défaite n'est pas celle du soldat. Les Allemands ont souvent perdu plus d'hommes que lui dans les batailles d'août, et ils ont admiré son feu. Ce qui manquait à la France, c'était le nombre au point décisif, une réserve instruite, des états-majors capables de faire mouvoir de grandes masses et des chefs qui osent : un système, plus qu'une troupe.
+fiche: Recrutement = tirage au sort (loi Soult, 1832), avec remplacement ou exonération
+fiche: Durée du service = 7 ans ; 5 ans d'active et 4 de réserve après la loi Niel (1868)
+fiche: Effectif sur le papier = près de 640 000 hommes (juillet 1870)
+fiche: Disponibles pour la campagne = environ 300 000 hommes
+fiche: À la frontière début août = 220 000 à 250 000 hommes selon les décomptes
+lien: url https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/1870-1871-guerre-franco-prussienne/systeme-defense-france = Annie Crépin, « Le système de défense de la France à l'épreuve de la guerre de 1870 », Chemins de mémoire
+sources: Annie Crépin, « Le système de défense de la France à l'épreuve de la guerre de 1870 », Chemins de mémoire (ministère des Armées) ; Georges Spillmann, « Les responsabilités de la défaite militaire de 1870 », Revue du Souvenir napoléonien, 1979 (napoleon.org) ; Wikipédia (fr : Guerre franco-allemande de 1870, Loi Niel, Garde nationale mobile, Armée du Rhin (1870) ; en : Franco-Prussian War)
+voir: loi-niel, commandement-francais, armee-du-rhin, mobilisation-de-1870, garde-mobile, armee-allemande-en-1870, effectifs-compares, reformes-militaires-apres-1871
+
+@ loi-niel
+cat: forces
+nom: La loi Niel
+alias: loi du 1er février 1868, loi Niel de 1868, réforme Niel, maréchal Niel, Adolphe Niel, loi de recrutement de 1868
+dates: 1er février 1868
+quand: 1868-02-01
+camp: fr
+def: Loi militaire du 1er février 1868, voulue par Napoléon III et le maréchal Niel après Sadowa : le service actif passe à cinq ans, le remplacement revient, et une garde mobile doit doubler l'armée. Rognée par le Corps législatif, mal financée, elle n'est guère appliquée avant la guerre.
+texte: Sadowa, le 3 juillet 1866, a montré ce que vaut une armée de conscription générale. [[napoleon-iii|Napoléon III]], qui admire le système prussien, veut pouvoir mettre sur pied un million d'hommes. Une commission réunie à l'automne 1866 arrête un programme : une armée d'environ 800 000 hommes, active et réserve, et une garde mobile de 400 000. Le maréchal Randon, ministre de la Guerre, refuse de le défendre et démissionne le 20 janvier 1867 ; Adolphe Niel, général du génie qui a dirigé le siège de Sébastopol et commandé un corps en Italie, maréchal depuis 1859, le remplace. Contre lui, presque tout le monde : les campagnes, qui craignent de perdre des bras, la bourgeoisie, qui tient au remplacement et redoute l'impôt, le clergé, qui voit dans la caserne un lieu de perdition, l'opposition républicaine, hostile au militarisme impérial, et la majorité elle-même, qui pense aux élections de 1869.
+texte: Après de longs débats, la loi est votée en janvier 1868 par 199 voix contre 60 et promulguée le 1er février. Elle garde le tirage au sort de la loi de 1832. Les « mauvais numéros » servent désormais cinq ans dans l'active, puis quatre dans la réserve ; l'exonération de 1855 disparaît et le remplacement à prix d'argent est rétabli. La seule nouveauté est la [[garde-mobile|garde nationale mobile]] : les jeunes gens qui échappent à l'armée, « bons numéros » et remplacés, y doivent cinq ans, sans pouvoir se faire remplacer. Mais leur instruction se réduit à quinze exercices par an, d'une journée au plus chacun, sans passage par la caserne.
+texte: L'application est plus maigre encore. Les crédits de la première année, environ cinq millions de francs, n'atteignent pas la moitié de ce que Niel jugeait nécessaire. À Paris, où l'opposition est forte, les mobiles de la Seine sont réunis pour l'exercice au printemps 1869 ; le défilé prévu pour le 15 août est annulé et les derniers exercices suspendus. Niel meurt le 13 août 1869. Son successeur, [[edmond-le-boeuf|Le Bœuf]], ne croit pas à l'institution ; les crédits tombent à deux millions pour 1871, les cadres restent incomplets, les armes et les uniformes dans les magasins. En juillet 1870, la garde mobile ne figure sur les contrôles que « pour mémoire », selon le mot du ministre lui-même.
+texte: La loi a pourtant servi. Ses registres ont permis à l'Empire, puis à la Défense nationale, d'appeler en quelques semaines des centaines de milliers de jeunes gens, et ce sont ces mobiles, mal armés et mal instruits, qui ont formé le gros des armées de 1870-1871, à [[siege-de-paris|Paris]] comme sur la Loire. La défaite fera ce que la loi Niel n'avait pu faire : les [[reformes-militaires-apres-1871|lois de 1872 et 1873]] abolissent le remplacement et posent le principe du service personnel.
+repere: 3 juillet 1866 — À Sadowa, l'armée prussienne écrase les Autrichiens.
+repere: décembre 1866 — Le programme impérial vise 800 000 hommes d'active et de réserve et 400 000 gardes mobiles.
+repere: 20 janvier 1867 — Randon démissionne ; le maréchal Niel devient ministre de la Guerre.
+repere: janvier 1868 — Le Corps législatif vote une loi amoindrie, par 199 voix contre 60.
+repere: 1er février 1868 — La loi est promulguée.
+repere: 13 août 1869 — Mort du maréchal Niel, à Paris.
+repere: 15 août 1869 — Le défilé prévu des mobiles de la Seine est annulé ; leurs exercices sont suspendus.
+repere: juillet 1870 — À l'entrée en guerre, la garde mobile n'existe que sur les registres.
+attention: On prête à Niel, à qui Jules Favre reprochait de vouloir « faire de la France une caserne », la réplique : « Prenez garde d'en faire un cimetière ! » L'échange est partout cité sans référence de séance sûre, et sa forme exacte reste incertaine. Le reproche fait aux seuls républicains d'avoir saboté la réforme est, lui, inexact : la majorité impériale l'a rognée tout autant.
+lien: wp Loi Niel
+lien: url https://www.napoleon.org/histoire-des-2-empires/articles/la-garde-nationale-mobile-au-dela-de-lechec = Clément Mellinger, « La garde nationale mobile, au-delà de l'échec… », napoleon.org
+sources: Wikipédia (fr : Loi Niel, Adolphe Niel, Garde nationale mobile ; en : Garde Mobile) ; Annie Crépin, « Le système de défense de la France à l'épreuve de la guerre de 1870 », Chemins de mémoire ; Clément Mellinger, « La garde nationale mobile, au-delà de l'échec… », napoleon.org
+voir: armee-francaise-en-1870, garde-mobile, edmond-le-boeuf, napoleon-iii, reformes-militaires-apres-1871, armee-allemande-en-1870, landwehr
+
+@ commandement-francais
+cat: forces
+nom: Le commandement français
+alias: haut commandement, état-major français, major général, corps d'état-major, généraux de 1870, ordres et contre-ordres
+dates: juillet 1870 – janvier 1871
+camp: fr
+def: Un empereur malade commandant en chef, un major général sans pouvoir de chef d'état-major, des maréchaux braves mais passifs, des ordres venus de Paris : le commandement français de 1870 explique la défaite plus que le soldat. La Défense nationale le renouvelle, sous la tutelle de Gambetta.
+texte: Le 28 juillet 1870, [[napoleon-iii|Napoléon III]] prend à Metz le commandement de l'[[armee-du-rhin|armée du Rhin]]. Il a soixante-deux ans et souffre de la pierre, qui lui rend le cheval pénible. Son major général, [[edmond-le-boeuf|Le Bœuf]], n'est pas un chef d'état-major à la manière de [[moltke|Moltke]] : il transmet plus qu'il ne conçoit. Il n'existe ni plan de campagne arrêté ni organe comparable au [[grand-etat-major-prussien|grand état-major prussien]] ; le corps d'état-major, recruté au sortir des écoles, vit dans les bureaux et ne connaît pas la troupe. Le projet d'offensive au-delà du Rhin, vers le pays de Bade, est abandonné avant d'avoir commencé, et l'armée reste une semaine en cordon le long de la frontière, à attendre.
+texte: Les chefs sont des soldats éprouvés en Afrique, en Crimée, en Italie ou au Mexique, et ils s'exposent sans compter. Mais ils ont appris la guerre de colonnes, où l'on attend l'ordre et où l'on ne marche pas au canon du voisin. Le 6 août, pendant que [[frossard|Frossard]] se bat à Spicheren, trois divisions du corps de [[bazaine|Bazaine]] bivouaquent à moins de quinze kilomètres sans paraître ; le même jour, Failly n'envoie à [[mac-mahon|Mac-Mahon]] qu'une division, qui n'arrive que pour recueillir les fuyards. Ensuite la politique s'en mêle. Le ministère Ollivier tombe le 9 août ; le 12, l'empereur remet le commandement à Bazaine, que réclament la Chambre et l'opinion. Le 17, à Châlons, Mac-Mahon reçoit la nouvelle [[armee-de-chalons|armée de Châlons]] et [[trochu|Trochu]] le gouvernement de Paris. De Paris, le [[comte-de-palikao|comte de Palikao]], chef du nouveau ministère, presse le maréchal de marcher au secours de Metz, ce qu'il juge hasardeux. À [[bataille-de-sedan|Sedan]], le 1er septembre, Mac-Mahon blessé au petit matin, l'armée a trois chefs en quelques heures : [[ducrot|Ducrot]], puis [[wimpffen|Wimpffen]], qui produit une lettre du ministre le désignant.
+texte: La Défense nationale change les hommes et la méthode. À Tours, [[gambetta|Gambetta]] et son délégué [[charles-de-freycinet|Freycinet]] conçoivent les opérations, les dictent par télégraphe et relèvent les généraux qui déçoivent : La Motte-Rouge après la perte d'Orléans, le 11 octobre ; [[aurelle-de-paladines|d'Aurelle de Paladines]], le vainqueur de Coulmiers, après la seconde, le 4 décembre. Des chefs nouveaux s'imposent, [[chanzy|Chanzy]] sur la Loire, [[faidherbe|Faidherbe]] dans le Nord, [[denfert-rochereau|Denfert-Rochereau]] à Belfort, mais leurs armées, faites de mobiles sans cadres, ne manœuvrent pas comme les corps de métier. Paris, investi, ne communique avec la province que par ballons et pigeons : il n'y a jamais de commandement unique, et les deux efforts, la sortie et la marche de secours, ne se rencontrent pas.
+repere: 28 juillet 1870 — Napoléon III prend à Metz le commandement de l'armée du Rhin ; Le Bœuf est major général.
+repere: 6 août 1870 — Spicheren et Frœschwiller : ni les divisions de Bazaine ni le corps de Failly ne viennent au secours des combattants.
+repere: 12 août 1870 — L'empereur remet le commandement de l'armée du Rhin à Bazaine.
+repere: 17 août 1870 — Au camp de Châlons, Mac-Mahon reçoit l'armée de Châlons et Trochu le gouvernement de Paris.
+repere: 1er septembre 1870 — À Sedan, Mac-Mahon, Ducrot et Wimpffen se succèdent à la tête de l'armée.
+repere: octobre 1870 — Gambetta prend la Guerre à Tours et fait de Freycinet son délégué.
+repere: 5 décembre 1870 — Après la perte d'Orléans, d'Aurelle de Paladines est écarté et l'armée de la Loire partagée en deux.
+attention: On a dit les chefs de l'Empire trop vieux. Ils étaient plutôt plus jeunes que leurs adversaires : en juillet 1870, Mac-Mahon a soixante-deux ans, Bazaine cinquante-neuf, quand Moltke en a soixante-neuf et Steinmetz soixante-treize. Ce qui les sépare n'est pas l'âge, mais la formation et la méthode : les Allemands ont un état-major qui pense pour toute l'armée et des chefs habitués à agir d'eux-mêmes dans l'esprit des directives reçues.
+lien: url https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/ressources-historiques/1870-1871-guerre-franco-prussienne/systeme-defense-france = Annie Crépin, « Le système de défense de la France à l'épreuve de la guerre de 1870 », Chemins de mémoire
+lien: wp Bataille de Sedan (1870)
+sources: Wikipédia (fr : Armée du Rhin (1870), Bataille de Sedan (1870), Armée de la Loire, Joseph Édouard de La Motte-Rouge, Adolphe Niel) ; Annie Crépin, Chemins de mémoire ; Georges Spillmann, « Les responsabilités de la défaite militaire de 1870 », 1979 ; articles du lot 06 de l'application (Spicheren, Frœschwiller)
+voir: armee-francaise-en-1870, napoleon-iii, edmond-le-boeuf, bazaine, mac-mahon, gambetta, charles-de-freycinet, grand-etat-major-prussien
+
+@ armee-du-rhin
+cat: forces
+nom: L'armée du Rhin
+alias: armée de Metz, Rheinarmee, Army of the Rhine, armée impériale, Garde impériale
+dates: juillet – 27 octobre 1870
+quand: 1870-07
+jusqu: 1870-10-27
+camp: fr
+def: La grande armée de l'Empire, formée en juillet 1870 avec les troupes du temps de paix : la Garde et sept corps, sous Napoléon III puis Bazaine. Battue à la frontière, coupée en deux après le 6 août, elle s'enferme dans Metz après Gravelotte et y capitule le 27 octobre.
+texte: L'armée du Rhin naît dans la seconde quinzaine de juillet 1870 : on renonce à former trois armées, à Strasbourg, à Metz et à Châlons, pour n'en faire qu'une, que l'empereur commandera lui-même. Elle réunit la Garde impériale de [[bourbaki|Bourbaki]] et sept corps : le 1er de [[mac-mahon|Mac-Mahon]], formé en Alsace avec des troupes d'Algérie, le 2e de [[frossard|Frossard]] vers Saint-Avold et Forbach, le 3e de [[bazaine|Bazaine]] à Metz, le 4e de Ladmirault à Thionville, le 5e de Failly vers Bitche, le 6e de [[canrobert|Canrobert]] au camp de Châlons, le 7e de Félix Douay entre Belfort et Colmar, plus des réserves de cavalerie, d'artillerie et du génie. [[napoleon-iii|Napoléon III]] en prend le commandement à Metz le 28 juillet, avec [[edmond-le-boeuf|Le Bœuf]] pour major général. Ses effectifs sont ceux d'une armée de métier mobilisée dans le désordre : les états du lieutenant-colonel Rousset, établis entre le 30 juillet et le 13 août, comptent quelque 245 000 hommes et 11 000 officiers, mais tous ne sont pas à la frontière, et les estimations des troupes réellement présentes au début d'août vont de 220 000 à 265 000 hommes.
+texte: Elle ne prend pas l'offensive. Le 2 août, le 2e corps occupe les hauteurs de [[combat-de-sarrebruck|Sarrebruck]] ; le 4, une division du 1er corps est écrasée à [[bataille-de-wissembourg|Wissembourg]]. Le 6, Mac-Mahon est battu à [[bataille-de-froeschwiller-woerth|Frœschwiller]] et Frossard à [[bataille-de-spicheren|Spicheren]]. L'armée se coupe alors en deux : les 1er, 5e et 7e corps refluent vers Châlons, où ils formeront l'[[armee-de-chalons|armée de Châlons]] ; la Garde et les 2e, 3e, 4e et 6e corps, ce dernier arrivé incomplet de Châlons, se replient sous Metz, quelque 170 000 à 180 000 hommes.
+texte: Le 12 août, l'empereur remet le commandement à Bazaine ; Le Bœuf, relevé, prend le 3e corps quand le général Decaen, son successeur, est mortellement blessé à [[bataille-de-borny|Borny]], le 14. L'armée doit gagner Verdun. Le 16, à [[bataille-de-mars-la-tour|Mars-la-Tour]], deux corps prussiens lui barrent la route ; le 18, à [[bataille-de-gravelotte|Gravelotte – Saint-Privat]], elle tient ses positions avec 112 800 hommes et 520 canons, mais son aile droite cède et Bazaine la ramène sous les forts. Investie le 20 août, elle tente une seule vraie sortie, à [[bataille-de-noisseville|Noisseville]], les 31 août et 1er septembre. Le [[siege-de-metz|siège de Metz]] s'achève le 27 octobre par la capitulation : 173 000 prisonniers, dont trois maréchaux, la dernière armée régulière de l'Empire.
+repere: 28 juillet 1870 — Napoléon III prend à Metz le commandement de l'armée du Rhin.
+repere: 2 août 1870 — Le 2e corps de Frossard occupe les hauteurs de Sarrebruck.
+repere: 6 août 1870 — Défaites de Frœschwiller et de Spicheren : l'armée se coupe en deux.
+repere: 12 août 1870 — Bazaine reçoit le commandement en chef.
+repere: 16 août 1870 — À Mars-la-Tour, la route de Verdun est coupée.
+repere: 18 août 1870 — Bataille de Gravelotte – Saint-Privat ; l'armée se replie sous Metz.
+repere: 31 août 1870 — Sortie de Noisseville, qui échoue le lendemain.
+repere: 27 octobre 1870 — Capitulation de Metz.
+attention: L'armée du Rhin n'a jamais atteint le Rhin. Son nom reprend celui de l'armée de la Révolution pour laquelle Rouget de Lisle composa à Strasbourg, en avril 1792, le *Chant de guerre pour l'armée du Rhin*, la future *Marseillaise* : il annonçait une invasion de l'Allemagne qui n'eut pas lieu. Ses effectifs, enfin, varient d'un auteur à l'autre parce qu'ils ne comptent pas la même chose : effectif inscrit ou présent, avec ou sans le 6e corps resté en partie à Châlons et le 7e laissé en Haute-Alsace.
+fiche: Formation = seconde quinzaine de juillet 1870, avec les troupes du temps de paix
+fiche: Chef = Napoléon III (28 juillet – 12 août 1870), puis le maréchal Bazaine
+fiche: Major général = le maréchal Le Bœuf, puis le général Jarras (chef d'état-major)
+fiche: Corps = la Garde (Bourbaki) ; 1er Mac-Mahon, 2e Frossard, 3e Bazaine puis Decaen et Le Bœuf, 4e Ladmirault, 5e Failly, 6e Canrobert, 7e Félix Douay
+fiche: Effectif = environ 245 000 hommes et 11 000 officiers (états Rousset, 30 juillet – 13 août 1870) ; 112 800 hommes et 520 canons engagés à Gravelotte le 18 août
+fiche: Fin = capitulation de Metz, 27 octobre 1870 : 173 000 prisonniers
+lien: wp Armée du Rhin (1870)
+lien: de Armée du Rhin
+sources: Wikipédia (fr : Armée du Rhin (1870), qui reproduit les états de Rousset ; en : Army of the Rhine (1870) ; de : Armée du Rhin) ; Georges Spillmann, « Les responsabilités de la défaite militaire de 1870 », 1979 ; articles des lots 06 et 09 de l'application (Gravelotte, siège de Metz)
+voir: bazaine, napoleon-iii, armee-de-chalons, bataille-de-gravelotte, siege-de-metz, bataille-de-mars-la-tour, commandement-francais, mobilisation-de-1870
+
+@ armee-de-chalons
+cat: forces
+nom: L'armée de Châlons
+alias: armée du camp de Châlons, Châlons-Armee, Army of Châlons, armée de Mac-Mahon, 12e corps
+dates: 17 août – 2 septembre 1870
+quand: 1870-08-17
+jusqu: 1870-09-02
+camp: fr
+def: Formée le 17 août 1870 au camp de Châlons avec les corps battus en Alsace et un 12e corps neuf, l'armée de Mac-Mahon marche au secours de Bazaine sur l'ordre de Paris, est rattrapée sur la Meuse et capitule à Sedan le 2 septembre, l'empereur avec elle.
+texte: Après Frœschwiller, les corps de l'aile droite de l'[[armee-du-rhin|armée du Rhin]] refluent vers l'ouest : le 1er corps, qui a laissé à Frœschwiller le tiers de ses hommes, le 5e de Failly, qui ne s'est presque pas battu, et le 7e de Félix Douay, venu de Belfort. Au camp de Châlons, on forme avec des régiments de marche, des recrues et la division d'infanterie de marine, d'abord destinée à un débarquement dans la Baltique, un 12e corps, confié au général Lebrun. Le 17 août, un conseil tenu au camp autour de [[napoleon-iii|Napoléon III]] donne à [[mac-mahon|Mac-Mahon]] le commandement de cette armée nouvelle et à [[trochu|Trochu]] le gouvernement de Paris ; les mobiles de la Seine, jugés peu sûrs, sont renvoyés dans la capitale. L'empereur reste avec l'armée, sans la commander.
+texte: Elle compte de 130 000 à 140 000 hommes et quelque 420 canons, mais c'est une armée de rencontre : des vétérans épuisés par la retraite, des réservistes, des conscrits à peine habillés, peu d'officiers et de sous-officiers. Mac-Mahon voudrait la ramener sous Paris. Le gouvernement de [[comte-de-palikao|Palikao]] veut qu'elle aille tendre la main à [[bazaine|Bazaine]] par Montmédy. Partie de Reims le 23 août, elle avance lentement, sous la pluie, mal ravitaillée, tandis que la IIIe armée du [[kronprinz-frederic-guillaume|Kronprinz]] et la nouvelle armée de la Meuse d'[[albert-de-saxe|Albert de Saxe]] remontent vers le nord pour la prendre de flanc. Le 27 août, Mac-Mahon décide de se dérober vers Mézières ; Paris l'en détourne dans la nuit.
+texte: Le 30 août, à [[bataille-de-beaumont|Beaumont]], le 5e corps est surpris au bivouac ; le général de [[wimpffen|Wimpffen]], rappelé d'Algérie, en reçoit le commandement à la place de Failly. Le 31, l'armée s'entasse autour de [[bataille-de-sedan|Sedan]], dans une cuvette dominée par les hauteurs. Le 1er septembre, Mac-Mahon est blessé au début de la bataille ; Ducrot puis Wimpffen lui succèdent. L'infanterie de marine se bat à [[bataille-de-bazeilles|Bazeilles]], la cavalerie charge à [[charges-de-floing|Floing]], mais à la fin de l'après-midi l'encerclement est complet. Le 2 septembre, au château de Bellevue, Wimpffen signe la [[capitulation-de-sedan|capitulation]]. L'armée de Châlons a duré seize jours.
+repere: 17 août 1870 — Au camp de Châlons, Mac-Mahon reçoit le commandement de la nouvelle armée.
+repere: 20-21 août 1870 — Les quatre corps se rassemblent à Reims.
+repere: 23 août 1870 — Elle se met en marche vers l'est, en direction de Montmédy.
+repere: 27 août 1870 — Au Chesne, Mac-Mahon veut se replier sur Mézières ; un télégramme de Paris l'en détourne dans la nuit.
+repere: 30 août 1870 — Le 5e corps est surpris à Beaumont et rejeté sur la Meuse.
+repere: 1er septembre 1870 — Bataille de Sedan ; Mac-Mahon blessé, Ducrot puis Wimpffen commandent.
+repere: 2 septembre 1870 — Capitulation signée au château de Bellevue.
+attention: On lit que l'armée de Châlons a marché « vers Sedan » : Sedan n'était l'objectif de personne. L'armée allait à Montmédy et n'a gagné Sedan, une petite place sans vivres pour elle, qu'acculée après Beaumont, pour s'y regrouper.
+fiche: Formation = 17 août 1870, au camp de Châlons
+fiche: Chef = le maréchal de Mac-Mahon ; le 1er septembre, Ducrot puis Wimpffen
+fiche: Corps = 1er (Ducrot), 5e (Failly, puis Wimpffen après Beaumont), 7e (Félix Douay), 12e (Lebrun) ; cavalerie de réserve (Margueritte, Bonnemains)
+fiche: Effectif = 130 000 à 140 000 hommes à la formation (20-21 août 1870) ; environ 120 000 hommes à Sedan le 1er septembre ; de 420 à 560 canons selon les sources
+fiche: Fin = capitulation de Sedan, 2 septembre 1870 : 104 000 prisonniers avec ceux de la bataille, 419 à 558 canons livrés selon les décomptes
+lien: wp Armée de Châlons
+lien: wp Bataille de Sedan (1870)
+sources: Wikipédia (fr : Armée de Châlons, Armée du Rhin (1870), Bataille de Sedan (1870), Louis Jules Trochu ; de : Schlacht von Sedan ; en : Battle of Sedan) ; articles du lot 03 de l'application (Mac-Mahon, Palikao)
+voir: mac-mahon, napoleon-iii, comte-de-palikao, bataille-de-beaumont, bataille-de-sedan, capitulation-de-sedan, wimpffen, armee-du-rhin
+
+@ garde-mobile
+cat: forces
+nom: La garde mobile
+alias: garde nationale mobile, mobiles, moblots, moblot, Mobilgarde, Garde Mobile, mobiles de la Seine, mobilisés, garde nationale mobilisée
+dates: 1868 – 1871
+camp: fr
+def: Créée par la loi Niel de 1868 pour les jeunes gens qui échappaient à l'armée, la garde nationale mobile n'existe guère que sur le papier en juillet 1870 ; levés en masse, mal armés et peu instruits, les « moblots » forment pourtant le gros des armées de la Défense nationale.
+texte: La [[loi-niel|loi du 1er février 1868]] fait entrer dans la garde nationale mobile, pour cinq ans, les hommes que le tirage au sort a dispensés de l'armée ou qui s'y sont fait remplacer. Elle doit concourir à la défense des places, des côtes et des frontières et au maintien de l'ordre. Les unités sont départementales, mobiles du Doubs, de la Loire ou de l'Ardèche ; leurs officiers sont pris parmi les notables du lieu, et l'administration civile les équipe, la ville fournissant souvent le drap que chacun porte chez le tailleur. L'instruction se réduit à quinze exercices d'une journée par an, quand ils ont lieu. En juillet 1870, la garde mobile, qui devrait aligner quelque 600 000 hommes, ne figure sur les contrôles que « pour mémoire ».
+texte: On l'appelle dans l'urgence. Un décret du 16 juillet met en activité celle des régions du Nord, de l'Est et de Paris ; la loi du 10 août étend l'appel. Les mobiles de la Seine, rassemblés au camp de Châlons, s'y montrent si indisciplinés qu'on décide, le 17 août, de les renvoyer à Paris avec [[trochu|Trochu]]. Après Sedan, ils deviennent la ressource principale du pays : une centaine de milliers de mobiles des départements s'enferment dans [[siege-de-paris|Paris]], et en province les bataillons, groupés en régiments de mobiles, forment avec les régiments de marche le fond des armées de la [[armee-de-la-loire|Loire]], du [[armee-du-nord|Nord]] et de l'[[armee-de-l-est|Est]]. À [[siege-de-belfort|Belfort]], 12 800 mobiles font les trois quarts de la garnison de Denfert-Rochereau.
+texte: Leur valeur est très inégale. Ils reçoivent des fusils à tabatière, des armes achetées à l'étranger, rarement des Chassepots ([[fusils-de-la-defense-nationale]]) ; les cadres manquent, la discipline aussi, et beaucoup vont au feu après quelques semaines d'exercice. Derrière les remparts, à Paris, à Belfort, ils s'aguerrissent et se battent bien ; jetés en rase campagne, en plein hiver, contre des troupes de métier, ils se débandent souvent. Il ne faut pas les confondre avec les « mobilisés », gardes nationaux de 21 à 40 ans que les décrets de Tours des 29 septembre et 2 novembre 1870 appellent à leur tour, plus âgés, plus mal armés encore.
+texte: La garde mobile est dissoute par la loi du 25 août 1871, avec toute la [[garde-nationale|garde nationale]]. La loi militaire du 27 juillet 1872 en reprend l'idée sous une autre forme : une réserve faite d'hommes passés par la caserne ([[reformes-militaires-apres-1871]]).
+repere: 1er février 1868 — La loi Niel crée la garde nationale mobile.
+repere: 16 juillet 1870 — Un décret met en activité les mobiles du Nord, de l'Est et de Paris.
+repere: 10 août 1870 — Une loi étend l'appel des gardes mobiles et sédentaires.
+repere: 17 août 1870 — Le conseil de Châlons décide le renvoi à Paris des mobiles de la Seine.
+repere: 29 septembre 1870 — À Tours, un décret lève les gardes nationaux mobilisés, célibataires de 21 à 40 ans.
+repere: novembre 1870 — À Belfort, 12 800 mobiles forment les trois quarts de la garnison assiégée.
+repere: 25 août 1871 — Loi de dissolution des gardes nationales, mobiles comprises.
+attention: Malgré son nom, la garde nationale mobile n'est pas une branche de la garde nationale. C'est une réserve de l'armée, faite pour l'essentiel de jeunes gens de vingt à vingt-cinq ans, alors que la garde nationale sédentaire est une milice de citoyens de tous âges, attachée à sa commune, qui élit ses chefs. On ne confondra pas non plus les mobiles avec les mobilisés de l'automne 1870.
+lien: wp Garde nationale mobile
+lien: url https://www.napoleon.org/histoire-des-2-empires/articles/la-garde-nationale-mobile-au-dela-de-lechec = Clément Mellinger, « La garde nationale mobile, au-delà de l'échec… », napoleon.org
+sources: Wikipédia (fr : Garde nationale mobile, Garde nationale (France, 1870-1871) ; en : Garde Mobile) ; Clément Mellinger, « La garde nationale mobile, au-delà de l'échec… », napoleon.org ; décrets de la Délégation de Tours des 29 septembre et 2 novembre 1870 (transcriptions de loire1870.fr)
+voir: loi-niel, garde-nationale, armee-de-la-loire, siege-de-paris, siege-de-belfort, fusils-de-la-defense-nationale, francs-tireurs, uniformes-francais
+
+@ garde-nationale
+cat: forces
+nom: La garde nationale
+alias: garde nationale sédentaire, gardes nationaux, garde nationale de Paris, trente sous, trente-sous, bataillons de marche, compagnies de guerre, Fédération de la garde nationale, Comité central
+dates: 1870 – 1871
+camp: fr
+def: Milice de citoyens née en 1789, tenue en lisière par l'Empire, la garde nationale sédentaire devient pendant le siège de Paris une masse de 300 000 hommes payés trente sous par jour, qui élisent leurs chefs : une force militaire médiocre et une force politique décisive, jusqu'à la Commune.
+texte: Fondée en 1789, la garde nationale est une milice de citoyens qui élit ses officiers et que tous les régimes ont redoutée : elle a fait ou laissé faire les révolutions de 1830 et de 1848, puis aidé à réprimer les insurgés de juin 1848. Le Second Empire la réduit à Paris à 60 bataillons et 14 000 hommes. La guerre la ressuscite. La loi du 10 août 1870 doit compléter les gardes sédentaires et mobiles ; celle du 2 septembre, voulue par les républicains, rend aux bataillons l'élection de leurs officiers et sous-officiers. Le 4 septembre, des gardes nationaux sont dans la foule qui envahit le Palais-Bourbon (voir [[quatre-septembre]]).
+texte: Le [[gouvernement-de-la-defense-nationale|gouvernement de la Défense nationale]] l'ouvre à tous les hommes valides. Le 12 septembre, un décret de Gambetta, ministre de l'Intérieur, accorde aux gardes une solde de 1,50 franc par jour, les « trente sous », et une aide aux familles versée par les mairies. À la fin de septembre, la garde nationale de Paris compte quelque 300 000 hommes en 254 bataillons, groupés en vingt légions, une par arrondissement, et en proportion de la population : 26 bataillons dans le 11e, 7 dans le 7e. Il y en aura 266. Armés de fusils de toute provenance, les gardes montent la garde aux remparts de l'enceinte. Le décret du 8 novembre forme, avec les quatre premières compagnies de chaque bataillon, des compagnies de guerre destinées à combattre au-dehors ; elles sont engagées en masse à [[bataille-de-buzenval|Buzenval]], le 19 janvier 1871.
+texte: Sa vraie force est politique. Elle est le peuple de Paris en armes, et ses bataillons ont la couleur de leurs quartiers. Le 31 octobre, ceux de Belleville, derrière Gustave Flourens, envahissent l'Hôtel de Ville ; d'autres, venus des beaux quartiers, délivrent le gouvernement (voir [[journee-du-31-octobre]]). L'[[armistice-de-1871|armistice]] du 28 janvier laisse ses armes à la garde nationale, que Jules Favre n'a pas osé désarmer. Elle se fédère, se donne un comité central, garde les canons qu'elle a payés par souscription pendant le siège et les hisse sur les hauteurs, à Montmartre et à Belleville. Le 18 mars 1871, la tentative de les reprendre déclenche la [[commune-de-paris|Commune]]. La loi du 25 août 1871 dissout toutes les gardes nationales de France.
+texte: En province, la garde sédentaire défend parfois sa ville. Le 8 octobre 1870, à Saint-Quentin, le préfet Anatole de La Forge repousse une colonne prussienne à la tête des gardes nationaux, des pompiers et des [[francs-tireurs]] ; le 18 octobre, à [[defense-de-chateaudun|Châteaudun]], gardes nationaux et francs-tireurs de Paris tiennent une journée contre une division allemande. Mais la plupart des gardes nationaux de province n'ont ni armes modernes ni uniformes ; ceux qu'on appelle à l'automne forment les bataillons de mobilisés, distincts des [[garde-mobile|mobiles]].
+repere: 10 août 1870 — Une loi complète les gardes nationales sédentaires et mobiles.
+repere: 2 septembre 1870 — Le Corps législatif rend aux gardes nationaux l'élection de leurs officiers.
+repere: 12 septembre 1870 — Décret instituant la solde de 1,50 franc par jour, les « trente sous ».
+repere: fin septembre 1870 — La garde nationale de Paris compte environ 300 000 hommes en 254 bataillons.
+repere: 8 octobre 1870 — À Saint-Quentin, gardes nationaux et pompiers repoussent une colonne prussienne.
+repere: 31 octobre 1870 — Des bataillons de Belleville envahissent l'Hôtel de Ville.
+repere: 19 janvier 1871 — Les compagnies de guerre de la garde nationale se battent à Buzenval.
+repere: 18 mars 1871 — L'affaire des canons de Montmartre déclenche la Commune.
+attention: On a fait des « trente sous » le symbole d'une garde paresseuse et buveuse, payée à ne rien faire. Pour beaucoup d'ouvriers privés de travail par le siège, cette solde était le seul revenu de la famille ; certains gardes ont repris le sobriquet à leur compte, comme le journaliste Sutter-Laumann, auteur d'une *Histoire d'un trente sous* (1891).
+lien: wp Garde nationale (France, 1870-1871)
+lien: wp Anatole de La Forge
+sources: Wikipédia (fr : Garde nationale (France, 1870-1871), Siège de Paris (1870-1871), Commune de Paris, Anatole de La Forge) ; article du lot 09 de l'application (siège de Paris)
+voir: siege-de-paris, journee-du-31-octobre, commune-de-paris, garde-mobile, bataille-de-buzenval, defense-de-chateaudun, armistice-de-1871, vie-a-paris-pendant-le-siege
+
+@ francs-tireurs
+cat: forces
+nom: Les francs-tireurs
+alias: franc-tireur, corps francs, Franktireurs, Franctireurs, guérilla, partisans, francs-tireurs de Paris, francs-tireurs des Vosges, otages, représailles
+dates: 1870 – 1871
+camp: fr
+def: Volontaires des corps francs levés en 1870-1871 pour harceler l'envahisseur, les francs-tireurs ne sont pas reconnus comme soldats par les Allemands, qui fusillent ceux qu'ils prennent et brûlent les villages voisins de leurs embuscades. Leur bilan militaire est modeste, leur souvenir durable.
+texte: Les premiers francs-tireurs sont des sociétés de tir nées dans l'Est au moment de la crise du Luxembourg, en 1867, dans l'Aisne, la Meurthe, la Moselle, les Vosges et les deux départements alsaciens : des civils qui s'exercent au fusil, élisent leurs chefs et ne portent pas d'uniforme. La guerre venue, les corps francs se multiplient, surtout après le [[quatre-septembre|4 septembre]] : compagnies de villes ou de départements, volontaires étrangers, unités d'artistes comme les francs-tireurs de la Seine, où servent les peintres Berne-Bellecour, Leloir et Vibert. Les estimations officielles en comptent quelque 57 600, de valeur très inégale : de bons tireurs bien équipés côtoient des aventuriers mal armés et sans discipline.
+texte: Leur statut est le cœur du problème. Aucune convention ne dit alors qui est combattant : celle de Genève, en 1864, ne protège que les blessés. Pour le commandement allemand, n'est soldat que l'homme d'une troupe régulière, reconnaissable de loin à son uniforme ou à un signe fixe ; le civil pris les armes à la main est un brigand. [[moltke|Moltke]] ordonne de ne pas traiter les francs-tireurs en combattants, mais de les juger sommairement et de les fusiller, puis autorise la destruction des localités qui les ont aidés. La Défense nationale tente de leur donner une existence légale : un arrêté du ministre de la Guerre du 29 septembre 1870 les place sous son autorité, et le décret du 4 novembre les rattache aux corps d'armée ou aux divisions territoriales. Les Allemands n'en tiennent guère compte.
+texte: La petite guerre et la répression vont de pair. Le 8 octobre, à Ablis, près de Rambouillet, 130 francs-tireurs de Paris conduits par le commandant Lipowski surprennent un détachement de cavaliers du Schleswig-Holstein et un poste bavarois ; en représailles, les Allemands brûlent 120 maisons, fusillent six habitants et emmènent vingt-deux otages. Le 18 octobre, à [[defense-de-chateaudun|Châteaudun]], les mêmes francs-tireurs et les gardes nationaux tiennent tête une journée à une division prussienne ; une partie de la ville brûle. Le 22 janvier 1871, des chasseurs des Vosges font sauter le [[pont-de-fontenoy|pont de Fontenoy-sur-Moselle]], coupant pour des semaines la voie ferrée de Strasbourg à Paris, et Fontenoy est livré aux flammes. Otages, amendes collectives, maisons brûlées : la [[france-occupee|France envahie]] paie chaque embuscade.
+texte: Militairement, l'effet reste limité. Les francs-tireurs gênent l'éclairage de la cavalerie allemande, enlèvent des patrouilles, obligent l'ennemi à garder ses étapes et ses voies ferrées, mais ne coupent jamais durablement ses communications. Leur héritage est ailleurs : dans le droit, puisque le règlement de La Haye de 1899 définit le combattant régulier par un chef responsable, un signe distinctif visible à distance et des armes portées ouvertement ; et dans la mémoire de l'armée allemande, qui garde de 1870 une peur tenace du civil qui tire.
+repere: 1867 — Pendant la crise du Luxembourg, des sociétés de tir se forment dans l'Est.
+repere: 29 septembre 1870 — Un arrêté place les francs-tireurs sous l'autorité du ministre de la Guerre.
+repere: 8 octobre 1870 — Coup de main des francs-tireurs de Paris à Ablis ; 120 maisons sont brûlées en représailles.
+repere: 18 octobre 1870 — Défense de Châteaudun par les francs-tireurs de Lipowski et la garde nationale.
+repere: 4 novembre 1870 — Un décret rattache les corps francs aux corps d'armée et aux divisions territoriales.
+repere: 22 janvier 1871 — Des chasseurs des Vosges font sauter le pont de Fontenoy-sur-Moselle.
+repere: 1899 — Le règlement de La Haye fixe les conditions auxquelles un combattant a droit au statut de soldat.
+attention: Il ne faut faire des francs-tireurs ni les héros d'une guerre du peuple qui aurait pu sauver la France, ni les égorgeurs de la propagande allemande. Leur poids militaire fut faible et leurs coups de main coûtèrent cher aux villages voisins. Mais la peur qu'ils inspirèrent a eu une longue suite : en août 1914, des troupes allemandes persuadées d'être prises sous le feu de civils ont massacré des habitants en Belgique et dans le nord de la France, comme à Dinant le 23 août, alors que la plupart des historiens ne trouvent pas trace d'une telle guérilla.
+lien: wp Franc-tireur
+lien: de Francs-tireurs
+lien: en Francs-tireurs
+sources: Wikipédia (de : Francs-tireurs ; en : Francs-tireurs ; fr : Franc-tireur, Ernest de Lipowski, Fontenoy-sur-Moselle)
+voir: garde-nationale, garde-mobile, defense-de-chateaudun, pont-de-fontenoy, france-occupee, armee-des-vosges, moltke, chemins-de-fer
+
+@ armee-de-la-loire
+cat: forces
+nom: L'armée de la Loire
+alias: Loirearmee, Army of the Loire, première armée de la Loire, deuxième armée de la Loire, 15e corps, 16e corps, armée de Chanzy, armée de d'Aurelle
+dates: octobre 1870 – 14 mars 1871
+quand: 1870-10
+jusqu: 1871-03-14
+camp: fr
+def: Levée à partir d'octobre 1870 par la Délégation de Tours pour débloquer Paris, l'armée de la Loire remporte à Coulmiers la plus nette victoire française de la guerre, puis perd Orléans en décembre ; coupée en deux, elle se replie avec Chanzy jusqu'au Mans et à Laval.
+texte: À la fin de septembre 1870, la province n'a plus d'armée : quelque 50 000 hommes de dépôts et de débris. On réunit derrière la Loire des régiments de marche, des mobiles du Centre et de l'Ouest et quatre régiments de ligne rappelés d'Algérie, les 10e, 38e, 39e et 92e : c'est le 15e corps du général de La Motte-Rouge, auquel s'ajoute un 16e en formation à Blois. Battu à [[prise-d-orleans|Artenay]] le 10 octobre, La Motte-Rouge évacue Orléans le 11. [[gambetta|Gambetta]], arrivé à Tours, le remplace par [[aurelle-de-paladines|d'Aurelle de Paladines]], un général de soixante-six ans rappelé de la retraite, qui regroupe ses troupes en Sologne, à Salbris, et y rétablit la discipline.
+texte: Renforcée par le 16e corps de [[chanzy|Chanzy]] et le 17e de Sonis, l'armée compte quelque 70 000 hommes et 150 canons quand elle attaque les Bavarois de [[von-der-tann|von der Tann]] à [[bataille-de-coulmiers|Coulmiers]], le 9 novembre. Orléans est reprise. D'Aurelle s'y retranche avec 100 000 hommes ; Tours lui envoie encore le 18e corps de Billot et le 20e de Crouzat, et l'armée dépasse 200 000 hommes à la fin de novembre. Mais la chute de Metz a libéré la IIe armée du [[prince-frederic-charles|prince Frédéric-Charles]], qui arrive sur la Loire. Pressée par Tours de marcher vers Paris, l'armée de la Loire échoue à droite à [[bataille-de-beaune-la-rolande|Beaune-la-Rolande]], le 28 novembre, puis à gauche à [[bataille-de-loigny|Loigny]], le 2 décembre ; le 4, Orléans est perdue ([[seconde-bataille-d-orleans]]).
+texte: Le 5 décembre, Gambetta écarte d'Aurelle et partage ce qui reste. Les 15e, 18e et 20e corps, rejetés au sud du fleuve, vers Bourges, forment la première armée de la Loire, que [[bourbaki|Bourbaki]] emmènera bientôt vers l'est ([[armee-de-l-est]]). Les 16e et 17e, renforcés du 21e de Jaurès, deviennent la deuxième armée de la Loire, sous Chanzy. Celle-ci recule en se battant : quatre jours à Josnes et Villorceau, devant [[bataille-de-beaugency|Beaugency]], du 7 au 10 décembre, puis à Fréteval et à Vendôme. Regonflée par des mobilisés et par les Bretons du [[camp-de-conlie|camp de Conlie]], elle compte de nouveau quelque 150 000 hommes autour du Mans à la fin de décembre. Battue à la [[bataille-du-mans|bataille du Mans]], du 10 au 12 janvier 1871, où elle laisse environ 7 000 tués et blessés, plus de 20 000 prisonniers et des milliers de traînards, elle se retire derrière la Mayenne, à Laval, où l'[[armistice-de-1871|armistice]] la trouve. Elle est dissoute le 14 mars 1871.
+repere: 11 octobre 1870 — Battu la veille à Artenay, La Motte-Rouge évacue Orléans ; d'Aurelle de Paladines le remplace.
+repere: 9 novembre 1870 — Victoire de Coulmiers ; Orléans est reprise.
+repere: 28 novembre 1870 — Échec de l'aile droite à Beaune-la-Rolande.
+repere: 2 décembre 1870 — Bataille de Loigny.
+repere: 4 décembre 1870 — Orléans est reprise par les Allemands.
+repere: 5 décembre 1870 — D'Aurelle est écarté ; l'armée est coupée en deux, sous Bourbaki et sous Chanzy.
+repere: 10-12 janvier 1871 — Défaite du Mans ; la deuxième armée de la Loire recule sur Laval.
+repere: 14 mars 1871 — L'armée de la Loire est dissoute.
+attention: « L'armée de la Loire » désigne deux armées successives : celle de d'Aurelle, d'octobre au 5 décembre, puis la deuxième, celle de Chanzy, tandis que la première, confiée à Bourbaki, devient l'armée de l'Est. Quant aux effectifs annoncés, plus de 200 000 hommes à la fin de novembre, ils comptent tous les hommes inscrits et nourris, non les combattants, bien moins nombreux dans chaque bataille.
+fiche: Formation = octobre 1870, autour du 15e corps, sur ordre de la Délégation de Tours
+fiche: Chef = La Motte-Rouge (15e corps, jusqu'au 11 octobre), d'Aurelle de Paladines (octobre – 5 décembre 1870), puis Chanzy (deuxième armée) et Bourbaki (première armée)
+fiche: Corps = 15e (La Motte-Rouge), 16e (Pourcet puis Chanzy), 17e (Sonis), 18e (Billot), 20e (Crouzat) ; puis 21e (Jaurès), 19e, 25e (Pourcet), 26e
+fiche: Effectif = environ 70 000 hommes et 150 canons à Coulmiers (9 novembre 1870) ; plus de 200 000 hommes à la fin de novembre ; environ 150 000 pour l'armée de Chanzy fin décembre
+fiche: Fin = dissoute le 14 mars 1871
+lien: wp Armée de la Loire
+lien: de Armée de la Loire
+sources: Wikipédia (fr : Armée de la Loire, Bataille de Coulmiers, Joseph Édouard de La Motte-Rouge ; de : Armée de la Loire ; en : Armée de la Loire) ; articles du lot 04 de l'application (Gambetta, Freycinet, Chanzy)
+voir: aurelle-de-paladines, chanzy, gambetta, bataille-de-coulmiers, bataille-de-loigny, seconde-bataille-d-orleans, bataille-du-mans, armee-de-l-est
+
+@ armee-du-nord
+cat: forces
+nom: L'armée du Nord
+alias: Nordarmee, armée de Faidherbe, 22e corps, 23e corps, mobilisés du Nord
+dates: 18 novembre 1870 – 7 mars 1871
+quand: 1870-11-18
+jusqu: 1871-03-07
+camp: fr
+def: Formée à l'automne 1870 par Bourbaki et le général Farre avec les dépôts et les mobiles du Nord, l'armée du Nord perd Amiens le 27 novembre, puis tient tête à Manteuffel et à Goeben sous Faidherbe, en s'appuyant sur les places fortes de la frontière, jusqu'à la défaite de Saint-Quentin.
+texte: Au lendemain de Sedan, le Nord est vide de troupes : quelques dépôts, une batterie à Lille hors d'état de rouler, des cavaliers d'escorte. La défense de la Somme, de l'Aisne, du Pas-de-Calais et du Nord est confiée à un colonel du génie, Jean-Joseph Farre, fait général de brigade, que seconde le commissaire du gouvernement Achille Testelin. Le 22 octobre, [[bourbaki|Bourbaki]], sorti de Metz, reçoit le commandement de la région : avec Farre, il tire des dépôts des régiments de marche, réorganise les mobiles en bataillons de cinq compagnies de 150 hommes, monte des batteries, fait une cavalerie du dépôt du 7e dragons et de gendarmes. Ainsi naît le 22e corps. Le 19 novembre, Bourbaki part pour la Loire ; Farre le remplace par intérim.
+texte: La première épreuve est une défaite. Le 27 novembre, devant [[bataille-d-amiens|Amiens]], Farre, avec quelque 25 000 hommes, barre la route à la Ire armée de [[edwin-von-manteuffel|Manteuffel]] ; battu à Villers-Bretonneux, il se replie vers le nord, et Amiens est occupée. [[faidherbe|Faidherbe]], nommé le 23 novembre, prend son commandement au début de décembre. Le 16 décembre, l'armée est réorganisée en deux corps : le 22e, du général Lecointe, avec les divisions Derroja et du Bessol, 30 000 hommes et 66 canons ; le 23e, du général Paulze d'Ivoy, avec la division Payen et les mobilisés du Nord du général Robin, 13 000 à 14 000 hommes. Farre devient chef d'état-major. L'ensemble compte quelque 40 000 à 45 000 hommes, en majorité des mobiles et des mobilisés.
+texte: Faidherbe sait ce que vaut son armée et la mène en conséquence : il frappe, puis se replie sous la protection de la ceinture de places fortes du Nord, Lille, Douai, Arras, Cambrai, que l'ennemi ne peut assiéger toutes. Il tient les hauteurs de l'Hallue à [[bataille-de-pont-noyelles|Pont-Noyelles]] les 23 et 24 décembre, puis se retire ; il bouscule les Prussiens à [[bataille-de-bapaume|Bapaume]] les 2 et 3 janvier 1871, mais ne peut sauver [[siege-de-peronne|Péronne]], qui capitule le 9. Le 19 janvier, pour attirer l'ennemi loin de Paris, il marche sur Saint-Quentin, où [[august-von-goeben|Goeben]], successeur de Manteuffel, le bat : la [[bataille-de-saint-quentin|bataille de Saint-Quentin]] lui coûte quelque 12 500 hommes, prisonniers compris. L'armée se reforme derrière les places ; l'armistice la trouve encore debout. Elle est licenciée le 7 mars 1871.
+repere: 22 octobre 1870 — Bourbaki reçoit le commandement de la région du Nord et forme le 22e corps avec Farre.
+repere: 18 novembre 1870 — L'armée du Nord est constituée ; Bourbaki la quitte le 19.
+repere: 27 novembre 1870 — Défaite de Villers-Bretonneux ; Amiens est occupée.
+repere: début de décembre 1870 — Faidherbe, nommé le 23 novembre, prend son commandement.
+repere: 16 décembre 1870 — Réorganisation en deux corps, le 22e et le 23e.
+repere: 23-24 décembre 1870 — Bataille de Pont-Noyelles, sur l'Hallue.
+repere: 2-3 janvier 1871 — Bataille de Bapaume.
+repere: 19 janvier 1871 — Défaite de Saint-Quentin.
+attention: L'armée du Nord n'est pas la création de Faidherbe, à qui la mémoire l'attribue : ce sont Bourbaki et Farre qui l'ont tirée des dépôts en octobre et novembre, et Farre qui l'a conduite au feu devant Amiens. Faidherbe en a fait un instrument qui tient le terrain et revient au combat, ce qui n'est pas moins.
+fiche: Formation = 18 novembre 1870, autour du 22e corps formé par Bourbaki et Farre depuis le 22 octobre
+fiche: Chef = Bourbaki (22 octobre – 19 novembre 1870), Farre par intérim, puis Faidherbe (début de décembre 1870 – mars 1871)
+fiche: Corps = 22e (Lecointe : divisions Derroja et du Bessol), 23e (Paulze d'Ivoy : divisions Payen et Robin)
+fiche: Effectif = 22e corps : 30 000 hommes et 66 canons le 16 décembre 1870, plus 13 000 à 14 000 mobilisés ; quelque 40 000 à 45 000 hommes en tout
+fiche: Fin = licenciée le 7 mars 1871
+lien: wp Armée du Nord (1870-1871)
+lien: wp Louis Faidherbe
+sources: Wikipédia (fr : Armée du Nord (1870-1871), Louis Faidherbe, Jean-Joseph Farre) ; articles des lots 04 et 08 de l'application (Faidherbe, Amiens, Pont-Noyelles, Bapaume, Saint-Quentin)
+voir: faidherbe, bataille-d-amiens, bataille-de-pont-noyelles, bataille-de-bapaume, bataille-de-saint-quentin, siege-de-peronne, august-von-goeben, edwin-von-manteuffel
+
+@ armee-de-l-est
+cat: forces
+nom: L'armée de l'Est
+alias: Ostarmee, Bourbaki-Armee, armée Bourbaki, Bourbakis, première armée de la Loire, 24e corps, campagne de l'Est
+dates: décembre 1870 – 1er février 1871
+quand: 1870-12
+jusqu: 1871-02-01
+camp: fr
+def: Formée en décembre 1870 à Bourges avec l'aile droite de l'armée de la Loire, l'armée de Bourbaki est jetée vers l'est pour délivrer Belfort et couper les arrières allemands. Victorieuse à Villersexel, arrêtée sur la Lizaine, prise entre deux armées en plein hiver, elle passe en Suisse le 1er février 1871.
+texte: Après la perte d'Orléans, les 15e, 18e et 20e corps se reforment à Bourges sous [[bourbaki|Bourbaki]] : c'est la première [[armee-de-la-loire|armée de la Loire]]. [[charles-de-freycinet|Freycinet]] lui assigne en décembre un nouveau but, l'Est : débloquer [[siege-de-belfort|Belfort]], que [[denfert-rochereau|Denfert-Rochereau]] défend depuis le 3 novembre, couper les communications de l'ennemi. L'armée reçoit le 24e corps de Bressolles, la division Cremer, qui s'est battue à [[bataille-de-nuits|Nuits]], et une réserve formée autour de marins sous le capitaine de frégate Pallu de la Barrière : quelque 140 000 hommes et 300 canons, dont une bonne part de mobiles et de mobilisés. Les corps sont commandés par Martineau des Chenez (15e), Billot (18e) et [[clinchant|Clinchant]] (20e). Transportée par chemin de fer vers la Saône et le Doubs, elle s'étire sur des voies encombrées, où des trains attendent des jours entiers dans le froid.
+texte: Le 9 janvier 1871, elle bat les Badois et les Prussiens de [[august-von-werder|Werder]] à [[bataille-de-villersexel|Villersexel]]. Mais, mal ravitaillée, elle perd deux jours, et Werder en profite pour se retrancher sur la Lizaine, de Montbéliard à Frahier, à moins de vingt kilomètres de Belfort, avec environ 52 000 hommes. Du 15 au 17 janvier, par des nuits à −20 °C, sans abri et sans fers à glace pour les chevaux, les Français attaquent en vain devant [[bataille-d-hericourt|Héricourt]] et Chagey. Le 18, Bourbaki ordonne la retraite sur Besançon.
+texte: Il est déjà trop tard. [[edwin-von-manteuffel|Manteuffel]] arrive par l'ouest avec une nouvelle armée du Sud, forte de deux corps, et menace la voie ferrée de Lyon à Besançon ; la diversion de l'[[armee-des-vosges|armée des Vosges]] à Dijon ne l'arrête pas. Refoulée vers Pontarlier, l'armée apprend que l'[[armistice-de-1871|armistice]] du 28 janvier excepte le Doubs, le Jura et la Côte-d'Or. Le 26 janvier au soir, Bourbaki a tenté de se tuer ; Clinchant, qui lui succède, négocie avec le général suisse Hans Herzog la convention des Verrières, signée au matin du 1er février. Du 1er au 3 février, l'armée passe la frontière, désarmée, par Les Verrières, Sainte-Croix et Vallorbe : 87 847 hommes, dont 2 467 officiers, et quelque 12 000 chevaux, internés six semaines en Suisse (voir [[retraite-de-l-armee-de-l-est]]).
+repere: décembre 1870 — À Bourges, les corps de Bourbaki reçoivent pour mission de marcher vers l'est.
+repere: 9 janvier 1871 — Victoire de Villersexel sur Werder.
+repere: 15-17 janvier 1871 — Bataille de la Lizaine, devant Héricourt : Belfort n'est pas délivrée.
+repere: 18 janvier 1871 — Bourbaki ordonne la retraite sur Besançon.
+repere: 26 janvier 1871 — Tentative de suicide de Bourbaki ; Clinchant prend le commandement.
+repere: 28 janvier 1871 — L'armistice exclut le Doubs, le Jura et la Côte-d'Or.
+repere: 1er février 1871 — Convention des Verrières ; l'armée entre en Suisse.
+attention: On attribue souvent le désastre au seul froid et à l'armistice mal négocié. La campagne était compromise avant : des transports interminables, un ravitaillement défaillant, deux jours perdus après Villersexel qui laissent Werder s'installer sur la Lizaine, et la marche de Manteuffel sur les arrières, que le commandement a vue trop tard.
+fiche: Formation = décembre 1870, à Bourges, avec les 15e, 18e et 20e corps de l'armée de la Loire
+fiche: Chef = Bourbaki (décembre 1870 – 26 janvier 1871), puis Clinchant
+fiche: Corps = 15e (Martineau des Chenez), 18e (Billot), 20e (Crouzat, puis Clinchant), 24e (Bressolles) ; division Cremer ; réserve de marins (Pallu de la Barrière)
+fiche: Effectif = environ 140 000 hommes et 300 canons (décembre 1870 – janvier 1871), selon les estimations courantes ; face à environ 52 000 Allemands sur la Lizaine
+fiche: Fin = internement en Suisse, 1er-3 février 1871 : 87 847 hommes, dont 2 467 officiers
+lien: wp Armée de l'Est
+lien: de Armée de l’Est
+sources: Wikipédia (fr : Armée de l'Est, Charles Denis Bourbaki ; de : Armée de l’Est) ; articles du lot 04 de l'application (Clinchant, Freycinet)
+voir: bourbaki, clinchant, bataille-de-villersexel, bataille-d-hericourt, retraite-de-l-armee-de-l-est, siege-de-belfort, edwin-von-manteuffel, august-von-werder
+
+@ armee-des-vosges
+cat: forces
+nom: L'armée des Vosges
+alias: Army of the Vosges, Vogesenarmee, garibaldiens, armée de Garibaldi, Menotti Garibaldi, Ricciotti Garibaldi, Bordone, Bossak-Hauké
+dates: octobre 1870 – mars 1871
+quand: 1870-10
+jusqu: 1871-03
+camp: fr
+def: Confiée en octobre 1870 à Garibaldi, l'armée des Vosges réunit corps francs, mobiles, mobilisés et volontaires étrangers pour couvrir la route de Lyon. D'Autun à Dijon, elle mène une guerre de coups de main, repousse les Allemands devant Dijon en janvier 1871, mais ne gêne pas la manœuvre qui perd l'armée de l'Est.
+texte: [[garibaldi|Garibaldi]], qui a offert ses services à la République, débarque à Marseille le 7 octobre 1870. Les généraux français refusent de servir sous ses ordres ; [[gambetta|Gambetta]] lui confie les corps francs de la zone des Vosges et une brigade de mobiles, qui prennent le nom d'armée des Vosges. Son chef d'état-major est un Français, Joseph Bordone. Garibaldi installe son quartier général à Dole le 14 octobre, puis, dans la nuit du 8 au 9 novembre, se replie sur Autun. L'armée, qui comptait moins de 4 000 hommes au départ, est organisée en quatre brigades : la 1re sous le Polonais Józef Bossak-Hauké, la 2e sous Delpech puis l'Italien Lobbia, les 3e et 4e sous les fils du général, Menotti et Ricciotti Garibaldi.
+texte: On y trouve de tout : des mobiles des Alpes-Maritimes, de l'Aveyron, du Gard, des Hautes-Alpes, des Basses-Pyrénées, des mobilisés de l'Isère, des francs-tireurs du Midi, de Franche-Comté, d'Oran ou de l'Atlas, des « bataillons de l'Égalité » de Marseille, une compagnie d'infanterie de marine, et des volontaires étrangers : Italiens surtout, mais aussi Polonais, Espagnols, Grecs, Hongrois, Américains. L'armement et l'équipement sont médiocres, la discipline incertaine, et les incidents d'Autun, où des soldats fouillent la chambre de l'évêque, nourrissent l'hostilité des conservateurs.
+texte: C'est une guerre de coups de main. Le 19 novembre, Ricciotti surprend la garnison allemande de Châtillon-sur-Seine ; le 26, l'armée bouscule une colonne badoise à Lantenay, puis échoue dans une attaque de nuit sur Dijon ; le 1er décembre, Autun repousse les Badois. Quand [[august-von-werder|Werder]] évacue Dijon, le 27 décembre, pour faire face à l'[[armee-de-l-est|armée de l'Est]], les garibaldiens s'y installent. Du 21 au 23 janvier 1871, aux [[batailles-de-dijon|batailles de Dijon]], ils repoussent la brigade prussienne de Kettler et lui prennent un drapeau du 61e régiment ; Bossak-Hauké est tué le premier jour. Mais le gros de l'armée du Sud de [[edwin-von-manteuffel|Manteuffel]] est passé entre Dijon et l'armée de Bourbaki. Exclue de l'[[armistice-de-1871|armistice]], l'armée des Vosges évacue Dijon dans la nuit du 31 janvier au 1er février ; elle compte alors de 20 000 à 30 000 hommes. Elle est dissoute en mars 1871.
+repere: 7 octobre 1870 — Garibaldi débarque à Marseille.
+repere: 14 octobre 1870 — Il installe son quartier général à Dole.
+repere: nuit du 8 au 9 novembre 1870 — L'armée se replie sur Autun.
+repere: 19 novembre 1870 — Ricciotti Garibaldi surprend la garnison allemande de Châtillon-sur-Seine.
+repere: 1er décembre 1870 — Autun repousse une attaque badoise.
+repere: 21-23 janvier 1871 — Batailles de Dijon ; prise d'un drapeau du 61e régiment poméranien.
+repere: 1er février 1871 — Exclue de l'armistice, l'armée évacue Dijon.
+attention: On se figure l'armée des Vosges comme une légion italienne. Les Italiens n'en formaient qu'une partie : la plupart de ses soldats étaient des mobiles, des mobilisés et des francs-tireurs français. Son bilan a été jugé selon les camps : la commission d'enquête de l'Assemblée a vu en Garibaldi un général politique, et Foch, en 1903, lui a reproché d'avoir immobilisé ses troupes devant une brigade au lieu de secourir Bourbaki.
+fiche: Formation = octobre 1870, sur décision de Gambetta, autour des corps francs de l'Est et d'une brigade de mobiles
+fiche: Chef = Giuseppe Garibaldi ; chef d'état-major Joseph Bordone
+fiche: Corps = quatre brigades : Bossak-Hauké, Delpech puis Lobbia, Menotti Garibaldi, Ricciotti Garibaldi
+fiche: Effectif = moins de 4 000 hommes en octobre 1870 ; environ 17 000 en novembre ; 20 000 à 30 000 à la fin de janvier 1871
+fiche: Fin = dissoute en mars 1871
+lien: wp Armée des Vosges (1870)
+lien: en Army of the Vosges
+sources: Wikipédia (fr : Armée des Vosges (1870), Jozef Bossak-Hauké ; en : Army of the Vosges) ; articles des lots 04 et 08 de l'application (Garibaldi, batailles de Dijon)
+voir: garibaldi, batailles-de-dijon, armee-de-l-est, francs-tireurs, edwin-von-manteuffel, august-von-werder, gambetta, garde-mobile
+
+@ camp-de-conlie
+cat: forces
+nom: Le camp de Conlie
+alias: Conlie, armée de Bretagne, Kératry, Émile de Kératry, Kerfank, mobilisés bretons, la Tuilerie, Pastorale de Conlie
+dates: 22 octobre 1870 – 13 janvier 1871
+quand: 1870-10-22
+jusqu: 1871-01-13
+camp: fr
+def: Camp ouvert en novembre 1870 sur un plateau de la Sarthe pour former l'armée de Bretagne de Kératry : des dizaines de milliers de Bretons y attendent des armes dans la boue et la maladie. Son souvenir mêle des faits accablants et un mythe, celui de Bretons sacrifiés par la méfiance de Gambetta.
+texte: Émile de Kératry, député du Finistère sous l'Empire, préfet de police après le [[quatre-septembre|4 septembre]], propose de lever en Bretagne une armée de volontaires et de mobilisés. Le 22 octobre 1870, [[gambetta|Gambetta]] l'autorise à former cette « armée de Bretagne » et un camp pour l'instruire. Kératry choisit le plateau de Conlie, à une vingtaine de kilomètres au nord-ouest du Mans, l'un des onze camps d'instruction ouverts par la Défense nationale. Les premiers volontaires arrivent le 6 novembre ; le 10, ils sont 25 000, pour un camp prévu à 50 000 hommes. Environ 60 000 hommes y passeront.
+texte: Le camp n'a ni baraques en nombre suffisant ni drainage. La pluie le transforme en marécage ; les soldats l'appellent *Kerfank*, la ville de boue. Les fusils promis, des surplus de la guerre de Sécession, arrivent tard, en petit nombre, de onze modèles différents, souvent rouillés ; en décembre, le général de Marivault compte 43 000 hommes, dont la moitié à peine sont armés. La typhoïde et la variole s'installent. L'aéronaute Gaston Tissandier, qui passe le 15 décembre, décrit « un lac de boue » d'où l'on évacue chaque jour 500 ou 600 malades. Kératry, qui réclame des armes et se heurte à Gambetta et à [[charles-de-freycinet|Freycinet]], méfiants envers une armée bretonne trop autonome, démissionne le 27 novembre ; ses successeurs renvoient chez eux une partie des hommes et préparent l'évacuation.
+texte: Les Bretons rejoignent l'[[armee-de-la-loire|armée de Chanzy]]. À la [[bataille-du-mans|bataille du Mans]], le 11 janvier 1871, des mobilisés bretons abandonnent dans la nuit la position de la Tuilerie, sur l'Huisne ; [[chanzy|Chanzy]] leur imputera sa défaite. Le général de Lalande, l'un de leurs chefs, répondra devant la commission d'enquête : « Je crois que nous avons été sacrifiés », car on savait qu'ils n'étaient pas armés pour affronter des troupes régulières. Le 13 janvier, les Allemands occupent le camp abandonné.
+texte: Le bilan humain est lourd sans être celui d'un massacre : 131 mobilisés reposent sous la Croix des Bretons du cimetière de Conlie, et les décomptes vont de 143 à 173 morts au camp, auxquels s'ajoutent à peu près autant de décès à Sillé-le-Guillaume, tout proche. La commission d'enquête de l'Assemblée, dont le rapporteur est le royaliste Arthur de La Borderie, partage la responsabilité entre Kératry et Gambetta. Le poème de Tristan Corbière, *La Pastorale de Conlie*, puis le monument élevé en 1913 sur la butte de la Jaunelière ont fixé le souvenir ; en 1971, une inscription en breton y a ajouté : « Aux Bretons trahis ».
+repere: 22 octobre 1870 — Kératry est autorisé à former l'armée de Bretagne et un camp d'instruction.
+repere: 6 novembre 1870 — Les premiers volontaires arrivent à Conlie.
+repere: 27 novembre 1870 — Kératry démissionne.
+repere: 15 décembre 1870 — Gaston Tissandier décrit un camp changé en lac de boue.
+repere: 11 janvier 1871 — Au Mans, des mobilisés bretons abandonnent la position de la Tuilerie.
+repere: 13 janvier 1871 — Les Allemands occupent le camp évacué.
+repere: 7 mars 1871 — L'armée de Bretagne est dissoute.
+attention: On a dit que Gambetta avait laissé mourir les Bretons par crainte d'une nouvelle chouannerie, et certains ont parlé d'« holocauste breton ». Les faits sont graves mais plus prosaïques : un camp mal placé, des armes qui manquaient à toutes les armées de province, et une méfiance politique réelle envers Kératry, que l'historien Pierre Bertin soupçonne d'avoir songé à marcher sur Tours. Le chiffre de 80 000 hommes réunis, souvent répété, est un maximum que les archives ne confirment pas.
+geo: 48.1545, -0.0444
+lieu: Conlie, Sarthe, France
+lien: wp Camp de Conlie
+lien: url https://bcd.bzh/becedia/en/node/64876 = Yves Jézequel, « The Camp of Conlie, Drama or Shambles? », Bécédia (2023)
+sources: Wikipédia (fr : Camp de Conlie, Bataille du Mans (1871)) ; Yves Jézequel, « The Camp of Conlie, Drama or Shambles? », Bécédia, 2023
+voir: armee-de-la-loire, bataille-du-mans, chanzy, gambetta, garde-mobile, fusils-de-la-defense-nationale, charles-de-freycinet
+
+@ armee-d-afrique
+cat: forces
+nom: Turcos, zouaves et armée d'Afrique
+alias: armée d'Afrique, turcos, turco, tirailleurs algériens, zouaves, zouaves de la Garde, chasseurs d'Afrique, spahis, Marche des tirailleurs, Turco de Chanteau, révolte de Mokrani
+dates: 1870 – 1871
+camp: fr
+def: Les troupes d'Algérie, zouaves, tirailleurs algériens dits « turcos », chasseurs d'Afrique et spahis, forment l'élite du 1er corps à Wissembourg et à Frœschwiller, puis chargent à Sedan. Leur départ dégarnit l'Algérie, où éclate en 1871 la plus grande insurrection depuis la conquête.
+texte: L'armée d'Afrique est née de la conquête de l'Algérie. Les zouaves, qui tirent leur nom de la confédération kabyle des Zouaoua, sont recrutés parmi les Européens depuis une ordonnance de 1841 ; ils forment trois régiments depuis 1852, plus un régiment de zouaves de la Garde. Les tirailleurs algériens, volontaires indigènes encadrés surtout par des officiers français, sont trois régiments depuis 1855 ; les Russes de Crimée, qui les prenaient pour des Turcs, leur ont valu le surnom de « turcos ». La cavalerie compte les chasseurs d'Afrique, recrutés surtout parmi les Européens, et les spahis indigènes. De la Crimée au Mexique en passant par Magenta, ces troupes ont fait la réputation de l'armée impériale.
+texte: En juillet 1870, [[mac-mahon|Mac-Mahon]], gouverneur général de l'Algérie, en reçoit le meilleur dans son 1er corps : les 1er, 2e et 3e zouaves et les trois régiments de tirailleurs, quelque 9 000 hommes pour ces derniers. Le 4 août, à [[bataille-de-wissembourg|Wissembourg]], le 1er tirailleurs défend la gare et les abords de la ville jusqu'à la retraite. Le 6, à [[bataille-de-froeschwiller-woerth|Frœschwiller]], le 1er zouaves rejette les Bavarois des bois de Langensoultzbach, le 2e contre-attaque sur Wœrth puis se fait encercler dans le bois de Frœschwiller, d'où un dixième seulement de ses hommes sort ; les turcos reprennent un moment des canons perdus. Le 2e tirailleurs n'aurait plus eu que 450 hommes valides le soir. Les zouaves de la Garde se battent devant Metz ; le 1er septembre, les chasseurs d'Afrique de la division Margueritte mènent les [[charges-de-floing|charges de Floing]]. Des régiments de marche de zouaves et de tirailleurs combattent ensuite à Paris, sur la Loire et dans l'Est.
+texte: En Allemagne, les turcos deviennent un objet de curiosité et de propagande : journaux et caricatures en font des sauvages que la France lance contre l'Europe civilisée. En France, la *Marche des tirailleurs* chante une charge du 2e tirailleurs sur les canons prussiens, et le « Turco de Chanteau », dans le Loiret, a ses monuments. Les pertes des seuls tirailleurs sont estimées à quelque 5 000 tués, un chiffre mal établi.
+texte: L'Algérie, elle, est vidée de ses troupes. Le 15 septembre 1870, le gouverneur général Durrieu prévient qu'un soulèvement est imminent et qu'il a trop peu de soldats pour y faire face. Le 24 octobre, les décrets Crémieux y instaurent le régime civil et font des Juifs algériens des citoyens français. En janvier 1871, des spahis qu'on veut envoyer en France se mutinent, à Moudjebeur puis à Aïn Guettar. Le 15 mars, le cheikh el-Mokrani entre en rébellion ; quelque 250 tribus, un tiers de la population, le suivent. La répression, impitoyable, s'accompagne de confiscations de terres massives.
+repere: 1841 — Une ordonnance réserve les zouaves aux Européens et crée les tirailleurs indigènes.
+repere: 4 août 1870 — À Wissembourg, le 1er tirailleurs défend la gare et les abords de la ville.
+repere: 6 août 1870 — Zouaves et turcos contre-attaquent à Frœschwiller ; le 2e zouaves est presque anéanti.
+repere: 1er septembre 1870 — Les chasseurs d'Afrique de Margueritte chargent à Floing.
+repere: 24 octobre 1870 — Les décrets Crémieux réorganisent l'Algérie et naturalisent les Juifs algériens.
+repere: 20-23 janvier 1871 — Mutineries de spahis refusant de partir pour la France.
+repere: 15 mars 1871 — Le cheikh el-Mokrani entre en rébellion contre la France.
+attention: On a longtemps attribué la révolte de 1871 au décret Crémieux, comme si la naturalisation des Juifs d'Algérie avait suffi à soulever les tribus : la thèse vient d'auteurs de la fin du XIXe siècle. Les historiens d'aujourd'hui, comme Richard Ayoun, y voient une légende répandue après coup, notamment dans les milieux antisémites ; la défaite, le départ des troupes et le passage au régime civil pèsent bien davantage.
+lien: wp Tirailleurs algériens
+lien: wp Révolte de Mokrani
+sources: Wikipédia (fr : Tirailleurs algériens, Bataille de Frœschwiller-Wœrth, Révolte de Mokrani) ; articles du lot 06 de l'application (Wissembourg, Frœschwiller)
+voir: bataille-de-wissembourg, bataille-de-froeschwiller-woerth, charges-de-floing, mac-mahon, general-margueritte, uniformes-francais, zouaves-pontificaux, prisonniers-de-guerre
+
+@ zouaves-pontificaux
+cat: forces
+nom: Les Volontaires de l'Ouest
+alias: zouaves pontificaux, Légion des volontaires de l'Ouest, zouaves de Charette, Athanase de Charette, Sonis, bannière du Sacré-Cœur, Miles Christi, Päpstliche Zuaven, Papal Zouaves
+dates: octobre 1870 – 13 août 1871
+quand: 1870-10
+jusqu: 1871-08-13
+camp: fr
+def: Revenus de Rome après la chute de l'État pontifical, les zouaves pontificaux français du colonel de Charette deviennent en 1870 la Légion des volontaires de l'Ouest. Leur charge de Loigny, le 2 décembre, sous la bannière du Sacré-Cœur, en fait des héros de la mémoire catholique.
+texte: Le bataillon des zouaves pontificaux, créé le 1er janvier 1861 sur le modèle des zouaves français et devenu régiment en 1867, réunit des volontaires venus défendre l'État du pape, surtout des Français, des Belges, des Néerlandais et des Canadiens français. En 1870, la garnison française quitte Rome, mais les zouaves restent, sous le colonel Athanase de Charette. Le 20 septembre, l'armée italienne bombarde la ville ; le pape fait cesser le feu presque aussitôt, et onze zouaves ont été tués. Le régiment est licencié le lendemain et ses Français rapatriés à Toulon.
+texte: Charette offre ses services au [[gouvernement-de-la-defense-nationale|gouvernement de la Défense nationale]], qui l'autorise à former un corps franc : il garde l'uniforme de zouave mais doit s'appeler Légion des volontaires de l'Ouest. Engagée dès le 11 octobre devant [[prise-d-orleans|Orléans]], la légion est rattachée à la mi-novembre, avec deux bataillons, au 17e corps du général de Sonis, dans l'[[armee-de-la-loire|armée de la Loire]]. Le 2 décembre, à la [[bataille-de-loigny|bataille de Loigny]], vers 16 h, Sonis lance une contre-attaque désespérée sur le village : quelque 700 hommes, dont les zouaves, sous une bannière du Sacré-Cœur, aux cris de « Vive Pie IX ! Vive la France ! ». Le 1er bataillon laisse 198 de ses 300 hommes sur le terrain ; Sonis, blessé, est amputé d'une jambe le 4, Charette, blessé et pris, s'évade. Le 11 janvier 1871, les zouaves reprennent avec le général Gougeard le plateau d'Auvours, devant Le Mans.
+texte: Charette refuse ensuite d'engager sa légion contre la Commune, ne voulant pas se battre contre des Français. Le 28 mai 1871, elle est consacrée au Sacré-Cœur ; elle est dissoute le 13 août. Loigny devient un lieu de pèlerinage : Sonis, mort en 1887, repose dans la crypte de l'église, parmi les zouaves, sous la devise *Miles Christi*, et son procès en béatification s'ouvre en 1928. Les anciens zouaves seront nombreux dans les œuvres catholiques et le camp légitimiste, autour du Sacré-Cœur de Montmartre ou de Lourdes.
+repere: 1er janvier 1861 — Création du bataillon des zouaves pontificaux.
+repere: 20 septembre 1870 — L'armée italienne entre dans Rome ; le régiment est licencié le lendemain.
+repere: 11 octobre 1870 — La légion combat devant Orléans.
+repere: 2 décembre 1870, vers 16 h — Charge de Loigny sous la bannière du Sacré-Cœur.
+repere: 11 janvier 1871 — Les zouaves reprennent le plateau d'Auvours, devant Le Mans.
+repere: 13 août 1871 — La Légion des volontaires de l'Ouest est dissoute.
+attention: La mémoire catholique a fait de Loigny la charge des seuls zouaves. Ils y furent quelque 300 au milieu de mobiles, de francs-tireurs et de soldats du 51e de marche, que les récits ont presque oubliés, et la contre-attaque n'a pas changé l'issue de la bataille : elle a surtout servi, après la guerre, la propagande religieuse et politique.
+lien: wp Zouaves pontificaux
+lien: wp Louis-Gaston de Sonis
+sources: Wikipédia (fr : Zouaves pontificaux, Bataille de Loigny, Louis-Gaston de Sonis) ; Martin Simpson, « The Zouaves Pontificaux in the Franco-Prussian War: Loigny and the Zouave Myth », communication à l'American Historical Association, 2019 (résumé)
+voir: bataille-de-loigny, armee-de-la-loire, armee-d-afrique, francs-tireurs, lieux-de-memoire, bataille-du-mans
+
+@ marine-en-1870
+cat: forces
+nom: La marine en 1870
+alias: marine impériale, flotte française, blocus, escadre de la Baltique, escadre de la mer du Nord, Bouët-Willaumez, Fourichon, Bouvet, Meteor, combat de La Havane, marins, fusiliers marins, infanterie de marine, Seekrieg
+dates: juillet 1870 – janvier 1871
+camp: fr
+def: Deuxième flotte du monde, la marine française domine sans peine celle de l'Allemagne du Nord, mais ne peut ni débarquer ni bloquer efficacement les côtes allemandes. Son vrai rôle est à terre : marins des forts de Paris, infanterie de marine de Bazeilles, amiraux à la tête de corps d'armée.
+texte: En 1870, la France aligne 470 navires, une flotte que seule dépasse celle de la Grande-Bretagne ; la marine de la Confédération de l'Allemagne du Nord en a environ dix fois moins, dont cinq frégates cuirassées, souvent immobilisées par leurs machines. Le plan impérial est de bloquer les ports allemands et de débarquer sur les côtes de la Baltique un corps de 9 000 soldats de marine et de 20 000 réservistes, sous [[trochu|Trochu]], pour retenir des troupes prussiennes et entraîner le Danemark, qui a une armée de 50 000 hommes. Mais les inscrits maritimes sont en partie à la pêche, à Terre-Neuve, le charbon manque, et le 3 août il est clair qu'aucun corps de débarquement ne partira. Les défaites du 6 août enterrent le projet.
+texte: L'escadre de la Baltique de l'amiral Bouët-Willaumez quitte Cherbourg le 24 juillet, son pavillon sur la frégate cuirassée *Surveillante*, et mouille le 2 août dans la baie de Køge, près de Copenhague. Le 12 août, au large de Kiel, ses officiers jugent toute descente impossible : des côtes basses, des fonds trop faibles pour ses gros navires, des batteries Krupp qui portent deux fois plus loin que ses canons. L'escadre de la mer du Nord de l'amiral Fourichon, arrivée le 11 août, doit acheter ses cartes au Danemark et trouve l'Elbe et la Weser défendues par des mines. Le blocus, proclamé le 18 août sur la Baltique et le 25 sur la mer du Nord, ne donne lieu qu'à des escarmouches ; pour ne pas froisser l'Angleterre, on épargne le commerce allemand sous pavillon britannique. Quelque quatre-vingts navires marchands allemands sont pris. Les escadres rentrent le 10 et le 24 septembre.
+texte: La marine sert surtout à terre. L'infanterie de marine destinée au débarquement rejoint l'[[armee-de-chalons|armée de Châlons]] : sa division se bat à [[bataille-de-bazeilles|Bazeilles]] et part en captivité après Sedan. À [[siege-de-paris|Paris]], 14 000 marins canonniers, aux ordres de l'amiral La Roncière Le Noury, servent les forts armés de pièces de marine ([[fortifications-de-paris]]). Des officiers de marine encadrent les mobiles ; d'autres commandent en province, l'amiral Jauréguiberry le 16e corps de Chanzy, l'amiral Jaurès le 21e, l'officier de marine Gougeard une division de Bretons. L'amiral Fourichon devient ministre de la Marine du gouvernement de la Défense nationale, à la [[delegation-de-tours|Délégation de Tours]].
+texte: Loin de l'Europe, la corvette *Dupleix* bloque la corvette allemande *Hertha* à Nagasaki. Le seul véritable combat a lieu devant La Havane, port espagnol neutre, le 9 novembre 1870 : à 14 h 30, l'aviso *Bouvet* du commandant Franquet ouvre le feu à 4 000 m sur la canonnière *Meteor* ; vers 16 h 30, il tente de l'éperonner, et le gréement du *Meteor* s'abat, des cordages bloquant son hélice, mais un obus allemand perce la chaudière du *Bouvet*, qui se retire à la voile. Un coup de semonce d'une corvette espagnole met fin au combat, indécis.
+repere: 24 juillet 1870 — L'escadre de Bouët-Willaumez quitte Cherbourg pour la Baltique.
+repere: 11 août 1870 — L'escadre de Fourichon arrive en mer du Nord.
+repere: 12 août 1870 — Au large de Kiel, l'état-major de Bouët-Willaumez juge tout débarquement impossible.
+repere: 18 août 1870 — Le blocus des côtes allemandes de la Baltique est proclamé ; celui de la mer du Nord le 25.
+repere: 1er septembre 1870 — L'infanterie de marine se bat à Bazeilles.
+repere: 10 septembre 1870 — L'escadre de la mer du Nord rentre en France ; celle de la Baltique le 24.
+repere: 9 novembre 1870 — Combat du *Bouvet* et du *Meteor* devant La Havane.
+attention: On a dit la marine inutile en 1870. Sur mer, elle n'a pu ni débarquer ni bloquer efficacement ; mais ses marins ont tenu les forts de Paris, son infanterie s'est battue à Bazeilles et ses officiers ont commandé des corps entiers dans les armées de province : c'est à terre qu'elle a compté. Quant à la date du combat de La Havane, certaines chronologies donnent le 8 novembre ; les récits détaillés retiennent le 9.
+fiche: Flotte = 470 navires, la deuxième du monde
+fiche: Marine adverse = environ dix fois moins de navires, dont cinq frégates cuirassées
+fiche: Marins à Paris = 14 000 marins canonniers dans les forts
+fiche: Prises = environ 80 navires marchands allemands
+lien: de Seekrieg im Deutsch-Französischen Krieg
+lien: wp Combat du Bouvet et du Meteor
+sources: Wikipédia (de : Seekrieg im Deutsch-Französischen Krieg ; en : Franco-Prussian War, Battle of Havana (1870) ; fr : Guerre franco-allemande de 1870, Siège de Paris (1870-1871), Bataille du Mans (1871), Martin Fourichon)
+voir: armee-de-chalons, bataille-de-bazeilles, siege-de-paris, fortifications-de-paris, trochu, delegation-de-tours, armee-francaise-en-1870, armee-de-la-loire

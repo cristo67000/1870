@@ -1,0 +1,498 @@
+# 1870 — lot 05 : les Allemands. Dix-huit personnages, dans l'ordre du plan.
+# Dates et commandements vérifiés sur Wikipédia (de, recoupé avec fr ou en).
+
+@ guillaume-ier
+cat: personnages
+nom: Guillaume Ier
+alias: Wilhelm I., Wilhelm Friedrich Ludwig von Preußen, Guillaume de Prusse, le roi Guillaume, Kaiser Wilhelm, empereur Guillaume
+dates: 1797 – 1888
+an: 1797
+fin: 1888
+camp: de
+role: roi de Prusse, commandant en chef des armées allemandes
+def: Roi de Prusse depuis 1861, commandant en chef des armées allemandes en 1870, à soixante-treize ans. Il laisse la guerre à Moltke et la politique à Bismarck, arbitre leurs querelles, et sort de la campagne empereur allemand, proclamé à Versailles le 18 janvier 1871.
+texte: Second fils de Frédéric-Guillaume III, il n'était pas destiné à régner et a fait une carrière de soldat : à seize ans, le 27 février 1814, il reçoit le baptême du feu à Bar-sur-Aube, contre les troupes de Napoléon. Partisan de la manière forte en 1848, ce qui lui vaut le surnom de « prince Mitraille » et quelques mois d'exil à Londres, il devient régent en 1858 pour son frère malade, puis roi le 2 janvier 1861. Sa grande affaire est la réforme de l'armée, conduite avec [[albrecht-von-roon|Roon]] ; pour l'imposer à une Chambre qui refuse les crédits, il appelle [[bismarck|Bismarck]] en 1862. Quatre ans plus tard, la victoire sur l'Autriche fait de lui le président de la [[confederation-de-l-allemagne-du-nord|Confédération de l'Allemagne du Nord]].
+texte: En juillet 1870, il prend les eaux à Ems. Chef de la maison de Hohenzollern, il cède sur la [[candidature-hohenzollern]] et obtient le retrait de son parent ; mais le 13 juillet, il refuse à l'ambassadeur Benedetti de s'engager pour l'avenir, estimant avoir assez fait pour la paix. Le télégramme qui rend compte de l'entretien, resserré et publié par Bismarck, devient la [[depeche-d-ems|dépêche d'Ems]]. La guerre venue, il quitte Berlin le 31 juillet pour Mayence avec le [[grand-etat-major-prussien|grand quartier général]]. Commandant en chef des troupes de la Confédération et des [[etats-allemands-du-sud|États du Sud]], il laisse en pratique [[moltke|Moltke]] préparer et diriger les opérations. Il ne s'en mêle vraiment qu'une fois, le soir de [[bataille-de-gravelotte|Gravelotte]], le 18 août, où il fait engager de nouvelles troupes sans consulter son chef d'état-major.
+texte: À [[bataille-de-sedan|Sedan]], le 1er septembre, il suit la bataille depuis les hauteurs de la rive gauche de la Meuse ; c'est là qu'il aurait salué les [[charges-de-floing|charges de la cavalerie française]] du mot « Ah ! les braves gens ! ». Le lendemain, la [[capitulation-de-sedan|capitulation]] signée, il rencontre [[napoleon-iii|Napoléon III]] au château de Bellevue et lui assigne pour résidence Wilhelmshöhe, près de Cassel, l'ancien palais d'été de Jérôme Bonaparte, oncle du vaincu : le choix n'est pas innocent.
+texte: Le 5 octobre, il s'installe à Versailles pour la durée du [[siege-de-paris|siège de Paris]]. Il ne paraît plus sur les champs de bataille, mais préside les conseils et tranche entre le chancelier et les militaires, qui se disputent la conduite de la guerre : le 25 janvier 1871, il ordonne à Moltke de tenir désormais Bismarck informé de tous les projets d'opérations. Le titre impérial lui pèse. Il s'irrite d'abord de la lettre de [[louis-ii-de-baviere|Louis II de Bavière]] qui le lui propose, fait attendre deux jours la délégation du Reichstag venue en décembre le prier d'accepter, pour ne rien devoir à des élus, puis se querelle avec Bismarck : il veut être « empereur d'Allemagne », le chancelier tient pour « empereur allemand », qui ménage les autres souverains. Le 17 janvier, il rompt la discussion. Le lendemain, dans la galerie des Glaces, le grand-duc de Bade tourne la difficulté en acclamant « l'empereur Guillaume » : c'est la [[proclamation-de-l-empire-allemand|proclamation de l'Empire]], cent soixante-dix ans jour pour jour après le couronnement du premier roi en Prusse.
+texte: Rentré à Berlin, il préside le 16 juin 1871 le défilé de la victoire. Il règne encore dix-sept ans, en souverain respecté qui laisse gouverner son chancelier sans cesser de lui résister sur ce qui touche à l'armée et à la couronne de Prusse. Deux attentats le visent en 1878. Il meurt à Berlin le 9 mars 1888, à quatre-vingt-dix ans ; son fils, le [[kronprinz-frederic-guillaume|Kronprinz]] de 1870, ne lui survit que quatre-vingt-dix-neuf jours.
+repere: 22 mars 1797 — Naissance à Berlin.
+repere: 2 janvier 1861 — Il devient roi de Prusse à la mort de son frère Frédéric-Guillaume IV ; il se couronne lui-même à Königsberg le 18 octobre.
+repere: 13 juillet 1870 — À Ems, il refuse à l'ambassadeur Benedetti toute garantie pour l'avenir.
+repere: 31 juillet 1870 — Il quitte Berlin pour Mayence avec le grand quartier général.
+repere: 2 septembre 1870 — Il rencontre Napoléon III prisonnier au château de Bellevue, près de Sedan.
+repere: 5 octobre 1870 — Il s'installe à Versailles.
+repere: 18 janvier 1871 — Il est proclamé empereur allemand dans la galerie des Glaces.
+repere: 9 mars 1888 — Mort à Berlin.
+attention: À Ems, il n'y eut ni scène ni affront : le roi a refusé poliment une exigence nouvelle et fait dire à l'ambassadeur qu'il n'avait rien à ajouter. L'offense que Paris a ressentie vient de la rédaction que Bismarck a donnée au télégramme, non de l'attitude du roi, qui ne voulait pas cette guerre et l'a pourtant acceptée sans hésiter.
+lien: wp Guillaume Ier (empereur allemand)
+lien: de Wilhelm I. (Deutsches Reich)
+sources: Wikipédia (de : Wilhelm I. (Deutsches Reich), Otto von Bismarck ; fr : Guillaume Ier (empereur allemand))
+voir: bismarck, moltke, albrecht-von-roon, depeche-d-ems, capitulation-de-sedan, proclamation-de-l-empire-allemand, kronprinz-frederic-guillaume, grand-etat-major-prussien
+
+@ bismarck
+cat: personnages
+nom: Bismarck
+alias: Otto von Bismarck, Otto Eduard Leopold von Bismarck-Schönhausen, comte de Bismarck, prince de Bismarck, Fürst von Bismarck, le chancelier de fer, Eiserner Kanzler
+dates: 1815 – 1898
+an: 1815
+fin: 1898
+camp: de
+role: ministre-président de Prusse, chancelier de la Confédération de l'Allemagne du Nord
+def: Ministre-président de Prusse depuis 1862 et chancelier fédéral depuis 1867, Otto von Bismarck conduit toute la politique de la guerre : la dépêche d'Ems, les négociations de Ferrières, de Versailles et de Francfort, l'entrée des États du Sud dans l'Empire, au prix de conflits répétés avec les militaires.
+texte: Hobereau de l'Altmark devenu diplomate, à Francfort, à Saint-Pétersbourg puis à Paris, il est appelé au pouvoir en septembre 1862 par [[guillaume-ier|Guillaume Ier]], pour gouverner contre une Chambre qui refuse les crédits de l'armée. En huit ans, il a fait deux guerres, contre le Danemark et contre l'Autriche, et fondé la [[confederation-de-l-allemagne-du-nord|Confédération de l'Allemagne du Nord]], dont il est le chancelier. Restent au-dehors les [[etats-allemands-du-sud|États du Sud]], liés à la Prusse par des alliances militaires, mais où les adversaires de l'union viennent de gagner les élections au Parlement douanier. Bismarck pense que seule une menace extérieure les ferait basculer, et que la France s'opposera à l'unité ; il écrit pourtant que celle-ci n'est « pas un fruit mûr » et qu'à forcer l'histoire on n'abat que des fruits verts. Sa méthode est de garder plusieurs issues ouvertes.
+texte: En 1870, il pousse le prince Léopold à accepter le trône d'Espagne : c'est la [[candidature-hohenzollern]], dont il attend au moins un succès diplomatique. Le retrait du prince, le 12 juillet, ressemble à une reculade. Le lendemain soir, à Berlin, il dîne avec [[moltke|Moltke]] et [[albrecht-von-roon|Roon]] quand arrive le télégramme d'Ems : le roi a refusé à l'ambassadeur de France tout engagement pour l'avenir. Bismarck en retranche ce qui l'adoucit et le donne à la presse. La [[depeche-d-ems|dépêche d'Ems]] fait à Paris l'effet qu'il en espérait ; la [[declaration-de-guerre|déclaration de guerre]] vient de la France, qui passe pour l'agresseur, se retrouve [[isolement-diplomatique|isolée]] et voit le Sud allemand marcher avec la Prusse.
+texte: Il suit le quartier général en uniforme d'officier de cavalerie ; ses deux fils servent dans la cavalerie prussienne. Dans la nuit du 1er au 2 septembre, à Donchery, il assiste Moltke face au général [[wimpffen|Wimpffen]], qui plaide pour des conditions généreuses : la France, répond-il, n'a jamais pardonné une défaite, et l'Allemagne veut des garanties, non de la reconnaissance. Au matin, il va au-devant de [[napoleon-iii|Napoléon III]] sur la route et s'entretient avec lui dans la maison d'un tisserand ; l'empereur, prisonnier, déclare ne pouvoir traiter de la paix. La [[capitulation-de-sedan|capitulation de Sedan]] reste donc une convention purement militaire, et Bismarck n'a plus en face de lui de gouvernement reconnu.
+texte: Avec celui du [[quatre-septembre|4 septembre]], l'accord est impossible. [[jules-favre|Jules Favre]] a déclaré que la France ne céderait « ni un pouce de son territoire, ni une pierre de ses forteresses » ; Bismarck réclame l'Alsace et une partie de la Lorraine. L'[[entrevue-de-ferrieres|entrevue de Ferrières]], les 19 et 20 septembre, échoue. Cette exigence, portée aussi par l'opinion allemande, prolonge la guerre de cinq mois et la change en guerre nationale. Le chancelier garde d'autres fers au feu : il écoute les émissaires de l'impératrice et de [[bazaine|Bazaine]], enfermé dans Metz, puis reçoit [[adolphe-thiers|Thiers]] à Versailles au début de novembre, sans conclure d'armistice.
+texte: À Versailles, où il s'installe en octobre, il mène deux combats. Le premier est diplomatique : tenir les puissances neutres à l'écart et négocier, à partir de la mi-octobre, avec les délégations du Sud. Les traités de novembre font entrer Bade, la Hesse, la Bavière et le Wurtemberg dans le nouvel Empire, contre des droits réservés ; il rédige lui-même la lettre par laquelle [[louis-ii-de-baviere|Louis II]] offre la couronne impériale au roi de Prusse, et paie cette signature sur des fonds secrets. Le second l'oppose aux militaires. Tenu à l'écart des conseils de guerre, traité en civil par l'entourage de Moltke, il se plaint d'apprendre les opérations par les journaux. Il réclame dès l'automne le [[bombardement-de-paris|bombardement de Paris]], pour en finir avant que l'Europe ne s'en mêle ; Moltke et [[blumenthal|Blumenthal]] objectent le manque de pièces lourdes et de munitions, le [[kronprinz-frederic-guillaume|Kronprinz]] y répugne. Bismarck, soutenu par Roon, finit par l'emporter. En janvier, la querelle porte sur la fin de la guerre : l'état-major veut une reddition sans conditions et la poursuite des opérations en province, lui une paix rapide avec un gouvernement capable de la signer. Le 25 janvier 1871, le roi lui donne raison et ordonne à Moltke de l'informer désormais de ses projets.
+texte: La suite est son œuvre. Le 28 janvier, il signe avec Favre l'[[armistice-de-1871|armistice]] ; le 26 février, avec Thiers, les [[preliminaires-de-versailles|préliminaires de Versailles]] : l'Alsace moins Belfort, une partie de la Lorraine avec Metz, cinq milliards au lieu des six d'abord réclamés, et l'entrée des troupes allemandes dans Paris. Le 10 mai, il vient signer en personne le [[traite-de-francfort|traité de Francfort]]. Fait prince, premier chancelier de l'Empire, il est au sommet de sa carrière.
+texte: L'[[alsace-lorraine|annexion]] commande ensuite toute sa politique extérieure : puisque la France ne pardonnera pas, il faut qu'elle reste seule, et il y emploie dix-neuf ans d'alliances et de contre-assurances. Congédié par Guillaume II en mars 1890, il se retire à Friedrichsruh, où il dicte ses souvenirs, *Pensées et Souvenirs*, et meurt le 30 juillet 1898.
+repere: 1er avril 1815 — Naissance à Schönhausen, sur l'Elbe.
+repere: septembre 1862 — Guillaume Ier le nomme ministre-président de Prusse.
+repere: 13 juillet 1870 — À Berlin, il resserre et fait publier le télégramme d'Ems.
+repere: 2 septembre 1870 — Près de Donchery, il s'entretient avec Napoléon III avant la signature de la capitulation de Sedan.
+repere: 19 et 20 septembre 1870 — Entrevue de Ferrières avec Jules Favre.
+repere: novembre 1870 — Traités de Versailles et de Berlin avec les quatre États du Sud.
+repere: 28 janvier 1871 — Il signe l'armistice avec Jules Favre.
+repere: 26 février 1871 — Préliminaires de paix de Versailles.
+repere: 10 mai 1871 — Traité de Francfort.
+repere: 30 juillet 1898 — Mort à Friedrichsruh, près de Hambourg.
+attention: Le récit du dîner du 13 juillet, où Moltke et Roon retrouvent l'appétit à mesure que le texte se resserre, vient des souvenirs de Bismarck, écrits plus de vingt ans après et arrangés à sa gloire ; l'historien Michael Stürmer le range parmi les fables. Bismarck n'a pas falsifié le télégramme, il l'a abrégé, et rien n'a été improvisé ce soir-là : dès la veille, il avait engagé des démarches qui ne laissaient à la France que le choix entre la guerre et un échec politique. À Paris, de son côté, le gouvernement avait choisi la surenchère.
+lien: wp Otto von Bismarck
+lien: de Otto von Bismarck
+sources: Wikipédia (de, fr, en : Otto von Bismarck ; de : Wilhelm I. (Deutsches Reich), Emser Depesche ; en : Helmuth von Moltke the Elder, Leonhard Graf von Blumenthal)
+voir: guillaume-ier, moltke, depeche-d-ems, entrevue-de-ferrieres, armistice-de-1871, preliminaires-de-versailles, traite-de-francfort, alsace-lorraine
+
+@ moltke
+cat: personnages
+nom: Moltke
+alias: Helmuth von Moltke, Helmuth Karl Bernhard von Moltke, Moltke l'Ancien, Moltke der Ältere, comte de Moltke, der große Schweiger, le grand taciturne
+dates: 1800 – 1891
+an: 1800
+fin: 1891
+camp: de
+role: chef du grand état-major, directeur des opérations allemandes
+def: Chef de l'état-major général prussien depuis 1858, Helmuth von Moltke prépare la mobilisation et la concentration de 1870, puis dirige au nom du roi toutes les opérations, de la frontière à Sedan et à Paris. La campagne fait de lui le modèle du stratège moderne.
+texte: Né à Parchim, en Mecklembourg, fils d'un officier passé au service du Danemark, il est cadet à Copenhague, lieutenant danois, puis entre en 1822 dans l'armée prussienne. Il sort de l'École de guerre, rejoint le grand état-major en 1833 et sert de 1836 à 1839 comme instructeur des troupes ottomanes ; il assiste à leur défaite de Nizip. Chargé de l'état-major général à titre provisoire en octobre 1857, il en devient le chef le 18 septembre 1858. En juin 1866, un ordre de [[guillaume-ier|Guillaume Ier]] lui donne le droit d'adresser directement aux armées, au nom du roi, les ordres d'opérations : c'est avec cette autorité qu'il gagne la campagne de Bohême.
+texte: Sa doctrine tient en peu de mots. La stratégie est « un système d'expédients » ; « aucun plan d'opérations ne s'étend avec quelque certitude au-delà de la première rencontre avec le gros des forces ennemies ». Ce qui se prépare, c'est donc le début : la [[mobilisation-de-1870|mobilisation]] et le transport par les [[chemins-de-fer|chemins de fer]], dont les tableaux sont refaits chaque année et dont chaque ligne est suivie par un officier du [[grand-etat-major-prussien|grand état-major]]. Ensuite, des armées qui marchent séparées et se réunissent sur le champ de bataille pour frapper l'ennemi de front et de flanc, et des chefs à qui l'on donne des directives, non des ordres de détail. Les Allemands l'appellent *der große Schweiger*, le grand taciturne.
+texte: En juillet 1870, son plan est adopté sans discussion. La mobilisation est ordonnée dans la nuit du 15 au 16 juillet ; en moins de trois semaines, toutes les forces sont réunies dans le Palatinat, au sud de Mayence, d'où elles couvrent la frontière entière : la Ire armée de [[steinmetz|Steinmetz]], environ 60 000 hommes, la IIe du [[prince-frederic-charles|prince Frédéric-Charles]], 130 000, et la IIIe du [[kronprinz-frederic-guillaume|Kronprinz]], 130 000, sans compter les réserves ni trois corps gardés en Allemagne pour le cas où l'Autriche bougerait. L'idée est de chercher la principale armée française, de l'attaquer de deux côtés et de la couper de Paris. Rien ne se passe comme prévu. Le 6 août, [[bataille-de-froeschwiller-woerth|Frœschwiller]] s'engage un jour trop tôt et [[bataille-de-spicheren|Spicheren]] contre ses intentions ; le 16, à [[bataille-de-mars-la-tour|Mars-la-Tour]], un seul corps se jette sur l'armée de Bazaine. Moltke ne s'en trouble pas : il fait passer la Moselle au sud de Metz, tourne ses armées vers le nord et livre le 18 août la [[bataille-de-gravelotte|bataille de Gravelotte]], qui rejette les Français dans la place. Le dernier assaut du soir, inutile et sanglant, a été ordonné par le roi ; il se reprochera de ne pas l'avoir empêché.
+texte: Dans la nuit, il laisse une armée devant Metz et lance les deux autres vers Paris, la IIIe et la nouvelle armée de la Meuse, confiée à [[albert-de-saxe|Albert de Saxe]]. Le 25 août, il apprend que [[mac-mahon|Mac-Mahon]] marche au nord-est pour tendre la main à Bazaine. Dès qu'il tient le renseignement pour sûr, il fait pivoter toutes ses colonnes vers le nord. L'[[armee-de-chalons|armée de Châlons]] est accrochée à [[bataille-de-beaumont|Beaumont]] le 30, puis enveloppée à [[bataille-de-sedan|Sedan]] le 1er septembre. La nuit suivante, à Donchery, il dicte ses conditions au général [[wimpffen|Wimpffen]] : l'armée entière prisonnière de guerre.
+texte: Il croit alors la guerre finie ; elle dure encore cinq mois. Paris est investi le 19 septembre avec six corps d'armée, tenus hors de portée des forts : Moltke refuse l'assaut et compte sur la faim. Il lui faut à la fois garder Metz, garder Paris et repousser les armées que [[gambetta|Gambetta]] lève en province, avec des moyens comptés. C'est le moment de son conflit avec [[bismarck|Bismarck]]. Au chancelier, qui réclame le [[bombardement-de-paris|bombardement]] pour hâter la paix, il oppose des raisons de métier : le parc de siège est employé devant les places de l'Est, la voie ferrée est coupée, et lever le siège sous la pression d'une armée de secours ferait perdre les pièces. Il se méfie aussi d'une paix prématurée, qui laisserait à la France des armées intactes ; en janvier, il veut la reddition sans conditions et la guerre portée dans le Midi. Le 25 janvier 1871, le roi lui ordonne de tenir désormais le chancelier au courant de ses projets. Il s'incline, comme il s'inclinera toujours devant la primauté du politique, mais il obtient Metz, que les militaires jugeaient indispensable.
+texte: Fait comte le 28 octobre 1870, au lendemain de la capitulation de Metz, il reçoit le bâton de feld-maréchal le 16 juin 1871, jour du défilé de la victoire à Berlin. Il reste chef du grand état-major jusqu'en août 1888, à quatre-vingt-sept ans, dirige l'histoire officielle de la guerre, parue de 1874 à 1881, et siège au Reichstag. Son dernier discours, le 14 mai 1890, est un avertissement : la prochaine guerre pourra être « une guerre de sept ans » ou « une guerre de trente ans », et malheur à qui mettra le feu à l'Europe. Il meurt à Berlin le 24 avril 1891. Son neveu, qui porte son nom, commandera les armées allemandes en 1914.
+repere: 26 octobre 1800 — Naissance à Parchim, en Mecklembourg.
+repere: 18 septembre 1858 — Il est nommé chef de l'état-major général de l'armée prussienne.
+repere: nuit du 15 au 16 juillet 1870 — Ordre de mobilisation ; le plan de transport par chemin de fer s'exécute.
+repere: 18 août 1870 — Gravelotte : l'armée de Bazaine est rejetée dans Metz.
+repere: 25 août 1870 — Il fait tourner la IIIe armée et l'armée de la Meuse vers le nord, à la poursuite de Mac-Mahon.
+repere: 1er septembre 1870 — Sedan ; dans la nuit, à Donchery, il impose la captivité de toute l'armée.
+repere: 19 septembre 1870 — Paris est investi.
+repere: 25 janvier 1871 — Le roi lui ordonne d'informer Bismarck de tous ses projets d'opérations.
+repere: 16 juin 1871 — Il est fait feld-maréchal.
+repere: 24 avril 1891 — Mort à Berlin.
+attention: Zola, dans *La Débâcle*, le peint en mathématicien qui gagne les batailles du fond de son cabinet, à coups d'algèbre. L'image est fausse. Aucune des batailles d'août 1870 n'a eu lieu au jour ni à l'endroit qu'il avait prévus : presque toutes ont été engagées par des subordonnés, parfois contre ses directives. Son mérite est ailleurs : une préparation sans défaut, puis l'art de tirer parti de l'imprévu.
+lien: wp Helmuth Karl Bernhard von Moltke
+lien: de Helmuth von Moltke (Generalfeldmarschall)
+lien: en Helmuth von Moltke the Elder
+sources: Wikipédia (de : Helmuth von Moltke (Generalfeldmarschall), Belagerung von Paris (1870–1871), Wilhelm I. (Deutsches Reich) ; en : Helmuth von Moltke the Elder ; fr : Helmuth Karl Bernhard von Moltke)
+voir: grand-etat-major-prussien, bismarck, guillaume-ier, mobilisation-de-1870, bataille-de-gravelotte, bataille-de-sedan, siege-de-paris, armees-allemandes-en-campagne
+
+@ albrecht-von-roon
+cat: personnages
+nom: Roon
+alias: Albrecht von Roon, Albrecht Theodor Emil von Roon, comte de Roon, Graf von Roon
+dates: 1803 – 1879
+an: 1803
+fin: 1879
+camp: de
+role: ministre de la Guerre de Prusse
+def: Ministre de la Guerre de Prusse de 1859 à 1873, Albrecht von Roon est l'auteur de la réforme qui a donné à la Prusse l'armée de 1866 et de 1870. Pendant la guerre, il suit le roi et alimente les armées en hommes et en matériel.
+texte: Fils d'un petit noble de Poméranie, élève des écoles de cadets, il se fait d'abord connaître comme géographe, disciple de Carl Ritter, et sert au bureau topographique du grand état-major. Précepteur du jeune [[prince-frederic-charles|prince Frédéric-Charles]], il entre en 1849, pendant la campagne de Bade, dans l'entourage du prince de Prusse, le futur [[guillaume-ier|Guillaume Ier]]. À sa demande, il rédige en 1858 un mémoire sur la réorganisation de l'armée ; en décembre 1859, il est ministre de la Guerre, et aussi de la Marine à partir de 1861.
+texte: Sa réforme porte le service actif à trois ans, crée de nouveaux régiments et relègue au second rang la [[landwehr|Landwehr]], cette milice de bourgeois en armes chère aux libéraux, qu'il juge sans valeur militaire. La Chambre refuse les crédits. Le 18 septembre 1862, alors que le roi parle d'abdiquer, Roon télégraphie à [[bismarck|Bismarck]], ambassadeur à Paris : « *Periculum in mora. Dépêchez-vous !* » Bismarck accourt, prend le pouvoir et gouverne sans budget voté. Détesté en 1862, Roon est un héros après les victoires de 1864 et de 1866, et son système s'étend à toute la [[confederation-de-l-allemagne-du-nord|Confédération de l'Allemagne du Nord]]. L'[[armee-allemande-en-1870|armée]] qui entre en campagne en 1870, avec ses réserves instruites et sa [[mobilisation-de-1870|mobilisation]] réglée d'avance, est la sienne.
+texte: Il est, avec [[moltke|Moltke]], l'un des deux convives de Bismarck le soir de la [[depeche-d-ems|dépêche d'Ems]]. Pendant la guerre, il accompagne le roi au quartier général. Son affaire n'est pas la conduite des opérations, mais ce qui les nourrit : les troupes de remplacement, les divisions de Landwehr envoyées devant les places et sur les lignes d'étapes, les munitions, le matériel de siège. À Sedan, il perd un fils : le capitaine Bernhard von Roon, blessé pendant la bataille, meurt le 3 septembre à l'ambulance de La Moncelle. À Versailles, dans la querelle du [[bombardement-de-paris|bombardement de Paris]], il prend le parti de Bismarck contre Moltke.
+texte: Fait comte en 1871, doté par le Reichstag de 300 000 thalers, il devient le 1er janvier 1873 feld-maréchal et ministre-président de Prusse, pour soulager Bismarck. Sa santé n'y résiste pas : il se retire le 9 novembre de la même année et meurt à Berlin le 23 février 1879.
+repere: 30 avril 1803 — Naissance à Pleushagen, près de Kolberg, en Poméranie.
+repere: décembre 1859 — Il est nommé ministre de la Guerre de Prusse.
+repere: 18 septembre 1862 — Son télégramme rappelle Bismarck de Paris.
+repere: 3 septembre 1870 — Son fils Bernhard meurt des suites d'une blessure reçue à Sedan.
+repere: 1er janvier 1873 — Il est fait feld-maréchal et ministre-président de Prusse.
+repere: 9 novembre 1873 — Il quitte toutes ses fonctions.
+repere: 23 février 1879 — Mort à Berlin.
+lien: wp Albrecht von Roon
+lien: de Albrecht von Roon
+sources: Wikipédia (de, en, fr : Albrecht von Roon ; de : Belagerung von Paris (1870–1871), Emser Depesche)
+voir: guillaume-ier, bismarck, moltke, armee-allemande-en-1870, mobilisation-de-1870, landwehr, bombardement-de-paris
+
+@ kronprinz-frederic-guillaume
+cat: personnages
+nom: Le Kronprinz Frédéric-Guillaume
+alias: Friedrich Wilhelm von Preußen, Kronprinz Friedrich Wilhelm, Frédéric III, Friedrich III., prince royal de Prusse, Unser Fritz
+dates: 1831 – 1888
+an: 1831
+fin: 1888
+camp: de
+role: commandant de la IIIe armée
+def: Fils unique de Guillaume Ier et héritier de la couronne de Prusse, Frédéric-Guillaume commande en 1870 la IIIe armée, où servent côte à côte Prussiens et Allemands du Sud : Wissembourg, Wœrth, Sedan, puis le siège de Paris. Il sera en 1888, pour quatre-vingt-dix-neuf jours, l'empereur Frédéric III.
+texte: Né à Potsdam, élevé par une mère libérale, il épouse en 1858 Victoria, fille aînée de la reine d'Angleterre, dont il partage les idées : le couple admire le régime parlementaire britannique et supporte mal la manière de [[bismarck|Bismarck]]. Cela ne l'empêche pas d'être un soldat heureux. En 1866, déjà secondé par [[blumenthal|Blumenthal]], il commande l'armée dont l'arrivée sur le flanc autrichien décide de Sadowa.
+texte: En 1870, on lui confie la IIIe armée, et le choix est politique : c'est l'héritier de Prusse qui mène au feu les contingents des [[etats-allemands-du-sud|États du Sud]], deux corps bavarois, les Wurtembergeois et les Badois, encadrés par deux corps prussiens. Le 4 août, il surprend la division Douay à [[bataille-de-wissembourg|Wissembourg]] ; le 6, ses avant-gardes engagent à [[bataille-de-froeschwiller-woerth|Frœschwiller-Wœrth]], contre [[mac-mahon|Mac-Mahon]], une bataille qu'il ne voulait livrer que le lendemain et qu'il vient diriger en personne. L'Alsace ouverte, son armée traverse les Vosges, marche vers Châlons, puis remonte au nord avec l'[[armees-allemandes-en-campagne|armée de la Meuse]]. À [[bataille-de-sedan|Sedan]], ce sont ses corps qui passent la Meuse à Donchery et ferment le cercle par l'ouest et le nord. La conduite des opérations doit beaucoup à Blumenthal ; Bismarck dira, avec sa malveillance ordinaire, que le chef d'état-major gagnait les batailles quand le prince ne dérangeait pas ses plans.
+texte: Devant Paris, la IIIe armée tient le sud et l'ouest de la ligne d'investissement, et le Kronprinz s'installe à Versailles, où il repousse le 19 janvier 1871 la sortie de [[bataille-de-buzenval|Buzenval]]. Le 28 octobre 1870, il est fait feld-maréchal, le même jour que son cousin [[prince-frederic-charles|Frédéric-Charles]]. Ses réserves portent sur la façon de finir la guerre. Avec son père, il s'oppose au [[bombardement-de-paris|bombardement de Paris]], dont il redoute l'effet sur l'opinion des neutres, à commencer par l'Angleterre ; Bismarck y voit la main de la princesse royale. À deux journalistes parisiens, il déclare : « Je n'aime pas la guerre, messieurs. Si je règne, je ne la ferai jamais. » Les observateurs étrangers louent ses visites aux blessés et ses égards pour les vaincus. Mais il n'a rien d'un opposant à l'unité : c'est le plus ardent partisan de l'Empire et du titre impérial, et il appuie le chancelier contre les répugnances du roi avant la [[proclamation-de-l-empire-allemand|proclamation du 18 janvier]], à laquelle il assiste.
+texte: Du 11 juillet 1870 au 12 mars 1871, il a tenu un journal de guerre. Des extraits en paraissent en 1888 dans la *Deutsche Rundschau*, quelques mois après sa mort ; l'édition complète attendra 1926. Tenu à l'écart des affaires pendant dix-sept ans, il monte sur le trône le 9 mars 1888, déjà condamné par un cancer du larynx, et meurt à Potsdam le 15 juin.
+repere: 18 octobre 1831 — Naissance à Potsdam.
+repere: 25 janvier 1858 — Il épouse à Londres la princesse Victoria, fille de la reine d'Angleterre.
+repere: 4 août 1870 — Wissembourg, première victoire de la IIIe armée.
+repere: 6 août 1870 — Frœschwiller-Wœrth : Mac-Mahon est battu, l'Alsace est ouverte.
+repere: 1er septembre 1870 — À Sedan, ses corps ferment l'encerclement par l'ouest et le nord.
+repere: 28 octobre 1870 — Il est fait feld-maréchal.
+repere: 18 janvier 1871 — Il assiste à la proclamation de l'Empire, qu'il a appelée de ses vœux.
+repere: 9 mars 1888 — Il devient empereur sous le nom de Frédéric III.
+repere: 15 juin 1888 — Mort à Potsdam.
+attention: On a beaucoup écrit que son règne, s'il avait duré, aurait fait de l'Allemagne une monarchie libérale et lui aurait épargné 1914. C'est une spéculation. Le prince de 1870 n'aimait pas la guerre et désapprouvait certaines méthodes, mais il a servi sans états d'âme la politique d'unité par les armes et voulu l'Empire plus fort que son père ne le souhaitait.
+lien: wp Frédéric III (empereur allemand)
+lien: de Friedrich III. (Deutsches Reich)
+sources: Wikipédia (de : Friedrich III. (Deutsches Reich), Belagerung von Paris (1870–1871) ; en : Frederick III, German Emperor, Leonhard Graf von Blumenthal ; fr : Frédéric III (empereur allemand))
+voir: blumenthal, guillaume-ier, bataille-de-wissembourg, bataille-de-froeschwiller-woerth, bataille-de-sedan, siege-de-paris, bombardement-de-paris, prince-frederic-charles
+
+@ prince-frederic-charles
+cat: personnages
+nom: Le prince Frédéric-Charles
+alias: Friedrich Karl von Preußen, Friedrich Karl Nikolaus von Preußen, Frédéric-Charles de Prusse, le Prince rouge, der Rote Prinz
+dates: 1828 – 1885
+an: 1828
+fin: 1885
+camp: de
+role: commandant de la IIe armée
+def: Neveu de Guillaume Ier, surnommé le « Prince rouge », Frédéric-Charles de Prusse commande la IIe armée : il barre la route de Verdun à Bazaine, l'enferme dans Metz et reçoit sa capitulation, puis bat les armées de la Loire à Orléans et au Mans.
+texte: Fils unique du prince Charles, frère cadet du roi, il a eu [[albrecht-von-roon|Roon]] pour précepteur militaire et fut le premier Hohenzollern à passer par l'université. Officier de cavalerie, grièvement blessé en 1849 dans la campagne de Bade, il doit son surnom à l'uniforme rouge de hussard qu'il affectionne. C'est aussi un réformateur : il écrit sur la tactique française, prône l'initiative du soldat et fait du IIIe corps, qu'il commande de 1860 à 1870, la troupe la mieux instruite de l'armée prussienne. En 1866, à la tête de la Ire armée, il soutient seul le choc à Sadowa jusqu'à l'arrivée du [[kronprinz-frederic-guillaume|Kronprinz]], son cousin et son rival.
+texte: En 1870, il reçoit la IIe armée, la plus forte des trois, qui forme le centre du dispositif de [[moltke|Moltke]]. Après [[bataille-de-spicheren|Spicheren]], où les troupes de [[steinmetz|Steinmetz]] ont coupé ses routes de marche, il passe la Moselle au sud de Metz. Le 16 août, à [[bataille-de-mars-la-tour|Mars-la-Tour]], ses corps de tête, le IIIe et le Xe, arrêtent l'[[armee-du-rhin|armée du Rhin]] sur la route de Verdun. Le 18, à [[bataille-de-gravelotte|Gravelotte]], son armée forme l'aile gauche, et c'est chez lui que la journée se décide, devant Saint-Privat, où la Garde est fauchée avant que les Saxons ne tournent la droite française.
+texte: Le roi lui confie alors la Ire et la IIe armée réunies pour bloquer Metz. Pendant dix semaines, il repousse les sorties de [[bazaine|Bazaine]], notamment à [[bataille-de-noisseville|Noisseville]], et laisse la faim faire son œuvre ; le maréchal entre en pourparlers avec lui dès septembre. Steinmetz, placé sous ses ordres, refuse de s'y plier et doit être rappelé. Le 27 octobre, la capitulation livre la place et toute l'armée du Rhin : c'est la fin du [[siege-de-metz|siège de Metz]]. Le lendemain, Frédéric-Charles est fait feld-maréchal.
+texte: La chute de Metz libère ses troupes au moment où l'[[armee-de-la-loire|armée de la Loire]] menace les assiégeants de Paris. Parti le 2 novembre avec trois corps, à marches forcées, il arrive à temps : le 28, son Xe corps tient à [[bataille-de-beaune-la-rolande|Beaune-la-Rolande]] ; le 3 décembre, il passe à l'offensive et entre le 4 dans Orléans, coupant en deux l'armée française ([[seconde-bataille-d-orleans|seconde bataille d'Orléans]]). En janvier, il marche contre [[chanzy|Chanzy]] et, par une série de combats livrés du 6 au 12, disperse la deuxième armée de la Loire à la [[bataille-du-mans|bataille du Mans]] : aucune tentative de délivrer Paris par l'ouest n'est plus possible.
+texte: La guerre lui vaut une dotation de 300 000 thalers et le titre de feld-maréchal russe. Inspecteur général et inspecteur de la cavalerie, il voyage en Orient, jusqu'en Égypte et en Syrie en 1883, et meurt d'une attaque le 15 juin 1885 à son pavillon de chasse de Glienicke, près de Potsdam.
+repere: 20 mars 1828 — Naissance à Berlin.
+repere: 3 juillet 1866 — À Sadowa, il commande la Ire armée prussienne.
+repere: 16 août 1870 — Mars-la-Tour : ses corps de tête coupent la route de Verdun.
+repere: 18 août 1870 — Gravelotte : la IIe armée emporte Saint-Privat.
+repere: 27 octobre 1870 — Capitulation de Metz ; il est fait feld-maréchal le lendemain.
+repere: 4 décembre 1870 — Il entre dans Orléans.
+repere: 12 janvier 1871 — Fin de la bataille du Mans.
+repere: 15 juin 1885 — Mort à Glienicke.
+attention: Les notices disent volontiers qu'il « battit Bazaine à Mars-la-Tour ». Le 16 août, persuadé que les Français étaient déjà loin, il n'avait envoyé vers la route de Verdun qu'une partie de ses forces ; la bataille fut engagée et soutenue par [[constantin-von-alvensleben|Alvensleben]], et le prince n'arriva sur le terrain que dans l'après-midi.
+lien: wp Frédéric-Charles de Prusse
+lien: de Friedrich Karl von Preußen (1828–1885)
+sources: Wikipédia (de : Friedrich Karl von Preußen (1828–1885), Karl Friedrich von Steinmetz, Schlacht bei Mars-la-Tour ; en : Prince Friedrich Karl of Prussia (1828–1885) ; fr : Frédéric-Charles de Prusse)
+voir: bataille-de-mars-la-tour, bataille-de-gravelotte, siege-de-metz, bazaine, steinmetz, constantin-von-alvensleben, seconde-bataille-d-orleans, bataille-du-mans
+
+@ steinmetz
+cat: personnages
+nom: Steinmetz
+alias: Karl Friedrich von Steinmetz, général von Steinmetz, le lion de Nachod, Löwe von Nachod
+dates: 1796 – 1877
+an: 1796
+fin: 1877
+camp: de
+role: commandant de la Ire armée
+def: Vétéran des guerres contre Napoléon et héros de la campagne de 1866, Karl Friedrich von Steinmetz commande la Ire armée en août 1870. Indocile aux directives de Moltke, responsable des assauts sanglants de Spicheren et de Gravelotte, il est écarté dès septembre.
+texte: Sous-lieutenant en février 1813, il a fait toutes les campagnes du corps d'York contre Napoléon. Un demi-siècle plus tard, à la tête du Ve corps, il force en trois jours les défilés de Bohême, bat coup sur coup les Autrichiens à Nachod, Skalitz et Schweinschädel, et y gagne le surnom de « lion de Nachod ». Cette gloire lui vaut en 1870, à soixante-treize ans, le commandement de la Ire armée, la plus petite des trois : les VIIe et VIIIe corps, rejoints ensuite par le Ier. Mais l'homme n'est plus de son temps. Le télégraphe lie désormais les chefs d'armée aux directives du [[grand-etat-major-prussien|grand quartier général]], et [[moltke|Moltke]] entend être obéi ; Steinmetz, rude, susceptible, convaincu qu'on veut l'écarter du feu au profit des princes, n'en fait qu'à sa tête.
+texte: Le 6 août, son armée, sortie de la zone qui lui était assignée, s'engage sur les routes de la IIe armée du [[prince-frederic-charles|prince Frédéric-Charles]], et l'une de ses divisions attaque de front les hauteurs de [[bataille-de-spicheren|Spicheren]]. La victoire coûte cher et dérange le plan de Moltke, qui voulait retenir les Français sur la Sarre pour les envelopper. Steinmetz n'était pas sur le terrain ; il n'y arrive qu'après le combat, comme huit jours plus tard à [[bataille-de-borny|Borny]], bataille engagée elle aussi par ses subordonnés. Le grand quartier général lui retire alors une partie de ses troupes.
+texte: Le 18 août, à [[bataille-de-gravelotte|Gravelotte]], il tient l'aile droite, face aux positions françaises les plus fortes, au-dessus du ravin de la Mance. De sa propre autorité, il prend sous ses ordres un corps qui ne relevait plus de lui et lance attaque sur attaque à travers le ravin, infanterie, puis artillerie et cavalerie entassées dans un défilé battu par le feu des chassepots. Il a sous-estimé le fusil se chargeant par la culasse et ne sait pas rompre à temps un assaut manqué. Le soir, ses troupes refluent en désordre sous les yeux du roi. Seule l'inertie de [[bazaine|Bazaine]], qui n'exploite pas cet échec, évite le pire.
+texte: La sanction est de le placer sous les ordres de Frédéric-Charles pour le [[siege-de-metz|blocus de Metz]]. Les deux hommes se brouillent tout à fait, et lorsque Steinmetz néglige de rendre compte à son supérieur, [[guillaume-ier|Guillaume Ier]] le relève, en septembre, en le nommant gouverneur général à Posen. Le roi refuse pourtant sa démission : « Je dois à vos services éminents de vous épargner une telle démarche. » En avril 1871, il quitte ce poste avec le rang de feld-maréchal. Retiré à Görlitz, il ne chercha jamais à se justifier et mourut aux eaux de Landeck, en Silésie, dans la nuit du 3 au 4 août 1877.
+repere: 27 décembre 1796 — Naissance à Eisenach.
+repere: 27 juin 1866 — Victoire de Nachod, en Bohême.
+repere: 6 août 1870 — Spicheren : une division de son armée attaque sans ordre.
+repere: 14 août 1870 — Borny : nouvelle bataille engagée sans lui.
+repere: 18 août 1870 — Gravelotte : ses assauts échouent dans le ravin de la Mance.
+repere: septembre 1870 — Il est relevé de son commandement et envoyé à Posen.
+repere: 8 avril 1871 — Il reçoit le rang de feld-maréchal.
+repere: 4 août 1877 — Mort à Landeck.
+lien: wp Karl Friedrich von Steinmetz
+lien: de Karl Friedrich von Steinmetz
+sources: Wikipédia (de, en, fr : Karl Friedrich von Steinmetz ; en : Helmuth von Moltke the Elder)
+voir: bataille-de-spicheren, bataille-de-borny, bataille-de-gravelotte, moltke, prince-frederic-charles, armees-allemandes-en-campagne, siege-de-metz
+
+@ albert-de-saxe
+cat: personnages
+nom: Albert de Saxe
+alias: Albert von Sachsen, Kronprinz Albert, prince royal de Saxe, Albert Ier de Saxe, roi Albert de Saxe
+dates: 1828 – 1902
+an: 1828
+fin: 1902
+camp: de
+role: commandant du XIIe corps, puis de l'armée de la Meuse
+def: Prince royal de Saxe, adversaire de la Prusse en 1866, Albert commande en 1870 le XIIe corps saxon à Saint-Privat, puis l'armée de la Meuse, créée le 19 août : Beaumont, Sedan, le nord et l'est de l'investissement de Paris.
+texte: Fils aîné du roi Jean, soldat par goût, il a déjà fait une guerre contre ceux qu'il sert en 1870. En 1866, il conduit l'armée saxonne aux côtés des Autrichiens, se bat à Gitschin et, à Sadowa, tient les hauteurs de Problus, à l'aile gauche, contre l'armée prussienne de l'Elbe. La Saxe vaincue entre dans la [[confederation-de-l-allemagne-du-nord|Confédération de l'Allemagne du Nord]] ; son armée devient le XIIe corps de l'armée fédérale, et le prince en garde le commandement.
+texte: En 1870, ce corps appartient à la IIe armée du [[prince-frederic-charles|prince Frédéric-Charles]]. Le 18 août, à [[bataille-de-gravelotte|Gravelotte]], les Saxons forment l'extrême gauche : pendant que la Garde prussienne se fait décimer devant Saint-Privat, ils débordent la droite française par Roncourt et décident de la journée. Dès le lendemain, [[moltke|Moltke]] remanie ses forces. Pour marcher sur Paris avec la IIIe armée pendant que le reste bloque Metz, il forme une armée nouvelle, dite de la Meuse, avec la Garde, le IVe corps et le XIIe, et la confie à Albert, dont le frère, le prince Georges, reprend le corps saxon. Donner une armée à un prince qui combattait la Prusse quatre ans plus tôt est aussi un geste politique.
+texte: L'[[armees-allemandes-en-campagne|armée de la Meuse]] est celle qui accroche l'[[armee-de-chalons|armée de Châlons]] dans sa marche vers Montmédy. Le 30 août, elle surprend le 5e corps à [[bataille-de-beaumont|Beaumont]] et le rejette sur la Meuse. Le 1er septembre, à [[bataille-de-sedan|Sedan]], elle attaque par l'est, sur la Givonne, tandis que la IIIe armée ferme le cercle par l'ouest. Devant Paris, elle tient à partir du 19 septembre le nord et l'est de la ligne d'investissement, la Seine la séparant des troupes du [[kronprinz-frederic-guillaume|Kronprinz de Prusse]]. C'est Albert qui ordonne de reprendre Le Bourget, enlevé par les Parisiens à la fin d'octobre ([[combats-du-bourget|combats du Bourget]]), et c'est sur son front que commence, le 27 décembre, le tir de l'artillerie de siège contre le plateau d'Avron. Dans la querelle du [[bombardement-de-paris|bombardement]], il est de ceux qui soutiennent [[bismarck|Bismarck]].
+texte: Décoré de la grand-croix de la Croix de fer à Compiègne le 22 mars 1871, il est fait feld-maréchal le 11 juillet, jour de son entrée solennelle à Dresde : c'est le premier qui ne soit pas prussien. Roi de Saxe à la mort de son père, le 29 octobre 1873, il règne près de trente ans en souverain constitutionnel effacé, attaché à la réconciliation avec la Prusse, et meurt à Sibyllenort, en Silésie, le 19 juin 1902.
+repere: 23 avril 1828 — Naissance à Dresde.
+repere: 3 juillet 1866 — À Sadowa, il commande les Saxons dans le camp autrichien.
+repere: 18 août 1870 — Le XIIe corps tourne la droite française par Roncourt.
+repere: 19 août 1870 — Il reçoit le commandement de l'armée de la Meuse.
+repere: 30 août 1870 — Victoire de Beaumont.
+repere: 1er septembre 1870 — Sedan : son armée attaque par l'est.
+repere: 11 juillet 1871 — Il est fait feld-maréchal à Dresde.
+repere: 29 octobre 1873 — Il devient roi de Saxe.
+lien: de Albert (Sachsen)
+sources: Wikipédia (de : Albert (Sachsen), Belagerung von Paris (1870–1871))
+voir: bataille-de-gravelotte, bataille-de-beaumont, bataille-de-sedan, armees-allemandes-en-campagne, siege-de-paris, combats-du-bourget, moltke
+
+@ von-der-tann
+cat: personnages
+nom: Von der Tann
+alias: Ludwig von der Tann, Ludwig Freiherr von und zu der Tann-Rathsamhausen, général von der Tann, von der Thann
+dates: 1815 – 1881
+an: 1815
+fin: 1881
+camp: de
+role: commandant du Ier corps bavarois
+def: Général bavarois, chef du Ier corps de son pays dans la IIIe armée, Ludwig von der Tann mène l'attaque de Bazeilles à Sedan, prend Orléans en octobre 1870, est battu à Coulmiers le 9 novembre, puis combat jusqu'en décembre sur la Loire.
+texte: Né à Darmstadt le jour de Waterloo, filleul du roi Louis Ier de Bavière, il s'est fait un nom en 1848 à la tête d'un corps franc de volontaires dans la guerre du Schleswig-Holstein. Aide de camp et ami du roi Maximilien II, il est en 1866 le chef d'état-major des contingents du Sud alliés à l'Autriche ; la campagne tourne mal et la presse cléricale lui en fait porter la faute. Il n'avait pas voulu cette « guerre fratricide ». Nommé en janvier 1869 général de l'infanterie et chef du Ier corps bavarois, il entre en campagne en 1870 dans la IIIe armée du [[kronprinz-frederic-guillaume|Kronprinz]], aux côtés de ses vainqueurs de la veille.
+texte: Son corps est à [[bataille-de-froeschwiller-woerth|Wœrth]], à [[bataille-de-beaumont|Beaumont]], puis à [[bataille-de-sedan|Sedan]], où c'est lui qui dirige l'attaque de [[bataille-de-bazeilles|Bazeilles]], défendu maison par maison par l'infanterie de marine. Le village est incendié et des habitants sont tués : l'affaire poursuivra longtemps le nom des Bavarois en France. Après la capitulation, le corps reste quelque temps à Sedan pour garder les prisonniers et le butin.
+texte: Au début d'octobre, [[moltke|Moltke]] lui donne un commandement indépendant : son corps, la 22e division prussienne et de la cavalerie, pour couvrir au sud le [[siege-de-paris|siège de Paris]] contre les troupes qui se forment sur la Loire. Vainqueur à Artenay le 10 octobre, il entre le lendemain dans Orléans ([[prise-d-orleans|première prise d'Orléans]]) ; le 18, la division prussienne placée sous ses ordres prend et brûle [[defense-de-chateaudun|Châteaudun]]. Mais il est très en l'air, loin de tout soutien, quand l'[[armee-de-la-loire|armée de la Loire]] de [[aurelle-de-paladines|d'Aurelle de Paladines]] marche sur lui. Le 9 novembre, à [[bataille-de-coulmiers|Coulmiers]], devant un adversaire très supérieur en nombre, il se bat tout le jour, puis décroche vers le nord et abandonne Orléans. C'est le succès français le plus net de la guerre ; von der Tann a du moins sauvé son corps.
+texte: Renforcé, placé sous les ordres du [[grand-duc-de-mecklembourg|grand-duc de Mecklembourg]], il est de tous les combats du 2 au 10 décembre. À [[bataille-de-loigny|Loigny]], il tient sa position et reçoit une blessure à la jambe. À la fin du mois, après deux mois de combats presque ininterrompus, ses Bavarois épuisés sont renvoyés devant Paris ; le seul mois de décembre leur a coûté 5 600 hommes.
+texte: Fêté en Bavière comme un héros de guerre, décoré par la Prusse autant que par son roi, il garde le commandement du Ier corps jusqu'à sa mort, survenue à Méran, au Tyrol, le 26 avril 1881. Un des forts allemands de Strasbourg et, plus tard, un croiseur de bataille ont porté son nom.
+repere: 18 juin 1815 — Naissance à Darmstadt.
+repere: 8 janvier 1869 — Il reçoit le commandement du Ier corps bavarois.
+repere: 1er septembre 1870 — À Sedan, il dirige l'attaque de Bazeilles.
+repere: 10 octobre 1870 — Combat d'Artenay ; Orléans est occupée le lendemain.
+repere: 9 novembre 1870 — Battu à Coulmiers, il évacue Orléans.
+repere: 2 décembre 1870 — Il est blessé à Loigny.
+repere: 26 avril 1881 — Mort à Méran.
+lien: wp Ludwig von der Tann-Rathsamhausen
+lien: de Ludwig von der Tann-Rathsamhausen
+sources: Wikipédia (de, fr : Ludwig von der Tann-Rathsamhausen ; en : Ludwig Freiherr von und zu der Tann-Rathsamhausen)
+voir: bataille-de-bazeilles, prise-d-orleans, bataille-de-coulmiers, bataille-de-loigny, grand-duc-de-mecklembourg, armee-de-la-loire, etats-allemands-du-sud
+
+@ august-von-werder
+cat: personnages
+nom: Werder
+alias: August von Werder, général von Werder, comte de Werder, Graf von Werder
+dates: 1808 – 1887
+an: 1808
+fin: 1887
+camp: de
+role: commandant du corps de siège de Strasbourg, puis du XIVe corps
+def: Général prussien placé à la tête des Badois, August von Werder assiège et bombarde Strasbourg, qui capitule le 28 septembre 1870, puis conduit le XIVe corps en Franche-Comté et en Bourgogne et arrête l'armée de Bourbaki sur la Lizaine, en janvier 1871.
+texte: Fils d'un général prussien, officier de la Garde, il a fait en volontaire, en 1842 et 1843, une campagne dans le Caucase avec l'armée russe, puis commandé les chasseurs à pied. En 1866, il mène la 3e division à Gitschin et à Sadowa. En août 1870, il reçoit le corps chargé du [[siege-de-strasbourg|siège de Strasbourg]], formé autour de la division badoise.
+texte: Il cherche d'abord à faire céder la place par la terreur. À partir du 23 août, pendant plusieurs nuits, ses batteries tirent sur la ville elle-même : la bibliothèque du Temple-Neuf, le musée, le toit de la cathédrale brûlent. Le général [[general-uhrich|Uhrich]] ne se rend pas. Ses munitions épuisées, Werder revient au siège en règle, par tranchées et batteries de brèche, et obtient la capitulation le 28 septembre. Pour les Strasbourgeois, il restera l'homme du bombardement.
+texte: Promu général de l'infanterie, il prend la tête du XIVe corps, formé de ses troupes de siège. En octobre, il traverse les Vosges, où ses Badois bousculent les premières levées de l'Est à [[bataille-de-nompatelize|Nompatelize]], pénètre en Franche-Comté et occupe Dijon à la fin du mois ([[batailles-de-dijon|batailles de Dijon]]). Tout l'automne, il couvre le [[siege-de-belfort|siège de Belfort]] et tient en respect [[garibaldi|Garibaldi]] et son [[armee-des-vosges|armée des Vosges]] ; le 18 décembre, ses Badois battent la division Cremer à [[bataille-de-nuits|Nuits]].
+texte: En janvier 1871, l'[[armee-de-l-est|armée de l'Est]] de [[bourbaki|Bourbaki]] marche sur Belfort avec des forces très supérieures. Werder se replie, livre le 9 janvier le combat de [[bataille-de-villersexel|Villersexel]], qui lui fait gagner du temps, et s'établit derrière la Lizaine, devant Héricourt. Trois jours durant, du 15 au 17 janvier, par un froid très vif, il repousse les attaques françaises : c'est la [[bataille-d-hericourt|bataille d'Héricourt]]. Bourbaki bat en retraite ; pris entre Werder et l'armée du Sud de [[edwin-von-manteuffel|Manteuffel]], ses soldats n'ont plus d'issue que la Suisse.
+texte: Ce fait d'armes, qui a écarté la guerre du pays de Bade, lui vaut dans l'Allemagne du Sud une popularité immense : Fribourg-en-Brisgau lui élève un monument de la Victoire et le fait docteur de son université. Il reçoit la grand-croix de la Croix de fer et 200 000 thalers, et se retire en 1879 avec le titre de comte. Il meurt en Poméranie le 12 septembre 1887, le jour de ses soixante-dix-neuf ans.
+repere: 12 septembre 1808 — Naissance à Schlossberg, en Prusse-Orientale.
+repere: 23 août 1870 — Début du bombardement de la ville de Strasbourg.
+repere: 28 septembre 1870 — Capitulation de Strasbourg.
+repere: fin octobre 1870 — Le XIVe corps occupe Dijon.
+repere: 9 janvier 1871 — Combat de Villersexel.
+repere: 15 au 17 janvier 1871 — Il tient la Lizaine contre l'armée de l'Est.
+repere: 12 septembre 1887 — Mort à Grüssow, en Poméranie.
+lien: wp August von Werder
+lien: de August von Werder
+sources: Wikipédia (de, fr : August von Werder)
+voir: siege-de-strasbourg, general-uhrich, bataille-de-villersexel, bataille-d-hericourt, siege-de-belfort, armee-de-l-est, batailles-de-dijon, edwin-von-manteuffel
+
+@ edwin-von-manteuffel
+cat: personnages
+nom: Manteuffel
+alias: Edwin von Manteuffel, Edwin Freiherr von Manteuffel, baron de Manteuffel, général de Manteuffel
+dates: 1809 – 1885
+an: 1809
+fin: 1885
+camp: de
+role: commandant du Ier corps, puis de la Ire armée et de l'armée du Sud
+def: Général de cavalerie et homme de cour, Edwin von Manteuffel commande en 1870 le Ier corps devant Metz, puis la Ire armée dans le Nord et, en janvier 1871, l'armée du Sud, qui accule Bourbaki à la Suisse. Il dirige ensuite l'armée d'occupation jusqu'en 1873.
+texte: Officier de dragons, élève et ami de l'historien Ranke, aide de camp du roi, il a dirigé de 1857 à 1865 le cabinet militaire, c'est-à-dire les nominations de l'armée : c'est lui qui a poussé [[albrecht-von-roon|Roon]] au ministère et soutenu [[moltke|Moltke]] à l'état-major. Les libéraux voyaient en lui l'âme de la réaction ; l'un d'eux l'ayant traité d'« homme funeste dans une position funeste », il se battit en duel avec lui. Gouverneur du Schleswig en 1865, chef de l'armée du Main à la fin de la guerre de 1866, il commande depuis 1868 le Ier corps, celui de Prusse-Orientale.
+texte: Ce corps rejoint en août 1870 la Ire armée de [[steinmetz|Steinmetz]]. Il se bat le 14 à [[bataille-de-borny|Borny]], puis garde la rive droite de la Moselle pendant le [[siege-de-metz|blocus de Metz]] ; c'est lui qui reçoit le choc de la sortie de [[bataille-de-noisseville|Noisseville]], le 31 août et le 1er septembre. À la fin d'octobre, Manteuffel prend la tête de la Ire armée, que la capitulation libère. Sa mission est de couvrir au nord le [[siege-de-paris|siège de Paris]], tandis que des détachements réduisent Thionville et Montmédy. Le 27 novembre, il bat les troupes du général Farre devant [[bataille-d-amiens|Amiens]] et occupe la ville ; il pousse ensuite jusqu'à Rouen, où il entre au début de décembre. Le retour offensif de l'[[armee-du-nord|armée du Nord]], reprise en main par [[faidherbe|Faidherbe]], le ramène sur la Somme : les 23 et 24 décembre, sur l'Hallue, la bataille de [[bataille-de-pont-noyelles|Pont-Noyelles]] reste disputée, mais c'est Faidherbe qui se retire.
+texte: En janvier 1871, Moltke le rappelle du Nord, où [[august-von-goeben|Goeben]] lui succède, pour lui confier une armée nouvelle, dite du Sud, destinée à secourir [[august-von-werder|Werder]] devant Belfort. Manteuffel n'attend pas : avec les IIe et VIIe corps, il franchit en plein hiver les plateaux de la Côte-d'Or, entre Langres et Dijon, laisse [[garibaldi|Garibaldi]] sur son flanc et tombe sur les arrières de l'[[armee-de-l-est|armée de l'Est]], que Werder vient d'arrêter sur la Lizaine. L'[[armistice-de-1871|armistice]] du 28 janvier ne s'appliquant pas à cette région, il poursuit ses opérations et pousse les Français sur Pontarlier. À partir du 1er février, 87 000 hommes passent en Suisse pour y être internés : c'est la fin de la [[retraite-de-l-armee-de-l-est|retraite de l'armée de l'Est]].
+texte: La paix signée, il reste en France à la tête de l'armée d'occupation. Courtois, soucieux d'éviter les incidents, il s'entend avec [[adolphe-thiers|Thiers]] et avec le représentant français auprès de lui, le comte de Saint-Vallier, ce qui facilite la [[liberation-du-territoire|libération anticipée du territoire]]. Il ne quitte la France qu'en septembre 1873, avec le bâton de feld-maréchal. En 1879, il devient le premier *Statthalter*, gouverneur impérial, de l'[[alsace-lorraine|Alsace-Lorraine]], et y pratique jusqu'à sa mort, survenue à Carlsbad le 17 juin 1885, une politique de ménagements envers les notables.
+repere: 24 février 1809 — Naissance à Dresde.
+repere: 31 août 1870 — Son Ier corps soutient l'attaque française à Noisseville.
+repere: fin octobre 1870 — Il prend le commandement de la Ire armée.
+repere: 27 novembre 1870 — Bataille d'Amiens ; la ville est occupée.
+repere: 23 et 24 décembre 1870 — Bataille de l'Hallue contre Faidherbe.
+repere: janvier 1871 — Il prend le commandement de l'armée du Sud et marche sur les arrières de Bourbaki.
+repere: 1er février 1871 — L'armée de l'Est commence à passer en Suisse.
+repere: 19 septembre 1873 — Il est fait feld-maréchal à la fin de l'occupation.
+repere: 17 juin 1885 — Mort à Carlsbad.
+lien: wp Edwin von Manteuffel
+lien: de Edwin von Manteuffel
+sources: Wikipédia (de, fr : Edwin von Manteuffel ; en : Edwin Freiherr von Manteuffel ; de : August Karl von Goeben, August von Werder)
+voir: bataille-de-noisseville, bataille-d-amiens, bataille-de-pont-noyelles, retraite-de-l-armee-de-l-est, august-von-goeben, august-von-werder, liberation-du-territoire, alsace-lorraine
+
+@ august-von-goeben
+cat: personnages
+nom: Goeben
+alias: August Karl von Goeben, August von Goeben, général von Goeben, Göben
+dates: 1816 – 1880
+an: 1816
+fin: 1880
+camp: de
+role: commandant du VIIIe corps, puis de la Ire armée
+def: Hanovrien passé au service de la Prusse après quatre ans de guerre civile en Espagne, August von Goeben commande le VIIIe corps à Spicheren, à Gravelotte et dans le Nord, puis la Ire armée, avec laquelle il bat Faidherbe à Saint-Quentin le 19 janvier 1871.
+texte: Peu de généraux prussiens ont eu une jeunesse aussi aventureuse. Sous-lieutenant à dix-huit ans, il quitte l'armée en 1836, passe les Pyrénées déguisé en berger basque et s'engage chez les carlistes. Il fait cinq campagnes, plusieurs fois blessé, longtemps prisonnier, finit lieutenant-colonel, puis rentre en Allemagne à pied et sans un sou en 1841 ; il en tire un livre, *Quatre ans en Espagne*. Réadmis dans l'armée prussienne en 1842, il fait carrière à l'état-major, suit en observateur la campagne espagnole du Maroc en 1860 et se distingue en 1866 à la tête de la 13e division, dans la campagne du Main.
+texte: Le 18 juillet 1870, il reçoit le VIIIe corps, celui de Rhénanie, qui fait partie de la Ire armée de [[steinmetz|Steinmetz]]. Il est à [[bataille-de-spicheren|Spicheren]], à [[bataille-de-borny|Borny]], puis le 18 août à [[bataille-de-gravelotte|Gravelotte]], où ses régiments s'usent dans le ravin de la Mance. Après le [[siege-de-metz|blocus de Metz]], il suit [[edwin-von-manteuffel|Manteuffel]] dans le Nord : [[bataille-d-amiens|Amiens]], l'Hallue, enfin [[bataille-de-bapaume|Bapaume]], les 2 et 3 janvier 1871, bataille que chaque camp s'attribue : [[faidherbe|Faidherbe]] a l'avantage sur le terrain, mais il se retire, et Péronne, qu'il voulait secourir, capitule quelques jours plus tard ([[siege-de-peronne|siège de Péronne]]).
+texte: Manteuffel appelé à l'armée du Sud, Goeben prend le 9 janvier le commandement de la Ire armée. Dix jours plus tard, Faidherbe, à qui l'on demande une diversion au moment de la dernière sortie de Paris, s'avance jusqu'à [[bataille-de-saint-quentin|Saint-Quentin]]. Goeben concentre ses forces à marches rapides, l'attaque le 19 janvier des deux côtés de la Somme et le rejette en désordre vers les places du Nord. L'[[armee-du-nord|armée du Nord]] ne se relèvera pas avant l'armistice. Cette victoire, la plus nette de la campagne du Nord, lui vaut la grand-croix de la Croix de fer.
+texte: Il retrouve en 1871 le VIIIe corps, à Coblence, et le commande jusqu'à sa mort, le 13 novembre 1880. Un fort de Metz, puis un croiseur de bataille de la marine impériale ont porté son nom.
+repere: 10 décembre 1816 — Naissance à Stade, dans le royaume de Hanovre.
+repere: 1836 — Il s'engage dans l'armée carliste, en Espagne.
+repere: 18 juillet 1870 — Il prend le commandement du VIIIe corps.
+repere: 9 janvier 1871 — Il succède à Manteuffel à la tête de la Ire armée.
+repere: 19 janvier 1871 — Victoire de Saint-Quentin sur Faidherbe.
+repere: 13 novembre 1880 — Mort à Coblence.
+lien: wp August Karl von Goeben
+lien: de August Karl von Goeben
+sources: Wikipédia (de, en, fr : August Karl von Goeben ; de : Edwin von Manteuffel)
+voir: bataille-de-saint-quentin, bataille-de-bapaume, edwin-von-manteuffel, faidherbe, armee-du-nord, bataille-de-gravelotte, steinmetz
+
+@ blumenthal
+cat: personnages
+nom: Blumenthal
+alias: Leonhard von Blumenthal, Karl Konstantin Albrecht Leonhard von Blumenthal, comte de Blumenthal, Graf von Blumenthal
+dates: 1810 – 1900
+an: 1810
+fin: 1900
+camp: de
+role: chef d'état-major de la IIIe armée
+def: Chef d'état-major du Kronprinz en 1866 puis en 1870, Leonhard von Blumenthal est le véritable conducteur de la IIIe armée, de Wissembourg à Sedan et au siège de Paris, où il s'oppose au bombardement. Son journal de campagne a été publié en 1902.
+texte: Orphelin d'un officier de dragons mort des blessures reçues en 1813, élevé chez les cadets, il fait toute sa carrière dans les états-majors. Chef d'état-major de l'armée du Schleswig-Holstein en 1849, puis des troupes prussiennes contre le Danemark en 1864, il prépare l'assaut de Düppel et le passage dans l'île d'Alsen. En 1866, il est placé auprès du [[kronprinz-frederic-guillaume|Kronprinz]], à la IIe armée, dont l'arrivée décide de Sadowa ; « Je sais à qui je dois la conduite de mon armée », lui dit le prince.
+texte: Le même attelage est reformé en 1870 à la IIIe armée. Le prince commande, représente, rassure les Allemands du Sud ; Blumenthal règle les marches et les batailles : [[bataille-de-wissembourg|Wissembourg]], [[bataille-de-froeschwiller-woerth|Wœrth]], le passage des Vosges, puis la conversion vers le nord qui mène à [[bataille-de-sedan|Sedan]]. Le grand quartier général le consulte pour l'encerclement de l'[[armee-de-chalons|armée de Châlons]] comme pour l'investissement de Paris. [[bismarck|Bismarck]] s'étonnait que les journaux ne parlent jamais de lui : après [[moltke|Moltke]], disait-il, c'est lui qui a le plus de mérite dans la conduite de la guerre.
+texte: Devant Paris, il a la charge du front sud et ouest, celui où le [[siege-de-paris|siège]] se décidera, et suit aussi les opérations de [[von-der-tann|von der Tann]] vers Orléans. Dans la querelle du [[bombardement-de-paris|bombardement]], il est le plus ferme des opposants : pour lui, tirer sur la ville est inutile tant que les forts tiennent, et l'on n'a ni les pièces ni les munitions qu'il faudrait ; la faim suffira. Il s'incline quand le roi tranche, et le tir commence le 5 janvier 1871, sur son front, contre les forts du sud. Marié à une Anglaise, comme le Kronprinz, il passe dans le parti de Bismarck pour l'un des membres d'une coterie « anglaise » et libérale. Le correspondant du *Times*, William Howard Russell, qui suit son état-major, vante sa bonhomie et son humour.
+texte: Présent à la [[proclamation-de-l-empire-allemand|proclamation de l'Empire]], doté de 150 000 thalers, il commande ensuite le IVe corps, devient comte en 1883 et attend 1888 pour être feld-maréchal : c'est l'un des premiers actes de son ancien chef devenu l'empereur Frédéric III. Il meurt le 21 décembre 1900, à quatre-vingt-dix ans. Son fils publie en 1902 ses carnets de 1866 et de 1870-1871, source précieuse sur les débats du quartier général.
+repere: 30 juillet 1810 — Naissance à Schwedt, sur l'Oder.
+repere: 3 juillet 1866 — Chef d'état-major de la IIe armée à Sadowa.
+repere: 6 août 1870 — Frœschwiller-Wœrth, première grande victoire de la IIIe armée.
+repere: 19 septembre 1870 — La IIIe armée ferme l'investissement de Paris par le sud.
+repere: 5 janvier 1871 — Le bombardement des forts du sud commence malgré ses objections.
+repere: 12 mars 1888 — Frédéric III le fait feld-maréchal.
+repere: 21 décembre 1900 — Mort à Quellendorf, près de Köthen.
+lien: wp Leonhard von Blumenthal
+lien: de Leonhard von Blumenthal
+sources: Wikipédia (de, fr : Leonhard von Blumenthal ; en : Leonhard Graf von Blumenthal ; de : Belagerung von Paris (1870–1871))
+voir: kronprinz-frederic-guillaume, moltke, bataille-de-froeschwiller-woerth, bataille-de-sedan, siege-de-paris, bombardement-de-paris, grand-etat-major-prussien
+
+@ constantin-von-alvensleben
+cat: personnages
+nom: Constantin von Alvensleben
+alias: Reimar Constantin von Alvensleben, général von Alvensleben, Alvensleben II
+dates: 1809 – 1892
+an: 1809
+fin: 1892
+camp: de
+role: commandant du IIIe corps
+def: Général prussien, chef du IIIe corps brandebourgeois, Constantin von Alvensleben attaque seul, le 16 août 1870, à Mars-la-Tour, l'armée de Bazaine en marche vers Verdun et lui barre la route jusqu'au soir. Il se bat ensuite devant Metz, sur la Loire et au Mans.
+texte: Issu d'une vieille famille de la Marche, élevé chez les cadets de Berlin, officier de la Garde, il a deux frères généraux ; l'un d'eux, Gustav, commande en 1870 le IVe corps, et il ne faut pas les confondre. En 1866, à Sadowa, il prend en pleine bataille la tête de la 1re division de la Garde, dont le chef vient d'être tué devant Chlum, et achève l'attaque. Le 18 juillet 1870, il reçoit le IIIe corps, celui de Brandebourg, que le [[prince-frederic-charles|prince Frédéric-Charles]] a instruit pendant dix ans et qui fait partie de sa IIe armée.
+texte: Le 16 août, le corps a passé la Moselle au sud de Metz et marche vers la route de Verdun. La cavalerie signale des Français en retraite ; Alvensleben croit n'avoir devant lui qu'une arrière-garde et attaque aussitôt vers Vionville. C'est l'[[armee-du-rhin|armée du Rhin]] presque entière : trois corps, un quatrième tout proche. Quand il le comprend, il ne recule pas. Rompre le combat découvrirait sa faiblesse ; il choisit de payer d'audace, engage tout ce qu'il a, tient Vionville et Flavigny avec ses deux divisions et son artillerie, et fait donner sa cavalerie pour gagner du temps : c'est lui qui ordonne vers 14 heures la charge de [[von-bredow|von Bredow]]. Sans autre secours, jusqu'au milieu de l'après-midi, qu'un régiment du Xe corps, il tient à un contre cinq. [[bazaine|Bazaine]], qui se croit menacé d'être coupé de Metz, ne pousse pas. Au soir de la [[bataille-de-mars-la-tour|bataille de Mars-la-Tour]], la route de Verdun est fermée.
+texte: Le surlendemain, le IIIe corps, très éprouvé, ne joue qu'un rôle secondaire à [[bataille-de-gravelotte|Gravelotte]]. Il prend part au [[siege-de-metz|blocus de Metz]], sur la rive gauche, puis marche vers la Loire. Le 28 novembre, à [[bataille-de-beaune-la-rolande|Beaune-la-Rolande]], son arrivée dégage le Xe corps pressé par l'aile droite de l'[[armee-de-la-loire|armée de la Loire]] ; il combat encore devant Orléans les 3 et 4 décembre et au [[bataille-du-mans|Mans]] en janvier 1871. Doté de 150 000 thalers, il quitte l'armée en mars 1873 et meurt à Berlin le 28 mars 1892, peu après avoir reçu l'Aigle noir pour l'anniversaire du Mans.
+repere: 26 août 1809 — Naissance à Eichenbarleben, près de Magdebourg.
+repere: 18 juillet 1870 — Il est nommé à la tête du IIIe corps.
+repere: 16 août 1870, vers 10 h — Ses divisions attaquent vers Vionville et Flavigny.
+repere: 16 août 1870, vers 14 h — Il ordonne la charge de la brigade Bredow.
+repere: 28 novembre 1870 — Il dégage le Xe corps à Beaune-la-Rolande.
+repere: 12 janvier 1871 — Fin de la bataille du Mans.
+repere: 28 mars 1892 — Mort à Berlin.
+attention: Audace ou imprudence ? La tradition allemande a fait de sa décision du 16 août un modèle d'initiative ; d'autres y voient une attaque irréfléchie, lancée sur une erreur d'appréciation et payée de pertes très lourdes. Les deux sont vrais : il s'est trompé le matin sur ce qu'il avait devant lui, et il a eu raison ensuite de ne pas lâcher prise.
+lien: wp Constantin von Alvensleben
+lien: de Constantin von Alvensleben
+sources: Wikipédia (de, en, fr : Constantin von Alvensleben ; de : Schlacht bei Mars-la-Tour ; en : Prince Friedrich Karl of Prussia (1828–1885))
+voir: bataille-de-mars-la-tour, von-bredow, prince-frederic-charles, bataille-de-beaune-la-rolande, bataille-du-mans, armee-du-rhin, bazaine
+
+@ von-bredow
+cat: personnages
+nom: Von Bredow
+alias: Adalbert von Bredow, Friedrich Wilhelm Adalbert von Bredow, général von Bredow, Todesritt, chevauchée de la mort
+dates: 1814 – 1890
+an: 1814
+fin: 1890
+camp: de
+role: commandant de la 12e brigade de cavalerie
+def: Général de cavalerie prussien, Adalbert von Bredow conduit le 16 août 1870, à Mars-la-Tour, la charge restée célèbre sous le nom de « chevauchée de la mort » : elle fait taire l'artillerie française au prix de la moitié de ses cavaliers.
+texte: Fils d'un officier brandebourgeois, élevé chez les cadets, il entre en 1832 aux hussards de la Garde et fait toute sa carrière dans la cavalerie. En 1866, colonel, il mène une brigade à Trautenau et à Sadowa. En 1870, général-major, il commande la 12e brigade de la 5e division de cavalerie : les cuirassiers de Magdebourg, no 7, et les uhlans de l'Altmark, no 16.
+texte: Le 16 août, vers 14 heures, à [[bataille-de-mars-la-tour|Mars-la-Tour]], le IIIe corps de [[constantin-von-alvensleben|Constantin von Alvensleben]] est à bout. Le 6e corps de [[canrobert|Canrobert]] s'ébranle, ses batteries écrasent la gauche prussienne et il n'y a plus d'infanterie à lui opposer. Alvensleben demande à Bredow de se sacrifier pour faire taire ces canons. « Coûte que coûte », aurait dit le général. Il ne se précipite pas : avec un peu plus de cinq escadrons, environ huit cents cavaliers, il gagne par un pli de terrain, masqué par la fumée, les abords des lignes françaises. La charge traverse les batteries, sabre les servants, jette le désordre dans l'infanterie qui les soutient. Emportée trop loin, elle est prise de flanc par la cavalerie française, très supérieure en nombre, et doit se frayer un chemin de retour. Près de la moitié des hommes manquent à l'appel. Mais l'attaque de Canrobert est arrêtée, et les Français ne reprendront plus l'offensive de ce côté.
+texte: Promu lieutenant-général en janvier 1871, Bredow commande ensuite une division d'infanterie, prend sa retraite en 1873 et retourne cultiver le domaine familial de Briesen, où il était né et où il meurt le 3 mars 1890. Le poète Freiligrath a chanté la sonnerie des trompettes de Vionville ; Fontane l'appelait « le Bredow de Mars-la-Tour ».
+repere: 25 mai 1814 — Naissance à Briesen, en Brandebourg.
+repere: 1866 — Il commande une brigade de cavalerie à Trautenau et à Sadowa.
+repere: 16 août 1870, vers 14 h — Il charge l'artillerie du 6e corps français au nord de Vionville.
+repere: janvier 1871 — Il est promu lieutenant-général.
+repere: 3 mars 1890 — Mort à Briesen.
+attention: La « chevauchée de la mort » a pesé plus lourd après la guerre que pendant. Pendant quarante ans, les partisans de la cavalerie l'ont citée pour prouver que la charge gardait sa place face aux armes modernes. C'était oublier ses conditions très particulières, une approche à couvert, une artillerie surprise, et son prix : une brigade à moitié détruite en quelques minutes.
+lien: wp Adalbert von Bredow
+lien: de Adalbert von Bredow
+sources: Wikipédia (de, en, fr : Adalbert von Bredow ; de : Schlacht bei Mars-la-Tour)
+voir: bataille-de-mars-la-tour, constantin-von-alvensleben, cavalerie-en-1870, canrobert, charges-de-reichshoffen, charges-de-floing
+
+@ grand-duc-de-mecklembourg
+cat: personnages
+nom: Le grand-duc de Mecklembourg
+alias: Frédéric-François II de Mecklembourg-Schwerin, Friedrich Franz II., Friedrich Franz II. von Mecklenburg-Schwerin, Großherzog von Mecklenburg
+dates: 1823 – 1883
+an: 1823
+fin: 1883
+camp: de
+role: commandant du XIIIe corps, puis d'un détachement d'armée
+def: Souverain de Mecklembourg-Schwerin et neveu de Guillaume Ier, Frédéric-François II commande le XIIIe corps, puis le détachement d'armée chargé de couvrir le siège de Paris vers la Loire et l'ouest : vainqueur à Loigny le 2 décembre 1870, il combat ensuite à Orléans, à Beaugency et au Mans.
+texte: Grand-duc depuis 1842, fils d'une sœur du roi de Prusse, il a déjà commandé en 1866 un corps de réserve prussien en Bavière. En juillet 1870, on le garde d'abord sur les côtes de la mer du Nord et de la Baltique, où l'on craint un débarquement français qui ne vient pas ([[marine-en-1870|la marine en 1870]]). Arrivé devant Metz le 1er septembre, il prend la tête du XIIIe corps, avec mission de protéger les arrières des armées en marche sur Paris, entre Châlons et Reims. Ses troupes obtiennent la capitulation de Toul, le 23 septembre, puis celle de Soissons, le 16 octobre ([[siege-de-toul|siège de Toul]], [[siege-de-soissons|siège de Soissons]]), et rejoignent à la fin du mois les assiégeants de Paris.
+texte: Après [[bataille-de-coulmiers|Coulmiers]], [[moltke|Moltke]] réunit sous ses ordres un « détachement d'armée » : le Ier corps bavarois de [[von-der-tann|von der Tann]], deux divisions prussiennes et de la cavalerie. Le grand-duc n'est pas un grand capitaine, et sa première marche, vers l'ouest, à la poursuite de rassemblements qui se dérobent, mécontente le grand quartier général, qui le ramène vers la Loire et le subordonne au [[prince-frederic-charles|prince Frédéric-Charles]]. Le 2 décembre, à [[bataille-de-loigny|Loigny]], son détachement soutient et repousse l'attaque des 16e et 17e corps français ; c'est la bataille décisive de la campagne. Le 5, ses troupes sont dans Orléans ([[seconde-bataille-d-orleans|seconde bataille d'Orléans]]). Lancé aussitôt contre [[chanzy|Chanzy]], il se heurte du 7 au 10 décembre, à [[bataille-de-beaugency|Beaugency]], à une résistance qui use ses régiments.
+texte: En janvier 1871, il forme avec le XIIIe corps l'aile droite de Frédéric-Charles à la [[bataille-du-mans|bataille du Mans]], puis remonte par Alençon vers la Normandie ; ses troupes entrent à Rouen le 25 janvier. Il n'assiste pas à la proclamation de l'Empire, où son fils le représente. Inspecteur d'armée après la paix, colonel général avec rang de feld-maréchal en 1873, il meurt à Schwerin le 15 avril 1883.
+repere: 28 février 1823 — Naissance à Ludwigslust.
+repere: 1er septembre 1870 — Il arrive devant Metz et prend le commandement du XIIIe corps.
+repere: 23 septembre 1870 — Capitulation de Toul.
+repere: 2 décembre 1870 — Victoire de Loigny.
+repere: 7 au 10 décembre 1870 — Combats de Beaugency contre Chanzy.
+repere: 12 janvier 1871 — Fin de la bataille du Mans.
+repere: 15 avril 1883 — Mort à Schwerin.
+lien: wp Frédéric-François II de Mecklembourg-Schwerin
+lien: de Friedrich Franz II. (Mecklenburg)
+sources: Wikipédia (de : Friedrich Franz II. (Mecklenburg), Ludwig von der Tann-Rathsamhausen ; fr : Frédéric-François II de Mecklembourg-Schwerin ; en : Frederick Francis II, Leonhard Graf von Blumenthal)
+voir: bataille-de-loigny, seconde-bataille-d-orleans, bataille-de-beaugency, bataille-du-mans, von-der-tann, prince-frederic-charles, siege-de-toul
+
+@ comte-zeppelin
+cat: personnages
+nom: Le comte Zeppelin
+alias: Ferdinand von Zeppelin, Ferdinand Graf von Zeppelin, Graf Zeppelin, capitaine Zeppelin, chevauchée de Zeppelin, Zeppelinritt
+dates: 1838 – 1917
+an: 1838
+fin: 1917
+camp: de
+role: capitaine d'état-major wurtembergeois
+def: Officier wurtembergeois, Ferdinand von Zeppelin conduit les 24 et 25 juillet 1870 une reconnaissance de cavalerie en Alsace du Nord. Surprise à Schirlenhof, sa patrouille y laisse les premiers morts de la guerre ; lui seul s'échappe. Il sera plus tard le père des dirigeables.
+texte: Né à Constance, officier de l'armée du Wurtemberg, il est envoyé en 1863 aux États-Unis observer la guerre de Sécession auprès de l'armée du Potomac. Il y voit employer des ballons captifs et fait lui-même, en août, sa première ascension. Aide de camp de son roi en 1865, officier d'état-major pendant la guerre de 1866, il est en juillet 1870 capitaine à l'état-major de la cavalerie wurtembergeoise.
+texte: La guerre est déclarée depuis cinq jours et l'on ignore, du côté allemand, où se rassemble le corps de [[mac-mahon|Mac-Mahon]]. L'état-major de la division badoise décide d'envoyer une patrouille à longue distance, et la confie à Zeppelin, qui connaît le nord de l'Alsace. Le dimanche 24 juillet, il part de Hagenbach, dans le Palatinat, avec quatre officiers de dragons badois et quelques cavaliers : douze hommes en tout selon la notice la mieux informée, sept ou huit selon d'autres récits. La frontière est franchie à Lauterbourg, sous les coups de feu des douaniers ; on coupe le télégraphe, on saisit le courrier. À Hunspach, un officier est renvoyé avec un premier rapport. La nuit se passe dans la forêt de Schœnenbourg.
+texte: Le lundi 25, la patrouille pousse jusqu'aux environs de Wœrth : entre la Lauter et la Sauer, pas de forces françaises importantes. Vers midi, elle s'arrête pour faire manger hommes et chevaux à l'auberge de Schirlenhof, un écart de Gundershoffen. Mais un gendarme a donné l'alerte au 12e chasseurs à cheval, cantonné à Niederbronn, et un peloton surprend les Allemands à table. Le [[combat-de-schirlenhof|combat de Schirlenhof]] dure quelques minutes. Le maréchal des logis Pagnier, des chasseurs, est tué ; le lieutenant badois Winsloe, mortellement blessé ; les autres sont pris. Zeppelin, sorti par l'arrière, saute sur un cheval français et disparaît dans les bois. Le maire de Reichshoffen, le comte de Leusse, note que les cavaliers ont été « tués ou pris, à l'exception d'un capitaine qui s'était sauvé ». Ce capitaine repasse la frontière le lendemain. La presse allemande en fait un héros, la France y gagne une [[espionnage-et-renseignement|fièvre des espions]] et des uhlans vus partout.
+texte: Il fait le reste de la campagne avec les Wurtembergeois. C'est en 1874, d'après son journal, que lui vient l'idée d'un ballon dirigeable, après une conférence sur les [[ballons-du-siege|ballons du siège de Paris]]. Colonel de uhlans à Ulm, puis envoyé du Wurtemberg à Berlin, il doit quitter l'armée à la fin de 1890 pour avoir critiqué le commandement prussien des troupes de son pays. Il se donne alors tout entier à son projet : le premier dirigeable rigide s'élève en 1900 au-dessus du lac de Constance et, en 1908, après la destruction du LZ 4 à Echterdingen, une souscription nationale de plus de six millions de marks sauve l'entreprise. Il meurt à Berlin le 8 mars 1917.
+repere: 8 juillet 1838 — Naissance à Constance.
+repere: août 1863 — Première ascension en ballon, aux États-Unis.
+repere: 24 juillet 1870 — La patrouille franchit la frontière à Lauterbourg.
+repere: 25 juillet 1870, vers midi — Elle est surprise à l'auberge de Schirlenhof ; Zeppelin s'échappe seul.
+repere: 26 juillet 1870 — Il regagne le Palatinat bavarois.
+repere: 1900 — Premiers vols du dirigeable LZ 1 au-dessus du lac de Constance.
+repere: 8 mars 1917 — Mort à Berlin.
+attention: Les biographies allemandes disent que cette reconnaissance a préparé la victoire de Wissembourg. Rien ne l'établit : neuf jours séparent le retour de Zeppelin de la bataille, et l'état-major disposait d'autres renseignements. Quant aux détails de la fuite, le cheval tendu par une servante, le cheval du sous-officier tué, ils varient d'un récit à l'autre, y compris sous la plume de l'intéressé.
+lien: wp Ferdinand von Zeppelin
+lien: de Ferdinand von Zeppelin
+sources: Wikipédia (de, fr, en : Ferdinand von Zeppelin)
+voir: combat-de-schirlenhof, espionnage-et-renseignement, cavalerie-en-1870, bataille-de-wissembourg, bataille-de-froeschwiller-woerth, mac-mahon, ballons-du-siege
+
+@ louis-ii-de-baviere
+cat: personnages
+nom: Louis II de Bavière
+alias: Ludwig II., Ludwig II. von Bayern, Louis II, roi de Bavière, le roi des contes de fées, Märchenkönig
+dates: 1845 – 1886
+an: 1845
+fin: 1886
+camp: de
+role: roi de Bavière
+def: Roi de Bavière depuis 1864, Louis II fait entrer son pays dans la guerre aux côtés de la Prusse dès juillet 1870, puis signe le 30 novembre la « lettre impériale », rédigée par Bismarck, qui offre la couronne d'empereur à Guillaume Ier. Il en reçoit des subsides secrets.
+texte: Monté sur le trône à dix-huit ans, protecteur de Richard Wagner, peu fait pour les affaires et moins encore pour l'armée, il a déjà perdu une guerre : en 1866, la Bavière, alliée de l'Autriche, est battue par la Prusse et doit signer avec elle une alliance défensive et offensive. C'est ce traité qui joue en juillet 1870. Dès le 16, sans attendre la déclaration de guerre, le roi ordonne la mobilisation ; il se montre plus résolu qu'en 1866. Deux corps bavarois, ceux de [[von-der-tann|von der Tann]] et de Hartmann, entrent dans la IIIe armée du [[kronprinz-frederic-guillaume|Kronprinz de Prusse]] et se battent de [[bataille-de-wissembourg|Wissembourg]] à [[bataille-de-bazeilles|Bazeilles]], puis sur la Loire et devant Paris. Louis II, lui, ne paraît pas à l'armée ; son frère Othon et son oncle Luitpold l'y représentent.
+texte: La victoire commune pose la question qu'il redoutait : celle de l'entrée de la Bavière dans un État allemand dominé par la Prusse. Ses ministres négocient à Versailles et obtiennent, par le traité du 23 novembre 1870, des droits réservés, dont une armée et une diplomatie propres ([[etats-allemands-du-sud|les États allemands du Sud]]). Reste le titre impérial. [[bismarck|Bismarck]] veut qu'il soit offert à [[guillaume-ier|Guillaume Ier]] par les princes, et d'abord par le premier d'entre eux après le roi de Prusse. Louis II y voit un affront ; il propose, sans succès, que la dignité impériale alterne entre Berlin et Munich.
+texte: L'affaire se règle par un intermédiaire, le grand écuyer comte Holnstein, arrivé à Versailles le 25 novembre. Bismarck s'entend avec lui sur les demandes d'argent du roi, rédige lui-même la lettre le 27 et la lui remet. Le 30, Holnstein est à Hohenschwangau. Le roi ne le reçoit que lorsqu'il fait dire qu'il repart à six heures du soir, et s'entend expliquer que, faute de réponse, les troupes devant Paris pourraient bien acclamer l'empereur sans lui. Il recopie le projet, à quelques mots près. Le 3 décembre, le prince Luitpold remet la lettre au roi de Prusse, qui commence par s'en irriter.
+texte: En échange, Bismarck fait verser au roi, en secret, par des banques suisses, des sommes prises sur le « fonds guelfe », la fortune séquestrée de la maison de Hanovre : une rente annuelle de 300 000 marks à partir de 1873, un peu plus de six millions en tout, dont Holnstein touche le dixième. Louis II n'assiste pas à la [[proclamation-de-l-empire-allemand|proclamation du 18 janvier 1871]], évite ensuite tout contact avec la maison impériale et se retire peu à peu du monde. L'argent de Berlin passe dans ses châteaux. Déclaré incapable de régner le 9 juin 1886, il est retrouvé mort le 13 dans le lac de Starnberg.
+repere: 25 août 1845 — Naissance au château de Nymphenburg, près de Munich.
+repere: 10 mars 1864 — Il devient roi de Bavière.
+repere: 16 juillet 1870 — Il ordonne la mobilisation de l'armée bavaroise.
+repere: 23 novembre 1870 — Traité de Versailles : la Bavière entre dans le futur Empire avec des droits réservés.
+repere: 30 novembre 1870 — À Hohenschwangau, il signe la lettre impériale.
+repere: 3 décembre 1870 — Le prince Luitpold remet la lettre à Guillaume Ier.
+repere: 18 janvier 1871 — L'Empire est proclamé à Versailles en son absence.
+repere: 13 juin 1886 — Mort dans le lac de Starnberg.
+attention: Louis II n'a ni couronné Guillaume Ier ni « offert l'Empire » de son propre mouvement : il n'était pas à Versailles, et la lettre qu'il a signée avait été écrite par Bismarck. A-t-il vendu sa signature ? Les versements sont établis, mais ils n'ont été connus qu'après sa mort, et les historiens discutent leur poids : pour Rupert Hacker, le roi a surtout cédé à l'inévitable, la perspective encore vague d'une rente n'ayant compté qu'à la marge.
+lien: wp Louis II (roi de Bavière)
+lien: de Kaiserbrief
+lien: de Ludwig II. (Bayern)
+sources: Wikipédia (de : Ludwig II. (Bayern), Kaiserbrief, Otto von Bismarck ; fr : Louis II (roi de Bavière) ; en : Ludwig II of Bavaria)
+voir: etats-allemands-du-sud, proclamation-de-l-empire-allemand, bismarck, guillaume-ier, von-der-tann, kronprinz-frederic-guillaume

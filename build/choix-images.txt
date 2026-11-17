@@ -1,0 +1,183 @@
+# Le choix des illustrations de 1870 : une ligne par image.
+#
+#     article[, article…] | Fichier sur Commons | Légende [| Crédit]
+#
+# Proposé par build/proposer_images.py, relu et corrigé à la main ; une ligne retouchée
+# n’est jamais réécrite. « # sans image : id, id » marque les articles examinés sans résultat ;
+# « # à revoir » une légende à écrire (assembler_illustrations.py refuse ces lignes).
+#
+#     python -I build/assembler_illustrations.py   écrit build/illustrations.txt (crédits lus sur Commons)
+#     python -I build/illustrer.py                 télécharge, vérifie la licence, convertit en WebP
+
+guerre-de-1870 | A v Werner - Kaiserproklamation am 18 Januar 1871 (3. Fassung 1885).jpg | La proclamation de l’Empire allemand à Versailles, le 18 janvier 1871, peinte par Anton von Werner (version de 1885)
+second-empire-en-1870 | Comité central plébiscitaire 1870.jpg | Le comité central plébiscitaire de 1870 (gravure)
+depeche-d-ems | Wilhelm I at Bad Ems.jpg | Guillaume Ier à Ems, avec le prince Nicolas-Guillaume de Nassau
+quatre-septembre | Proclamation de la République.jpg | La proclamation de la République, haut-relief de Léopold Morice au monument de la place de la République, à Paris
+gouvernement-de-la-defense-nationale | Le Gouvernement de la défense nationale.jpg | Les membres du gouvernement de la Défense nationale, 4 septembre 1870
+entrevue-de-ferrieres | Jules Favre par Pierre Petit.jpg | Jules Favre, photographié par Pierre Petit
+guerre-a-outrance | Gambetta par Étienne Carjat (photo recadrée).jpg | Léon Gambetta, photographié par Étienne Carjat
+proclamation-de-l-empire-allemand | Die Kaiserproklamation 1871 (Anton von Werner).jpg | *La Proclamation de l’Empire allemand*, d’Anton von Werner : la galerie des Glaces, le 18 janvier 1871
+protestation-de-bordeaux | Emile Küss.jpg | Émile Küss, maire de Strasbourg, mort à Bordeaux le 1er mars 1871
+preliminaires-de-versailles | Deutsches Reichsgesetzblatt 1871 026 215.jpg | Les préliminaires de paix au *Reichsgesetzblatt*, le journal des lois de l’Empire allemand (1871)
+napoleon-iii | Napoléon III par Jean Hippolyte Flandrin.jpg | Napoléon III dans son cabinet des Tuileries, par Hippolyte Flandrin (1862)
+imperatrice-eugenie | Empress Eugénie in Court Dress (after Winterhalter, Compiègne IMP25).jpg | L'impératrice Eugénie
+emile-ollivier | Émile Ollivier by Pierre-Louis Pierson, 1870.png | Émile Ollivier
+duc-de-gramont | Agénor de Gramont (1819-1880).jpg | Le duc de Gramont
+edmond-le-boeuf | Edmond Leboeuf.png | Le maréchal Le Bœuf
+comte-de-palikao | Charles Cousin-Montauban, comte de Palikao.jpg | Le comte de Palikao
+mac-mahon | Patrice de Mac Mahon crop.jpg | Patrice de Mac-Mahon, photographié par Pierre Petit
+bazaine | Jean-Adolphe Beaucé - Achille-François Bazaine, Marshal of France, Marshal of France, 1867.jpg | Bazaine
+canrobert | François Certain de Canrobert Versailles.png | Canrobert
+frossard | Crimean War 1854-56 Q71487.jpg | Frossard à l’époque de la guerre de Crimée
+abel-douay | General Abel Douay.jpg | Abel Douay
+ducrot | General Ducrot.jpg | Ducrot
+wimpffen | Wimphen, général, Nadar, Gallica.jpg | Le général de Wimpffen, photographié par Nadar
+bourbaki | Portrait Bourbaki.JPG | Bourbaki
+general-uhrich | Jean-Jacques UHRICH.jpg | Le général Uhrich, photographié par Pierson
+general-margueritte | General margueritte.jpg | Le général Margueritte
+galliffet | Galliffet, Gaston de.jpg | Le marquis de Galliffet, photographié par Nadar
+gambetta | Léon Gambetta 1870 Nadar.jpg | Léon Gambetta photographié par Nadar
+trochu | Louis Jules Trochu.jpg | Le général Trochu
+jules-favre | Jules Favre 1865 Nadar.jpg | Jules Favre photographié par Nadar
+adolphe-thiers | Adolphe Thiers Nadar 2.JPG | Adolphe Thiers
+charles-de-freycinet | Freycinet, de Saulces de, Charles, Nadar, Gallica (cropped).jpg | Charles de Freycinet, photographié par Nadar
+chanzy | Antoine Alfred Eugène Chanzy.JPG | Chanzy
+aurelle-de-paladines | Général de Paladines.jpg | Le général d’Aurelle de Paladines
+faidherbe | Le général Faidherbe.jpg | Faidherbe
+denfert-rochereau | Col. Denfert-Rochereau by Étienne Carjat 1878.jpg | Le colonel Denfert-Rochereau, photographié par Étienne Carjat
+garibaldi | Garibaldi (1866).jpg | Garibaldi en 1866
+general-vinoy | Crimean War 1854-56 Q71111.jpg | Vinoy à l’époque de la guerre de Crimée
+clinchant | Général Clinchant.jpg | Clinchant
+commandant-teyssier | Bitche-Buste du colonel Teyssier.jpg | Le buste du colonel Teyssier, à Bitche
+louis-rossel | Louis Rossel 1.jpg | Louis Rossel
+emile-kuss | Le maire Küss au milieu des ruines de Strasbourg (1873) (cropped) (2).jpg | Le maire Küss au milieu des ruines de Strasbourg
+sergent-hoff | Ignace Hoff - photo Ferdinand Mulnier.jpg | Ignace Hoff photographié par Ferdinand Mulnier
+victor-hugo-en-1870 | Victor Hugo et l'Année terrible.jpg | Frontispice de *L’Année terrible*, de Victor Hugo (Michel Lévy, 1873)
+guillaume-ier | Bülow, Hans - Emperor Wilhelm I - Marburg.jpg | Guillaume Ier
+bismarck | Bundesarchiv Bild 146-2005-0057, Otto von Bismarck.jpg | Bismarck
+moltke | Helmuth Karl Bernhard von Moltke, Count von Moltke by Carl Günther circa 1860.png | Moltke
+albrecht-von-roon | Count Albrecht von Roon circa 1870.jpg | Roon
+kronprinz-frederic-guillaume | Bundesarchiv Bild 146-2004-0099, Kaiser Friedrich III..jpg | Le Kronprinz Frédéric-Guillaume
+prince-frederic-charles | Friedrich-Karl-Preußen.JPG | Le prince Frédéric-Charles
+steinmetz | Karl Friedrich von Steinmetz.jpg | Steinmetz
+albert-de-saxe | Albert of Saxony by Nicola Perscheid c1900.jpg | Albert de Saxe
+von-der-tann | Ludwig Freiherr von der Tann.jpg | Von der Tann
+august-von-werder | August von Werder BNF Gallica.jpg | Werder
+edwin-von-manteuffel | Edwin Freiherr von Manteuffel by Adolphe Braun.png | Edwin von Manteuffel, photographié par Adolphe Braun
+august-von-goeben | August Karl Von Goeben.jpg | Goeben
+blumenthal | Generalfeldmarschall Leonhard Graf von Blumenthal.JPG | Blumenthal
+constantin-von-alvensleben | Constantin von Alvensleben.jpg | Constantin von Alvensleben
+von-bredow | General von Bredow.jpg | Von Bredow
+grand-duc-de-mecklembourg | 1823 Friedrich Franz-04.JPG | Frédéric-François II, grand-duc de Mecklembourg-Schwerin
+comte-zeppelin | Ferdinand von Zeppelin.jpg | Le comte Zeppelin
+louis-ii-de-baviere | König Ludwig II. von Bayern in Generalsuniform mit dem Krönungsmantel.jpg | Louis II de Bavière
+combat-de-sarrebruck | Anonymous - Sarrebruck après la bataille, le 5 août 1870 - P394 - Musée Carnavalet.jpg | Sarrebruck après la bataille, le 5 août 1870
+combat-de-sarrebruck | L'Éclatante Victoire de Sarrebrück.jpg | Le manuscrit du sonnet de Rimbaud « L’Éclatante Victoire de Sarrebrück »
+bataille-de-wissembourg | Battle of wissembourg.png | Carte allemande de la bataille de Wissembourg, 4 août 1870
+bataille-de-froeschwiller-woerth | Battle of Worth MKL Bd. 16 1890 (128536185).jpg | La bataille de Wœrth, carte du dictionnaire allemand Meyers (1890)
+bataille-de-spicheren | Bataille de Forbach, 6 août 1870 - Jean-Adolphe Bocquin et Jules Férat (cropped1).jpg | « Bataille de Forbach, 6 août 1870 », lithographie éditée par Eugène Jouy
+bataille-de-spicheren | Battle of Spicheren.png | Les positions françaises et allemandes à Spicheren vers 18 h, le 6 août 1870
+bataille-de-borny | Battle of Borny (P. Didion, 1874).jpg | La bataille de Borny, par Paulin Didion
+bataille-de-borny | Schlacht1871Inf.5.jpg | Carte tactique allemande de la bataille de Colombey-Nouilly (Borny)
+bataille-de-mars-la-tour | Battle-Mars-Le-Tour-large.jpg | La bataille de Mars-la-Tour, 16 août 1870
+bataille-de-mars-la-tour | Battle of Mars-La-Tour, August 16,1870 by Emil Hünten.jpg | La bataille de Mars-la-Tour, par Emil Hünten
+bataille-de-gravelotte | AlphonseNeuvilleFriedhofSaint-PrivatL1100806 (2).jpg | *Le Cimetière de Saint-Privat*, d’Alphonse de Neuville
+bataille-de-gravelotte | 1870 Tod des Majors von Halden.jpg | La mort du major von Halden à Gravelotte, le 18 août 1870
+bataille-de-noisseville | Battle of Saint-Barbe (Noisseville, P. Didion).jpg | La bataille de Sainte-Barbe, dite de Noisseville, par Paulin Didion
+bataille-de-beaumont | Bataille de Beaumont (1870).jpg | Carte de la bataille de Beaumont, d’après l’*Histoire de la guerre de 1870-71* de Paul et Victor Margueritte
+bataille-de-bazeilles | Marines contre bavarois 043.JPG | Les combats devant l’auberge Bourgerie, tableau exposé à la Maison de la dernière cartouche
+bataille-de-bazeilles | Dernière cartouche 996.JPG | La Maison de la dernière cartouche, à Bazeilles
+bataille-de-sedan | Nap sedan von Wilhelm Camphausen.jpg | Napoléon III à Sedan, par Wilhelm Camphausen (Deutsches Historisches Museum, Berlin)
+bataille-de-sedan | Battle of Sedan Bd. 14 1890 (128642685).jpg | La bataille de Sedan, carte du dictionnaire allemand Meyers (1890)
+defense-de-chateaudun | Gravure de la bataille de Chateaudun.jpg | Le combat sur la place de Châteaudun, le 18 octobre 1870 au soir (gravure)
+bataille-de-coulmiers | Bataille de Coulmiers.jpg | *Salut à la victoire* (Coulmiers), tableau d’Étienne Dujardin-Beaumetz
+bataille-de-coulmiers | Bataille de Coulmiers, reprise d'Orléans. Paris Musées 20230527180451.jpg | « Bataille de Coulmiers, reprise d’Orléans », lithographie de Napoléon Thomas
+bataille-de-beaune-la-rolande | Beaune-la-Rolande Beauquesne.jpg | Bataille de Beaune-la-Rolande (1870), tableau de Beauquesne
+bataille-de-loigny | La bataille de Loigny C Castellani (1879).jpg | *La Bataille de Loigny*, de Charles Castellani (1879)
+seconde-bataille-d-orleans | Entrée des Allemands à Orléans.jpg | Entrée des Allemands à Orléans, 1870. Tableau de Ludwig Braun
+bataille-du-mans | Bataille du Mans.jpg | Bataille du Mans. Tableau de Maurice Orange
+bataille-du-mans | Lionel Royer - Bataille d'Auvours, le 10 janvier 1871 (1874).jpg | Bataille d'Auvours, le 10 janvier 1871
+bataille-de-champigny | Champigny, le four à chaux (détail).jpg | La Bataille de Champigny
+bataille-de-champigny | Schlacht bei Villiers.jpg | Plan allemand de la bataille de Villiers (Champigny)
+combats-du-bourget | 1870 bei Le Bourget.jpg | Les grenadiers de la Garde prussienne au premier combat du Bourget
+combats-du-bourget | Bivouac après le combat du Bourget, 21 décembre 1870.jpg | Bivouac après le combat du Bourget, 21 décembre 1870
+bataille-de-buzenval | Bataille de Buzenval. Paris Musées 20230527181503.jpg | « Bataille de Buzenval », lithographie de la série *La Guerre de 1870-1871*
+bataille-de-buzenval | Henri Regnault par Berthaud BNF Gallica.jpg | Le peintre Henri Regnault, tué à Buzenval
+bataille-d-amiens | Villers-Bretonneux.jpg | Carte des environs d'Amiens
+bataille-de-pont-noyelles | Bataille de Pont-Noyelles.jpg | Bataille de Pont-Noyelles. Tableau de Ludwig Braun
+bataille-de-bapaume | Bapaume-tableau-Faidherbe.jpg | Le Général Faidherbe au combat de Biefviller-lès-Bapaume, 3 janvier 1871
+bataille-de-saint-quentin | PD 204 - SAINT-QUENTIN - Les prussiens sur la Grand'Place en 1871.jpg | Les Prussiens sur la Grand-Place de Saint-Quentin en 1871 (carte postale ancienne)
+bataille-de-saint-quentin | Richard Knötel - Die 7. Uhlanen in der Schlacht bei St. Quentin (19. Jannuar 1871).jpg | Le 7e uhlans à la bataille de Saint-Quentin, le 19 janvier 1871, par Richard Knötel
+bataille-de-nompatelize | Bataille de Nompatelize.png | Le bataillon des mobiles de la Meurthe à la bataille de Nompatelize, le 6 octobre 1870
+batailles-de-dijon | Garibaldi in Dijon.jpg | Garibaldi à Dijon, pendant l’hiver 1870-1871
+bataille-de-villersexel | Bataille de Villersexel - 01.jpg | Bataille de Villersexel, 1871. Tableau d'Alphonse de Neuville
+bataille-d-hericourt | Bataille Lizaine.jpg | Bataille de la Lizaine en 1871
+retraite-de-l-armee-de-l-est | Armée-Bourb-en-Suisse.jpg | Armée de Bourbaki en Suisse en 1871
+retraite-de-l-armee-de-l-est | Bourbaki Panorama.jpg | Le bâtiment du panorama Bourbaki, à Lucerne
+pont-de-fontenoy | Fontenoy sur moselle 064.JPG | La mairie et l'église de Fontenoy-sur-Moselle
+siege-de-strasbourg | StrasbourgSiege.png | La capitulation de Strasbourg : le départ des prisonniers français (*Illustrated London News*, octobre 1870)
+siege-de-strasbourg | Strassburg vom Steintor aus 28 Sept 1870.jpg | Strasbourg vue de la porte de Pierre, le 28 septembre 1870
+siege-de-metz | Freyberg – Übergabe von Metz.jpg | *La Reddition de Metz*, tableau de Conrad Freyberg
+siege-de-metz | Régnier (E. Appert).jpg | Édouard Régnier, photographié par Eugène Appert pour le procès Bazaine
+siege-de-paris | Siege of Paris.jpg | Le siège de Paris
+siege-de-paris | Investissement de Paris, 17 septembre 1870 - 28 janvier 1871 (18 btv1b8444518t 1).jpg | Investissement de Paris, 17 septembre 1870 - 28 janvier 1871. Emplacement des troupes Allemandes en octobre 1870. Attaque du Bourget par la Garde…
+vie-a-paris-pendant-le-siege | Abattage d'un éléphant du Jardin des plantes pendant le Siège de Paris - 1871 (cropped).jpg | L’abattage d’un éléphant du Jardin des plantes pendant le siège (lithographie)
+bombardement-de-paris | Braun, Adolphe (1811-1877) - Paris, 1871 - St Cloud, La place.jpg | Saint-Cloud en ruine, photographié par Adolphe Braun en 1871
+siege-de-belfort | LionBelfort.jpg | Le Lion de Belfort
+siege-de-bitche | Bitche (Zitadelle).jpg | La citadelle de Bitche, au-dessus de la ville
+siege-de-phalsbourg | Phalsbourg monument des 3 sieges6.jpg | Monument des 3 sièges à Phalsbourg
+siege-de-phalsbourg | Pierre Taillant.jpg | Pierre Taillant, commandant de la place de Phalsbourg en 1870
+lichtenberg-et-la-petite-pierre | Lichtenberg Alsace 05.jpg | Le château de Lichtenberg aujourd’hui
+lichtenberg-et-la-petite-pierre | Chateau de La Petite-Pierre.jpg | Le château de La Petite-Pierre
+siege-de-toul | Toul Monument des morts 2.JPG | À Toul, la sculpture centrale du monument aux victimes de la guerre de 1870
+siege-de-toul | Bilder aus dem Deutsch-französischen Kriege 1870. Nr. 9. Episode aus der Belagerung von Toul. Paris Musées 20230603023403.jpg | Épisode du siège de Toul, gravure allemande de la série *Bilder aus dem Deutsch-französischen Kriege*
+siege-de-neuf-brisach | Aerial image of Neuf-Brisach (view from the southwest).jpg | Vue aérienne de Neuf-Brisach (vue depuis le sud-ouest)
+siege-de-neuf-brisach | Neuf-Brisach, Porte du Fort Mortier 1.jpg | Le Porte du Fort Mortier à Neuf-Brisach (Propriété privée, fermée aux visiteurs.)
+siege-de-longwy | Longwy Porte de France.JPG | La porte de France, reste des fortifications de la ville haute de Longwy
+citadelle-de-laon | FR-02-Laon10.JPG | L’entrée de la citadelle de Laon
+garde-mobile | 16 Garde mobile – Officier. Paris Musées 20230810080640.jpg | Un officier de la garde mobile, lithographie de Draner
+garde-nationale | Barricade du passage Raoul, Boulevard Richard-Lenoir.18 mars 1871. PH4142-173.jpg | Une barricade du passage Raoul, boulevard Richard-Lenoir, le 18 mars 1871
+francs-tireurs | Francs-tireurs.jpg | Paysans des Vosges faisant le coup de feu
+armee-de-l-est | Anker Bourbakis 1871.jpg | Soldats de l’armée de Bourbaki internés en Suisse, par Albert Anker (1871)
+armee-des-vosges | Doc11garib.jpg | L’état-major de Garibaldi, image populaire de la guerre de 1870-1871
+camp-de-conlie | Monument des Bretons.jpg | Le monument des Bretons, sur le site du camp de Conlie
+landwehr | Auszug der Ostpr. Landwehr 1813.JPG | Le départ de la Landwehr de Prusse-Orientale en 1813, l’année de sa création
+chemins-de-fer | 070000 - Ligne de Paris-Est à Strasbourg-Ville.png | La ligne de Paris à Strasbourg (tracé actuel)
+fusil-chassepot | Chassepot-p1000738.jpg | Un fusil Chassepot modèle 1866
+fusil-chassepot | Chassepot-diag.jpg | Le mécanisme du Chassepot
+fusil-dreyse | Zuendnadelgewehr.jpg | Le fusil à aiguille Dreyse
+mitrailleuse-de-reffye | Mitrailleuse front.jpg | Une mitrailleuse de Reffye, vue de face
+canon-krupp | C61 Saarlouis.JPG | Un canon prussien C/61 en acier Krupp, à Sarrelouis
+canon-krupp | C 64 67 01.jpg | Canon de campagne prussien de 4 livres, modèle C/64-67, en acier Krupp
+artillerie-francaise | Canon de montagne de 4 modele 1859 Le Petulant.jpg | Le canon de montagne de 4 modèle 1859 « Le Pétulant »
+ballons-du-siege | Le Neptune Nadar.jpg | Le *Neptune*, premier ballon parti de Paris assiégé, sur la place Saint-Pierre à Montmartre (photographie de Nadar)
+pigeons-voyageurs | Le Pigeon-Pierre Puvis de Chavannes-IMG 8272.JPG | *Le Pigeon*, de Pierre Puvis de Chavannes
+fortifications-de-paris | Paris PC 1859 jms.jpg | Paris et ses fortifications en 1859
+fusils-bavarois | Werder-Gewehr-M1869-Bayern-AM.033360.png | Un fusil Werder modèle 1869 de l’armée bavaroise
+idee-de-revanche | The Geography Lesson or "The Black Spot".jpg | *La Tache noire* ou *La Leçon de géographie*, d’Albert Bettannier
+tombes-et-monuments | Monument morts Mars la Tour.jpg | Le monument de Mars-la-Tour, sculpté par Frédéric Bogino
+memoire-allemande | SedanBrandenburgerTor.jpg | La porte de Brandebourg, à Berlin, pavoisée pour les vingt-cinq ans de Sedan (1895)
+peinture-de-la-guerre | Alphonse-Marie-Adolphe de Neuville - Les dernières cartouches (1873).jpg | *Les Dernières Cartouches*, d’Alphonse de Neuville (1873)
+litterature-de-la-guerre | Groupe de Médan.jpg | Le groupe de Médan
+proces-de-bazaine | Duc d'Aumale LACMA AC1992.229.118.jpg | Le duc d’Aumale, qui présida le conseil de guerre de Trianon
+# sans image : confederation-de-l-allemagne-du-nord, isolement-diplomatique, etats-allemands-du-sud, armistice-de-1871, combat-de-schirlenhof, charges-de-reichshoffen, charges-de-floing, combat-de-chatillon, prise-d-orleans, bataille-de-beaugency, bataille-de-nuits, siege-de-selestat, siege-de-montmedy, siege-de-soissons, armee-francaise-en-1870, loi-niel, commandement-francais, armee-du-rhin, armee-de-la-loire, armee-du-nord, armees-allemandes-en-campagne, effectifs-compares, intendance-et-ravitaillement, optants
+# sans image : armee-allemande-en-1870, armee-d-afrique, armee-de-chalons, assemblee-de-bordeaux, candidature-hohenzollern, capitulation-de-sedan, causes-de-la-guerre, declaration-de-guerre, delegation-de-tours, fusils-de-la-defense-nationale, journee-du-31-octobre, mobilisation-de-1870, photographie-et-presse, places-fortes-en-1870, reformes-militaires-apres-1871, siege-de-mezieres, siege-de-peronne, siege-de-verdun
+# sans image : siege-de-thionville, grand-etat-major-prussien
+traite-de-francfort | Frieden von Frankfurt am Main.jpg | Le traité de Francfort et la plume avec laquelle Bismarck le signa
+commune-de-paris | Destruction de la colonne Vendôme.jpg | Destruction de la colonne Vendôme pendant la Commune de Paris
+commune-de-paris | Colonne vendome.jpg | La colonne Vendôme renversée, mai 1871
+zouaves-pontificaux | Papal Zouave.jpg | Un zouave pontifical
+marine-en-1870 | Das Seegefecht vor Havanna am 9. November 1870. Llinks das norddeutschen Kanonenboot SMS METEOR, rechts der französische Aviso BOUVET. Illustration von Hermann Penner.jpg | Le combat de La Havane, 9 novembre 1870 : à gauche la canonnière allemande *Meteor*, à droite l’aviso français *Bouvet* (illustration de Hermann Penner)
+service-de-sante | Original Geneva Conventions.jpg | Fac-similé de la première convention de Genève (1864)
+canon-de-7 | Commune de Paris Les canons 18 mars 1871.jpg | Les canons repris à l’armée devant la mairie du 18e arrondissement, le 18 mars 1871
+juliette-dodu | Juliette Dodu — Leonore.png | Juliette Dodu
+# sans image : alsace-lorraine, indemnite-de-guerre, liberation-du-territoire, prisonniers-de-guerre
+# sans image : artillerie-de-siege, cavalerie-en-1870, france-occupee, mots-de-1870
+consequences-de-la-guerre | Breccia di Porta Pia Ademollo.jpg | La brèche de la Porta Pia : les troupes italiennes entrent dans Rome le 20 septembre 1870 (tableau de Carlo Ademollo)
+telegraphe-en-1870 | Boule de Moulin 2017.jpg | Une boule de Moulins, exposée au musée de l’Armée
+chansons-et-images | Alsace et lorraine.JPG | La partition d’« Alsace et Lorraine »
+sur-les-champs-de-bataille-d-alsace | Woerth-Château (5).jpg | Le château de Wœrth, qui abrite le musée de la bataille du 6 août 1870
+lieux-de-memoire | Musée de la Guerre de 1870 et de l'Annexion, également musée de Gravelotte.jpg | Le musée de la Guerre de 1870 et de l’Annexion, à Gravelotte
+# sans image : espionnage-et-renseignement
+# sans image : armes-blanches, idees-recues-sur-1870, uniformes-allemands, uniformes-francais
+# sans image : tactique-en-1870, bilan-de-la-guerre

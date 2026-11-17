@@ -1,0 +1,415 @@
+# 1870 — extraits de textes, lot 02 : témoignages de la guerre impériale et de l'Alsace-Lorraine
+# (la frontière, Wissembourg, Frœschwiller, le siège de Strasbourg, Metz, Sedan, la captivité).
+# Format : voir l'en-tête de build/annexes.mjs et build/CONSIGNES-TEXTES.md.
+# Textes copiés de Wikisource ou du texte intégral d'Internet Archive, relus sur les images des
+# pages du même exemplaire ; cotes Gallica prises sur data.bnf.fr.
+
+@ orcet-charges-elsasshausen
+genre: temoignage
+auteur: Gaspard Aragonnès d'Orcet
+vie: 1835-1900
+titre: « Nous avons chargé quatre fois »
+oeuvre: Frœschwiller, Sedan et la Commune racontés par un témoin
+annee: 1870
+quand: 1870-08-06
+intro: Le capitaine d'Orcet, trente-cinq ans, commande un escadron du 4e cuirassiers, dans la
+  division de Bonnemains. Le 6 août 1870, elle charge à Elsasshausen, sur un terrain coupé de
+  vergers et de houblonnières, pour couvrir la retraite de l'armée de Mac-Mahon. Le lendemain,
+  au bivouac de Saverne, il écrit à son père. Ses lettres, publiées en 1910, disent la bataille
+  telle qu'on la vit, avant que la légende des « cuirassiers de Reichshoffen » ne s'en empare.
+p: « Je ne sais si vous avez reçu la dépêche que je vous ai envoyée ce matin, ainsi qu’à Marie. Nous avons eu hier une rude bataille ; l’avantage jusqu’à midi, puis de nouveaux renforts sont arrivés à l’ennemi qui déjà battait en retraite, et nous avons été écrasés par le nombre des hommes, environ 1 contre 3, à quoi il fallait ajouter une artillerie formidable. Vous comprendrez qu’il ne m’appartient pas de vous donner d’autres détails ; cependant je peux vous dire encore que l’honneur de la journée appartient aux cuirassiers, qui ont chargé avec un entrain, une furie, et en même temps, un ordre admirable. « On dirait qu’ils sont à la manœuvre », disait le maréchal. Nos escadrons ont chargé chacun successivement, deux et même quelques-uns trois fois, et chaque fois qu’après la retraite nous avons commandé le demi-tour, soit pour repartir à la charge, soit pour attendre notre tour de marcher, nos hommes ont exécuté leur mouvement avec le même ensemble et la même régularité que s’il n’avait pas plu des balles et des sacs de mitraille.
+p: « Nous avons chargé quatre fois à travers des vergers ou des houblonnières.
+p: « Mon régiment a été le plus fatigué de la division.
+p: « En 10 minutes, nous avons perdu notre colonel, 14 officiers dont 9 de tués sur 35, et 120 hommes et 140 chevaux sur 500.
+p: « Nous étions six régiments de cuirassiers, il n’est revenu que deux colonels.
+p: « Pour moi, grâce au ciel, je n’ai rien eu, mon cheval a reçu deux balles, il s’est renversé sur moi et m’a froissé un peu les reins et beaucoup la jambe gauche, mais tout cela n’est rien. Pour mon baptême du feu je n’ai pas eu de chance, puisque nous avons un revers, mais j’ai assisté à une bataille qui efface, comme terrible, Malakoff et Solférino, au dire des officiers qui ont été à tous ces endroits.
+p: « Nous avons chargé pour couvrir la retraite et nous avons quitté le champ de bataille à 3 h. 25, nous étions entrés en ligne à 8 h. 15, montés à cheval à 7 h. à jeun ou à peu près. Nous avons fait 14 heures de retraite et nous sommes arrivés à 1 h. du matin ici, où nous bivouaquons sur les bords du canal.
+gallica: bpt6k57842744 = Frœschwiller, Sedan et la Commune racontés par un témoin : lettres et souvenirs du général vicomte Aragonnès d'Orcet, publiés par L. Le Peletier d'Aunay, Paris, Perrin, 1910
+preuve: data.bnf.fr, notice cb317269529
+source: ia froeschwillersed00arag
+pour: charges-de-reichshoffen, bataille-de-froeschwiller-woerth, cavalerie-en-1870, mac-mahon
+
+@ orcet-marche-vers-l-exil
+genre: temoignage
+auteur: Gaspard Aragonnès d'Orcet
+vie: 1835-1900
+titre: « Notre marche pédestre vers l'exil »
+oeuvre: Frœschwiller, Sedan et la Commune racontés par un témoin
+annee: 1870
+quand: 1870-09
+intro: Pris à Sedan, le capitaine d'Orcet refuse, comme une partie des officiers, de signer
+  l'engagement de ne plus servir qui lui aurait rendu la liberté. Commissaire au camp de l'île de
+  Glaire, dans la boucle d'Iges, il y reste jusqu'au 13 septembre 1870, puis part à pied avec ses
+  camarades jusqu'à Remilly, près de Metz, où un train les emmène vers Stettin. Il écrit à son
+  père le 9 octobre.
+p: « Comme je suis à peu près sûr que vous avez reçu mes lettres de Sedan, je ne vous parlerai pas de la bataille, ni de mon séjour dans l’île de Glaire, au camp des prisonniers ; je vous dirai seulement que mon séjour s’y est prolongé jusqu’au 13, et que lorsque je suis parti, je commençais, ainsi que les cinq officiers qui m’assistaient dans ma pénible mission, à en avoir assez et presque trop de l’aspect de désolation qu’offrait cette vaste plaine de boue et les hideux débris qui la recouvraient ; auquel aspect il fallait joindre une odeur fétide ; du reste, le typhus commençait. […]
+p: […] Dans le trajet de Sedan à Rémilly, qui a duré cinq jours, j’ai traversé d’abord notre champ de bataille du 31 août, premier jour des batailles de Sedan ; cela a été pour moi un douloureux spectacle ; là nous nous étions battus, il y avait peu de jours ; pas un arbre brisé, pas une maison brûlée qui ne rappelât à l’un de nous un épisode de la bataille ; les champs étaient encore jonchés de cadavres de chevaux, qu’on n’avait pas eu le temps encore d’enterrer ; sous ces tertres qu’on achevait de couvrir, dormaient nos camarades, peut-être des amis, et nous nous demandions s’ils n’étaient pas mieux que nous qui subissions l’humiliation d’une capitulation que nous aurions refusée si nous eussions été les maîtres et contre laquelle notre captivité était une protestation, puisque nous préférions un lointain et sans doute long exil à la liberté de vivre en France, prisonniers sur parole, en signant nous-mêmes la capitulation ; du reste, les Prussiens sentaient comme ceux de nous qui n’ont pas voulu signer. […]
+p: « […] Nous avons, ensuite, le quatrième jour, traversé le champ de bataille de Mars-la-Tour et Vionville (journée du 16 août) ; on voyait, comme si c’était la veille, les traces de la lutte acharnée qui s’y est livrée ; la terre était piétinée, le sol était jonché de débris de toutes sortes, casques, schakos, képis, bottes, ceinturons, armes brisées, et aussi loin que l’on pouvait voir, ce n’étaient partout que tumulus grands ou petits. On nous en a montré un qui contenait 1100 cadavres ; ils étaient là, par deux, par quatre, par cinquante, dormant tous ensemble, amis et ennemis ; […] nous nous nommions ceux de nos amis ou camarades dont nous savions la mort : ils sont peut-être là sous ces tombes que nous foulons, peut-être y en a-t-il d’autres de nos amis dont nous ignorons le sort, ils sont là plus de 40.000 Français ou Prussiens.
+gallica: bpt6k57842744 = Frœschwiller, Sedan et la Commune racontés par un témoin : lettres et souvenirs du général vicomte Aragonnès d'Orcet, publiés par L. Le Peletier d'Aunay, Paris, Perrin, 1910
+preuve: data.bnf.fr, notice cb317269529
+source: ia froeschwillersed00arag
+pour: prisonniers-de-guerre, capitulation-de-sedan, bataille-de-mars-la-tour, tombes-et-monuments
+
+@ delmas-morsbronn
+genre: temoignage
+auteur: Émile Delmas
+vie: 1834-1898
+titre: « Chaque sillon cache un cadavre »
+oeuvre: De Frœschwiller à Paris, notes prises sur les champs de bataille
+annee: 1871
+quand: 1870-08-07
+intro: Le 6 août 1870, jour de la bataille de Frœschwiller, Émile Delmas quitte Mulhouse avec
+  quinze compagnons, infirmiers volontaires du comité de secours aux blessés de la ville. Le
+  lendemain, par Haguenau, ils atteignent Morsbronn, où la brigade de cuirassiers du général
+  Michel a chargé la veille à travers le village, puis descendent avec des chars vers la ferme
+  du Bruckmühl pour évacuer les blessés. Ses notes paraissent à Paris en 1871.
+p: Le lendemain même de cette nuit funèbre nous arrivons à Morsbronn ; le village est plein de blessés que des chars de paysans commencent à évacuer sur Haguenau ; nous dirigeons nos pas dans le fond du vallon, vers la ferme du Bruckmuhl ; dans un fossé qui borde la route, des turcos sont étendus, tombés à la place où la balle les a frappés. Au milieu d’eux est un jeune capitaine ; il a la main crispée sur la garde de son épée ; ses yeux, démesurément ouverts, sont vitreux ; une écume rougeâtre s’est coagulée autour de ses lèvres. […] Plus loin, des cuirassiers dorment du dernier sommeil ; leurs chevaux, éventrés, reposent à côté d’eux ; les champs de lin portent la trace des sillons qu’ils y ont tracés ; les houblonnières sont brisées comme par un ouragan. Partout des cadavres, des casques, des cuirasses trouées par les balles ; en voici une, qui est si exactement traversée dans son centre par un boulet, qu’on peut mesurer exactement le diamètre du projectile : elle a appartenu à un officier.
+p: A mesure que nous descendons vers la ferme, les cadavres prussiens deviennent plus nombreux ; le sol est jonché de fusils et de casques en cuir bouilli, surmontés de l’aigle de Prusse. Il n’y a pas encore vingt-quatre heures que la bataille est terminée et déjà tous les sacs sont éventrés par une large entaille transversale ; c’est l’œuvre du maraudeur qui gagne ainsi du temps en s’épargnant la peine de déboucler les courroies. Des cartouches, des brosses, du linge, des lettres, des carnets, du biscuit, des sachets de riz, des gourdes en verre, recouvertes de drap noir, des manteaux souillés de boue, des éclats d’obus, des sabres, des dragonnes, des débris de toute espèce couvrent la terre ; chaque sillon cache un cadavre ; à chaque pas des chevaux morts, hideux à voir, déjà gonflés, les jambes en l’air, comme les quatre pieds d’une table renversée : de loin en loin, une éminence de terre, fraîchement remuée, indique la tombe d’un soldat ; de distance en distance des groupes armés de pelles et de pioches creusent le sol à côté d’un amas de corps ; ce sont des soldats prussiens qui font l’office de fossoyeurs et qui, pour abréger leur sinistre besogne, ont mis à réquisition des paysans des environs.
+gallica: bpt6k63658620 = De Frœschwiller à Paris : notes prises sur les champs de bataille, Paris, Alphonse Lemerre, 1871
+preuve: data.bnf.fr, notice cb34081875x
+source: ia defroeschwiller00delm
+pour: charges-de-reichshoffen, bataille-de-froeschwiller-woerth, service-de-sante, armee-d-afrique
+
+@ fischbach-nuit-du-24-aout
+genre: temoignage
+auteur: Gustave Fischbach
+vie: 1847-1897
+titre: La nuit du 24 août
+oeuvre: Le Siège et le bombardement de Strasbourg
+annee: 1870
+quand: 1870-08-24
+intro: Gustave Fischbach, vingt-trois ans, jeune avocat strasbourgeois, raconte chaque jour le
+  siège de sa ville natale dans le *Courrier du Bas-Rhin* ; il en tire ce livre, imprimé à
+  Strasbourg à l'automne 1870. Dans la nuit du 24 au 25 août, l'artillerie de siège allemande
+  écrase le centre de la ville : l'Aubette et son musée de peinture, le Temple-Neuf et la
+  bibliothèque qu'il abritait brûlent ensemble. Le « cœur léger » est le mot d'Émile Ollivier
+  le jour où la guerre fut votée.
+p: Le bombardement commença un peu après huit heures, et toutes les bouches à feu que l’ennemi avait réunies autour de la place durent vomir en même temps leurs terribles projectiles. Pas un instant de trêve ni de silence ; c’était une infernale grêle d’obus qui sifflaient avec fureur et dont les éclats, anguleux, tordus, produisaient en coupant l’air une espèce de ronflement sinistre qui glaçait de terreur. Dans les caves, les femmes, les enfants pleuraient et priaient ; les hommes étaient mornes, abattus et ne prenaient courage que dans le devoir de veiller sur leurs familles, dans le désir de sauver leurs biens ; les malades, les blessés souffraient affreusement de ce bruit épouvantable ; on se demandait quelquefois si l’on ne rêvait pas, si l’on n’était pas le jouet d’un cauchemar.
+p: Ils auraient dû être tous là, les hommes qui disaient que cette guerre était nécessaire. Ah ! pourquoi ne se trouvaient-ils point ensemble au milieu de ces horreurs tous ceux qui avaient acclamé les paroles du despote qui lançait à l’Allemagne sa provocation funeste. Ceux qui, le *cœur léger*, ricanant et la main sur la hanche, avaient dit qu’ils acceptaient toute la responsabilité de la lutte qui s’ouvrait, ceux qui pour satisfaire leur ambition, pour repaître leur soif de gain, ceux qui pour laver une honte ou un crime ont décrété ou approuvé la guerre de 1870, j’aurais voulu les voir tous souffrir avec la population de Strasbourg. Au milieu des ruines, des flammes, des morts et des mourants, j’aurais voulu les contempler, tremblants de terreur, et pour leur châtiment les forcer alors de crier : Vive la guerre !
+p: A onze heures on entendit tout à coup, entre le fracas de l’éclat des obus, le cri : Au feu ! au feu ! poussé par les gardiens de la tour de la Cathédrale. Au feu ! Temple-Neuf ! puis un peu plus tard : Au feu ! rue du Dôme ! une demi-heure après : Au feu ! Broglie ! puis encore : Au feu ! rue de la Mésange ! Au feu ! place Kléber ! Au feu ! quai Finckmatt ! Au feu ! rue du Bouclier ! Toute la nuit retentit ce cri funèbre et une immense lueur rouge couvrit la ville tout entière de son sinistre reflet.
+p: […]
+p: La Bibliothèque....., le monde entier doit pleurer sa destruction. Deux ou trois cent mille volumes, plusieurs milliers de manuscrits, plusieurs milliers d’incunables ; un *Hortus deliciarum*, par l’abbesse Herrad de Landsberg, […] Il est resté de tous ces joyaux un peu de poussière et quelques feuillets de parchemin noirci dont le vent dispersa les débris....
+gallica: bpt6k64716526 = Guerre de 1870. Le Siège et le bombardement de Strasbourg, Strasbourg, chez les principaux libraires, 1870
+preuve: data.bnf.fr, notice cb30437752j
+source: ia bub_gb_Fl5UAAAAcAAJ
+pour: siege-de-strasbourg, artillerie-de-siege, declaration-de-guerre, emile-ollivier
+
+@ fischbach-delegation-suisse
+genre: temoignage
+auteur: Gustave Fischbach
+vie: 1847-1897
+titre: « Vive la Suisse ! »
+oeuvre: Le Siège et le bombardement de Strasbourg
+annee: 1870
+quand: 1870-09-11
+intro: Le 11 septembre 1870, en plein bombardement, trois délégués venus de Zurich, de Berne et
+  de Bâle obtiennent des assiégeants le droit d'entrer dans Strasbourg pour offrir l'hospitalité
+  de la Suisse aux habitants les plus éprouvés. Gustave Fischbach, chroniqueur du siège au
+  *Courrier du Bas-Rhin*, raconte leur arrivée à la porte Nationale. Les délégués apportent aussi
+  aux assiégés la confirmation de Sedan et de la proclamation de la République.
+p: On passa une nuit anxieuse et inquiète ; le bombardement continuait avec fureur, semant la mort et l’incendie ; le faubourg de Pierres était encore en flammes. Chacun pensait à la députation des Suisses, et l’on se demandait s’il était vraiment possible que les portes s’ouvrissent pour livrer passage à des amis, à des sauveurs ; on avait peine à croire à ce bonheur, et le bruit se répandit que ceux qu’on annonçait pour le lendemain n’étaient autres que des émissaires des assiégeants, qui entreraient sous le prétexte d’offrir l’hospitalité de la Suisse et qui rendraient ensuite compte à l’ennemi de la situation de la place. Quant aux femmes et aux enfants qu’ils promettaient d’emmener, les espions prussiens trouveraient bien un moyen d’éluder la promesse. Voilà où la douleur et l’angoisse avaient conduit les esprits ; on ne pouvait plus se faire à l’idée d’un bonheur, et ceux qui s’annonçaient en amis ne pouvaient être que des traîtres !...
+p: Elle était pourtant vraie, cette fois, la bonne nouvelle qu’on avait apprise ; la joie ne devait pas se changer en déception cruelle ; c’était bien la Suisse qui intervenait.
+p: A onze heures du matin, la Commission municipale se réunit à l’Hôtel-du-Commerce, et, le Maire et les adjoints en tête, se rendit à la porte Nationale, par où les délégués devaient entrer ; une immense foule les suit, et dans toutes les rues règne une animation extraordinaire, malgré le bombardement qui durait toujours. Tout à coup le pont-levis s’abaisse, la foule se découvre, des milliers de voix poussent le cri : Vive la Suisse !... C’est la députation qui vient de paraître sous la porte.
+p: Les trois délégués du grand peuple arrivaient en se donnant le bras, paraissant en proie à une émotion bien vive. Que de larmes coulèrent quand on vit ces trois hommes mettre le pied dans la malheureuse ville ! Chacun aurait voulu leur serrer les mains et les bénir, car chacun avait une mère ou une sœur ou un enfant pour qui il avait d’incessantes craintes, et qui maintenant allaient pouvoir trouver un asile protecteur. Tous les hommes se sentaient revivre ; savoir en sûreté ceux qu’on aime, ne plus lutter que pour soi-même, cela donne une grande force et un grand courage !
+p: […]
+p: Comme ils sont grands les peuples qui s’instruisent à l’école de la liberté !
+gallica: bpt6k64716526 = Guerre de 1870. Le Siège et le bombardement de Strasbourg, 2e édition, Strasbourg, chez les principaux libraires, 1870
+preuve: data.bnf.fr, notice cb30437752j
+source: ia bub_gb_Fl5UAAAAcAAJ
+pour: siege-de-strasbourg
+
+@ fischbach-capitulation-de-strasbourg
+genre: temoignage
+auteur: Gustave Fischbach
+vie: 1847-1897
+titre: « Une larme à la hâte et.... adieu ! »
+oeuvre: Le Siège et le bombardement de Strasbourg
+annee: 1870
+quand: 1870-09-28
+intro: Le 27 septembre 1870, deux brèches ouvertes dans le rempart, le général Uhrich fait hisser
+  le drapeau blanc sur la cathédrale ; la capitulation est signée dans la nuit. Le lendemain, la
+  garnison, quelque dix-sept mille hommes, sort de la ville pour être conduite en captivité, et
+  l'armée de Werder entre dans Strasbourg. Ce sont les dernières pages du livre de Gustave
+  Fischbach, « écrit et imprimé en quinze jours au plus », dit-il, à l'automne 1870.
+p: La garnison se disposait déjà au départ. Les bataillons, les compagnies étaient formés ; les clairons sonnèrent, les tambours battirent, et on se mit en marche vers le faubourg National. Mais, en traversant les rues, par quels cris et quelles acclamations ne furent-ils pas accueillis, tous ces braves défenseurs de Strasbourg ? Quelle émotion sur tous les visages, que de larmes quand on vit passer pour la dernière fois ces vaillants soldats qui venaient de lutter avec tant d’héroïsme ! L’accablement et la douleur se lisaient dans leurs traits. Avoir tant de fois exposé sa vie, avoir bravé la mort en face pendant des journées, pendant des semaines et des mois ; avoir résisté à toutes les fatigues, et aboutir ensuite à la captivité ! Il y avait de quoi briser leurs cœurs.
+p: Si l’on n’avait écouté que leur ardeur, que leur dévouement, que leur ferme résolution, on aurait résisté encore. Mais le général Uhrich avait écouté la voix de l’humanité ; il savait que la résistance était vaine désormais, que tout le sang versé coulerait sans profit ; il ne voulait pas prolonger les souffrances d’une population malheureuse, en partie ruinée ; il avait écouté la raison aussi, car il avait vu que les remparts ne pouvaient plus être défendus ; il voulait éviter à la ville et à ses soldats les terribles conséquences de l’assaut, et, prenant conseil de son cœur, de sa conscience, de son devoir tout à la fois, il dit : « C’est assez. »
+p: Les soldats brisèrent leurs armes, les jetèrent à l’eau, les lancèrent contre les pavés, et se rendirent, vivement surexcités, au lieu de rendez-vous. Artilleurs, pontonniers, marins, chasseurs, infanterie de ligne, cavalerie, turcos, zouaves, gendarmes, douaniers, gardes mobiles, francs-tireurs, officiers, soldats, enfants de troupe, tous se pressaient dans un pêle-mêle indescriptible. La foule les entourait silencieuse et triste : c’était une séparation si cruelle ! Comme le danger qu’on partage rapproche pourtant les hommes ! On était des étrangers l’un pour l’autre ; vient un péril commun et l’on est presque frère. On sentait s’en aller des amis, une partie de soi-même, avec ces pauvres prisonniers.
+p: Tout à coup leur longue colonne s’ébranle, un dernier regard, une dernière poignée de main, une larme à la hâte et.... adieu !
+p: Puis on entendit subitement des tambours, des fifres et une marche militaire. C’étaient les troupes allemandes qui entraient à Strasbourg.
+gallica: bpt6k64716526 = Guerre de 1870. Le Siège et le bombardement de Strasbourg, 2e édition, Strasbourg, chez les principaux libraires, 1870
+preuve: data.bnf.fr, notice cb30437752j
+source: ia bub_gb_Fl5UAAAAcAAJ
+pour: siege-de-strasbourg, general-uhrich, prisonniers-de-guerre
+
+@ fay-sortie-de-metz
+genre: temoignage
+auteur: Charles Fay
+vie: 1827-1903
+titre: « Tout est fini ! »
+oeuvre: Journal d'un officier de l'armée du Rhin
+annee: 1871
+quand: 1870-10-29
+intro: Le lieutenant-colonel Charles Fay sert à l'état-major général de l'armée du Rhin. Dans la
+  nuit du 26 au 27 octobre 1870, à Frescaty, il assiste le général Jarras face au chef
+  d'état-major du prince Frédéric-Charles et écrit, « sous la dictée du vainqueur », les
+  conditions de la capitulation de Metz. Le 29, l'armée livre ses armes et ses drapeaux et sort
+  de la place sous la pluie. Fay publie son journal à Bruxelles dès 1871.
+p: *Le Ban-Saint-Martin.* — Hier soir et ce matin, tous les corps ont porté leurs armes (plus de 150,000) dans les forts, où les Prussiens viendront les prendre.
+p: Je sors de Metz, et sur ma route je vois des régiments entiers se réunir désarmés et sac au dos, prêts à se rendre dans les lignes ennemies. Officiers et soldats portent sur leurs traits les marques d’un morne désespoir ; avant de se séparer les uns des autres, et pour toujours peut-être, ils échangent de touchants adieux ; les grades ont disparu, toutes les mains se cherchent, et plus d’un laisse tomber, en se mordant les lèvres, une larme furtive.
+p: Ce matin encore, j’avais entendu résonner les sons belliqueux du clairon ; ils semblaient presque défier l’ennemi avant son entrée dans la place. Tout est muet maintenant. Armes et clairons, tambours et drapeaux sont au pouvoir de nos vainqueurs. Ils occupent les ouvrages que nos soldats ont évacués, et nous sommes sans défense sous nos propres canons.
+p: Ne pouvant pas contenir mon émotion, je presse mon cheval, et je m’avance, les yeux à demi-voilés, cherchant à ne plus rien voir de ce deuil de tout un pays. Mais au Ban-Saint-Martin, quel spectacle s’offre encore à ma vue ! La place est encombrée des chevaux et des voitures à livrer à l’ennemi ; la pluie, qui tombe sans interruption depuis plus de 48 heures, forme une épaisse flaque de boue. Le long des glacis de la place, s’acheminent, à travers la brume, les troupes de la garde ; elles se dirigent, calmes et résignées, sur la route de Nancy, pour y défiler devant nos ennemis, et chercher ensuite un bivouac humide, en attendant leur envoi en Allemagne. Cette attitude de nos soldats si éprouvés, si affaiblis par leurs souffrances et par les intempéries, me paraît comme une consolation au milieu de tant de misères. Ils sont partis sans murmures, sans injures pour leurs chefs, exacts au dernier appel, et marchant avec ordre au fatal rendez-vous.
+p: Et pendant ce temps, ô dur contraste ! l’un de nos officiers, envoyé en ville pour y remplir une pénible corvée, assistait au défilé, musique en tête, d’un régiment prussien, qui venait camper sur la Place d’armes.
+p: Vers 2 heures, un coup de canon retentit. Il annonce la prise de possession par les Prussiens des forts et de la ville de Metz. Tout est fini !
+gallica: bpt6k63660310 = Journal d'un officier de l'armée du Rhin, 4e édition revue et augmentée, Bruxelles, C. Muquardt, 1871
+preuve: data.bnf.fr, notice cb304234260
+source: ia journaldunoffic01faygoog
+pour: siege-de-metz, bazaine, armee-du-rhin, prisonniers-de-guerre
+
+@ wimpffen-nuit-de-donchery
+genre: temoignage
+auteur: Emmanuel Félix de Wimpffen
+vie: 1811-1884
+titre: La nuit de Donchery
+oeuvre: Sedan
+annee: 1871
+quand: 1870-09-01
+intro: Arrivé d'Algérie la veille de la bataille, le général de Wimpffen a revendiqué le
+  commandement en chef au matin du 1er septembre 1870, après la blessure de Mac-Mahon. Le soir,
+  Napoléon III ayant fait hisser le drapeau blanc, c'est lui qui négocie, au quartier général
+  allemand de Donchery, face à Moltke et à Bismarck. Il publie son récit en 1871, au retour de sa
+  captivité à Stuttgart : dès cette nuit-là, l'Alsace est sur la table.
+p: Le comte de Bismark, venant ensuite à parler de la paix, me dit que la Prusse avait l’intention, bien arrêtée, d’exiger non-seulement une indemnité de guerre de quatre milliards, mais encore la cession de l’Alsace et de la Lorraine allemande, « seule garantie, pour nous, ajouta-t-il, car la France nous menace sans cesse, et il faut que nous ayons, comme protection solide, une bonne ligne stratégique avancée. »
+p: Je répondis qu’on obtiendrait sans doute les milliards, mais qu’on ne céderait point une portion de territoire sans une lutte acharnée et que si la France devait y succomber et se voir forcée, pour obtenir la paix, d’abandonner l’Alsace et la Lorraine, cette paix ne serait qu’une trêve durant laquelle de l’enfant au vieillard on apprendrait le maniement des armes pour recommencer avant peu une guerre terrible dans laquelle l’un des deux peuples disparaîtrait comme nation de la carte de l’Europe.
+p: — La France, répliqua le ministre du roi Guillaume, ne nous a pas pardonné Sadowa. Quelles que soient les conditions de paix que nous lui accordions, elle ne nous pardonnera pas notre victoire sur elle-même. Elle voudra venger sa défaite, et c’est précisément parce que la lutte devra recommencer que nous devons, dès aujourd’hui, prendre des garanties sérieuses contre vous, si nous voulons que nos succès portent des fruits durables.
+p: — C’est une erreur de croire que la France voulait la guerre, répondis-je, elle y a été entraînée par une agitation toute à la surface. Notre nation est plus pacifique que vous ne le pensez, car toutes ses aspirations ont été portées vers l’industrie, le commerce, les arts et peut-être trop vers le bien-être et le luxe ; ne la forcez pas à reprendre l’habitude de ses armes. Si vous vous montrez modérés dans la victoire, si vous ne blessez pas sa fibre patriotique par une demande de cession de territoire, vous bornant à exiger une juste indemnité, vous pouvez être assuré que les deux pays vivront dans une paix sincère et durable.
+p: — Après l’effort que l’Allemagne vient de faire, elle en voudrait à la Prusse, si le roi se contentait de parole et d’argent ; elle veut des garanties matérielles qui assurent son repos, car elle ne sera peut-être pas en état de renouveler d’ici cinquante ans une pareille guerre, nécessitant de si grands sacrifices. Il faut donc, dès aujourd’hui, que vous consentiez à être prisonniers de guerre, ainsi que nous l’avons décidé.
+p: — Ou bien, ajouta M. de Moltke, dès demain au point du jour, nous recommencerons le feu.
+gallica: bpt6k6461612d = Sedan, Paris, A. Lacroix, Verboeckhoven et Cie, 1871
+preuve: data.bnf.fr, notice cb34085291g
+source: ia sedan00wimp
+pour: capitulation-de-sedan, wimpffen, bismarck, alsace-lorraine
+
+@ ducrot-sous-prefecture-de-sedan
+genre: temoignage
+auteur: Auguste-Alexandre Ducrot
+vie: 1817-1882
+titre: « Vous seul devez endosser la honte de la capitulation ! »
+oeuvre: La Journée de Sedan
+annee: 1871
+quand: 1870-09-01
+intro: Le soir du 1er septembre 1870, à la sous-préfecture de Sedan, Napoléon III a fait hisser
+  le drapeau blanc et cherche un général pour traiter. Ducrot avait reçu le commandement à l'aube,
+  après la blessure de Mac-Mahon, et ordonné la retraite vers Mézières, avant que Wimpffen ne le
+  lui reprenne en vertu d'une lettre du ministre. Il raconte la scène à la troisième personne dans
+  *La Journée de Sedan*, réponse au livre de Wimpffen parue en 1871.
+p: Vers 6 heures, l’Empereur fit appeler le général Ducrot pour lui dire que le général de Wimpffen ayant donné sa démission, il eut à prendre le commandement.
+p: Le général déclara à Sa Majesté qu’au point où en étaient les choses, il ne pouvait l’accepter. Le général de Wimpffen ayant le matin revendiqué l’honneur de diriger les opérations, il n’avait pas le droit de se récuser, maintenant qu’elles avaient mal abouti. […]
+p: L’Empereur envoya chercher le général de Wimpffen : Il était environ huit heures quand ce dernier arriva.
+p: Le général Ducrot était assis dans un coin, caché par plusieurs personnes de l’entourage.
+p: Le général de Wimpffen entre avec éclat, levant les bras au ciel et marchant à grands pas : « Sire, s’écrie-t-il, si j’ai perdu la bataille, si j’ai été vaincu, c’est que mes ordres n’ont pas été exécutés, c’est que vos généraux ont refusé de m’obéir. »
+p: A ces mots, le général Ducrot se leve comme mû par un resssort, et d’un bond se place face au général de Wimpffen : « Que dites-vous, s’écrie-t-il, et qui a refusé de vous obéir ? A qui faites-vous allusion ? Serait-ce à moi ? Hélas ! vos ordres n’ont été que trop bien exécutés. Si nous avons subi un affreux désastre, plus affreux que tout ce qu’on a pu rêver, c’est à votre folle présomption que nous le devons. Seul vous en êtes responsable, car si vous n’aviez pas arrêté le mouvement de retraite en dépit de mes instances, nous serions maintenant en sûreté à Mézières, ou du moins hors des atteintes de l’ennemi ! »
+p: Un peu surpris et décontenancé par cette brusque apostrophe du général qu’il ne savait pas là, le général de Wimpffen dit : « Eh-bien ! puisque je suis incapable, raison de plus pour que je ne conserve pas le commandement. »
+p: Ducrot. — « Vous avez revendiqué le commandement ce matin quand vous pensiez qu’il y avait honneur et profit à l’exercer ; je ne vous l’ai pas contesté... alors qu’il était peut-être contestable. Mais à l’heure qu’il est, vous ne pouvez plus le refuser. Vous seul devez endosser la honte de la capitulation ! »
+p: Le général Ducrot était très-exalté. L’Empereur et les personnes de son entourage s’interposèrent pour le calmer.
+gallica: bpt6k65503262 = La Journée de Sedan, Paris, E. Dentu, 1871
+preuve: data.bnf.fr, notice cb34085190v
+source: ia lajournedesedan00ducrgoog
+pour: capitulation-de-sedan, ducrot, wimpffen, napoleon-iii
+
+@ claretie-champ-de-bataille-de-sedan
+genre: temoignage
+auteur: Jules Claretie
+vie: 1840-1913
+titre: « Le cortège insolent des généraux vainqueurs »
+oeuvre: Le Champ de bataille de Sedan
+annee: 1871
+quand: 1870-09-02
+intro: Le journaliste parisien Jules Claretie a suivi de près la marche de l'armée de Châlons. Le
+  2 septembre 1870, jour de la capitulation, il parcourt le champ de bataille au-dessus de
+  Givonne, où les morts des deux armées n'ont pas encore été relevés, puis gagne la Belgique. Son
+  récit paraît dans la *Revue des Deux Mondes* au début de 1871 et, la même année, en volume chez
+  Lemerre. Le roi Guillaume vient de rencontrer Napoléon III au château de Bellevue.
+p: Je revois encore et n’oublierai jamais un coin sanglant de ce champ de bataille : c’était un petit ravin de terre poudreuse à teinte de brique, derrière la crête duquel s’étaient abrités nos chasseurs à pied, placés en tirailleurs. Les Prussiens les avaient abordés en cet endroit à l’arme blanche ; on s’était battu corps à corps, et nul n’avait reculé. Tous, frappés par-devant, faisant face à la mort, étaient tombés dans le ravin, chaque mourant entraînant avec lui, de ses mains crispées, un ennemi. Des soldats allemands et français semblaient s’embrasser dans le trépas après s’être enferrés les uns les autres. Au fond de ce ravin, dans la terre rouge, un tas de cadavres gisaient dans des poses étranges et terribles. Sur cet amas lugubre de corps, un beau et fier jeune homme, un Français, presque imberbe, portant encore son uniforme de Saint-Cyr, un officier de vingt ans, frappé au front, était étendu, paraissant reposer d’un sommeil grave et plein de nobles rêves. Les mains croisées sur la poitrine, ce jeune homme avait expiré comme il se fût endormi. Sa face pâle était belle comme un beau marbre, et je me rappelais, en le contemplant ainsi, cette parole de Bossuet : « il y a des occasions où la gloire de mourir vaut mieux que la victoire. »
+p: […]
+p: Le soir venait. Le ciel prenait cette teinte mélancolique du crépuscule. J’étais écœuré, brisé par les émotions d’un tel spectacle. Je jetai sur les bois de bouleaux, où l’ombre n’empêchait pas encore de voir des cadavres entassés à perte de vue, un regard d’adieu. Du côté de Sedan, le soleil couchant donnait à la Meuse un reflet rougeâtre. […] Nous redescendions lentement vers Givonne. Soudain sur le plateau nous aperçûmes, se détachant sur le ciel pâle, le cortège insolent des généraux vainqueurs : le roi, le prince royal, M. de Bismarck, et derrière eux, impassibles sur leurs chevaux comme des colosses de granit, les fameux cuirassiers blancs, épée en main et casque en tête. Le roi venait de s’entretenir avec l’empereur, son prisonnier ; maintenant il passait, inspectant le champ de bataille. […] Le vieux roi, immobile, droit et solide sur sa selle, regardait sans qu’un muscle bougeât dans son visage rouge. Je n’ai jamais mieux compris de quelle haine on doit haïr ceux qui s’appellent les conquérans, je n’ai jamais senti bouillonner plus sourdement en moi les idées de révolte contre la force que sur ce champ de carnage, devant ces morts sublimes et à deux pas de ce roi qui passait silencieux et religieusement satisfait de son œuvre, tandis que son ministre, botté et casqué, souriait.
+gallica: bpt6k65181312 = Le Champ de bataille de Sedan (1er septembre 1870), Paris, A. Lemerre, 1871
+preuve: data.bnf.fr, notice cb34085131b
+source: ws Souvenirs et impressions de la guerre de 1870 - Le champ de bataille de Sedan
+pour: bataille-de-sedan, capitulation-de-sedan, guillaume-ier, bismarck
+
+@ fay-silence-de-plappeville
+genre: temoignage
+auteur: Charles Fay
+vie: 1827-1903
+titre: Le silence de Plappeville
+oeuvre: Journal d'un officier de l'armée du Rhin
+annee: 1871
+quand: 1870-08-18
+intro: Le 18 août 1870, l'armée du Rhin se bat sur dix kilomètres, du Point-du-Jour à
+  Saint-Privat-la-Montagne, contre deux armées allemandes ; la Garde prussienne y est décimée,
+  mais les Saxons tournent l'aile droite de Canrobert. Le lieutenant-colonel Fay est au quartier
+  général de Bazaine, à Plappeville, loin derrière la ligne : il note ce qu'on y entendit, et ce
+  qu'on n'y entendit pas, de la plus grande bataille de la guerre.
+p: Tout se maintint ainsi jusqu’à 6 heures et demie du soir ; le maréchal Bazaine, qui n’avait été que de Plappeville à Saint-Quentin, pour voir le tir dirigé sur Jussy, croyait assurément la bataille gagnée. De son quartier-général, pas plus que du plateau de Saint-Quentin, du reste, on n’entendait le canon de Saint-Privat ; un peu de fumée dépassait quelquefois la cime des bois de Châtel, et sur le plateau de Rozerieulles, de rares coups de feu paraissaient indiquer que la lutte était terminée. […]
+p: Le maréchal était même rentré à son quartier-général de Plappeville, sans songer à franchir au galop les six kilomètres, qui le séparaient d’Amanvillers. On ne peut, en vérité, donner d’autre raison de son éloignement d’un champ de bataille, sur lequel se trouvaient le Roi, le général de Moltke et deux armées prussiennes, qu’en disant simplement qu’il ne dut pas se douter de l’importance de cette bataille.
+p: Cependant, rassuré par ce calme extraordinaire du commandant en chef, et n’entendant d’ailleurs, à cause de la direction du vent, absolument rien de l’effroyable canonnade du plateau d’Amanvillers, chacun se félicitait déjà autour du maréchal du succès de la journée, lorsqu’on apprit tout à coup par les aides-de-camp du maréchal Canrobert et du général de Ladmirault, accourus à Plappeville, que notre droite, assaillie, tournée par des forces supérieures, avait été écrasée, rejetée en arrière, et qu’elle battait précipitamment en retraite sur le camp retranché.
+p: Que s’était-il donc passé depuis une heure ? Rien que l’on n’eût dû prévoir : le mouvement tournant, suffisamment indiqué dès midi sur Roncourt, s’était exécuté ; il avait amené les résultats que l’on pouvait redouter, et qu’il eût été surtout facile de conjurer, si le commandant en chef se fut trouvé là avec la garde tout entière, et les batteries de réserve. Doué d’un sangfroid admirable, il eût certainement arrêté tout désordre, assuré la retraite, peut-être même décidé la victoire.
+p: Le XIIe saxons était enfin arrivé à Roncourt, l’avait enlevé et s’était présenté ensuite devant Saint-Privat, par le Nord, tandis que la garde renouvelait son attaque par l’Ouest et par le Sud de ce village, et que le Xe corps envoyait son artillerie pour soutenir cet assaut, de concert avec les batteries du XIIe corps et de la garde. Devant une attaque aussi formidable, le corps du maréchal Canrobert, après avoir épuisé ses munitions, avait dû évacuer le village devenu intenable, et avait été rejeté en désordre, vers 7 heures, sur les bois de Saulny par la route de Woippy, tandis que le 100e de ligne, la division du Barail, et quelques batteries qui avaient pu se réapprovisionner, protégeaient, à l’entrée du bois, cette retraite précipitée.
+gallica: bpt6k63660310 = Journal d'un officier de l'armée du Rhin, 4e édition revue et augmentée, Bruxelles, C. Muquardt, 1871
+preuve: data.bnf.fr, notice cb304234260
+source: ia journaldunoffic01faygoog
+pour: bataille-de-gravelotte, bazaine, canrobert, commandement-francais
+
+@ maccormac-ambulance-de-sedan
+genre: temoignage
+auteur: William MacCormac
+vie: 1836-1901
+traducteur: Georges Morache (1837-1906)
+titre: « Bazeilles formait comme un immense bûcher »
+oeuvre: Souvenirs d'un chirurgien d'ambulance
+annee: 1871
+quand: 1870-09-01
+intro: William MacCormac, chirurgien irlandais de Belfast et de Londres, sert dans l'ambulance
+  anglo-américaine formée à Paris par le docteur américain Marion Sims, qu'il dirigera ensuite.
+  Installée à Sedan, à la caserne d'Asfeld, à la veille de la bataille, elle soigne Français et
+  Allemands sous le feu. Son récit paraît à Londres en 1871 ; un médecin militaire français,
+  Georges Morache, le traduit l'année suivante.
+p: Le lendemain, 1er septembre, dès l’aurore, nous étions réveillés par une forte canonnade, et aussitôt que le jour nous permit de distinguer les objets, nous pûmes constater que tout était dissimulé par un épais brouillard. […]
+p: En face de nous, à environ 2 kilomètres, nous distinguions très-bien les batteries prussiennes qui, de dix heures du matin à quatre heures du soir, firent littéralement pleuvoir des obus sur les lignes françaises en arrière de l’hôpital ; elles se replièrent et ce fut alors comme une tempête de projectiles qui se croisaient au-dessus de nos têtes. Les grosses pièces de la citadelle s’étaient mises aussi à tirer tout près de nous, à tout cela venait se joindre le crépitement de la fusillade accompagné par le bruit de déchirure de la mitrailleuse, en sorte qu’au milieu de ce vacarme infernal nous vîmes bientôt que notre ambulance n’était pas tout à fait à l’abri du danger. Les éclats des projectiles prussiens venaient de temps en temps frapper la maison ; un obus éclata même dans l’intérieur, tuant et blessant plusieurs personnes, parmi lesquelles deux de nos infirmiers. […]
+p: Durant toute la journée, les blessés ne cessaient d’arriver, à pied ou sur des brancards ; nos collègues chargés de l’entrée avaient fort à faire, car sans compter les blessés, un grand nombre de soldats démoralisés venaient demander asile. Plus de 4,000 hommes de toutes armes s’étaient réunis dans la cour de la caserne, et quand vint la nuit, ils se couchèrent tous, avec leurs armes à leur côté, et en rangs si serrés que l’on ne pouvait traverser la cour sans marcher sur quelqu’un ; des lumières errantes çà et là ajoutaient à l’étrangeté de cette scène. […]
+p: […] En regardant dans la campagne et la ville on apercevait plusieurs incendies, au loin Bazeilles formait comme un immense bûcher et dans le silence de la nuit l’on entendait, par moments, le bruit sourd des milliers de soldats réfugiés dans la ville. […] Un colonel, qui avait été à Wissembourg et Wœrth, nous racontait que, voyant tout perdu, il avait brûlé l’aigle de son régiment et la croix dont elle était décorée pour que ces trophées ne tombassent point aux mains de l’ennemi. Ses officiers et lui nous disaient, les larmes aux yeux, que leur patrie avait été déshonorée, perdue par suite d’une imprévoyance injustifiable.
+gallica: bpt6k5612767x = Souvenirs d'un chirurgien d'ambulance, traduit par le Dr G. Morache, Paris, J.-B. Baillière et fils, 1872
+preuve: data.bnf.fr, notice cb30851696j
+source: ia b2128958x
+pour: bataille-de-sedan, service-de-sante, bataille-de-bazeilles
+
+@ rossel-devant-bazaine
+genre: temoignage
+auteur: Louis Rossel
+vie: 1844-1871
+titre: « Qu'est-ce que c'est que cette tenue ! »
+oeuvre: Papiers posthumes
+annee: 1871
+quand: 1870-10
+intro: Louis Rossel, vingt-six ans, capitaine du génie, enrage de voir l'armée immobile dans Metz.
+  En septembre et octobre 1870, il cherche des généraux prêts à écarter Bazaine plutôt que de
+  capituler ; dénoncé, il est convoqué par le maréchal. Il raconte l'entrevue dans une lettre à
+  son père écrite au camp de Nevers en février 1871, après son évasion. Rallié à la Commune, il
+  est fusillé à Satory le 28 novembre 1871 ; ses papiers paraissent peu après.
+p: J’arrivai au quartier général juste comme Boyenval en sortait avec un officier supérieur ; il paraissait récriminer assez vivement. Je l’appelai ; il me dit seulement que le maréchal voulait me parler. Je m’aperçus alors que son compagnon était un officier général. Je sus après que ce général l’avait remis aux mains d’un officier de gendarmerie, qui le conduisit incontinent au fort Saint-Quentin.
+p: Je fus introduit dans ce vaste cabinet, qui est au fond du couloir à droite. Il était bien éclairé ; outre le maréchal étaient présents ses deux officiers d’ordonnance de service (Mornay-Soult et un grand cuirassier). Le maréchal est plutôt petit que grand et d’un embonpoint ordinaire. En me voyant avec mes bottes jaunes et ma vareuse militaire, il s’écria avec violence : « Qu’est-ce que c’est que cette tenue ! Qu’est-ce que c’est que cette tenue ! » en me coupant la parole comme je voulais répondre. « Je ne comptais pas, répondis-je, avoir l’honneur d’être admis devant Votre Excellence. » Il parut subitement calmé. J’étais au milieu du bureau, pas loin de l’entrée, dans la position militaire. Le maréchal se promenait ; les deux officiers étaient adossés à la cheminée. Le maréchal me questionna avec calme, peut-être avec une légère irritation ; je lui répondis avec pleine possession de moi-même, parlant très-nettement, et même à un certain moment je m’aperçus que le ton de ma voix était beaucoup plus élevé que celui de la conversation ordinaire.
+p: […]
+p: « Qu’allez-vous faire dans les camps ? » Telle fut la première question du maréchal, question assez vague pour qu’il me fût nécessaire de solliciter des explications avant de répondre ; mais le maréchal ne voulant pas préciser et disant qu’il n’y avait rien à préciser, je répondis que je me promenais parfois hors de la ville, et que j’en avais toujours usé ainsi.
+p: « Et de quoi parlez-vous en vous promenant ? » — « Je parle de toutes sortes de choses, de la situation actuelle, de ce qui se passe. » Il voulut que je définisse ; et vraiment c’était difficile, sinon impossible, car on entend et on dit tant de choses, qu’il y en aurait, lui dis-je, pour jusqu’à demain à les répéter. « Eh bien, nous resterons jusqu’à demain, » dit le maréchal.
+gallica: bpt6k29853b = Papiers posthumes, recueillis et annotés par Jules Amigues, Paris, E. Lachaud, 1871
+preuve: data.bnf.fr, notice cb30016676x
+source: ia papiersposthume00rossgoog
+pour: louis-rossel, bazaine, siege-de-metz
+
+@ monod-empereur-a-raucourt
+genre: temoignage
+auteur: Gabriel Monod
+vie: 1844-1912
+titre: « A la boucherie ! »
+oeuvre: Allemands et Français, souvenirs de campagne
+annee: 1872
+quand: 1870-08-30
+intro: Le jeune historien Gabriel Monod, protestant, sert comme infirmier volontaire dans une
+  ambulance partie de Paris le 19 août 1870. Renvoyée de Saint-Privat par l'état-major prussien,
+  elle rejoint l'armée de Châlons et s'installe le 27 août à Raucourt, dans les Ardennes, où
+  Napoléon III passe la nuit du 29 au 30. Le lendemain, le 5e corps du général de Failly est
+  surpris à Beaumont. Monod publie ses souvenirs en 1872.
+p: L’empereur n’osa pas se montrer en public. Il resta toute l’après-midi du 29 dans sa chambre, au rez-de-chaussée de la maison où il logeait. De temps en temps il écartait le rideau de la fenêtre et appuyait son front à la vitre, mais sans regarder dans la rue. Il était pâle, l’œil éteint, la moustache et les cheveux très-blancs. Deux cent-gardes étaient à la porte, aussi brillants que des soldats d’opéra ; les officiers d’état-major, étincelants sous leurs costumes chamarrés, causaient et riaient, avec une gaieté qu’ils affectaient sans doute, car nul ne se faisait d’illusions sur ce qui allait se passer. Le 30 l’armée reprit sa marche. Quand le matin, le soleil perçant les brumes, éclaira la vallée toute scintillante de rosée, lorsque la diane sonna, lorsque tout le camp se remplit des hennissements des chevaux, des murmures des voix, de l’éclat bigarré des uniformes, on croyait revoir la belle, la brillante, l’héroïque armée française qu’on connaissait naguère. Mais quand commença le défilé, l’heureuse impression s’évanouit. C’était une cohue en désordre, un troupeau humain s’en allant stupidement à l’abattoir. J’entends encore des zouaves à qui nous demandions où ils allaient, crier tout d’une voix : « A la boucherie ! à la boucherie ! » — A onze heures, l’empereur monta à cheval ; si mes yeux ne m’ont pas trompé, il avait teint sa moustache et s’était fardé. Deux ou trois paysans hasardèrent timidement un « Vive l’empereur ! » aussitôt réprimé par les énergiques et grossiers jurons des soldats. Napoléon III traversa lentement la foule qui encombrait la place ; il saluait à droite et à gauche ; pas un salut, pas un cri ne lui répondit. […]
+p: Une demi-heure après le départ de l’empereur, commençait la canonnade qui mit en déroute le corps du général de Failly.
+gallica: bpt6k6365962b = Allemands et Français. Souvenirs de campagne, 2e édition, Paris, Sandoz et Fischbacher, 1872
+preuve: data.bnf.fr, notice cb34082068p
+source: ia allemandsetfran00monogoog
+pour: bataille-de-beaumont, napoleon-iii, armee-de-chalons, service-de-sante
+
+@ wimpffen-drapeau-blanc
+genre: temoignage
+auteur: Emmanuel Félix de Wimpffen
+vie: 1811-1884
+titre: « Je refuse de négocier »
+oeuvre: Sedan
+annee: 1871
+quand: 1870-09-01
+intro: Vers quatre heures de l'après-midi, le 1er septembre 1870, l'armée de Châlons reflue dans
+  Sedan sous les obus. Le général de Wimpffen, commandant en chef depuis le matin, veut encore
+  percer vers Carignan par Balan et a écrit à Napoléon III de venir se mettre à la tête des
+  troupes. L'empereur, lui, a fait hisser le drapeau blanc. Wimpffen raconte, pour sa défense,
+  comment il l'apprit ; Ducrot et Lebrun ont contesté la portée de sa dernière tentative.
+p: Un peu avant quatre heures j’atteignis la porte de Sedan. Là je fus enfin rejoint par un officier de la maison de l’Empereur, M. Pierron, qui, au lieu de m’annoncer l’arrivée du souverain que j’attendais avec une impatience fébrile, me remit une lettre de Sa Majesté et me prévint que le drapeau blanc flottait sur les remparts, que j’étais chargé d’aller parlementer avec l’ennemi.
+p: Cette nouvelle fut pour moi un coup de foudre, mais ne reconnaissant pas à l’Empereur le droit de faire arborer le drapeau parlementaire, je répondis à son messager :
+p: — Je ne prendrai pas connaissance de la lettre, je refuse de négocier.
+p: En vain, M. Pierron insista ; je pris la lettre de Sa Majesté, et sans l’ouvrir, la tenant à la main, j’entrai en ville, appelant les soldats au combat, leur disant : — Il faut me suivre pour nous ouvrir un passage, si vous ne voulez pas être dans l’obligation de déposer les armes et de vous rendre prisonniers.
+p: Je parvins ainsi jusqu’à la place de Turenne.
+p: Des officiers et des soldats que je ne pouvais entraîner, cherchaient à se disculper de ne pas m’obéir, en me montrant le drapeau blanc qui flottait sur Sedan, par ordre de l’Empereur.
+p: Les moments étaient précieux pour opérer la trouée, je savais des milliers d’hommes aux prises sur les hauteurs. Je revins entraînant environ deux mille soldats de tous les corps, deux bouches à feu. A la tête de cette poignée de braves gens et dans une lutte hors de proportion, je m’emparai de l’ensemble du faubourg, jusqu’au delà de l’église de Balan. Ceci se passait vers cinq heures. Je pus me maintenir quelque temps, sans éprouver de retour offensif de la part des Bavarois.
+p: Ce fait n’est-il pas un indice certain que si l’Empereur, au lieu de faire arborer le drapeau parlementaire, était venu se joindre à moi, nous eussions fait la trouée que je voulais tenter d’opérer ?
+gallica: bpt6k6461612d = Sedan, Paris, A. Lacroix, Verboeckhoven et Cie, 1871
+preuve: data.bnf.fr, notice cb34085291g
+source: ia sedan00wimp
+pour: bataille-de-sedan, wimpffen, napoleon-iii, capitulation-de-sedan
+
+@ orcet-nuit-de-bazeilles
+genre: temoignage
+auteur: Gaspard Aragonnès d'Orcet
+vie: 1835-1900
+titre: « C'était Bazeilles qui brûlait »
+oeuvre: Frœschwiller, Sedan et la Commune racontés par un témoin
+annee: 1870
+quand: 1870-09-01
+intro: Dans la nuit du 1er au 2 septembre 1870, le capitaine d'Orcet, du 4e cuirassiers, fait
+  partie de la petite escorte d'officiers qui accompagne le général de Wimpffen au quartier
+  général allemand de Donchery, où Moltke dicte ses conditions. Au retour vers Sedan, l'horizon
+  est rouge : Bazeilles, pris le matin par les Bavarois, achève de brûler. Il rédige ce récit
+  quelques semaines plus tard, prisonnier à Stettin ; Ducrot en cite une partie dès 1871.
+p: La nuit était profonde et, comme je l’ai déjà dit, toujours silencieuse ; l’horizon était rouge de flammes : c’était Bazeilles qui brûlait […]. Rien ne saurait rendre le triste aspect de cet incendie méthodique occupant une longueur de près de 1000 mètres ; le feu exerçait son œuvre également en silence et ce silence ajoutait encore à l’horreur du tableau. Il me semble difficile de résumer les sentiments qui m’agitaient, tant ils étaient multiples. C’était de la rage de me sentir prisonnier, de ne pouvoir plus combattre ces hommes qui avaient de sang-froid allumé cet incendie sans nom, comme pour nous donner un avant-goût du sort qu’ils réservaient à notre malheureux pays ; c’était la haine qui commençait à envahir mon cœur pour toujours ; c’était parfois du découragement, c’était une désillusion profonde ; moi qui avais tant cru à l’intrépidité de l’armée française, je pensais à ceux qui tout près de nous, ici dans la plaine, là-bas sur les hauteurs, dormaient leur dernier sommeil ; ceux-là sont plus heureux que nous, me disais-je par moment, et puis, je me demandais s’il n’y avait pas là quelqu’un de mes amis râlant tout seul au milieu des cadavres, appelant en vain une main compatissante pour l’aider à mourir plus doucement ; parfois aussi, il me revenait une croyance de mon enfance, et quand il s’élevait un de ces souffles soudains du vent de la nuit, il me semblait que c’était les âmes de mes camarades morts à côté de moi, qui revenaient me dire un dernier adieu, et me crier vengeance. […]
+p: « Cette nuit-là et les jours suivants, j’accusai violemment le général de Wimpfen d’avoir capitulé, mais, plus tard, lorsque, renfermé dans l’île de Glaire avec toute l’armée prisonnière, j’ai vu l’état d’indiscipline et de démoralisation où elle était tombée, j’ai compris que Wimpfen n’aurait pas trouvé, en dehors des officiers, 1000 hommes décidés à tenter une percée de vive force, et que par conséquent toute tentative de ce genre eût été vaine et même dérisoire.
+gallica: bpt6k57842744 = Frœschwiller, Sedan et la Commune racontés par un témoin : lettres et souvenirs du général vicomte Aragonnès d'Orcet, publiés par L. Le Peletier d'Aunay, Paris, Perrin, 1910
+preuve: data.bnf.fr, notice cb317269529
+source: ia froeschwillersed00arag
+pour: bataille-de-bazeilles, capitulation-de-sedan, wimpffen, idee-de-revanche
+
+@ risler-wagons-a-charbon
+genre: temoignage
+auteur: Charles Risler et Gaston Laurent-Atthalin
+vie: 1848-1923
+titre: Trois jours en wagons à charbon
+oeuvre: Neuf-Brisach, souvenirs de siège et de captivité
+annee: 1873
+quand: 1870-11-12
+intro: Charles Risler (1848-1923) et Gaston Laurent-Atthalin (1848-1912), vingt-deux ans tous deux,
+  servent dans la garde mobile du Haut-Rhin, l'un à l'artillerie, l'autre comme lieutenant
+  d'infanterie, pendant le siège de Neuf-Brisach. La place capitule le 10 novembre 1870 ; le
+  lendemain, la garnison passe le Rhin en barques sous les yeux des familles accourues, puis
+  marche de nuit jusqu'au chemin de fer badois. Ils publient leur récit en 1873.
+p: Sur notre trajet nous eûmes à traverser plusieurs villages allemands. La population ne se tenait plus de joie, les pompiers étaient sous les armes, les maisons étaient illuminées, de grands feux de joie flambaient à l’entrée et à la sortie des villages.
+p: Après une marche forcée de seize heures, fatigués des huées de la population badoise, épuisés et transis par les neiges, nous arrivâmes au lieu d’embarquement.
+p: Avant de nous faire monter dans le train qui devait nous transporter, on voulut bien nous donner quelque nourriture. Les officiers furent tenus de payer leur modeste souper. C’était le samedi 12 novembre, à deux heures du matin ; on nous entassa dans un train immense, mais presque entièrement composé de wagons à charbon découverts. La neige continuait à tomber, un vent glacial soufflait ; et notre trajet devait durer trois jours et trois nuits consécutifs. Ajoutons qu’il était impossible aux prisonniers de se coucher tant ils étaient serrés.
+p: Durant ce long voyage, dont on nous taisait la destination, on ne nous donna que deux fois une mauvaise pâtée. Souvent pour laisser passer d’autres trains, on nous faisait stationner en pleine campagne. A ce moment les habitants des villages voisins accouraient curieux et âpres au gain. Ils vendaient à nos malheureux soldats quelques miches de pain. Beaucoup d’entre eux manquant d’argent et mourant de faim, donnaient leur couverture en échange de quelques mauvais morceaux et grelottaient ensuite sous leurs légers vêtements dans ces wagons découverts.
+p: […] Les souffrances de ce long trajet à travers un pays glacial, dans des wagons découverts, avaient été atroces pour nos malheureux soldats, souvent à peine vêtus, et tous épuisés par cinq semaines de siège.
+gallica: bpt6k6539431z = Neuf-Brisach, souvenirs de siège et de captivité, 2e édition, Paris, Berger-Levrault, 1881
+preuve: data.bnf.fr, notice cb34082814z
+source: ia laguerreenalsac00attgoog
+pour: prisonniers-de-guerre, siege-de-neuf-brisach, garde-mobile, etats-allemands-du-sud
+
+@ delmas-gravelotte
+genre: temoignage
+auteur: Émile Delmas
+vie: 1834-1898
+titre: Les chevaux de Gravelotte
+oeuvre: De Frœschwiller à Paris, notes prises sur les champs de bataille
+annee: 1871
+quand: 1870-08
+intro: Après Frœschwiller, les infirmiers volontaires de Mulhouse suivent la guerre en Lorraine.
+  Quelques jours après la bataille du 18 août 1870, munis d'un laissez-passer du quartier
+  général prussien de Doncourt, ils traversent le plateau où se sont livrées les batailles de
+  Rezonville et de Saint-Privat et atteignent Gravelotte à la tombée du jour. Émile Delmas note
+  ce qu'il reste d'un champ de bataille, et comment le vainqueur le nettoie.
+p: […] nous arrivons à Gravelotte à la nuit tombante. Le champ de bataille n’est encore qu’imparfaitement nettoyé : au bord des routes, des arbres brisés par les obus ; sur les champs, ces débris émiettés, fouillis d’armes brisées, de sacs éventrés, de vêtements souillés, de livrets déchirés, de plaques, de torsades, de bidons, de harnais ; quelques ruines fumantes ; […] tels sont les vestiges de la bataille qui a ensanglanté cette extrémité de la ligne. Dans une prairie, à l’entrée du village, des soldats achèvent les chevaux blessés ; c’est l’heure de l’exécution, qui présente, du reste, un progrès sur le mode que nous avons vu employer à Frœschwiller : pour supprimer les accidents du tir à distance, on a remplacé le fusil par le revolver ; les chevaux sont amenés au bord de la fosse préparée d’avance ; l’exécuteur appuie froidement le pistolet sur la tempe de l’animal ; le coup part, et la pauvre bête roule, foudroyée, dans la fosse. C’est plus impitoyable peut-être, mais plus pratique à coup sûr, et ce peuple, dans les plus petits détails de la guerre, ne sacrifie rien à la sentimentalité ; depuis le soldat jusqu’au général, le positif est l’idole ou la loi de tout bon Allemand, et notre pitié chevaleresque ferait hausser les épaules à ces robustes logiciens. Ceux que nous voyons en ce moment à l’œuvre à l’entrée du village achèvent les chevaux, non point par cruauté (l’exécuteur est peut-être un rimeur de brasserie qui a chanté son noir coursier dans une ode ampoulée), mais parce qu’ils pourraient guérir et rendre quelque jour un service à nos paysans.
+gallica: bpt6k63658620 = De Frœschwiller à Paris : notes prises sur les champs de bataille, Paris, Alphonse Lemerre, 1871
+preuve: data.bnf.fr, notice cb34081875x
+source: ia defroeschwiller00delm
+pour: bataille-de-gravelotte, cavalerie-en-1870, service-de-sante

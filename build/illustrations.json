@@ -1,0 +1,2629 @@
+{
+ "images": {
+  "guerre-de-1870": {
+   "f": "img/guerre-de-1870.webp",
+   "v": "0e5c5509ba",
+   "w": 560,
+   "h": 414,
+   "l": "La proclamation de l’Empire allemand à Versailles, le 18 janvier 1871, peinte par Anton von Werner (version de 1885)",
+   "cr": "Anton von Werner, 1885",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Anton von Werner",
+   "src": "https://commons.wikimedia.org/wiki/File:A_v_Werner_-_Kaiserproklamation_am_18_Januar_1871_(3._Fassung_1885).jpg",
+   "pour": [
+    "guerre-de-1870"
+   ],
+   "sig": "A v Werner - Kaiserproklamation am 18 Januar 1871 (3. Fassung 1885).jpg||560|74"
+  },
+  "second-empire-en-1870": {
+   "f": "img/second-empire-en-1870.webp",
+   "v": "3dd56a07e4",
+   "w": 560,
+   "h": 401,
+   "l": "Le comité central plébiscitaire de 1870 (gravure)",
+   "cr": "auteur inconnu, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Comit%C3%A9_central_pl%C3%A9biscitaire_1870.jpg",
+   "pour": [
+    "second-empire-en-1870"
+   ],
+   "sig": "Comité central plébiscitaire 1870.jpg||560|74"
+  },
+  "depeche-d-ems": {
+   "f": "img/depeche-d-ems.webp",
+   "v": "ffbb8a59be",
+   "w": 500,
+   "h": 394,
+   "l": "Guillaume Ier à Ems, avec le prince Nicolas-Guillaume de Nassau",
+   "cr": "auteur inconnu, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Anonymous Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Wilhelm_I_at_Bad_Ems.jpg",
+   "pour": [
+    "depeche-d-ems"
+   ],
+   "sig": "Wilhelm I at Bad Ems.jpg||560|74"
+  },
+  "quatre-septembre": {
+   "f": "img/quatre-septembre.webp",
+   "v": "cef4548bc3",
+   "w": 560,
+   "h": 374,
+   "l": "La proclamation de la République, haut-relief de Léopold Morice au monument de la place de la République, à Paris",
+   "cr": "Roi Boshi, 2011",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Roi Boshi",
+   "src": "https://commons.wikimedia.org/wiki/File:Proclamation_de_la_R%C3%A9publique.jpg",
+   "pour": [
+    "quatre-septembre"
+   ],
+   "sig": "Proclamation de la République.jpg||560|74"
+  },
+  "gouvernement-de-la-defense-nationale": {
+   "f": "img/gouvernement-de-la-defense-nationale.webp",
+   "v": "14af1761a4",
+   "w": 560,
+   "h": 432,
+   "l": "Les membres du gouvernement de la Défense nationale, 4 septembre 1870",
+   "cr": "auteur inconnu, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_Gouvernement_de_la_d%C3%A9fense_nationale.jpg",
+   "pour": [
+    "gouvernement-de-la-defense-nationale"
+   ],
+   "sig": "Le Gouvernement de la défense nationale.jpg||560|74"
+  },
+  "entrevue-de-ferrieres": {
+   "f": "img/entrevue-de-ferrieres.webp",
+   "v": "79839b106a",
+   "w": 500,
+   "h": 772,
+   "l": "Jules Favre, photographié par Pierre Petit",
+   "cr": "Pierre Petit, 1860",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Pierre Petit",
+   "src": "https://commons.wikimedia.org/wiki/File:Jules_Favre_par_Pierre_Petit.jpg",
+   "pour": [
+    "entrevue-de-ferrieres"
+   ],
+   "sig": "Jules Favre par Pierre Petit.jpg||560|74"
+  },
+  "guerre-a-outrance": {
+   "f": "img/guerre-a-outrance.webp",
+   "v": "39caffa43a",
+   "w": 500,
+   "h": 579,
+   "l": "Léon Gambetta, photographié par Étienne Carjat",
+   "cr": "Étienne Carjat, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Étienne Carjat",
+   "src": "https://commons.wikimedia.org/wiki/File:Gambetta_par_%C3%89tienne_Carjat_(photo_recadr%C3%A9e).jpg",
+   "pour": [
+    "guerre-a-outrance"
+   ],
+   "sig": "Gambetta par Étienne Carjat (photo recadrée).jpg||560|74"
+  },
+  "proclamation-de-l-empire-allemand": {
+   "f": "img/proclamation-de-l-empire-allemand.webp",
+   "v": "f7ca5b8308",
+   "w": 560,
+   "h": 337,
+   "l": "*La Proclamation de l’Empire allemand*, d’Anton von Werner : la galerie des Glaces, le 18 janvier 1871",
+   "cr": "Anton von Werner, 1877",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Anton von Werner",
+   "src": "https://commons.wikimedia.org/wiki/File:Die_Kaiserproklamation_1871_(Anton_von_Werner).jpg",
+   "pour": [
+    "proclamation-de-l-empire-allemand"
+   ],
+   "sig": "Die Kaiserproklamation 1871 (Anton von Werner).jpg||560|74"
+  },
+  "protestation-de-bordeaux": {
+   "f": "img/protestation-de-bordeaux.webp",
+   "v": "b5745e6157",
+   "w": 500,
+   "h": 636,
+   "l": "Émile Küss, maire de Strasbourg, mort à Bordeaux le 1er mars 1871",
+   "cr": "A. Meyer, 1884",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "A. Meyer",
+   "src": "https://commons.wikimedia.org/wiki/File:Emile_K%C3%BCss.jpg",
+   "pour": [
+    "protestation-de-bordeaux"
+   ],
+   "sig": "Emile Küss.jpg||560|74"
+  },
+  "preliminaires-de-versailles": {
+   "f": "img/preliminaires-de-versailles.webp",
+   "v": "f8e41be8f7",
+   "w": 560,
+   "h": 818,
+   "l": "Les préliminaires de paix au *Reichsgesetzblatt*, le journal des lois de l’Empire allemand (1871)",
+   "cr": "Official Juridical Document",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "official juridical document",
+   "src": "https://commons.wikimedia.org/wiki/File:Deutsches_Reichsgesetzblatt_1871_026_215.jpg",
+   "pour": [
+    "preliminaires-de-versailles"
+   ],
+   "sig": "Deutsches Reichsgesetzblatt 1871 026 215.jpg||560|74"
+  },
+  "napoleon-iii": {
+   "f": "img/napoleon-iii.webp",
+   "v": "8c8eeeba08",
+   "w": 560,
+   "h": 813,
+   "l": "Napoléon III dans son cabinet des Tuileries, par Hippolyte Flandrin (1862)",
+   "cr": "Hippolyte Flandrin, 1862",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Hippolyte Flandrin",
+   "src": "https://commons.wikimedia.org/wiki/File:Napol%C3%A9on_III_par_Jean_Hippolyte_Flandrin.jpg",
+   "pour": [
+    "napoleon-iii"
+   ],
+   "sig": "Napoléon III par Jean Hippolyte Flandrin.jpg||560|74"
+  },
+  "imperatrice-eugenie": {
+   "f": "img/imperatrice-eugenie.webp",
+   "v": "bd2c46e694",
+   "w": 560,
+   "h": 772,
+   "l": "L'impératrice Eugénie",
+   "cr": "After Franz Xaver Winterhalter, 1855",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "After Franz Xaver Winterhalter",
+   "src": "https://commons.wikimedia.org/wiki/File:Empress_Eug%C3%A9nie_in_Court_Dress_(after_Winterhalter,_Compi%C3%A8gne_IMP25).jpg",
+   "pour": [
+    "imperatrice-eugenie"
+   ],
+   "sig": "Empress Eugénie in Court Dress (after Winterhalter, Compiègne IMP25).jpg||560|74"
+  },
+  "emile-ollivier": {
+   "f": "img/emile-ollivier.webp",
+   "v": "a82a9a9853",
+   "w": 500,
+   "h": 752,
+   "l": "Émile Ollivier",
+   "cr": "Pierre-Louis Pierson, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Pierre-Louis Pierson",
+   "src": "https://commons.wikimedia.org/wiki/File:%C3%89mile_Ollivier_by_Pierre-Louis_Pierson,_1870.png",
+   "pour": [
+    "emile-ollivier"
+   ],
+   "sig": "Émile Ollivier by Pierre-Louis Pierson, 1870.png||560|74"
+  },
+  "duc-de-gramont": {
+   "f": "img/duc-de-gramont.webp",
+   "v": "9459a65a3f",
+   "w": 500,
+   "h": 715,
+   "l": "Le duc de Gramont",
+   "cr": "Eliseo Sala, 1853",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Eliseo Sala",
+   "src": "https://commons.wikimedia.org/wiki/File:Ag%C3%A9nor_de_Gramont_(1819-1880).jpg",
+   "pour": [
+    "duc-de-gramont"
+   ],
+   "sig": "Agénor de Gramont (1819-1880).jpg||560|74"
+  },
+  "edmond-le-boeuf": {
+   "f": "img/edmond-le-boeuf.webp",
+   "v": "47cda3ecc3",
+   "w": 330,
+   "h": 410,
+   "l": "Le maréchal Le Bœuf",
+   "cr": "Léon Crémière (1831-1913); restored by A ngelus, 1850",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Léon Crémière (1831-1913); restored by A ngelus (talk)",
+   "src": "https://commons.wikimedia.org/wiki/File:Edmond_Leboeuf.png",
+   "pour": [
+    "edmond-le-boeuf"
+   ],
+   "sig": "Edmond Leboeuf.png||560|74"
+  },
+  "comte-de-palikao": {
+   "f": "img/comte-de-palikao.webp",
+   "v": "97f12bbcae",
+   "w": 500,
+   "h": 839,
+   "l": "Le comte de Palikao",
+   "cr": "Eugène Disdéri, 1862",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Eugène Disdéri",
+   "src": "https://commons.wikimedia.org/wiki/File:Charles_Cousin-Montauban,_comte_de_Palikao.jpg",
+   "pour": [
+    "comte-de-palikao"
+   ],
+   "sig": "Charles Cousin-Montauban, comte de Palikao.jpg||560|74"
+  },
+  "mac-mahon": {
+   "f": "img/mac-mahon.webp",
+   "v": "0a3a5eb4cc",
+   "w": 250,
+   "h": 330,
+   "l": "Patrice de Mac-Mahon, photographié par Pierre Petit",
+   "cr": "Pierre Petit",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Pierre Petit",
+   "src": "https://commons.wikimedia.org/wiki/File:Patrice_de_Mac_Mahon_crop.jpg",
+   "pour": [
+    "mac-mahon"
+   ],
+   "sig": "Patrice de Mac Mahon crop.jpg||560|74"
+  },
+  "bazaine": {
+   "f": "img/bazaine.webp",
+   "v": "ffe5715c88",
+   "w": 560,
+   "h": 860,
+   "l": "Bazaine",
+   "cr": "Jean-Adolphe Beaucé, 1867",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Jean-Adolphe Beaucé",
+   "src": "https://commons.wikimedia.org/wiki/File:Jean-Adolphe_Beauc%C3%A9_-_Achille-Fran%C3%A7ois_Bazaine,_Marshal_of_France,_Marshal_of_France,_1867.jpg",
+   "pour": [
+    "bazaine"
+   ],
+   "sig": "Jean-Adolphe Beaucé - Achille-François Bazaine, Marshal of France, Marshal of France, 1867.jpg||560|74"
+  },
+  "canrobert": {
+   "f": "img/canrobert.webp",
+   "v": "1e41893514",
+   "w": 500,
+   "h": 761,
+   "l": "Canrobert",
+   "cr": "Horace Vernet, 1857",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Horace Vernet",
+   "src": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Certain_de_Canrobert_Versailles.png",
+   "pour": [
+    "canrobert"
+   ],
+   "sig": "François Certain de Canrobert Versailles.png||560|74"
+  },
+  "frossard": {
+   "f": "img/frossard.webp",
+   "v": "951777d380",
+   "w": 500,
+   "h": 670,
+   "l": "Frossard à l’époque de la guerre de Crimée",
+   "cr": "auteur inconnu, 1914",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Crimean_War_1854-56_Q71487.jpg",
+   "pour": [
+    "frossard"
+   ],
+   "sig": "Crimean War 1854-56 Q71487.jpg||560|74"
+  },
+  "abel-douay": {
+   "f": "img/abel-douay.webp",
+   "v": "0bebff8195",
+   "w": 560,
+   "h": 712,
+   "l": "Abel Douay",
+   "cr": "Franz Robert Richard Brendámour, 1895",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Franz Robert Richard Brendámour",
+   "src": "https://commons.wikimedia.org/wiki/File:General_Abel_Douay.jpg",
+   "pour": [
+    "abel-douay"
+   ],
+   "sig": "General Abel Douay.jpg||560|74"
+  },
+  "ducrot": {
+   "f": "img/ducrot.webp",
+   "v": "d786c922c5",
+   "w": 560,
+   "h": 634,
+   "l": "Ducrot",
+   "cr": "Franz Robert Richard Brendámour, 1895",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Franz Robert Richard Brendámour",
+   "src": "https://commons.wikimedia.org/wiki/File:General_Ducrot.jpg",
+   "pour": [
+    "ducrot"
+   ],
+   "sig": "General Ducrot.jpg||560|74"
+  },
+  "wimpffen": {
+   "f": "img/wimpffen.webp",
+   "v": "655d8885c9",
+   "w": 560,
+   "h": 783,
+   "l": "Le général de Wimpffen, photographié par Nadar",
+   "cr": "Nadar, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Nadar",
+   "src": "https://commons.wikimedia.org/wiki/File:Wimphen,_g%C3%A9n%C3%A9ral,_Nadar,_Gallica.jpg",
+   "pour": [
+    "wimpffen"
+   ],
+   "sig": "Wimphen, général, Nadar, Gallica.jpg||560|74"
+  },
+  "bourbaki": {
+   "f": "img/bourbaki.webp",
+   "v": "8e3fac6e36",
+   "w": 330,
+   "h": 521,
+   "l": "Bourbaki",
+   "cr": "Pierre-Louis Pierson",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Pierre-Louis Pierson",
+   "src": "https://commons.wikimedia.org/wiki/File:Portrait_Bourbaki.JPG",
+   "pour": [
+    "bourbaki"
+   ],
+   "sig": "Portrait Bourbaki.JPG||560|74"
+  },
+  "general-uhrich": {
+   "f": "img/general-uhrich.webp",
+   "v": "9eb5d31b9d",
+   "w": 120,
+   "h": 184,
+   "l": "Le général Uhrich, photographié par Pierson",
+   "cr": "Portrait de Louis-Pierre PIERSON (1822-1913) - vers 1860/70, 2011",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Portrait de Louis-Pierre PIERSON (1822-1913) - vers 1860/70",
+   "src": "https://commons.wikimedia.org/wiki/File:Jean-Jacques_UHRICH.jpg",
+   "pour": [
+    "general-uhrich"
+   ],
+   "sig": "Jean-Jacques UHRICH.jpg||560|74"
+  },
+  "general-margueritte": {
+   "f": "img/general-margueritte.webp",
+   "v": "95b4cb08b8",
+   "w": 250,
+   "h": 339,
+   "l": "Le général Margueritte",
+   "cr": "auteur inconnu, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:General_margueritte.jpg",
+   "pour": [
+    "general-margueritte"
+   ],
+   "sig": "General margueritte.jpg||560|74"
+  },
+  "galliffet": {
+   "f": "img/galliffet.webp",
+   "v": "12ef30c110",
+   "w": 250,
+   "h": 361,
+   "l": "Le marquis de Galliffet, photographié par Nadar",
+   "cr": "Nadar, 2006",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Nadar",
+   "src": "https://commons.wikimedia.org/wiki/File:Galliffet,_Gaston_de.jpg",
+   "pour": [
+    "galliffet"
+   ],
+   "sig": "Galliffet, Gaston de.jpg||560|74"
+  },
+  "gambetta": {
+   "f": "img/gambetta.webp",
+   "v": "0419c1f06d",
+   "w": 500,
+   "h": 690,
+   "l": "Léon Gambetta photographié par Nadar",
+   "cr": "Nadar, 1871",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Nadar",
+   "src": "https://commons.wikimedia.org/wiki/File:L%C3%A9on_Gambetta_1870_Nadar.jpg",
+   "pour": [
+    "gambetta"
+   ],
+   "sig": "Léon Gambetta 1870 Nadar.jpg||560|74"
+  },
+  "trochu": {
+   "f": "img/trochu.webp",
+   "v": "f4b5970882",
+   "w": 560,
+   "h": 898,
+   "l": "Le général Trochu",
+   "cr": "auteur inconnu, 1850",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Louis_Jules_Trochu.jpg",
+   "pour": [
+    "trochu"
+   ],
+   "sig": "Louis Jules Trochu.jpg||560|74"
+  },
+  "jules-favre": {
+   "f": "img/jules-favre.webp",
+   "v": "24f30a49de",
+   "w": 500,
+   "h": 762,
+   "l": "Jules Favre photographié par Nadar",
+   "cr": "Nadar, 1865",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Nadar",
+   "src": "https://commons.wikimedia.org/wiki/File:Jules_Favre_1865_Nadar.jpg",
+   "pour": [
+    "jules-favre"
+   ],
+   "sig": "Jules Favre 1865 Nadar.jpg||560|74"
+  },
+  "adolphe-thiers": {
+   "f": "img/adolphe-thiers.webp",
+   "v": "6e297348c6",
+   "w": 500,
+   "h": 612,
+   "l": "Adolphe Thiers",
+   "cr": "Nadar, 1867",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Nadar",
+   "src": "https://commons.wikimedia.org/wiki/File:Adolphe_Thiers_Nadar_2.JPG",
+   "pour": [
+    "adolphe-thiers"
+   ],
+   "sig": "Adolphe Thiers Nadar 2.JPG||560|74"
+  },
+  "charles-de-freycinet": {
+   "f": "img/charles-de-freycinet.webp",
+   "v": "965f3f9573",
+   "w": 560,
+   "h": 732,
+   "l": "Charles de Freycinet, photographié par Nadar",
+   "cr": "Nadar, 1880",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Nadar",
+   "src": "https://commons.wikimedia.org/wiki/File:Freycinet,_de_Saulces_de,_Charles,_Nadar,_Gallica_(cropped).jpg",
+   "pour": [
+    "charles-de-freycinet"
+   ],
+   "sig": "Freycinet, de Saulces de, Charles, Nadar, Gallica (cropped).jpg||560|74"
+  },
+  "chanzy": {
+   "f": "img/chanzy.webp",
+   "v": "cf6ade6656",
+   "w": 330,
+   "h": 443,
+   "l": "Chanzy",
+   "cr": "auteur inconnu, 1892",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Antoine_Alfred_Eug%C3%A8ne_Chanzy.JPG",
+   "pour": [
+    "chanzy"
+   ],
+   "sig": "Antoine Alfred Eugène Chanzy.JPG||560|74"
+  },
+  "aurelle-de-paladines": {
+   "f": "img/aurelle-de-paladines.webp",
+   "v": "b656eefb2b",
+   "w": 120,
+   "h": 199,
+   "l": "Le général d’Aurelle de Paladines",
+   "cr": "Langerock, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Langerock",
+   "src": "https://commons.wikimedia.org/wiki/File:G%C3%A9n%C3%A9ral_de_Paladines.jpg",
+   "pour": [
+    "aurelle-de-paladines"
+   ],
+   "sig": "Général de Paladines.jpg||560|74"
+  },
+  "faidherbe": {
+   "f": "img/faidherbe.webp",
+   "v": "303fcabc97",
+   "w": 500,
+   "h": 610,
+   "l": "Faidherbe",
+   "cr": "Marie Madeleine Rignot-Dubaux, 1884",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Marie Madeleine Rignot-Dubaux",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_g%C3%A9n%C3%A9ral_Faidherbe.jpg",
+   "pour": [
+    "faidherbe"
+   ],
+   "sig": "Le général Faidherbe.jpg||560|74"
+  },
+  "denfert-rochereau": {
+   "f": "img/denfert-rochereau.webp",
+   "v": "1b0c79d0dd",
+   "w": 560,
+   "h": 695,
+   "l": "Le colonel Denfert-Rochereau, photographié par Étienne Carjat",
+   "cr": "Ettienne Carjat, 1878",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Ettienne Carjat",
+   "src": "https://commons.wikimedia.org/wiki/File:Col._Denfert-Rochereau_by_%C3%89tienne_Carjat_1878.jpg",
+   "pour": [
+    "denfert-rochereau"
+   ],
+   "sig": "Col. Denfert-Rochereau by Étienne Carjat 1878.jpg||560|74"
+  },
+  "garibaldi": {
+   "f": "img/garibaldi.webp",
+   "v": "908b8f0f4b",
+   "w": 560,
+   "h": 686,
+   "l": "Garibaldi en 1866",
+   "cr": "Fratelli Alinari, 1867",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Fratelli Alinari",
+   "src": "https://commons.wikimedia.org/wiki/File:Garibaldi_(1866).jpg",
+   "pour": [
+    "garibaldi"
+   ],
+   "sig": "Garibaldi (1866).jpg||560|74"
+  },
+  "general-vinoy": {
+   "f": "img/general-vinoy.webp",
+   "v": "e2d45b9630",
+   "w": 500,
+   "h": 664,
+   "l": "Vinoy à l’époque de la guerre de Crimée",
+   "cr": "auteur inconnu, 1914",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Crimean_War_1854-56_Q71111.jpg",
+   "pour": [
+    "general-vinoy"
+   ],
+   "sig": "Crimean War 1854-56 Q71111.jpg||560|74"
+  },
+  "clinchant": {
+   "f": "img/clinchant.webp",
+   "v": "efd5d70d9e",
+   "w": 560,
+   "h": 909,
+   "l": "Clinchant",
+   "cr": "Eugène et Ernest-Charles Appert, 1860",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Eugène et Ernest-Charles Appert",
+   "src": "https://commons.wikimedia.org/wiki/File:G%C3%A9n%C3%A9ral_Clinchant.jpg",
+   "pour": [
+    "clinchant"
+   ],
+   "sig": "Général Clinchant.jpg||560|74"
+  },
+  "commandant-teyssier": {
+   "f": "img/commandant-teyssier.webp",
+   "v": "4fc59c7cc8",
+   "w": 560,
+   "h": 673,
+   "l": "Le buste du colonel Teyssier, à Bitche",
+   "cr": "Ji-Elle, 2011",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Ji-Elle",
+   "src": "https://commons.wikimedia.org/wiki/File:Bitche-Buste_du_colonel_Teyssier.jpg",
+   "pour": [
+    "commandant-teyssier"
+   ],
+   "sig": "Bitche-Buste du colonel Teyssier.jpg||560|74"
+  },
+  "louis-rossel": {
+   "f": "img/louis-rossel.webp",
+   "v": "33fb30f1f5",
+   "w": 560,
+   "h": 891,
+   "l": "Louis Rossel",
+   "cr": "auteur inconnu",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "",
+   "src": "https://commons.wikimedia.org/wiki/File:Louis_Rossel_1.jpg",
+   "pour": [
+    "louis-rossel"
+   ],
+   "sig": "Louis Rossel 1.jpg||560|74"
+  },
+  "emile-kuss": {
+   "f": "img/emile-kuss.webp",
+   "v": "9e980f3f25",
+   "w": 500,
+   "h": 725,
+   "l": "Le maire Küss au milieu des ruines de Strasbourg",
+   "cr": "Théophile Schuler, 1873",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Théophile Schuler",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_maire_K%C3%BCss_au_milieu_des_ruines_de_Strasbourg_(1873)_(cropped)_(2).jpg",
+   "pour": [
+    "emile-kuss"
+   ],
+   "sig": "Le maire Küss au milieu des ruines de Strasbourg (1873) (cropped) (2).jpg||560|74"
+  },
+  "sergent-hoff": {
+   "f": "img/sergent-hoff.webp",
+   "v": "b7af39f20e",
+   "w": 560,
+   "h": 688,
+   "l": "Ignace Hoff photographié par Ferdinand Mulnier",
+   "cr": "Ferdinand Mulnier, 1867",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Ferdinand Mulnier",
+   "src": "https://commons.wikimedia.org/wiki/File:Ignace_Hoff_-_photo_Ferdinand_Mulnier.jpg",
+   "pour": [
+    "sergent-hoff"
+   ],
+   "sig": "Ignace Hoff - photo Ferdinand Mulnier.jpg||560|74"
+  },
+  "victor-hugo-en-1870": {
+   "f": "img/victor-hugo-en-1870.webp",
+   "v": "e4690a2e14",
+   "w": 560,
+   "h": 821,
+   "l": "Frontispice de *L’Année terrible*, de Victor Hugo (Michel Lévy, 1873)",
+   "cr": "Léopold Flameng, 1872",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Léopold Flameng",
+   "src": "https://commons.wikimedia.org/wiki/File:Victor_Hugo_et_l%27Ann%C3%A9e_terrible.jpg",
+   "pour": [
+    "victor-hugo-en-1870"
+   ],
+   "sig": "Victor Hugo et l'Année terrible.jpg||560|74"
+  },
+  "guillaume-ier": {
+   "f": "img/guillaume-ier.webp",
+   "v": "d6f13a8afa",
+   "w": 500,
+   "h": 756,
+   "l": "Guillaume Ier",
+   "cr": "Paul Bülow, 1879",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Paul Bülow",
+   "src": "https://commons.wikimedia.org/wiki/File:B%C3%BClow,_Hans_-_Emperor_Wilhelm_I_-_Marburg.jpg",
+   "pour": [
+    "guillaume-ier"
+   ],
+   "sig": "Bülow, Hans - Emperor Wilhelm I - Marburg.jpg||560|74"
+  },
+  "bismarck": {
+   "f": "img/bismarck.webp",
+   "v": "9db70d308b",
+   "w": 500,
+   "h": 743,
+   "l": "Bismarck",
+   "cr": "Jacques Pilartz, 1890",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Jacques Pilartz",
+   "src": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-2005-0057,_Otto_von_Bismarck.jpg",
+   "pour": [
+    "bismarck"
+   ],
+   "sig": "Bundesarchiv Bild 146-2005-0057, Otto von Bismarck.jpg||560|74"
+  },
+  "moltke": {
+   "f": "img/moltke.webp",
+   "v": "633b3cd98b",
+   "w": 500,
+   "h": 704,
+   "l": "Moltke",
+   "cr": "Missing Name, 1860",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "missing name",
+   "src": "https://commons.wikimedia.org/wiki/File:Helmuth_Karl_Bernhard_von_Moltke,_Count_von_Moltke_by_Carl_G%C3%BCnther_circa_1860.png",
+   "pour": [
+    "moltke"
+   ],
+   "sig": "Helmuth Karl Bernhard von Moltke, Count von Moltke by Carl Günther circa 1860.png||560|74"
+  },
+  "albrecht-von-roon": {
+   "f": "img/albrecht-von-roon.webp",
+   "v": "3257e4d5aa",
+   "w": 560,
+   "h": 852,
+   "l": "Roon",
+   "cr": "Carl Günther, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Carl Günther",
+   "src": "https://commons.wikimedia.org/wiki/File:Count_Albrecht_von_Roon_circa_1870.jpg",
+   "pour": [
+    "albrecht-von-roon"
+   ],
+   "sig": "Count Albrecht von Roon circa 1870.jpg||560|74"
+  },
+  "kronprinz-frederic-guillaume": {
+   "f": "img/kronprinz-frederic-guillaume.webp",
+   "v": "0ded82e70c",
+   "w": 500,
+   "h": 753,
+   "l": "Le Kronprinz Frédéric-Guillaume",
+   "cr": "Reichard & Lindner, 1875",
+   "lic": "CC BY-SA 3.0 de",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Reichard & Lindner",
+   "src": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_146-2004-0099,_Kaiser_Friedrich_III..jpg",
+   "pour": [
+    "kronprinz-frederic-guillaume"
+   ],
+   "sig": "Bundesarchiv Bild 146-2004-0099, Kaiser Friedrich III..jpg||560|74"
+  },
+  "prince-frederic-charles": {
+   "f": "img/prince-frederic-charles.webp",
+   "v": "8230408594",
+   "w": 330,
+   "h": 456,
+   "l": "Le prince Frédéric-Charles",
+   "cr": "Moritz Klinkicht",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Moritz Klinkicht",
+   "src": "https://commons.wikimedia.org/wiki/File:Friedrich-Karl-Preu%C3%9Fen.JPG",
+   "pour": [
+    "prince-frederic-charles"
+   ],
+   "sig": "Friedrich-Karl-Preußen.JPG||560|74"
+  },
+  "steinmetz": {
+   "f": "img/steinmetz.webp",
+   "v": "bd07a30add",
+   "w": 500,
+   "h": 630,
+   "l": "Steinmetz",
+   "cr": "auteur inconnu",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "",
+   "src": "https://commons.wikimedia.org/wiki/File:Karl_Friedrich_von_Steinmetz.jpg",
+   "pour": [
+    "steinmetz"
+   ],
+   "sig": "Karl Friedrich von Steinmetz.jpg||560|74"
+  },
+  "albert-de-saxe": {
+   "f": "img/albert-de-saxe.webp",
+   "v": "3cd86c33e1",
+   "w": 500,
+   "h": 711,
+   "l": "Albert de Saxe",
+   "cr": "Nicola Perscheid, 1900",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Nicola Perscheid",
+   "src": "https://commons.wikimedia.org/wiki/File:Albert_of_Saxony_by_Nicola_Perscheid_c1900.jpg",
+   "pour": [
+    "albert-de-saxe"
+   ],
+   "sig": "Albert of Saxony by Nicola Perscheid c1900.jpg||560|74"
+  },
+  "von-der-tann": {
+   "f": "img/von-der-tann.webp",
+   "v": "77ccaaf26d",
+   "w": 560,
+   "h": 693,
+   "l": "Von der Tann",
+   "cr": "Franz Hanfstaengl, 1860",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Franz Hanfstaengl",
+   "src": "https://commons.wikimedia.org/wiki/File:Ludwig_Freiherr_von_der_Tann.jpg",
+   "pour": [
+    "von-der-tann"
+   ],
+   "sig": "Ludwig Freiherr von der Tann.jpg||560|74"
+  },
+  "august-von-werder": {
+   "f": "img/august-von-werder.webp",
+   "v": "937f1143bb",
+   "w": 560,
+   "h": 907,
+   "l": "Werder",
+   "cr": "Kunst Verlag der Photographischen Gesellschaft , Berlin. Upload,…, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Kunst Verlag der Photographischen Gesellschaft , Berlin. Upload, stitch and restoration by Jebulon",
+   "src": "https://commons.wikimedia.org/wiki/File:August_von_Werder_BNF_Gallica.jpg",
+   "pour": [
+    "august-von-werder"
+   ],
+   "sig": "August von Werder BNF Gallica.jpg||560|74"
+  },
+  "edwin-von-manteuffel": {
+   "f": "img/edwin-von-manteuffel.webp",
+   "v": "8cde840d5c",
+   "w": 560,
+   "h": 842,
+   "l": "Edwin von Manteuffel, photographié par Adolphe Braun",
+   "cr": "Studio of Adolphe Braun, 1879",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Studio of Adolphe Braun",
+   "src": "https://commons.wikimedia.org/wiki/File:Edwin_Freiherr_von_Manteuffel_by_Adolphe_Braun.png",
+   "pour": [
+    "edwin-von-manteuffel"
+   ],
+   "sig": "Edwin Freiherr von Manteuffel by Adolphe Braun.png||560|74"
+  },
+  "august-von-goeben": {
+   "f": "img/august-von-goeben.webp",
+   "v": "8e22a7c46a",
+   "w": 560,
+   "h": 828,
+   "l": "Goeben",
+   "cr": "auteur inconnu, 1880",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:August_Karl_Von_Goeben.jpg",
+   "pour": [
+    "august-von-goeben"
+   ],
+   "sig": "August Karl Von Goeben.jpg||560|74"
+  },
+  "blumenthal": {
+   "f": "img/blumenthal.webp",
+   "v": "6ac9034c63",
+   "w": 560,
+   "h": 723,
+   "l": "Blumenthal",
+   "cr": "Kunst-Verlag der Photographischen Gesellschaft Berlin am Dönhofsplatz, 1850",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Kunst-Verlag der Photographischen Gesellschaft Berlin am Dönhofsplatz",
+   "src": "https://commons.wikimedia.org/wiki/File:Generalfeldmarschall_Leonhard_Graf_von_Blumenthal.JPG",
+   "pour": [
+    "blumenthal"
+   ],
+   "sig": "Generalfeldmarschall Leonhard Graf von Blumenthal.JPG||560|74"
+  },
+  "constantin-von-alvensleben": {
+   "f": "img/constantin-von-alvensleben.webp",
+   "v": "4bd0d8bbdf",
+   "w": 330,
+   "h": 463,
+   "l": "Constantin von Alvensleben",
+   "cr": "auteur inconnu",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "",
+   "src": "https://commons.wikimedia.org/wiki/File:Constantin_von_Alvensleben.jpg",
+   "pour": [
+    "constantin-von-alvensleben"
+   ],
+   "sig": "Constantin von Alvensleben.jpg||560|74"
+  },
+  "von-bredow": {
+   "f": "img/von-bredow.webp",
+   "v": "0bedf8c410",
+   "w": 560,
+   "h": 657,
+   "l": "Von Bredow",
+   "cr": "Franz Robert Richard Brendámour, 1895",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Franz Robert Richard Brendámour",
+   "src": "https://commons.wikimedia.org/wiki/File:General_von_Bredow.jpg",
+   "pour": [
+    "von-bredow"
+   ],
+   "sig": "General von Bredow.jpg||560|74"
+  },
+  "grand-duc-de-mecklembourg": {
+   "f": "img/grand-duc-de-mecklembourg.webp",
+   "v": "1b43d1953a",
+   "w": 330,
+   "h": 479,
+   "l": "Frédéric-François II, grand-duc de Mecklembourg-Schwerin",
+   "cr": "Thyra, 2007",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "The original uploader was Thyra at German Wikipedia . ( Original text: unbekannter Fotograf )",
+   "src": "https://commons.wikimedia.org/wiki/File:1823_Friedrich_Franz-04.JPG",
+   "pour": [
+    "grand-duc-de-mecklembourg"
+   ],
+   "sig": "1823 Friedrich Franz-04.JPG||560|74"
+  },
+  "comte-zeppelin": {
+   "f": "img/comte-zeppelin.webp",
+   "v": "321623984f",
+   "w": 330,
+   "h": 522,
+   "l": "Le comte Zeppelin",
+   "cr": "auteur inconnu",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "",
+   "src": "https://commons.wikimedia.org/wiki/File:Ferdinand_von_Zeppelin.jpg",
+   "pour": [
+    "comte-zeppelin"
+   ],
+   "sig": "Ferdinand von Zeppelin.jpg||560|74"
+  },
+  "louis-ii-de-baviere": {
+   "f": "img/louis-ii-de-baviere.webp",
+   "v": "1e15004b32",
+   "w": 560,
+   "h": 840,
+   "l": "Louis II de Bavière",
+   "cr": "Ferdinand von Piloty (1828-1895), 1865",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Ferdinand von Piloty (1828-1895)",
+   "src": "https://commons.wikimedia.org/wiki/File:K%C3%B6nig_Ludwig_II._von_Bayern_in_Generalsuniform_mit_dem_Kr%C3%B6nungsmantel.jpg",
+   "pour": [
+    "louis-ii-de-baviere"
+   ],
+   "sig": "König Ludwig II. von Bayern in Generalsuniform mit dem Krönungsmantel.jpg||560|74"
+  },
+  "combat-de-sarrebruck": {
+   "f": "img/combat-de-sarrebruck.webp",
+   "v": "85047d4c80",
+   "w": 560,
+   "h": 433,
+   "l": "Sarrebruck après la bataille, le 5 août 1870",
+   "cr": "auteur inconnu, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Anonymous_-_Sarrebruck_apr%C3%A8s_la_bataille,_le_5_ao%C3%BBt_1870_-_P394_-_Mus%C3%A9e_Carnavalet.jpg",
+   "pour": [
+    "combat-de-sarrebruck"
+   ],
+   "sig": "Anonymous - Sarrebruck après la bataille, le 5 août 1870 - P394 - Musée Carnavalet.jpg||560|74"
+  },
+  "combat-de-sarrebruck-2": {
+   "f": "img/combat-de-sarrebruck-2.webp",
+   "v": "a7afb8e79d",
+   "w": 560,
+   "h": 778,
+   "l": "Le manuscrit du sonnet de Rimbaud « L’Éclatante Victoire de Sarrebrück »",
+   "cr": "Arthur Rimbaud, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Arthur Rimbaud",
+   "src": "https://commons.wikimedia.org/wiki/File:L%27%C3%89clatante_Victoire_de_Sarrebr%C3%BCck.jpg",
+   "pour": [
+    "combat-de-sarrebruck"
+   ],
+   "sig": "L'Éclatante Victoire de Sarrebrück.jpg||560|74"
+  },
+  "bataille-de-wissembourg": {
+   "f": "img/bataille-de-wissembourg.webp",
+   "v": "52343ebf5a",
+   "w": 560,
+   "h": 564,
+   "l": "Carte allemande de la bataille de Wissembourg, 4 août 1870",
+   "cr": "J. Scheibert, 1892",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "J. Scheibert",
+   "src": "https://commons.wikimedia.org/wiki/File:Battle_of_wissembourg.png",
+   "pour": [
+    "bataille-de-wissembourg"
+   ],
+   "sig": "Battle of wissembourg.png||560|74"
+  },
+  "bataille-de-froeschwiller-woerth": {
+   "f": "img/bataille-de-froeschwiller-woerth.webp",
+   "v": "a40d6d0e04",
+   "w": 560,
+   "h": 583,
+   "l": "La bataille de Wœrth, carte du dictionnaire allemand Meyers (1890)",
+   "cr": "auteur inconnu, 1890",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Battle_of_Worth_MKL_Bd._16_1890_(128536185).jpg",
+   "pour": [
+    "bataille-de-froeschwiller-woerth"
+   ],
+   "sig": "Battle of Worth MKL Bd. 16 1890 (128536185).jpg||560|74"
+  },
+  "bataille-de-spicheren": {
+   "f": "img/bataille-de-spicheren.webp",
+   "v": "18381d6dc7",
+   "w": 560,
+   "h": 367,
+   "l": "« Bataille de Forbach, 6 août 1870 », lithographie éditée par Eugène Jouy",
+   "cr": "Jean-Adolphe Bocquin / Jules Férat / Adam Cuerden, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Jean-Adolphe Bocquin / Jules Férat / Adam Cuerden",
+   "src": "https://commons.wikimedia.org/wiki/File:Bataille_de_Forbach,_6_ao%C3%BBt_1870_-_Jean-Adolphe_Bocquin_et_Jules_F%C3%A9rat_(cropped1).jpg",
+   "pour": [
+    "bataille-de-spicheren"
+   ],
+   "sig": "Bataille de Forbach, 6 août 1870 - Jean-Adolphe Bocquin et Jules Férat (cropped1).jpg||560|74"
+  },
+  "bataille-de-spicheren-2": {
+   "f": "img/bataille-de-spicheren-2.webp",
+   "v": "91e8ab0d5d",
+   "w": 500,
+   "h": 333,
+   "l": "Les positions françaises et allemandes à Spicheren vers 18 h, le 6 août 1870",
+   "cr": "auteur inconnu, 1890",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "",
+   "src": "https://commons.wikimedia.org/wiki/File:Battle_of_Spicheren.png",
+   "pour": [
+    "bataille-de-spicheren"
+   ],
+   "sig": "Battle of Spicheren.png||560|74"
+  },
+  "bataille-de-borny": {
+   "f": "img/bataille-de-borny.webp",
+   "v": "921f951a8c",
+   "w": 560,
+   "h": 312,
+   "l": "La bataille de Borny, par Paulin Didion",
+   "cr": "Paulin Didion, 1872",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Paulin Didion",
+   "src": "https://commons.wikimedia.org/wiki/File:Battle_of_Borny_(P._Didion,_1874).jpg",
+   "pour": [
+    "bataille-de-borny"
+   ],
+   "sig": "Battle of Borny (P. Didion, 1874).jpg||560|74"
+  },
+  "bataille-de-borny-2": {
+   "f": "img/bataille-de-borny-2.webp",
+   "v": "24fd093564",
+   "w": 560,
+   "h": 360,
+   "l": "Carte tactique allemande de la bataille de Colombey-Nouilly (Borny)",
+   "cr": "Kriegsgeschichtliche Abteilung I, 2015",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Kriegsgeschichtliche Abteilung I.",
+   "src": "https://commons.wikimedia.org/wiki/File:Schlacht1871Inf.5.jpg",
+   "pour": [
+    "bataille-de-borny"
+   ],
+   "sig": "Schlacht1871Inf.5.jpg||560|74"
+  },
+  "bataille-de-mars-la-tour": {
+   "f": "img/bataille-de-mars-la-tour.webp",
+   "v": "fdc6111160",
+   "w": 560,
+   "h": 386,
+   "l": "La bataille de Mars-la-Tour, 16 août 1870",
+   "cr": "auteur inconnu, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "",
+   "src": "https://commons.wikimedia.org/wiki/File:Battle-Mars-Le-Tour-large.jpg",
+   "pour": [
+    "bataille-de-mars-la-tour"
+   ],
+   "sig": "Battle-Mars-Le-Tour-large.jpg||560|74"
+  },
+  "bataille-de-mars-la-tour-2": {
+   "f": "img/bataille-de-mars-la-tour-2.webp",
+   "v": "20be2972b2",
+   "w": 560,
+   "h": 381,
+   "l": "La bataille de Mars-la-Tour, par Emil Hünten",
+   "cr": "Painter: Emil Hünten / Photograph: Rauantiques, 2018",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "painter: Emil Hünten / photograph: Rauantiques",
+   "src": "https://commons.wikimedia.org/wiki/File:Battle_of_Mars-La-Tour,_August_16,1870_by_Emil_H%C3%BCnten.jpg",
+   "pour": [
+    "bataille-de-mars-la-tour"
+   ],
+   "sig": "Battle of Mars-La-Tour, August 16,1870 by Emil Hünten.jpg||560|74"
+  },
+  "bataille-de-gravelotte": {
+   "f": "img/bataille-de-gravelotte.webp",
+   "v": "14b018c668",
+   "w": 560,
+   "h": 384,
+   "l": "*Le Cimetière de Saint-Privat*, d’Alphonse de Neuville",
+   "cr": "Alphonse de Neuville, 1881",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Alphonse de Neuville",
+   "src": "https://commons.wikimedia.org/wiki/File:AlphonseNeuvilleFriedhofSaint-PrivatL1100806_(2).jpg",
+   "pour": [
+    "bataille-de-gravelotte"
+   ],
+   "sig": "AlphonseNeuvilleFriedhofSaint-PrivatL1100806 (2).jpg||560|74"
+  },
+  "bataille-de-gravelotte-2": {
+   "f": "img/bataille-de-gravelotte-2.webp",
+   "v": "e6498293e8",
+   "w": 560,
+   "h": 301,
+   "l": "La mort du major von Halden à Gravelotte, le 18 août 1870",
+   "cr": "Carl Röchling, 1920",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Carl Röchling",
+   "src": "https://commons.wikimedia.org/wiki/File:1870_Tod_des_Majors_von_Halden.jpg",
+   "pour": [
+    "bataille-de-gravelotte"
+   ],
+   "sig": "1870 Tod des Majors von Halden.jpg||560|74"
+  },
+  "bataille-de-noisseville": {
+   "f": "img/bataille-de-noisseville.webp",
+   "v": "0f1eb3af3e",
+   "w": 560,
+   "h": 342,
+   "l": "La bataille de Sainte-Barbe, dite de Noisseville, par Paulin Didion",
+   "cr": "Paulin Didion, 1871",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Paulin Didion",
+   "src": "https://commons.wikimedia.org/wiki/File:Battle_of_Saint-Barbe_(Noisseville,_P._Didion).jpg",
+   "pour": [
+    "bataille-de-noisseville"
+   ],
+   "sig": "Battle of Saint-Barbe (Noisseville, P. Didion).jpg||560|74"
+  },
+  "bataille-de-beaumont": {
+   "f": "img/bataille-de-beaumont.webp",
+   "v": "f5fa35775c",
+   "w": 560,
+   "h": 609,
+   "l": "Carte de la bataille de Beaumont, d’après l’*Histoire de la guerre de 1870-71* de Paul et Victor Margueritte",
+   "cr": "BrunoLC, 2014",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "BrunoLC",
+   "src": "https://commons.wikimedia.org/wiki/File:Bataille_de_Beaumont_(1870).jpg",
+   "pour": [
+    "bataille-de-beaumont"
+   ],
+   "sig": "Bataille de Beaumont (1870).jpg||560|74"
+  },
+  "bataille-de-bazeilles": {
+   "f": "img/bataille-de-bazeilles.webp",
+   "v": "f344ec215b",
+   "w": 560,
+   "h": 306,
+   "l": "Les combats devant l’auberge Bourgerie, tableau exposé à la Maison de la dernière cartouche",
+   "cr": "G.Garitan, 2012",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "G.Garitan",
+   "src": "https://commons.wikimedia.org/wiki/File:Marines_contre_bavarois_043.JPG",
+   "pour": [
+    "bataille-de-bazeilles"
+   ],
+   "sig": "Marines contre bavarois 043.JPG||560|74"
+  },
+  "bataille-de-bazeilles-2": {
+   "f": "img/bataille-de-bazeilles-2.webp",
+   "v": "eaff47da95",
+   "w": 560,
+   "h": 304,
+   "l": "La Maison de la dernière cartouche, à Bazeilles",
+   "cr": "G.Garitan, 2012",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "G.Garitan",
+   "src": "https://commons.wikimedia.org/wiki/File:Derni%C3%A8re_cartouche_996.JPG",
+   "pour": [
+    "bataille-de-bazeilles"
+   ],
+   "sig": "Dernière cartouche 996.JPG||560|74"
+  },
+  "bataille-de-sedan": {
+   "f": "img/bataille-de-sedan.webp",
+   "v": "4d8412d6f4",
+   "w": 560,
+   "h": 648,
+   "l": "Napoléon III à Sedan, par Wilhelm Camphausen (Deutsches Historisches Museum, Berlin)",
+   "cr": "Wilhelm Camphausen",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Wilhelm Camphausen",
+   "src": "https://commons.wikimedia.org/wiki/File:Nap_sedan_von_Wilhelm_Camphausen.jpg",
+   "pour": [
+    "bataille-de-sedan"
+   ],
+   "sig": "Nap sedan von Wilhelm Camphausen.jpg||560|74"
+  },
+  "bataille-de-sedan-2": {
+   "f": "img/bataille-de-sedan-2.webp",
+   "v": "cab00e6a70",
+   "w": 560,
+   "h": 435,
+   "l": "La bataille de Sedan, carte du dictionnaire allemand Meyers (1890)",
+   "cr": "auteur inconnu, 1890",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Battle_of_Sedan_Bd._14_1890_(128642685).jpg",
+   "pour": [
+    "bataille-de-sedan"
+   ],
+   "sig": "Battle of Sedan Bd. 14 1890 (128642685).jpg||560|74"
+  },
+  "defense-de-chateaudun": {
+   "f": "img/defense-de-chateaudun.webp",
+   "v": "655ed2d02e",
+   "w": 500,
+   "h": 271,
+   "l": "Le combat sur la place de Châteaudun, le 18 octobre 1870 au soir (gravure)",
+   "cr": "auteur inconnu, 1871",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Gravure_de_la_bataille_de_Chateaudun.jpg",
+   "pour": [
+    "defense-de-chateaudun"
+   ],
+   "sig": "Gravure de la bataille de Chateaudun.jpg||560|74"
+  },
+  "bataille-de-coulmiers": {
+   "f": "img/bataille-de-coulmiers.webp",
+   "v": "7d378c642f",
+   "w": 560,
+   "h": 416,
+   "l": "*Salut à la victoire* (Coulmiers), tableau d’Étienne Dujardin-Beaumetz",
+   "cr": "Henri-Charles-Etienne Dujardin-Beaumetz, 1911",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Henri-Charles-Etienne Dujardin-Beaumetz",
+   "src": "https://commons.wikimedia.org/wiki/File:Bataille_de_Coulmiers.jpg",
+   "pour": [
+    "bataille-de-coulmiers"
+   ],
+   "sig": "Bataille de Coulmiers.jpg||560|74"
+  },
+  "bataille-de-coulmiers-2": {
+   "f": "img/bataille-de-coulmiers-2.webp",
+   "v": "07f11bcfb8",
+   "w": 560,
+   "h": 424,
+   "l": "« Bataille de Coulmiers, reprise d’Orléans », lithographie de Napoléon Thomas",
+   "cr": "Thomas, Napoléon, dessinateur-lithographe, 1870",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Thomas, Napoléon, dessinateur-lithographe",
+   "src": "https://commons.wikimedia.org/wiki/File:Bataille_de_Coulmiers,_reprise_d%27Orl%C3%A9ans._Paris_Mus%C3%A9es_20230527180451.jpg",
+   "pour": [
+    "bataille-de-coulmiers"
+   ],
+   "sig": "Bataille de Coulmiers, reprise d'Orléans. Paris Musées 20230527180451.jpg||560|74"
+  },
+  "bataille-de-beaune-la-rolande": {
+   "f": "img/bataille-de-beaune-la-rolande.webp",
+   "v": "5b85ed1be7",
+   "w": 560,
+   "h": 343,
+   "l": "Bataille de Beaune-la-Rolande (1870), tableau de Beauquesne",
+   "cr": "Wilfrid Constant Beauquesne (1840-1913), 1913",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Wilfrid Constant Beauquesne (1840-1913)",
+   "src": "https://commons.wikimedia.org/wiki/File:Beaune-la-Rolande_Beauquesne.jpg",
+   "pour": [
+    "bataille-de-beaune-la-rolande"
+   ],
+   "sig": "Beaune-la-Rolande Beauquesne.jpg||560|74"
+  },
+  "bataille-de-loigny": {
+   "f": "img/bataille-de-loigny.webp",
+   "v": "87146380bf",
+   "w": 500,
+   "h": 397,
+   "l": "*La Bataille de Loigny*, de Charles Castellani (1879)",
+   "cr": "Charles Castellani, 1879",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Charles Castellani",
+   "src": "https://commons.wikimedia.org/wiki/File:La_bataille_de_Loigny_C_Castellani_(1879).jpg",
+   "pour": [
+    "bataille-de-loigny"
+   ],
+   "sig": "La bataille de Loigny C Castellani (1879).jpg||560|74"
+  },
+  "seconde-bataille-d-orleans": {
+   "f": "img/seconde-bataille-d-orleans.webp",
+   "v": "344050a64b",
+   "w": 560,
+   "h": 350,
+   "l": "Entrée des Allemands à Orléans, 1870. Tableau de Ludwig Braun",
+   "cr": "Ludwig Braun (1836-1916), 1911",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Ludwig Braun (1836-1916)",
+   "src": "https://commons.wikimedia.org/wiki/File:Entr%C3%A9e_des_Allemands_%C3%A0_Orl%C3%A9ans.jpg",
+   "pour": [
+    "seconde-bataille-d-orleans"
+   ],
+   "sig": "Entrée des Allemands à Orléans.jpg||560|74"
+  },
+  "bataille-du-mans": {
+   "f": "img/bataille-du-mans.webp",
+   "v": "fc7c0c1a2d",
+   "w": 560,
+   "h": 383,
+   "l": "Bataille du Mans. Tableau de Maurice Orange",
+   "cr": "Maurice Orange (1868-1916), 1911",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Maurice Orange (1868-1916)",
+   "src": "https://commons.wikimedia.org/wiki/File:Bataille_du_Mans.jpg",
+   "pour": [
+    "bataille-du-mans"
+   ],
+   "sig": "Bataille du Mans.jpg||560|74"
+  },
+  "bataille-du-mans-2": {
+   "f": "img/bataille-du-mans-2.webp",
+   "v": "e595b6b740",
+   "w": 560,
+   "h": 309,
+   "l": "Bataille d'Auvours, le 10 janvier 1871",
+   "cr": "Lionel Royer, 1874",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Lionel Royer",
+   "src": "https://commons.wikimedia.org/wiki/File:Lionel_Royer_-_Bataille_d%27Auvours,_le_10_janvier_1871_(1874).jpg",
+   "pour": [
+    "bataille-du-mans"
+   ],
+   "sig": "Lionel Royer - Bataille d'Auvours, le 10 janvier 1871 (1874).jpg||560|74"
+  },
+  "bataille-de-champigny": {
+   "f": "img/bataille-de-champigny.webp",
+   "v": "23c6c0fb15",
+   "w": 560,
+   "h": 345,
+   "l": "La Bataille de Champigny",
+   "cr": "Alphonse de Neuville, 1880",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Alphonse de Neuville",
+   "src": "https://commons.wikimedia.org/wiki/File:Champigny,_le_four_%C3%A0_chaux_(d%C3%A9tail).jpg",
+   "pour": [
+    "bataille-de-champigny"
+   ],
+   "sig": "Champigny, le four à chaux (détail).jpg||560|74"
+  },
+  "bataille-de-champigny-2": {
+   "f": "img/bataille-de-champigny-2.webp",
+   "v": "d9c7e7bfc1",
+   "w": 560,
+   "h": 560,
+   "l": "Plan allemand de la bataille de Villiers (Champigny)",
+   "cr": "auteur inconnu",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "",
+   "src": "https://commons.wikimedia.org/wiki/File:Schlacht_bei_Villiers.jpg",
+   "pour": [
+    "bataille-de-champigny"
+   ],
+   "sig": "Schlacht bei Villiers.jpg||560|74"
+  },
+  "combats-du-bourget": {
+   "f": "img/combats-du-bourget.webp",
+   "v": "c23dae36f6",
+   "w": 560,
+   "h": 776,
+   "l": "Les grenadiers de la Garde prussienne au premier combat du Bourget",
+   "cr": "Carl Röchling, 1908",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Carl Röchling",
+   "src": "https://commons.wikimedia.org/wiki/File:1870_bei_Le_Bourget.jpg",
+   "pour": [
+    "combats-du-bourget"
+   ],
+   "sig": "1870 bei Le Bourget.jpg||560|74"
+  },
+  "combats-du-bourget-2": {
+   "f": "img/combats-du-bourget-2.webp",
+   "v": "df8d50db02",
+   "w": 560,
+   "h": 374,
+   "l": "Bivouac après le combat du Bourget, 21 décembre 1870",
+   "cr": "Alphonse de Neuville, 1873",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Alphonse de Neuville",
+   "src": "https://commons.wikimedia.org/wiki/File:Bivouac_apr%C3%A8s_le_combat_du_Bourget,_21_d%C3%A9cembre_1870.jpg",
+   "pour": [
+    "combats-du-bourget"
+   ],
+   "sig": "Bivouac après le combat du Bourget, 21 décembre 1870.jpg||560|74"
+  },
+  "bataille-de-buzenval": {
+   "f": "img/bataille-de-buzenval.webp",
+   "v": "ea8db8aef9",
+   "w": 560,
+   "h": 390,
+   "l": "« Bataille de Buzenval », lithographie de la série *La Guerre de 1870-1871*",
+   "cr": "Anonyme, dessinateur-lithographe, 1870",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Anonyme, dessinateur-lithographe",
+   "src": "https://commons.wikimedia.org/wiki/File:Bataille_de_Buzenval._Paris_Mus%C3%A9es_20230527181503.jpg",
+   "pour": [
+    "bataille-de-buzenval"
+   ],
+   "sig": "Bataille de Buzenval. Paris Musées 20230527181503.jpg||560|74"
+  },
+  "bataille-de-buzenval-2": {
+   "f": "img/bataille-de-buzenval-2.webp",
+   "v": "3b797dabea",
+   "w": 560,
+   "h": 942,
+   "l": "Le peintre Henri Regnault, tué à Buzenval",
+   "cr": "Michel Berthaud, 1865",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Michel Berthaud",
+   "src": "https://commons.wikimedia.org/wiki/File:Henri_Regnault_par_Berthaud_BNF_Gallica.jpg",
+   "pour": [
+    "bataille-de-buzenval"
+   ],
+   "sig": "Henri Regnault par Berthaud BNF Gallica.jpg||560|74"
+  },
+  "bataille-d-amiens": {
+   "f": "img/bataille-d-amiens.webp",
+   "v": "9a5e66edc5",
+   "w": 500,
+   "h": 271,
+   "l": "Carte des environs d'Amiens",
+   "cr": "Rousset",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Rousset",
+   "src": "https://commons.wikimedia.org/wiki/File:Villers-Bretonneux.jpg",
+   "pour": [
+    "bataille-d-amiens"
+   ],
+   "sig": "Villers-Bretonneux.jpg||560|74"
+  },
+  "bataille-de-pont-noyelles": {
+   "f": "img/bataille-de-pont-noyelles.webp",
+   "v": "b975000318",
+   "w": 560,
+   "h": 424,
+   "l": "Bataille de Pont-Noyelles. Tableau de Ludwig Braun",
+   "cr": "Ludwig Braun (1836-1916), 1911",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Ludwig Braun (1836-1916)",
+   "src": "https://commons.wikimedia.org/wiki/File:Bataille_de_Pont-Noyelles.jpg",
+   "pour": [
+    "bataille-de-pont-noyelles"
+   ],
+   "sig": "Bataille de Pont-Noyelles.jpg||560|74"
+  },
+  "bataille-de-bapaume": {
+   "f": "img/bataille-de-bapaume.webp",
+   "v": "f7e6b0218a",
+   "w": 560,
+   "h": 383,
+   "l": "Le Général Faidherbe au combat de Biefviller-lès-Bapaume, 3 janvier 1871",
+   "cr": "Charles Édouard Armand-Dumaresq, 1883",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Charles Édouard Armand-Dumaresq",
+   "src": "https://commons.wikimedia.org/wiki/File:Bapaume-tableau-Faidherbe.jpg",
+   "pour": [
+    "bataille-de-bapaume"
+   ],
+   "sig": "Bapaume-tableau-Faidherbe.jpg||560|74"
+  },
+  "bataille-de-saint-quentin": {
+   "f": "img/bataille-de-saint-quentin.webp",
+   "v": "a0bfd04c56",
+   "w": 560,
+   "h": 357,
+   "l": "Les Prussiens sur la Grand-Place de Saint-Quentin en 1871 (carte postale ancienne)",
+   "cr": "Scanné Par Claude Shoshany, 1904",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "scanné par Claude Shoshany",
+   "src": "https://commons.wikimedia.org/wiki/File:PD_204_-_SAINT-QUENTIN_-_Les_prussiens_sur_la_Grand%27Place_en_1871.jpg",
+   "pour": [
+    "bataille-de-saint-quentin"
+   ],
+   "sig": "PD 204 - SAINT-QUENTIN - Les prussiens sur la Grand'Place en 1871.jpg||560|74"
+  },
+  "bataille-de-saint-quentin-2": {
+   "f": "img/bataille-de-saint-quentin-2.webp",
+   "v": "6c8215b67c",
+   "w": 500,
+   "h": 337,
+   "l": "Le 7e uhlans à la bataille de Saint-Quentin, le 19 janvier 1871, par Richard Knötel",
+   "cr": "Richard Knötel, 1914",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Richard Knötel",
+   "src": "https://commons.wikimedia.org/wiki/File:Richard_Kn%C3%B6tel_-_Die_7._Uhlanen_in_der_Schlacht_bei_St._Quentin_(19._Jannuar_1871).jpg",
+   "pour": [
+    "bataille-de-saint-quentin"
+   ],
+   "sig": "Richard Knötel - Die 7. Uhlanen in der Schlacht bei St. Quentin (19. Jannuar 1871).jpg||560|74"
+  },
+  "bataille-de-nompatelize": {
+   "f": "img/bataille-de-nompatelize.webp",
+   "v": "b0fc5bd053",
+   "w": 500,
+   "h": 341,
+   "l": "Le bataillon des mobiles de la Meurthe à la bataille de Nompatelize, le 6 octobre 1870",
+   "cr": "Joseph-Émile Gridel, 1874",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Joseph-Émile Gridel",
+   "src": "https://commons.wikimedia.org/wiki/File:Bataille_de_Nompatelize.png",
+   "pour": [
+    "bataille-de-nompatelize"
+   ],
+   "sig": "Bataille de Nompatelize.png||560|74"
+  },
+  "batailles-de-dijon": {
+   "f": "img/batailles-de-dijon.webp",
+   "v": "b7828f576f",
+   "w": 560,
+   "h": 362,
+   "l": "Garibaldi à Dijon, pendant l’hiver 1870-1871",
+   "cr": "Sebastiano De Albertis, 1877",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Sebastiano De Albertis",
+   "src": "https://commons.wikimedia.org/wiki/File:Garibaldi_in_Dijon.jpg",
+   "pour": [
+    "batailles-de-dijon"
+   ],
+   "sig": "Garibaldi in Dijon.jpg||560|74"
+  },
+  "bataille-de-villersexel": {
+   "f": "img/bataille-de-villersexel.webp",
+   "v": "d6f50bf2e0",
+   "w": 560,
+   "h": 379,
+   "l": "Bataille de Villersexel, 1871. Tableau d'Alphonse de Neuville",
+   "cr": "Alphonse de Neuville, 1885",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Alphonse de Neuville",
+   "src": "https://commons.wikimedia.org/wiki/File:Bataille_de_Villersexel_-_01.jpg",
+   "pour": [
+    "bataille-de-villersexel"
+   ],
+   "sig": "Bataille de Villersexel - 01.jpg||560|74"
+  },
+  "bataille-d-hericourt": {
+   "f": "img/bataille-d-hericourt.webp",
+   "v": "c5b35e6009",
+   "w": 560,
+   "h": 372,
+   "l": "Bataille de la Lizaine en 1871",
+   "cr": "JP. Neri, 2004",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "JP. Neri",
+   "src": "https://commons.wikimedia.org/wiki/File:Bataille_Lizaine.jpg",
+   "pour": [
+    "bataille-d-hericourt"
+   ],
+   "sig": "Bataille Lizaine.jpg||560|74"
+  },
+  "retraite-de-l-armee-de-l-est": {
+   "f": "img/retraite-de-l-armee-de-l-est.webp",
+   "v": "8727816f42",
+   "w": 560,
+   "h": 370,
+   "l": "Armée de Bourbaki en Suisse en 1871",
+   "cr": "Edouard Castres, 1881",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Edouard Castres",
+   "src": "https://commons.wikimedia.org/wiki/File:Arm%C3%A9e-Bourb-en-Suisse.jpg",
+   "pour": [
+    "retraite-de-l-armee-de-l-est"
+   ],
+   "sig": "Armée-Bourb-en-Suisse.jpg||560|74"
+  },
+  "retraite-de-l-armee-de-l-est-2": {
+   "f": "img/retraite-de-l-armee-de-l-est-2.webp",
+   "v": "cdab1ab1f2",
+   "w": 560,
+   "h": 373,
+   "l": "Le bâtiment du panorama Bourbaki, à Lucerne",
+   "cr": "Leiju, 2011",
+   "lic": "CC BY 3.0",
+   "li": "CC BY 3.0",
+   "auteur": "Leiju",
+   "src": "https://commons.wikimedia.org/wiki/File:Bourbaki_Panorama.jpg",
+   "pour": [
+    "retraite-de-l-armee-de-l-est"
+   ],
+   "sig": "Bourbaki Panorama.jpg||560|74"
+  },
+  "pont-de-fontenoy": {
+   "f": "img/pont-de-fontenoy.webp",
+   "v": "a7eb1aee4f",
+   "w": 560,
+   "h": 373,
+   "l": "La mairie et l'église de Fontenoy-sur-Moselle",
+   "cr": "Gérald Garitan, 2010",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Gérald Garitan",
+   "src": "https://commons.wikimedia.org/wiki/File:Fontenoy_sur_moselle_064.JPG",
+   "pour": [
+    "pont-de-fontenoy"
+   ],
+   "sig": "Fontenoy sur moselle 064.JPG||560|74"
+  },
+  "siege-de-strasbourg": {
+   "f": "img/siege-de-strasbourg.webp",
+   "v": "46bf780732",
+   "w": 560,
+   "h": 612,
+   "l": "La capitulation de Strasbourg : le départ des prisonniers français (*Illustrated London News*, octobre 1870)",
+   "cr": "Arthur Hopkins / After William Simpson, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Arthur Hopkins / After William Simpson",
+   "src": "https://commons.wikimedia.org/wiki/File:StrasbourgSiege.png",
+   "pour": [
+    "siege-de-strasbourg"
+   ],
+   "sig": "StrasbourgSiege.png||560|74"
+  },
+  "siege-de-strasbourg-2": {
+   "f": "img/siege-de-strasbourg-2.webp",
+   "v": "5e8f467188",
+   "w": 560,
+   "h": 415,
+   "l": "Strasbourg vue de la porte de Pierre, le 28 septembre 1870",
+   "cr": "Charles David Winter, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Charles David Winter",
+   "src": "https://commons.wikimedia.org/wiki/File:Strassburg_vom_Steintor_aus_28_Sept_1870.jpg",
+   "pour": [
+    "siege-de-strasbourg"
+   ],
+   "sig": "Strassburg vom Steintor aus 28 Sept 1870.jpg||560|74"
+  },
+  "siege-de-metz": {
+   "f": "img/siege-de-metz.webp",
+   "v": "6e82bc8952",
+   "w": 500,
+   "h": 231,
+   "l": "*La Reddition de Metz*, tableau de Conrad Freyberg",
+   "cr": "Conrad Freyberg, 1876",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Conrad Freyberg",
+   "src": "https://commons.wikimedia.org/wiki/File:Freyberg_%E2%80%93_%C3%9Cbergabe_von_Metz.jpg",
+   "pour": [
+    "siege-de-metz"
+   ],
+   "sig": "Freyberg – Übergabe von Metz.jpg||560|74"
+  },
+  "siege-de-metz-2": {
+   "f": "img/siege-de-metz-2.webp",
+   "v": "b594e4c085",
+   "w": 560,
+   "h": 794,
+   "l": "Édouard Régnier, photographié par Eugène Appert pour le procès Bazaine",
+   "cr": "Eugène Appert, 1873",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Eugène Appert",
+   "src": "https://commons.wikimedia.org/wiki/File:R%C3%A9gnier_(E._Appert).jpg",
+   "pour": [
+    "siege-de-metz"
+   ],
+   "sig": "Régnier (E. Appert).jpg||560|74"
+  },
+  "siege-de-paris": {
+   "f": "img/siege-de-paris.webp",
+   "v": "1876c42ac8",
+   "w": 560,
+   "h": 433,
+   "l": "Le siège de Paris",
+   "cr": "Jean-Louis-Ernest Meissonier, 1870",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Jean-Louis-Ernest Meissonier",
+   "src": "https://commons.wikimedia.org/wiki/File:Siege_of_Paris.jpg",
+   "pour": [
+    "siege-de-paris"
+   ],
+   "sig": "Siege of Paris.jpg||560|74"
+  },
+  "siege-de-paris-2": {
+   "f": "img/siege-de-paris-2.webp",
+   "v": "98bc800169",
+   "w": 560,
+   "h": 470,
+   "l": "Investissement de Paris, 17 septembre 1870 - 28 janvier 1871. Emplacement des troupes Allemandes en octobre 1870. Attaque du Bourget par la Garde…",
+   "cr": "Capitaine Lannegrace et commandant Ferré, 1888",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Capitaine Lannegrace et commandant Ferré",
+   "src": "https://commons.wikimedia.org/wiki/File:Investissement_de_Paris,_17_septembre_1870_-_28_janvier_1871_(18_btv1b8444518t_1).jpg",
+   "pour": [
+    "siege-de-paris"
+   ],
+   "sig": "Investissement de Paris, 17 septembre 1870 - 28 janvier 1871 (18 btv1b8444518t 1).jpg||560|74"
+  },
+  "vie-a-paris-pendant-le-siege": {
+   "f": "img/vie-a-paris-pendant-le-siege.webp",
+   "v": "095f87a141",
+   "w": 560,
+   "h": 327,
+   "l": "L’abattage d’un éléphant du Jardin des plantes pendant le siège (lithographie)",
+   "cr": "Anonyme, dessinateur-lithographe, 1871",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Anonyme, dessinateur-lithographe",
+   "src": "https://commons.wikimedia.org/wiki/File:Abattage_d%27un_%C3%A9l%C3%A9phant_du_Jardin_des_plantes_pendant_le_Si%C3%A8ge_de_Paris_-_1871_(cropped).jpg",
+   "pour": [
+    "vie-a-paris-pendant-le-siege"
+   ],
+   "sig": "Abattage d'un éléphant du Jardin des plantes pendant le Siège de Paris - 1871 (cropped).jpg||560|74"
+  },
+  "bombardement-de-paris": {
+   "f": "img/bombardement-de-paris.webp",
+   "v": "e1a49ab7cb",
+   "w": 500,
+   "h": 412,
+   "l": "Saint-Cloud en ruine, photographié par Adolphe Braun en 1871",
+   "cr": "Adolphe Braun",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Adolphe Braun",
+   "src": "https://commons.wikimedia.org/wiki/File:Braun,_Adolphe_(1811-1877)_-_Paris,_1871_-_St_Cloud,_La_place.jpg",
+   "pour": [
+    "bombardement-de-paris"
+   ],
+   "sig": "Braun, Adolphe (1811-1877) - Paris, 1871 - St Cloud, La place.jpg||560|74"
+  },
+  "siege-de-belfort": {
+   "f": "img/siege-de-belfort.webp",
+   "v": "f328fb05dc",
+   "w": 560,
+   "h": 420,
+   "l": "Le Lion de Belfort",
+   "cr": "Jean-Christophe BENOIST",
+   "lic": "CC BY 3.0",
+   "li": "CC BY 3.0",
+   "auteur": "Jean-Christophe BENOIST",
+   "src": "https://commons.wikimedia.org/wiki/File:LionBelfort.jpg",
+   "pour": [
+    "siege-de-belfort"
+   ],
+   "sig": "LionBelfort.jpg||560|74"
+  },
+  "siege-de-bitche": {
+   "f": "img/siege-de-bitche.webp",
+   "v": "a76ea5647d",
+   "w": 560,
+   "h": 283,
+   "l": "La citadelle de Bitche, au-dessus de la ville",
+   "cr": "Pwagenblast, 2023",
+   "lic": "CC BY 4.0",
+   "li": "CC BY 4.0",
+   "auteur": "Pwagenblast",
+   "src": "https://commons.wikimedia.org/wiki/File:Bitche_(Zitadelle).jpg",
+   "pour": [
+    "siege-de-bitche"
+   ],
+   "sig": "Bitche (Zitadelle).jpg||560|74"
+  },
+  "siege-de-phalsbourg": {
+   "f": "img/siege-de-phalsbourg.webp",
+   "v": "e6855ce0f4",
+   "w": 560,
+   "h": 420,
+   "l": "Monument des 3 sièges à Phalsbourg",
+   "cr": "Didivo67, 2022",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Didivo67",
+   "src": "https://commons.wikimedia.org/wiki/File:Phalsbourg_monument_des_3_sieges6.jpg",
+   "pour": [
+    "siege-de-phalsbourg"
+   ],
+   "sig": "Phalsbourg monument des 3 sieges6.jpg||560|74"
+  },
+  "siege-de-phalsbourg-2": {
+   "f": "img/siege-de-phalsbourg-2.webp",
+   "v": "52d2202b9d",
+   "w": 250,
+   "h": 426,
+   "l": "Pierre Taillant, commandant de la place de Phalsbourg en 1870",
+   "cr": "Dupont (Meaux), 2021",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Dupont (Meaux)",
+   "src": "https://commons.wikimedia.org/wiki/File:Pierre_Taillant.jpg",
+   "pour": [
+    "siege-de-phalsbourg"
+   ],
+   "sig": "Pierre Taillant.jpg||560|74"
+  },
+  "lichtenberg-et-la-petite-pierre": {
+   "f": "img/lichtenberg-et-la-petite-pierre.webp",
+   "v": "0526a3bd74",
+   "w": 500,
+   "h": 333,
+   "l": "Le château de Lichtenberg aujourd’hui",
+   "cr": "Getüm, 2007",
+   "lic": "CC BY-SA 2.0 de",
+   "li": "CC BY-SA 2.0",
+   "auteur": "Getüm",
+   "src": "https://commons.wikimedia.org/wiki/File:Lichtenberg_Alsace_05.jpg",
+   "pour": [
+    "lichtenberg-et-la-petite-pierre"
+   ],
+   "sig": "Lichtenberg Alsace 05.jpg||560|74"
+  },
+  "lichtenberg-et-la-petite-pierre-2": {
+   "f": "img/lichtenberg-et-la-petite-pierre-2.webp",
+   "v": "511ad05cad",
+   "w": 560,
+   "h": 420,
+   "l": "Le château de La Petite-Pierre",
+   "cr": "Ralf Schulze from Koblenz, Germany, 2008",
+   "lic": "CC BY 2.0",
+   "li": "CC BY 2.0",
+   "auteur": "Ralf Schulze from Koblenz, Germany",
+   "src": "https://commons.wikimedia.org/wiki/File:Chateau_de_La_Petite-Pierre.jpg",
+   "pour": [
+    "lichtenberg-et-la-petite-pierre"
+   ],
+   "sig": "Chateau de La Petite-Pierre.jpg||560|74"
+  },
+  "siege-de-toul": {
+   "f": "img/siege-de-toul.webp",
+   "v": "064b5a0dd7",
+   "w": 560,
+   "h": 562,
+   "l": "À Toul, la sculpture centrale du monument aux victimes de la guerre de 1870",
+   "cr": "Ad Meskens, 2011",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Ad Meskens",
+   "src": "https://commons.wikimedia.org/wiki/File:Toul_Monument_des_morts_2.JPG",
+   "pour": [
+    "siege-de-toul"
+   ],
+   "sig": "Toul Monument des morts 2.JPG||560|74"
+  },
+  "siege-de-toul-2": {
+   "f": "img/siege-de-toul-2.webp",
+   "v": "544b498502",
+   "w": 560,
+   "h": 447,
+   "l": "Épisode du siège de Toul, gravure allemande de la série *Bilder aus dem Deutsch-französischen Kriege*",
+   "cr": "auteur inconnu, 1870",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Inconnu, graveur",
+   "src": "https://commons.wikimedia.org/wiki/File:Bilder_aus_dem_Deutsch-franz%C3%B6sischen_Kriege_1870._Nr._9._Episode_aus_der_Belagerung_von_Toul._Paris_Mus%C3%A9es_20230603023403.jpg",
+   "pour": [
+    "siege-de-toul"
+   ],
+   "sig": "Bilder aus dem Deutsch-französischen Kriege 1870. Nr. 9. Episode aus der Belagerung von Toul. Paris Musées 20230603023403.jpg||560|74"
+  },
+  "siege-de-neuf-brisach": {
+   "f": "img/siege-de-neuf-brisach.webp",
+   "v": "bb0a00b414",
+   "w": 560,
+   "h": 302,
+   "l": "Vue aérienne de Neuf-Brisach (vue depuis le sud-ouest)",
+   "cr": "Carsten Steger, 2025",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Carsten Steger",
+   "src": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Neuf-Brisach_(view_from_the_southwest).jpg",
+   "pour": [
+    "siege-de-neuf-brisach"
+   ],
+   "sig": "Aerial image of Neuf-Brisach (view from the southwest).jpg||560|74"
+  },
+  "siege-de-neuf-brisach-2": {
+   "f": "img/siege-de-neuf-brisach-2.webp",
+   "v": "12e74ee7fa",
+   "w": 560,
+   "h": 310,
+   "l": "Le Porte du Fort Mortier à Neuf-Brisach (Propriété privée, fermée aux visiteurs.)",
+   "cr": "Rauenstein, 2022",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Rauenstein",
+   "src": "https://commons.wikimedia.org/wiki/File:Neuf-Brisach,_Porte_du_Fort_Mortier_1.jpg",
+   "pour": [
+    "siege-de-neuf-brisach"
+   ],
+   "sig": "Neuf-Brisach, Porte du Fort Mortier 1.jpg||560|74"
+  },
+  "siege-de-longwy": {
+   "f": "img/siege-de-longwy.webp",
+   "v": "005f312578",
+   "w": 560,
+   "h": 420,
+   "l": "La porte de France, reste des fortifications de la ville haute de Longwy",
+   "cr": "Carl-9000, 2007",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Carl-9000",
+   "src": "https://commons.wikimedia.org/wiki/File:Longwy_Porte_de_France.JPG",
+   "pour": [
+    "siege-de-longwy"
+   ],
+   "sig": "Longwy Porte de France.JPG||560|74"
+  },
+  "citadelle-de-laon": {
+   "f": "img/citadelle-de-laon.webp",
+   "v": "1caa14a3c9",
+   "w": 560,
+   "h": 420,
+   "l": "L’entrée de la citadelle de Laon",
+   "cr": "Szeder László, 2007",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Szeder László",
+   "src": "https://commons.wikimedia.org/wiki/File:FR-02-Laon10.JPG",
+   "pour": [
+    "citadelle-de-laon"
+   ],
+   "sig": "FR-02-Laon10.JPG||560|74"
+  },
+  "garde-mobile": {
+   "f": "img/garde-mobile.webp",
+   "v": "0fa3f54042",
+   "w": 560,
+   "h": 710,
+   "l": "Un officier de la garde mobile, lithographie de Draner",
+   "cr": "Draner (Liège, 11–11–1833 - Paris, 1926), dessinateur-lithographe, 1871",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Draner (Liège, 11–11–1833 - Paris, 1926), dessinateur-lithographe",
+   "src": "https://commons.wikimedia.org/wiki/File:16_Garde_mobile_%E2%80%93_Officier._Paris_Mus%C3%A9es_20230810080640.jpg",
+   "pour": [
+    "garde-mobile"
+   ],
+   "sig": "16 Garde mobile – Officier. Paris Musées 20230810080640.jpg||560|74"
+  },
+  "garde-nationale": {
+   "f": "img/garde-nationale.webp",
+   "v": "ce617118d3",
+   "w": 560,
+   "h": 404,
+   "l": "Une barricade du passage Raoul, boulevard Richard-Lenoir, le 18 mars 1871",
+   "cr": "auteur inconnu, 1870",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Anonymous Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Barricade_du_passage_Raoul,_Boulevard_Richard-Lenoir.18_mars_1871._PH4142-173.jpg",
+   "pour": [
+    "garde-nationale"
+   ],
+   "sig": "Barricade du passage Raoul, Boulevard Richard-Lenoir.18 mars 1871. PH4142-173.jpg||560|74"
+  },
+  "francs-tireurs": {
+   "f": "img/francs-tireurs.webp",
+   "v": "d6bb458659",
+   "w": 560,
+   "h": 420,
+   "l": "Paysans des Vosges faisant le coup de feu",
+   "cr": "Loki11",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "loki11",
+   "src": "https://commons.wikimedia.org/wiki/File:Francs-tireurs.jpg",
+   "pour": [
+    "francs-tireurs"
+   ],
+   "sig": "Francs-tireurs.jpg||560|74"
+  },
+  "armee-de-l-est": {
+   "f": "img/armee-de-l-est.webp",
+   "v": "0b1c650666",
+   "w": 560,
+   "h": 339,
+   "l": "Soldats de l’armée de Bourbaki internés en Suisse, par Albert Anker (1871)",
+   "cr": "Albert Anker, 1871",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Albert Anker",
+   "src": "https://commons.wikimedia.org/wiki/File:Anker_Bourbakis_1871.jpg",
+   "pour": [
+    "armee-de-l-est"
+   ],
+   "sig": "Anker Bourbakis 1871.jpg||560|74"
+  },
+  "armee-des-vosges": {
+   "f": "img/armee-des-vosges.webp",
+   "v": "5aebd696b9",
+   "w": 330,
+   "h": 227,
+   "l": "L’état-major de Garibaldi, image populaire de la guerre de 1870-1871",
+   "cr": "auteur inconnu",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "",
+   "src": "https://commons.wikimedia.org/wiki/File:Doc11garib.jpg",
+   "pour": [
+    "armee-des-vosges"
+   ],
+   "sig": "Doc11garib.jpg||560|74"
+  },
+  "camp-de-conlie": {
+   "f": "img/camp-de-conlie.webp",
+   "v": "bb727944e7",
+   "w": 560,
+   "h": 747,
+   "l": "Le monument des Bretons, sur le site du camp de Conlie",
+   "cr": "FCNantes72, 2015",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "FCNantes72",
+   "src": "https://commons.wikimedia.org/wiki/File:Monument_des_Bretons.jpg",
+   "pour": [
+    "camp-de-conlie"
+   ],
+   "sig": "Monument des Bretons.jpg||560|74"
+  },
+  "landwehr": {
+   "f": "img/landwehr.webp",
+   "v": "50417892c1",
+   "w": 500,
+   "h": 366,
+   "l": "Le départ de la Landwehr de Prusse-Orientale en 1813, l’année de sa création",
+   "cr": "Gustav Graef, 1860",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Gustav Graef",
+   "src": "https://commons.wikimedia.org/wiki/File:Auszug_der_Ostpr._Landwehr_1813.JPG",
+   "pour": [
+    "landwehr"
+   ],
+   "sig": "Auszug der Ostpr. Landwehr 1813.JPG||560|74"
+  },
+  "chemins-de-fer": {
+   "f": "img/chemins-de-fer.webp",
+   "v": "4d595f7cf2",
+   "w": 560,
+   "h": 560,
+   "l": "La ligne de Paris à Strasbourg (tracé actuel)",
+   "cr": "Poudou99, 2020",
+   "lic": "CC BY 4.0",
+   "li": "CC BY 4.0",
+   "auteur": "Poudou99",
+   "src": "https://commons.wikimedia.org/wiki/File:070000_-_Ligne_de_Paris-Est_%C3%A0_Strasbourg-Ville.png",
+   "pour": [
+    "chemins-de-fer"
+   ],
+   "sig": "070000 - Ligne de Paris-Est à Strasbourg-Ville.png||560|74"
+  },
+  "fusil-chassepot": {
+   "f": "img/fusil-chassepot.webp",
+   "v": "882bc0a181",
+   "w": 560,
+   "h": 560,
+   "l": "Un fusil Chassepot modèle 1866",
+   "cr": "Rama",
+   "lic": "CC BY-SA 2.0 fr",
+   "li": "CC BY-SA 2.0",
+   "auteur": "Rama",
+   "src": "https://commons.wikimedia.org/wiki/File:Chassepot-p1000738.jpg",
+   "pour": [
+    "fusil-chassepot"
+   ],
+   "sig": "Chassepot-p1000738.jpg||560|74"
+  },
+  "fusil-chassepot-2": {
+   "f": "img/fusil-chassepot-2.webp",
+   "v": "fce90b3353",
+   "w": 560,
+   "h": 641,
+   "l": "Le mécanisme du Chassepot",
+   "cr": "Rama",
+   "lic": "CC BY-SA 2.0 fr",
+   "li": "CC BY-SA 2.0",
+   "auteur": "Rama",
+   "src": "https://commons.wikimedia.org/wiki/File:Chassepot-diag.jpg",
+   "pour": [
+    "fusil-chassepot"
+   ],
+   "sig": "Chassepot-diag.jpg||560|74"
+  },
+  "fusil-dreyse": {
+   "f": "img/fusil-dreyse.webp",
+   "v": "98456c017f",
+   "w": 560,
+   "h": 747,
+   "l": "Le fusil à aiguille Dreyse",
+   "cr": "Sendker, 2007",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Sendker",
+   "src": "https://commons.wikimedia.org/wiki/File:Zuendnadelgewehr.jpg",
+   "pour": [
+    "fusil-dreyse"
+   ],
+   "sig": "Zuendnadelgewehr.jpg||560|74"
+  },
+  "mitrailleuse-de-reffye": {
+   "f": "img/mitrailleuse-de-reffye.webp",
+   "v": "ef09254732",
+   "w": 500,
+   "h": 375,
+   "l": "Une mitrailleuse de Reffye, vue de face",
+   "cr": "auteur inconnu",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "",
+   "src": "https://commons.wikimedia.org/wiki/File:Mitrailleuse_front.jpg",
+   "pour": [
+    "mitrailleuse-de-reffye"
+   ],
+   "sig": "Mitrailleuse front.jpg||560|74"
+  },
+  "canon-krupp": {
+   "f": "img/canon-krupp.webp",
+   "v": "509705c8d5",
+   "w": 560,
+   "h": 420,
+   "l": "Un canon prussien C/61 en acier Krupp, à Sarrelouis",
+   "cr": "Piusfuchs, 2009",
+   "lic": "CC0",
+   "li": "CC0",
+   "auteur": "Piusfuchs",
+   "src": "https://commons.wikimedia.org/wiki/File:C61_Saarlouis.JPG",
+   "pour": [
+    "canon-krupp"
+   ],
+   "sig": "C61 Saarlouis.JPG||560|74"
+  },
+  "canon-krupp-2": {
+   "f": "img/canon-krupp-2.webp",
+   "v": "bd44c73707",
+   "w": 560,
+   "h": 420,
+   "l": "Canon de campagne prussien de 4 livres, modèle C/64-67, en acier Krupp",
+   "cr": "Holger Kotthaus, 2008",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Holger Kotthaus",
+   "src": "https://commons.wikimedia.org/wiki/File:C_64_67_01.jpg",
+   "pour": [
+    "canon-krupp"
+   ],
+   "sig": "C 64 67 01.jpg||560|74"
+  },
+  "artillerie-francaise": {
+   "f": "img/artillerie-francaise.webp",
+   "v": "54f8b14104",
+   "w": 560,
+   "h": 490,
+   "l": "Le canon de montagne de 4 modèle 1859 « Le Pétulant »",
+   "cr": "PHGCOM, 2008",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "PHGCOM",
+   "src": "https://commons.wikimedia.org/wiki/File:Canon_de_montagne_de_4_modele_1859_Le_Petulant.jpg",
+   "pour": [
+    "artillerie-francaise"
+   ],
+   "sig": "Canon de montagne de 4 modele 1859 Le Petulant.jpg||560|74"
+  },
+  "ballons-du-siege": {
+   "f": "img/ballons-du-siege.webp",
+   "v": "9fc84203e2",
+   "w": 560,
+   "h": 673,
+   "l": "Le *Neptune*, premier ballon parti de Paris assiégé, sur la place Saint-Pierre à Montmartre (photographie de Nadar)",
+   "cr": "auteur inconnu",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_Neptune_Nadar.jpg",
+   "pour": [
+    "ballons-du-siege"
+   ],
+   "sig": "Le Neptune Nadar.jpg||560|74"
+  },
+  "pigeons-voyageurs": {
+   "f": "img/pigeons-voyageurs.webp",
+   "v": "dbc5332a47",
+   "w": 560,
+   "h": 922,
+   "l": "*Le Pigeon*, de Pierre Puvis de Chavannes",
+   "cr": "Pierre Puvis de Chavannes, 1871",
+   "lic": "CC BY-SA 2.0 fr",
+   "li": "CC BY-SA 2.0",
+   "auteur": "Pierre Puvis de Chavannes",
+   "src": "https://commons.wikimedia.org/wiki/File:Le_Pigeon-Pierre_Puvis_de_Chavannes-IMG_8272.JPG",
+   "pour": [
+    "pigeons-voyageurs"
+   ],
+   "sig": "Le Pigeon-Pierre Puvis de Chavannes-IMG 8272.JPG||560|74"
+  },
+  "fortifications-de-paris": {
+   "f": "img/fortifications-de-paris.webp",
+   "v": "7466dfc2ed",
+   "w": 560,
+   "h": 478,
+   "l": "Paris et ses fortifications en 1859",
+   "cr": "J.M. Schomburg, aka ThePromenader, 2013",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "J.M. Schomburg, aka ThePromenader",
+   "src": "https://commons.wikimedia.org/wiki/File:Paris_PC_1859_jms.jpg",
+   "pour": [
+    "fortifications-de-paris"
+   ],
+   "sig": "Paris PC 1859 jms.jpg||560|74"
+  },
+  "fusils-bavarois": {
+   "f": "img/fusils-bavarois.webp",
+   "v": "bdba10bf98",
+   "w": 560,
+   "h": 233,
+   "l": "Un fusil Werder modèle 1869 de l’armée bavaroise",
+   "cr": "Swedish Army Museum ( ), 2014",
+   "lic": "CC BY 4.0",
+   "li": "CC BY 4.0",
+   "auteur": "Swedish Army Museum ( https://digitaltmuseum.se/011024390981/gevar-m-1869-bayern )",
+   "src": "https://commons.wikimedia.org/wiki/File:Werder-Gewehr-M1869-Bayern-AM.033360.png",
+   "pour": [
+    "fusils-bavarois"
+   ],
+   "sig": "Werder-Gewehr-M1869-Bayern-AM.033360.png||560|74"
+  },
+  "idee-de-revanche": {
+   "f": "img/idee-de-revanche.webp",
+   "v": "b05b3fc992",
+   "w": 560,
+   "h": 409,
+   "l": "*La Tache noire* ou *La Leçon de géographie*, d’Albert Bettannier",
+   "cr": "Albert Bettannier, 1887",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Albert Bettannier",
+   "src": "https://commons.wikimedia.org/wiki/File:The_Geography_Lesson_or_%22The_Black_Spot%22.jpg",
+   "pour": [
+    "idee-de-revanche"
+   ],
+   "sig": "The Geography Lesson or \"The Black Spot\".jpg||560|74"
+  },
+  "tombes-et-monuments": {
+   "f": "img/tombes-et-monuments.webp",
+   "v": "0bb1c456cf",
+   "w": 560,
+   "h": 748,
+   "l": "Le monument de Mars-la-Tour, sculpté par Frédéric Bogino",
+   "cr": "Original uploader was Aimelaime at fr.wikipedia, 2011",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Original uploader was Aimelaime at fr.wikipedia",
+   "src": "https://commons.wikimedia.org/wiki/File:Monument_morts_Mars_la_Tour.jpg",
+   "pour": [
+    "tombes-et-monuments"
+   ],
+   "sig": "Monument morts Mars la Tour.jpg||560|74"
+  },
+  "memoire-allemande": {
+   "f": "img/memoire-allemande.webp",
+   "v": "a2ccc47ef4",
+   "w": 500,
+   "h": 333,
+   "l": "La porte de Brandebourg, à Berlin, pavoisée pour les vingt-cinq ans de Sedan (1895)",
+   "cr": "Scanned by Immanuel Giel, 2005",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Scanned by Immanuel Giel",
+   "src": "https://commons.wikimedia.org/wiki/File:SedanBrandenburgerTor.jpg",
+   "pour": [
+    "memoire-allemande"
+   ],
+   "sig": "SedanBrandenburgerTor.jpg||560|74"
+  },
+  "peinture-de-la-guerre": {
+   "f": "img/peinture-de-la-guerre.webp",
+   "v": "7bf52c06ec",
+   "w": 560,
+   "h": 364,
+   "l": "*Les Dernières Cartouches*, d’Alphonse de Neuville (1873)",
+   "cr": "Alphonse de Neuville, 1873",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Alphonse de Neuville",
+   "src": "https://commons.wikimedia.org/wiki/File:Alphonse-Marie-Adolphe_de_Neuville_-_Les_derni%C3%A8res_cartouches_(1873).jpg",
+   "pour": [
+    "peinture-de-la-guerre"
+   ],
+   "sig": "Alphonse-Marie-Adolphe de Neuville - Les dernières cartouches (1873).jpg||560|74"
+  },
+  "litterature-de-la-guerre": {
+   "f": "img/litterature-de-la-guerre.webp",
+   "v": "1a540eac66",
+   "w": 330,
+   "h": 418,
+   "l": "Le groupe de Médan",
+   "cr": "auteur inconnu, 1850",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Groupe_de_M%C3%A9dan.jpg",
+   "pour": [
+    "litterature-de-la-guerre"
+   ],
+   "sig": "Groupe de Médan.jpg||560|74"
+  },
+  "proces-de-bazaine": {
+   "f": "img/proces-de-bazaine.webp",
+   "v": "c176b163d6",
+   "w": 500,
+   "h": 655,
+   "l": "Le duc d’Aumale, qui présida le conseil de guerre de Trianon",
+   "cr": "Ernest Charles Eugène Appert (France, 1830-1891), 1876",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Ernest Charles Eugène Appert (France, 1830-1891)",
+   "src": "https://commons.wikimedia.org/wiki/File:Duc_d%27Aumale_LACMA_AC1992.229.118.jpg",
+   "pour": [
+    "proces-de-bazaine"
+   ],
+   "sig": "Duc d'Aumale LACMA AC1992.229.118.jpg||560|74"
+  },
+  "traite-de-francfort": {
+   "f": "img/traite-de-francfort.webp",
+   "v": "67daac1ea6",
+   "w": 560,
+   "h": 752,
+   "l": "Le traité de Francfort et la plume avec laquelle Bismarck le signa",
+   "cr": "Sendker",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Sendker",
+   "src": "https://commons.wikimedia.org/wiki/File:Frieden_von_Frankfurt_am_Main.jpg",
+   "pour": [
+    "traite-de-francfort"
+   ],
+   "sig": "Frieden von Frankfurt am Main.jpg||560|74"
+  },
+  "commune-de-paris": {
+   "f": "img/commune-de-paris.webp",
+   "v": "56f4d42724",
+   "w": 560,
+   "h": 407,
+   "l": "Destruction de la colonne Vendôme pendant la Commune de Paris",
+   "cr": "Bruno Braquehais, 1871",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Bruno Braquehais",
+   "src": "https://commons.wikimedia.org/wiki/File:Destruction_de_la_colonne_Vend%C3%B4me.jpg",
+   "pour": [
+    "commune-de-paris"
+   ],
+   "sig": "Destruction de la colonne Vendôme.jpg||560|74"
+  },
+  "commune-de-paris-2": {
+   "f": "img/commune-de-paris-2.webp",
+   "v": "544b1a8224",
+   "w": 560,
+   "h": 424,
+   "l": "La colonne Vendôme renversée, mai 1871",
+   "cr": "André Adolphe-Eugène Disdéri (1819 - 1889), 1871",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "André Adolphe-Eugène Disdéri (1819 - 1889)",
+   "src": "https://commons.wikimedia.org/wiki/File:Colonne_vendome.jpg",
+   "pour": [
+    "commune-de-paris"
+   ],
+   "sig": "Colonne vendome.jpg||560|74"
+  },
+  "zouaves-pontificaux": {
+   "f": "img/zouaves-pontificaux.webp",
+   "v": "01653b9228",
+   "w": 500,
+   "h": 898,
+   "l": "Un zouave pontifical",
+   "cr": "Photographer, Fratelli D'Alessandri , Roma, 1865",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Photographer, Fratelli D'Alessandri , Roma.",
+   "src": "https://commons.wikimedia.org/wiki/File:Papal_Zouave.jpg",
+   "pour": [
+    "zouaves-pontificaux"
+   ],
+   "sig": "Papal Zouave.jpg||560|74"
+  },
+  "marine-en-1870": {
+   "f": "img/marine-en-1870.webp",
+   "v": "56015d9790",
+   "w": 560,
+   "h": 323,
+   "l": "Le combat de La Havane, 9 novembre 1870 : à gauche la canonnière allemande *Meteor*, à droite l’aviso français *Bouvet* (illustration de Hermann Penner)",
+   "cr": "Hermann Penner, 2015",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Hermann Penner",
+   "src": "https://commons.wikimedia.org/wiki/File:Das_Seegefecht_vor_Havanna_am_9._November_1870._Llinks_das_norddeutschen_Kanonenboot_SMS_METEOR,_rechts_der_franz%C3%B6sische_Aviso_BOUVET._Illustration_von_Hermann_Penner.jpg",
+   "pour": [
+    "marine-en-1870"
+   ],
+   "sig": "Das Seegefecht vor Havanna am 9. November 1870. Llinks das norddeutschen Kanonenboot SMS METEOR, rechts der französische Aviso BOUVET. Illustration von Hermann Penner.jpg||560|74"
+  },
+  "service-de-sante": {
+   "f": "img/service-de-sante.webp",
+   "v": "28f2a1d1d2",
+   "w": 560,
+   "h": 457,
+   "l": "Fac-similé de la première convention de Genève (1864)",
+   "cr": "Kevin Quinn, Ohio, US, 2005",
+   "lic": "CC BY 2.0",
+   "li": "CC BY 2.0",
+   "auteur": "Kevin Quinn, Ohio, US",
+   "src": "https://commons.wikimedia.org/wiki/File:Original_Geneva_Conventions.jpg",
+   "pour": [
+    "service-de-sante"
+   ],
+   "sig": "Original Geneva Conventions.jpg||560|74"
+  },
+  "canon-de-7": {
+   "f": "img/canon-de-7.webp",
+   "v": "4dbef4d5b8",
+   "w": 560,
+   "h": 432,
+   "l": "Les canons repris à l’armée devant la mairie du 18e arrondissement, le 18 mars 1871",
+   "cr": "J. Gaildrau",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "J. Gaildrau",
+   "src": "https://commons.wikimedia.org/wiki/File:Commune_de_Paris_Les_canons_18_mars_1871.jpg",
+   "pour": [
+    "canon-de-7"
+   ],
+   "sig": "Commune de Paris Les canons 18 mars 1871.jpg||560|74"
+  },
+  "juliette-dodu": {
+   "f": "img/juliette-dodu.webp",
+   "v": "afe2fe6e64",
+   "w": 560,
+   "h": 797,
+   "l": "Juliette Dodu",
+   "cr": "auteur inconnu",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown photographer Unknown photographer",
+   "src": "https://commons.wikimedia.org/wiki/File:Juliette_Dodu_%E2%80%94_Leonore.png",
+   "pour": [
+    "juliette-dodu"
+   ],
+   "sig": "Juliette Dodu — Leonore.png||560|74"
+  },
+  "consequences-de-la-guerre": {
+   "f": "img/consequences-de-la-guerre.webp",
+   "v": "72c57c1bb5",
+   "w": 560,
+   "h": 297,
+   "l": "La brèche de la Porta Pia : les troupes italiennes entrent dans Rome le 20 septembre 1870 (tableau de Carlo Ademollo)",
+   "cr": "Carlo Ademollo, 1880",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Carlo Ademollo",
+   "src": "https://commons.wikimedia.org/wiki/File:Breccia_di_Porta_Pia_Ademollo.jpg",
+   "pour": [
+    "consequences-de-la-guerre"
+   ],
+   "sig": "Breccia di Porta Pia Ademollo.jpg||560|74"
+  },
+  "telegraphe-en-1870": {
+   "f": "img/telegraphe-en-1870.webp",
+   "v": "d91130ea86",
+   "w": 560,
+   "h": 539,
+   "l": "Une boule de Moulins, exposée au musée de l’Armée",
+   "cr": "Siren-Com, 2017",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Siren-Com",
+   "src": "https://commons.wikimedia.org/wiki/File:Boule_de_Moulin_2017.jpg",
+   "pour": [
+    "telegraphe-en-1870"
+   ],
+   "sig": "Boule de Moulin 2017.jpg||560|74"
+  },
+  "chansons-et-images": {
+   "f": "img/chansons-et-images.webp",
+   "v": "49ddeb6ab2",
+   "w": 500,
+   "h": 768,
+   "l": "La partition d’« Alsace et Lorraine »",
+   "cr": "auteur inconnu, 1871",
+   "lic": "Public domain",
+   "li": "domaine public",
+   "auteur": "Unknown author Unknown author",
+   "src": "https://commons.wikimedia.org/wiki/File:Alsace_et_lorraine.JPG",
+   "pour": [
+    "chansons-et-images"
+   ],
+   "sig": "Alsace et lorraine.JPG||560|74"
+  },
+  "sur-les-champs-de-bataille-d-alsace": {
+   "f": "img/sur-les-champs-de-bataille-d-alsace.webp",
+   "v": "b0afba1ddc",
+   "w": 560,
+   "h": 747,
+   "l": "Le château de Wœrth, qui abrite le musée de la bataille du 6 août 1870",
+   "cr": "Ji-Elle, 2011",
+   "lic": "CC BY-SA 3.0",
+   "li": "CC BY-SA 3.0",
+   "auteur": "Ji-Elle",
+   "src": "https://commons.wikimedia.org/wiki/File:Woerth-Ch%C3%A2teau_(5).jpg",
+   "pour": [
+    "sur-les-champs-de-bataille-d-alsace"
+   ],
+   "sig": "Woerth-Château (5).jpg||560|74"
+  },
+  "lieux-de-memoire": {
+   "f": "img/lieux-de-memoire.webp",
+   "v": "9a0661d1b0",
+   "w": 560,
+   "h": 301,
+   "l": "Le musée de la Guerre de 1870 et de l’Annexion, à Gravelotte",
+   "cr": "Cristo6772, 2019",
+   "lic": "CC BY-SA 4.0",
+   "li": "CC BY-SA 4.0",
+   "auteur": "Cristo6772",
+   "src": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_de_la_Guerre_de_1870_et_de_l%27Annexion,_%C3%A9galement_mus%C3%A9e_de_Gravelotte.jpg",
+   "pour": [
+    "lieux-de-memoire"
+   ],
+   "sig": "Musée de la Guerre de 1870 et de l'Annexion, également musée de Gravelotte.jpg||560|74"
+  }
+ },
+ "planches": {}
+}

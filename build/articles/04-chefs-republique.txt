@@ -1,0 +1,473 @@
+# 1870 — lot 04 : les chefs de la République. Dix-sept personnages, dans l'ordre du plan.
+# Dates et fonctions vérifiées sur Wikipédia (fr, recoupé avec de ou en) et sur les sources indiquées article par article.
+
+@ gambetta
+cat: personnages
+nom: Léon Gambetta
+alias: Léon Michel Gambetta, Gambetta, le tribun, Armand-Barbès, dictature de Tours, guerre à outrance, Pensons-y toujours n'en parlons jamais, discours de Saint-Quentin
+dates: 1838 – 1882
+an: 1838
+fin: 1882
+camp: fr
+role: ministre de l'Intérieur et de la Guerre
+def: Député républicain de trente-deux ans, Léon Gambetta proclame la déchéance de l'Empire le 4 septembre 1870, quitte Paris assiégé en ballon et, ministre de l'Intérieur et de la Guerre à Tours puis à Bordeaux, anime la résistance des armées de province jusqu'à sa démission, le 6 février 1871.
+texte: Né à Cahors le 2 avril 1838, fils d'un épicier génois, borgne depuis un accident survenu à quinze ans, Léon Gambetta ne devient français qu'à sa majorité, en 1859. Avocat à Paris, il se rend célèbre en novembre 1868 en défendant le journaliste Delescluze dans l'affaire Baudin : sa plaidoirie fait le procès du coup d'État de 1851. Élu député en mai 1869 à Belleville et à Marseille sur un programme radical, il choisit Marseille et s'impose en quelques mois comme le premier orateur de l'opposition républicaine au Corps législatif.
+texte: Le 15 juillet 1870, dans la séance où se décide la guerre, il réclame en vain qu'on montre aux députés la dépêche qui prouverait l'outrage fait à la France ; il vote pourtant les crédits ([[declaration-de-guerre]]), par patriotisme, et écrit à un ami qu'il croit à la victoire. Le [[quatre-septembre|4 septembre]], au Palais-Bourbon envahi, c'est lui qui déclare la dynastie déchue, avant d'entraîner la foule à l'Hôtel de Ville. Dans le [[gouvernement-de-la-defense-nationale|gouvernement de la Défense nationale]], il enlève le ministère de l'Intérieur à Ernest Picard et révoque aussitôt les préfets de l'Empire : quatre-vingts nouveaux préfets sont nommés en une dizaine de jours, avocats et journalistes républicains pour la plupart, souvent sans expérience de l'administration.
+texte: Paris investi, la [[delegation-de-tours|Délégation de Tours]] se montre impuissante, et le gouvernement décide d'envoyer en province un ministre qui ait le dernier mot. Le 7 octobre, Gambetta s'élève de Montmartre dans l'*Armand-Barbès* avec son secrétaire Eugène Spuller (voir [[ballons-du-siege]]) ; il est à Tours le 9. Il y cumule bientôt l'Intérieur et la Guerre et appelle auprès de lui un ingénieur des Mines, [[charles-de-freycinet|Charles de Freycinet]]. Deux civils, un avocat de trente-deux ans et un ingénieur de quarante et un, gouvernent désormais la France non envahie et conduisent sa guerre. Leur politique tient en trois mots, la [[guerre-a-outrance|guerre à outrance]] : pas de paix qui coûte l'Alsace, tous les hommes valides sous les armes, Paris délivré par la province. Proclamations enflammées, préfets changés en recruteurs, camps d'instruction, gardes nationaux mobilisés par le décret du 2 novembre, fusils achetés jusqu'en Amérique : un demi-million d'hommes sont levés en trois mois.
+texte: Gambetta ne commande pas les armées, mais il les dirige de loin : les plans partent des bureaux de Tours, des délégués civils surveillent les généraux, et ceux qui déplaisent sont relevés. Après la capitulation de Metz, il fait afficher que « le maréchal Bazaine a trahi » (voir [[siege-de-metz]]). La victoire de [[bataille-de-coulmiers|Coulmiers]], le 9 novembre, paraît lui donner raison ; la perte d'Orléans, le 4 décembre, le brouille avec [[aurelle-de-paladines|d'Aurelle de Paladines]], qu'il relève. Il confie alors la deuxième [[armee-de-la-loire|armée de la Loire]] à [[chanzy|Chanzy]], laisse le Nord à [[faidherbe|Faidherbe]] et lance [[bourbaki|Bourbaki]] vers l'est. La Délégation se replie à Bordeaux le 9 décembre ; lui court les armées, de Bourges à Lyon, de Laval à Lille, où il se rend par mer. En janvier 1871, les trois armées sont battues l'une après l'autre.
+texte: Le 29 janvier, un télégramme lui apprend que [[jules-favre|Jules Favre]] a signé l'[[armistice-de-1871|armistice]] sans consulter Bordeaux. Il veut continuer la guerre et, le 31, prépare à sa façon les élections que prévoit la convention : un décret déclare inéligibles les anciens ministres, sénateurs, préfets et candidats officiels de l'Empire. [[bismarck|Bismarck]] proteste et menace de rompre la trêve ; Paris désavoue son ministre et dépêche Jules Simon, chargé de mettre fin à ses pouvoirs et, au besoin, de l'arrêter. Lyon lui propose de continuer la lutte, des préfets le soutiennent, mais les généraux sont partagés, le pays veut la paix, et Gambetta refuse une guerre civile qui emporterait la République. Le 6 février, il démissionne : il n'est plus, écrit-il aux préfets, « en communion d'idées ni d'espérances » avec le gouvernement.
+texte: Élu le 8 février dans plusieurs départements, il choisit d'être député du Bas-Rhin. Le 1er mars, quand l'[[assemblee-de-bordeaux|Assemblée de Bordeaux]] ratifie les [[preliminaires-de-versailles|préliminaires de paix]], il la quitte avec les élus de l'Alsace et de la Lorraine (voir [[protestation-de-bordeaux]]) ; le 3 mars, aux obsèques du maire de Strasbourg, [[emile-kuss|Émile Küss]], il promet que la France n'aura désormais d'autre politique que « leur délivrance ». Il passe la Commune à Saint-Sébastien, en Espagne, revient en juillet député de la Seine, fonde *La République française* et consacre la décennie suivante à enraciner une République modérée. Président de la Chambre en 1879, président du Conseil de novembre 1881 à janvier 1882, il meurt aux Jardies, à Sèvres, le 31 décembre 1882, à quarante-quatre ans. Il est inhumé à Nice ; son cœur entre au Panthéon le 11 novembre 1920.
+repere: 2 avril 1838 — Naissance à Cahors.
+repere: novembre 1868 — Sa plaidoirie dans l'affaire Baudin le rend célèbre.
+repere: 15 juillet 1870 — Il vote les crédits de guerre après avoir réclamé en vain la communication de la dépêche d'Ems.
+repere: 4 septembre 1870 — Il déclare la dynastie déchue au Palais-Bourbon et devient ministre de l'Intérieur.
+repere: 7 octobre 1870 — Il quitte Paris assiégé dans le ballon *Armand-Barbès*.
+repere: 9 octobre 1870 — Il arrive à Tours, où il cumule bientôt l'Intérieur et la Guerre.
+repere: 9 décembre 1870 — La Délégation s'installe à Bordeaux.
+repere: 6 février 1871 — Il démissionne plutôt que d'accepter l'armistice et ses suites.
+repere: 16 novembre 1871 — Discours de Saint-Quentin sur l'étranger auquel il faut « penser toujours ».
+repere: 31 décembre 1882 — Mort aux Jardies, à Sèvres.
+attention: « Pensons-y toujours, n'en parlons jamais » ne se lit sous cette forme dans aucun discours de Gambetta : c'est le résumé ramassé d'une phrase prononcée à Saint-Quentin, le 16 novembre 1871 — « ne parlons jamais de l'étranger, mais que l'on comprenne que nous y pensons toujours ». Le sens en est souvent forcé : le tribun de la guerre à outrance y prêchait le silence, la dignité et la patience, non la revanche immédiate (voir [[idee-de-revanche]]).
+lien: wp Léon Gambetta
+lien: de Léon Gambetta
+lien: ia discoursetplaid02gamb = J. Reinach (éd.), Discours et plaidoyers politiques de M. Gambetta, t. II, avec le discours de Saint-Quentin
+sources: Wikipédia (fr, en, de : Léon Gambetta ; fr : François Achille Bazaine, Émile Küss) ; J. Reinach (éd.), Discours et plaidoyers politiques de M. Gambetta, t. II, discours de Saint-Quentin du 16 novembre 1871 (Internet Archive)
+voir: quatre-septembre, delegation-de-tours, guerre-a-outrance, charles-de-freycinet, ballons-du-siege, armistice-de-1871, protestation-de-bordeaux, idee-de-revanche
+
+@ trochu
+cat: personnages
+nom: Le général Trochu
+alias: Louis Jules Trochu, Louis-Jules Trochu, gouverneur de Paris, plan Trochu, L'Armée française en 1867, le gouverneur de Paris ne capitulera pas, trop choir
+dates: 1815 – 1896
+an: 1815
+fin: 1896
+camp: fr
+role: gouverneur de Paris, président du gouvernement de la Défense nationale
+def: Général breton et catholique, critique de l'armée impériale, Louis Jules Trochu est nommé gouverneur de Paris le 17 août 1870, puis préside le gouvernement de la Défense nationale. Il conduit la défense de Paris assiégé sans croire qu'elle puisse réussir, jusqu'à la veille de l'armistice.
+texte: Né le 12 mars 1815 au Palais, à Belle-Île-en-Mer, saint-cyrien et officier d'état-major, Louis Jules Trochu a servi Bugeaud en Algérie, été grièvement blessé à l'assaut de Sébastopol en 1855 et commandé une division en Italie. En 1867, il publie sans le signer *L'Armée française en 1867*, un réquisitoire contre une armée qui s'est, écrit-il, « endormie dans la satisfaction » d'elle-même : dix éditions en quelques mois, et la disgrâce. Orléaniste de cœur, il y gagne une réputation d'homme lucide qui fera sa fortune en 1870.
+texte: La guerre venue, on le tient à l'écart, à la tête d'une division territoriale à Toulouse, promis au commandement d'un débarquement sur les côtes allemandes qui n'aura pas lieu. Après les défaites d'août, [[napoleon-iii|Napoléon III]] le nomme le 17 août, au camp de Châlons, gouverneur de Paris : il doit y précéder l'empereur et l'armée, qui marcheront finalement vers Sedan. À Paris, l'impératrice et le ministère [[comte-de-palikao|Palikao]] se défient de lui, et il le leur rend. Le [[quatre-septembre|4 septembre]], il ne défend pas le régime ; il accepte de présider le [[gouvernement-de-la-defense-nationale|gouvernement de la Défense nationale]], à condition qu'on y garantisse la religion, la famille et la propriété.
+texte: Gouverneur et chef du gouvernement, il a sous ses ordres la plus grande place forte d'Europe et quelque 400 000 hommes, dont une [[garde-nationale|garde nationale]] qu'il juge inutilisable en rase campagne (voir [[siege-de-paris]]). Il ne croit pas qu'une ville assiégée puisse se délivrer seule : il organise, arme, fortifie, mais refuse la sortie en masse que réclament les clubs, et n'engage les grandes sorties, [[bataille-de-champigny|Champigny]] puis [[bataille-de-buzenval|Buzenval]], que sous la pression de Paris et de Tours. Il répète qu'il a un plan ; les chansonniers et les caricaturistes finissent par en faire une plaisanterie. Lors de la [[journee-du-31-octobre|journée du 31 octobre]], il sauve de justesse son gouvernement. Le 6 janvier 1871, au lendemain des premiers obus tombés sur la rive gauche, il répond à l'Affiche rouge, qui réclame la Commune, par une proclamation qui s'achève sur ces mots : « Le gouverneur de Paris ne capitulera pas. » Après Buzenval, le gouvernement supprime le titre de gouverneur et confie le commandement au [[general-vinoy|général Vinoy]] ; Trochu garde la présidence, mais ce n'est pas lui qui signera.
+texte: Élu à l'Assemblée en février 1871 dans plusieurs départements, il siège pour le Morbihan. En juin, à la tribune, il défend sa conduite : la résistance de Paris n'était qu'une « héroïque folie », et la seule date qui mérite l'exécration publique est celle de la déclaration de guerre, « faite dans l'orgueil, sans préparations et sans alliances ». Il refuse le bâton de maréchal que [[adolphe-thiers|Thiers]] lui fait offrir, quitte la vie politique en 1872, l'armée en 1873, publie la même année *Pour la vérité et pour la justice*, et meurt à Tours le 7 octobre 1896.
+repere: 12 mars 1815 — Naissance au Palais, à Belle-Île-en-Mer.
+repere: 1867 — Il publie sans nom d'auteur *L'Armée française en 1867*.
+repere: 17 août 1870 — Au camp de Châlons, Napoléon III le nomme gouverneur de Paris.
+repere: 4 septembre 1870 — Il prend la présidence du gouvernement de la Défense nationale.
+repere: 31 octobre 1870 — L'Hôtel de Ville est envahi ; le gouvernement se maintient de justesse.
+repere: 6 janvier 1871 — Proclamation : « Le gouverneur de Paris ne capitulera pas. »
+repere: 21 – 22 janvier 1871 — Le titre de gouverneur est supprimé ; Vinoy commande l'armée de Paris.
+repere: 7 octobre 1896 — Mort à Tours.
+attention: Le calembour « Trochu, participe passé du verbe trop choir » est attribué à Victor Hugo, sans qu'on en connaisse la source exacte, et le « ne capitulera pas » est parfois daté à tort du 31 octobre : il est du 6 janvier 1871. Le « plan Trochu », dont Paris a tant ri, a pourtant existé : une percée vers le nord-ouest, par la basse Seine, en direction de Rouen, abandonnée au profit de la sortie de la Marne, à la rencontre de l'armée de la Loire que voulait Tours.
+lien: wp Louis Jules Trochu
+lien: de Louis Jules Trochu
+sources: Wikipédia (fr : Louis Jules Trochu, Gouvernement de la Défense nationale, Chronologie du siège de Paris (1870-1871), Affiche Rouge (1871) ; en : Louis-Jules Trochu ; de : Louis Jules Trochu)
+voir: siege-de-paris, gouvernement-de-la-defense-nationale, quatre-septembre, general-vinoy, bataille-de-champigny, bataille-de-buzenval, journee-du-31-octobre, mots-de-1870
+
+@ jules-favre
+cat: personnages
+nom: Jules Favre
+alias: Jules Gabriel Claude Favre, ministre des Affaires étrangères, ni un pouce de notre territoire, circulaire du 6 septembre, armistice de Versailles
+dates: 1809 – 1880
+an: 1809
+fin: 1880
+camp: fr
+role: vice-président du gouvernement, ministre des Affaires étrangères
+def: Avocat lyonnais, l'un des chefs de l'opposition républicaine sous l'Empire, Jules Favre est vice-président du gouvernement de la Défense nationale et ministre des Affaires étrangères. Il promet de ne céder « ni un pouce » du territoire, puis négocie avec Bismarck l'armistice du 28 janvier 1871 et la paix.
+texte: Né à Lyon le 21 mars 1809, Jules Favre a plaidé pour les insurgés lyonnais de 1834, pour Orsini en 1858 et, au procès de Metz d'octobre 1849, pour le Strasbourgeois [[emile-kuss|Émile Küss]], acquitté. Élu à Paris en 1858, l'un des « Cinq » qui forment la première opposition républicaine du Corps législatif, membre de l'Académie française en 1867, il passe pour le premier orateur de la gauche jusqu'à ce que des cadets, Gambetta en tête, l'éclipsent. En juillet 1870, il combat la guerre aux côtés de Thiers ; dans la nuit du 3 au 4 septembre, c'est lui qui dépose la motion de déchéance (voir [[quatre-septembre]]).
+texte: Vice-président du [[gouvernement-de-la-defense-nationale|gouvernement de la Défense nationale]] et ministre des Affaires étrangères, il croit d'abord que la chute de l'Empire suffira à arrêter la guerre : la Prusse ne combattait-elle pas la dynastie ? Le 6 septembre, sa circulaire aux agents diplomatiques annonce que la France ne cédera « ni un pouce de notre territoire, ni une pierre de nos forteresses ». Deux semaines plus tard, il va trouver [[bismarck|Bismarck]] de sa propre initiative : à l'[[entrevue-de-ferrieres|entrevue de Ferrières]], les 19 et 20 septembre, il apprend que la paix coûtera l'Alsace et une partie de la Lorraine, et ne peut, écrit-il, retenir ses larmes. Hostile au départ du gouvernement hors de la capitale, il reste enfermé dans Paris et laisse la province à Gambetta.
+texte: Quand la ville n'a plus que quelques jours de pain, c'est lui qui négocie. Le 23 janvier 1871, il passe les lignes et rejoint Bismarck à Versailles ; le 28, il signe l'[[armistice-de-1871|armistice]] : vingt et un jours de trêve pour élire une Assemblée, les forts remis, la garnison prisonnière dans ses murs, 200 millions de contribution. Il n'ose pas demander ses fusils à la [[garde-nationale|garde nationale]]. Surtout, il traite sans connaître la situation militaire en province et sans consulter Bordeaux, et il néglige de faire savoir que la convention laisse l'Est hors de la trêve, en attendant qu'on y fixe une ligne de démarcation. Quand la nouvelle de l'armistice atteint l'[[armee-de-l-est|armée de l'Est]], [[clinchant|Clinchant]] croit pouvoir traiter ; [[edwin-von-manteuffel|Manteuffel]] refuse et achève de lui couper la route : il ne reste que la Suisse (voir [[retraite-de-l-armee-de-l-est]]).
+texte: Ministre des Affaires étrangères de [[adolphe-thiers|Thiers]], il l'accompagne à Versailles pour les [[preliminaires-de-versailles|préliminaires de paix]] du 26 février, puis signe avec Bismarck, à Francfort, le traité du 10 mai 1871 ([[traite-de-francfort]]). Adversaire résolu de la [[commune-de-paris|Commune]] — « il faut châtier Paris », dit-il après le 18 mars —, il quitte le ministère le 2 août 1871, compromis par la révélation de faux en état civil destinés à donner un nom aux enfants nés d'une longue liaison. Député puis sénateur du Rhône, il meurt à Versailles le 19 janvier 1880. Les trois volumes de son *Gouvernement de la Défense nationale* (1871-1875) sont un long plaidoyer.
+repere: 21 mars 1809 — Naissance à Lyon.
+repere: 1858 — Élu député de Paris, il forme avec quatre collègues le groupe des « Cinq ».
+repere: 4 septembre 1870 — Vice-président du gouvernement de la Défense nationale et ministre des Affaires étrangères.
+repere: 6 septembre 1870 — Circulaire : « ni un pouce de notre territoire, ni une pierre de nos forteresses ».
+repere: 19 et 20 septembre 1870 — Entrevue de Ferrières avec Bismarck.
+repere: 28 janvier 1871 — Il signe à Versailles la convention d'armistice.
+repere: 10 mai 1871 — Il signe le traité de Francfort.
+repere: 19 janvier 1880 — Mort à Versailles.
+attention: « Ni un pouce de notre territoire, ni une pierre de nos forteresses » n'est pas un mot de tribune arrangé après coup : c'est une phrase écrite, celle de la circulaire du 6 septembre 1870, et elle est authentique, même si on la cite souvent de travers (« pas un pouce de nos territoires »). L'« oubli » de l'armée de l'Est, voulu ou non, reste discuté ; il s'explique au moins autant par l'ignorance où Paris était de la guerre en province que par la légèreté du négociateur.
+lien: wp Jules Favre
+lien: de Jules Favre
+sources: Wikipédia (fr : Jules Favre, Émile Küss, Armée de l'Est, Convention des Verrières ; en : Battle of Pontarlier)
+voir: gouvernement-de-la-defense-nationale, entrevue-de-ferrieres, armistice-de-1871, bismarck, retraite-de-l-armee-de-l-est, traite-de-francfort, adolphe-thiers, mots-de-1870
+
+@ adolphe-thiers
+cat: personnages
+nom: Adolphe Thiers
+alias: Louis Adolphe Thiers, Monsieur Thiers, chef du pouvoir exécutif, libérateur du territoire, tournée des capitales, trompette des désastres
+dates: 1797 – 1877
+an: 1797
+fin: 1877
+camp: fr
+role: député d'opposition, puis chef du pouvoir exécutif (février 1871)
+def: Ancien ministre de Louis-Philippe et historien de Napoléon, Adolphe Thiers combat la déclaration de guerre le 15 juillet 1870, plaide la cause de la France dans les capitales, puis, chef du pouvoir exécutif élu en février 1871, négocie la paix avec Bismarck et paie la libération du territoire.
+texte: Né à Marseille le 15 avril 1797, journaliste, historien de la Révolution puis du Consulat et de l'Empire, Adolphe Thiers a été deux fois président du Conseil sous Louis-Philippe ; c'est lui qui, en 1840, a décidé d'entourer Paris de l'enceinte et des forts qui vont soutenir le siège (voir [[fortifications-de-paris]]). Revenu au Corps législatif en 1863, il y réclame les « libertés nécessaires » et, depuis Sadowa, dénonce le danger d'une Allemagne unifiée par la Prusse, devant une armée qu'il juge mal préparée.
+texte: Le 15 juillet 1870, il tient tête presque seul au gouvernement : sous les huées, il soutient que la France, qui a obtenu le retrait de la candidature, rompt « sur une question de susceptibilité » et que cette guerre est « très imprudente » (voir [[declaration-de-guerre]]). Après [[bataille-de-sedan|Sedan]], il refuse d'entrer dans le gouvernement du [[quatre-septembre|4 septembre]], mais accepte d'aller plaider la cause de la France : Londres à la mi-septembre, puis Vienne, Saint-Pétersbourg et Florence, où on le reçoit avec égards sans rien lui promettre (voir [[isolement-diplomatique]]). Porteur d'une proposition d'armistice des puissances neutres, il passe les lignes à la fin d'octobre, prend à Paris les instructions du gouvernement — sa venue alimente la [[journee-du-31-octobre|journée du 31 octobre]] — puis négocie plusieurs jours à Versailles avec [[bismarck|Bismarck]]. L'accord bute sur le ravitaillement de Paris pendant la trêve, que la Prusse refuse ; le 7 novembre, le gouvernement rejette un armistice sans vivres. Thiers tient désormais la guerre pour perdue, et le dit.
+texte: Les élections du 8 février 1871 font de lui l'homme de la paix : élu dans vingt-six départements, il est placé le 17 février par l'[[assemblee-de-bordeaux|Assemblée de Bordeaux]] à la tête du pouvoir exécutif « de la République française », en attendant qu'on statue sur les institutions. Dès le 21, il est à Versailles avec [[jules-favre|Jules Favre]]. Il obtient de ramener l'indemnité de six à cinq milliards et, à force d'insister, de garder [[siege-de-belfort|Belfort]] ; le prix en est l'entrée des troupes allemandes dans Paris. Les [[preliminaires-de-versailles|préliminaires]] sont signés le 26 février et ratifiés le 1er mars par 546 voix contre 107.
+texte: Le 18 mars, l'échec de la reprise des canons de Montmartre ouvre la [[commune-de-paris|Commune]] ; Thiers replie gouvernement et troupes sur Versailles, puis la fait écraser en mai, avec des soldats que l'Allemagne a rendus de captivité : pour la gauche, il restera « le fusilleur ». Président de la République en août 1871, il lance en 1871 et 1872 deux emprunts, souscrits plusieurs fois, qui permettent de payer l'[[indemnite-de-guerre|indemnité]] par anticipation ; la convention du 15 mars 1873 fixe l'évacuation, et l'Assemblée le salue le 17 comme « le libérateur du territoire » (voir [[liberation-du-territoire]]). Renversé par la majorité monarchiste le 24 mai 1873, il n'est plus au pouvoir quand le dernier soldat allemand quitte Verdun, en septembre. Il meurt à Saint-Germain-en-Laye le 3 septembre 1877.
+repere: 15 avril 1797 — Naissance à Marseille.
+repere: 1840 — Président du Conseil, il décide de fortifier Paris.
+repere: 15 juillet 1870 — Il combat à la tribune la déclaration de guerre.
+repere: 13 – 20 septembre 1870 — Il est à Londres, première étape de sa tournée des capitales.
+repere: 21 octobre 1870 — Il rentre à Tours sans alliance.
+repere: 7 novembre 1870 — Les pourparlers d'armistice de Versailles sont rompus.
+repere: 17 février 1871 — L'Assemblée de Bordeaux l'élit chef du pouvoir exécutif.
+repere: 26 février 1871 — Il signe à Versailles les préliminaires de paix.
+repere: 17 mars 1873 — L'Assemblée le salue comme « le libérateur du territoire ».
+repere: 3 septembre 1877 — Mort à Saint-Germain-en-Laye.
+attention: Thiers n'était pas un pacifiste : il dénonçait le danger prussien depuis 1866, et le 15 juillet il se défend d'être partisan « de la paix à tout prix » autant que « de la guerre à tout prix ». Il condamnait le prétexte et le moment, non le principe d'une épreuve de force. L'apostrophe « vous êtes la trompette des désastres » qu'on lui lança ce jour-là est attribuée, sans certitude, au marquis de Piré.
+lien: wp Adolphe Thiers
+lien: de Adolphe Thiers
+sources: Wikipédia (fr : Adolphe Thiers, Chronologie du siège de Paris (1870-1871) ; en : Adolphe Thiers)
+voir: declaration-de-guerre, isolement-diplomatique, assemblee-de-bordeaux, preliminaires-de-versailles, liberation-du-territoire, commune-de-paris, indemnite-de-guerre, fortifications-de-paris
+
+@ charles-de-freycinet
+cat: personnages
+nom: Charles de Freycinet
+alias: Charles Louis de Saulces de Freycinet, délégué à la Guerre, La Guerre en province pendant le siège de Paris, plan Freycinet
+dates: 1828 – 1923
+an: 1828
+fin: 1923
+camp: fr
+role: délégué du ministre de la Guerre à Tours et à Bordeaux
+def: Ingénieur des Mines sans passé militaire, Charles de Freycinet est, d'octobre 1870 à février 1871, le délégué de Gambetta au ministère de la Guerre : il organise les armées de province, mais dicte aussi leurs opérations, jusqu'à la campagne de l'Est.
+texte: Né à Foix le 14 novembre 1828 dans une famille protestante, polytechnicien et ingénieur des Mines, Charles de Freycinet a dirigé l'exploitation des chemins de fer du Midi, puis mené des enquêtes sur le travail des enfants en Angleterre et sur l'assainissement des villes. Il n'a jamais porté l'uniforme et ne passe pas pour un républicain ardent.
+texte: En septembre 1870, [[gambetta|Gambetta]], qui remplace les préfets de l'Empire, le nomme préfet de Tarn-et-Garonne. Un mois plus tard, à peine arrivé à Tours, il l'appelle auprès de lui comme délégué du ministre de la Guerre : de fait, c'est Freycinet qui tient le ministère, et Gambetta lui laisse les mains libres. Il faut presque tout créer. En quatre mois, la [[delegation-de-tours|Délégation]] met sur pied une dizaine de corps d'armée, plusieurs centaines de milliers d'hommes qu'il faut habiller, armer, nourrir et transporter, en achetant des fusils dans le monde entier (voir [[fusils-de-la-defense-nationale]]). Freycinet fonde un corps du génie civil, fait d'ingénieurs et d'architectes, pour les routes, les ponts et les retranchements. Faute de cartes de France — l'armée impériale n'avait fait tirer en nombre que celles de l'Allemagne —, on photographie les feuilles d'un exemplaire unique.
+texte: L'organisateur se fait aussi stratège. Les plans partent de Tours par le télégraphe, souvent avec le détail des marches, et les généraux qui objectent passent pour timides ou malveillants. Après [[bataille-de-coulmiers|Coulmiers]], il presse [[aurelle-de-paladines|d'Aurelle de Paladines]], qui voudrait se retrancher devant Orléans, de marcher vers Paris ; l'offensive échoue à [[bataille-de-beaune-la-rolande|Beaune-la-Rolande]], le 28 novembre, et Orléans est reperdue le 4 décembre. Ce mois-là, c'est lui qui conçoit la manœuvre de l'Est : porter par chemin de fer l'armée de [[bourbaki|Bourbaki]] vers la Saône et le Doubs, débloquer [[siege-de-belfort|Belfort]], couper les communications allemandes. Les trains s'embouteillent, l'hiver s'abat sur des troupes mal équipées, et l'[[armee-de-l-est|armée de l'Est]] finit internée en Suisse.
+texte: Il publie dès 1871 *La Guerre en province pendant le siège de Paris* pour défendre son œuvre. Battu aux élections de 1871, il revient au Parlement par le Sénat en 1876 ; ministre des Travaux publics, il lance en 1878 le grand programme de chemins de fer et de canaux qui porte son nom. Quatre fois président du Conseil entre 1879 et 1892, il devient en 1888 le premier civil depuis 1848 à diriger le ministère de la Guerre, et le garde cinq ans : on lui doit l'état-major général et l'adoption du fusil Lebel. Élu à l'Académie française en 1890, ministre d'État pendant la Grande Guerre, il meurt à Paris le 14 mai 1923, à quatre-vingt-quatorze ans.
+repere: 14 novembre 1828 — Naissance à Foix.
+repere: septembre 1870 — Gambetta le nomme préfet de Tarn-et-Garonne.
+repere: octobre 1870 — Gambetta, arrivé à Tours, en fait son délégué au ministère de la Guerre.
+repere: 28 novembre 1870 — L'offensive qu'il a voulue échoue à Beaune-la-Rolande.
+repere: décembre 1870 — Il conçoit la campagne de l'Est, vers Belfort.
+repere: 1871 — Il publie *La Guerre en province pendant le siège de Paris*.
+repere: 1888 — Il est le premier civil depuis 1848 à devenir ministre de la Guerre.
+repere: 14 mai 1923 — Mort à Paris.
+attention: On a fait de Freycinet tantôt le génie de la Défense nationale, tantôt le civil qui a perdu ses armées. Les deux jugements se rejoignent : Moltke lui-même a salué après la guerre l'organisateur qui avait fait sortir de terre des armées entières, mais les opérations dictées de Tours par un homme qui n'avait jamais commandé une compagnie ont presque toutes échoué, et il en a rejeté la faute sur les généraux.
+lien: wp Charles de Freycinet
+lien: de Charles de Freycinet
+sources: Wikipédia (fr, en, de : Charles de Freycinet ; de : Bourbaki-Armee)
+voir: gambetta, delegation-de-tours, guerre-a-outrance, armee-de-la-loire, aurelle-de-paladines, armee-de-l-est, bourbaki, chemins-de-fer
+
+@ chanzy
+cat: personnages
+nom: Chanzy
+alias: Alfred Chanzy, Antoine Eugène Alfred Chanzy, général Chanzy, deuxième armée de la Loire, 16e corps, La Deuxième Armée de la Loire
+dates: 1823 – 1883
+an: 1823
+fin: 1883
+camp: fr
+role: commandant du 16e corps, puis de la deuxième armée de la Loire
+def: Officier d'Afrique laissé sans emploi à l'été 1870, Alfred Chanzy commande le 16e corps à Coulmiers et à Loigny, puis la deuxième armée de la Loire, qu'il conduit de Beaugency au Mans et à Laval en une longue retraite combattante. Il passe pour le meilleur général de la Défense nationale.
+texte: Né le 18 mars 1823 à Nouart, dans les Ardennes, timonier à seize ans, puis artilleur et saint-cyrien, Alfred Chanzy a fait presque toute sa carrière en Algérie, avec un passage en Italie en 1859 et en Syrie en 1860. En juillet 1870, général de brigade, il demande en vain une place à l'armée du Rhin.
+texte: La République le fait général de division et lui donne en octobre le 16e corps de l'[[armee-de-la-loire|armée de la Loire]] : il contribue à la victoire de [[bataille-de-coulmiers|Coulmiers]], le 9 novembre, puis se bat à [[bataille-de-loigny|Loigny]], le 2 décembre. Orléans perdue le 4, l'armée est coupée en deux, et [[gambetta|Gambetta]] lui confie la deuxième armée de la Loire, les 16e, 17e et 21e corps, sur la rive droite du fleuve. Au lieu de fuir, il fait face : du 7 au 10 décembre, autour de Josnes et de Villorceau, au nord de [[bataille-de-beaugency|Beaugency]], ses jeunes troupes tiennent quatre jours contre le [[grand-duc-de-mecklembourg|grand-duc de Mecklembourg]], puis reculent en ordre sur Vendôme et sur Le Mans. Chanzy veut reprendre l'offensive vers Paris ; le [[prince-frederic-charles|prince Frédéric-Charles]], arrivé de Metz, le devance. Du 10 au 12 janvier 1871, la [[bataille-du-mans|bataille du Mans]] tourne à la déroute : quelque 20 000 hommes restent prisonniers. Chanzy ramène les débris derrière la Mayenne, à Laval, le 16 janvier, et s'y prépare à repartir quand l'[[armistice-de-1871|armistice]] arrête tout.
+texte: Élu député des Ardennes sans avoir fait campagne, il soutient à Bordeaux qu'on peut encore se battre et vote, le 1er mars, contre les préliminaires de paix. Le 18 mars, de passage à Paris, il est arrêté à la gare par les insurgés de la [[commune-de-paris|Commune]], menacé, puis relâché quelques jours plus tard. Il publie en 1871 *La Deuxième Armée de la Loire*, gouverne l'Algérie de 1873 à 1879, représente la France à Saint-Pétersbourg, puis commande le 6e corps à Châlons-sur-Marne, où il meurt subitement dans la nuit du 4 au 5 janvier 1883. Il est inhumé à Buzancy. Au Panthéon, sous l'urne qui garde le cœur de Gambetta, une inscription honore « les généraux d'Aurelle de Paladines, Chanzy et Faidherbe, les colonels Denfert-Rochereau et Teyssier » et les soldats qui, en 1870-1871, « ont sauvé l'honneur de la France ».
+repere: 18 mars 1823 — Naissance à Nouart, dans les Ardennes.
+repere: octobre 1870 — Il reçoit le commandement du 16e corps de l'armée de la Loire.
+repere: 9 novembre 1870 — Victoire de Coulmiers.
+repere: 2 décembre 1870 — Bataille de Loigny.
+repere: 7 – 10 décembre 1870 — Il tient quatre jours entre Josnes et Villorceau, puis recule sur Vendôme.
+repere: 10 – 12 janvier 1871 — Défaite du Mans ; retraite sur Laval, atteinte le 16 janvier.
+repere: 1er mars 1871 — Député des Ardennes, il vote contre les préliminaires de paix.
+repere: nuit du 4 au 5 janvier 1883 — Mort à Châlons-sur-Marne.
+attention: Chanzy n'a gagné aucune bataille en chef : Coulmiers est la victoire de d'Aurelle, Beaugency un combat retardateur, Le Mans une défaite. Sa réputation, juste, tient à autre chose : avoir gardé en main, de décembre à janvier, une armée de conscrits et de mobiles mal armés, mal vêtus, et lui avoir fait reprendre le combat après chaque recul, quand d'autres armées improvisées se débandaient. Son livre, écrit dès 1871, a fixé l'image d'une offensive que seul l'armistice aurait empêchée ; elle reste invérifiable.
+lien: wp Alfred Chanzy
+lien: de Antoine Chanzy
+lien: url https://www2.assemblee-nationale.fr/sycomore/fiche?num_dept=8569 = Assemblée nationale, base Sycomore : notice d'Antoine Chanzy (Robert et Cougny)
+sources: Wikipédia (fr : Alfred Chanzy ; en, de : Antoine Chanzy ; de : Schlacht bei Le Mans) ; Assemblée nationale, base Sycomore, notice du *Dictionnaire des parlementaires* de Robert et Cougny
+voir: armee-de-la-loire, bataille-de-coulmiers, bataille-de-loigny, bataille-de-beaugency, bataille-du-mans, aurelle-de-paladines, gambetta, prince-frederic-charles
+
+@ aurelle-de-paladines
+cat: personnages
+nom: D'Aurelle de Paladines
+alias: Louis d'Aurelle de Paladines, Louis Jean Baptiste d'Aurelle de Paladines, Aurelle de Paladines, général d'Aurelle, vainqueur de Coulmiers, La Première Armée de la Loire
+dates: 1804 – 1877
+an: 1804
+fin: 1877
+camp: fr
+role: commandant en chef de l'armée de la Loire
+def: Général de soixante-six ans rappelé de la réserve, Louis d'Aurelle de Paladines organise l'armée de la Loire et remporte à Coulmiers, le 9 novembre 1870, le seul vrai succès français de la guerre. Relevé après la perte d'Orléans, en décembre, il devient pour Tours le responsable de l'échec.
+texte: Né le 9 janvier 1804 au Malzieu, en Lozère, saint-cyrien, Louis d'Aurelle de Paladines a fait sept ans de guerre en Algérie, l'expédition de Rome en 1849 et la Crimée comme général de brigade ; divisionnaire depuis 1855, il a été versé dans le cadre de réserve en janvier 1870, à la limite d'âge. Catholique et conservateur, il passe pour un chef sévère, attaché à la discipline.
+texte: Rappelé après les défaites d'août, il commande d'abord dans l'Ouest ; en octobre, après la première perte d'Orléans ([[prise-d-orleans]]), la Délégation lui confie l'[[armee-de-la-loire|armée de la Loire]] en formation. Il passe trois semaines à l'instruire et à la tenir en main, puis la lance sur Orléans. Le 9 novembre, à [[bataille-de-coulmiers|Coulmiers]], à l'ouest de la ville, il bouscule les Bavarois de [[von-der-tann|von der Tann]], trois fois moins nombreux, qui évacuent Orléans. La France croit tenir sa revanche. Mais d'Aurelle refuse de marcher sur Paris avant que ses recrues soient reprises en main et s'établit devant Orléans, dans un camp retranché. [[gambetta|Gambetta]] et [[charles-de-freycinet|Freycinet]] s'impatientent ; pendant ce temps arrive de Metz l'armée du [[prince-frederic-charles|prince Frédéric-Charles]]. Quand Tours impose l'offensive, à la fin de novembre, elle se brise à [[bataille-de-beaune-la-rolande|Beaune-la-Rolande]] puis à [[bataille-de-loigny|Loigny]]. Le 4 décembre, Orléans est reperdue et l'armée coupée en deux ; d'Aurelle est relevé de son commandement le surlendemain et mis en disponibilité.
+texte: Élu en février 1871 dans l'Allier et la Gironde, il siège pour l'Allier, parle pour la paix et fait partie des quinze députés qui assistent Thiers dans la négociation des préliminaires. Le 6 mars, [[adolphe-thiers|Thiers]] le nomme à la tête de la [[garde-nationale|garde nationale]] de la Seine ; le 18 mars, il se replie sur Versailles. Il publie en 1872 *La Première Armée de la Loire*, devient sénateur inamovible en 1875 et meurt à Versailles le 17 décembre 1877 ; il est inhumé à Saint-Loup, dans l'Allier. Son nom ouvre l'inscription du Panthéon dédiée aux chefs qui ont « sauvé l'honneur » en 1870-1871 : il le doit à Coulmiers.
+repere: 9 janvier 1804 — Naissance au Malzieu, en Lozère.
+repere: janvier 1870 — Il passe au cadre de réserve, à la limite d'âge.
+repere: octobre 1870 — Il prend le commandement de l'armée de la Loire en formation.
+repere: 9 novembre 1870 — Victoire de Coulmiers ; les Bavarois évacuent Orléans.
+repere: 28 novembre 1870 — L'offensive imposée par Tours échoue à Beaune-la-Rolande.
+repere: 4 décembre 1870 — Orléans est reperdue ; il est relevé de son commandement dans les jours qui suivent.
+repere: 6 mars 1871 — Thiers le nomme commandant de la garde nationale de la Seine.
+repere: 17 décembre 1877 — Mort à Versailles.
+attention: Tours l'a accusé d'avoir gâché Coulmiers en restant un mois devant Orléans, et l'historien Henri Guillemin y a vu un calcul politique. Le reproche oublie que la victoire avait été remportée par surprise, à trois contre un, sur des Bavarois fatigués, que l'armée de la Loire était faite de recrues à peine instruites, et que l'armée de Frédéric-Charles, libérée par la capitulation de Metz, approchait déjà : marcher sur Paris, c'était aller au-devant d'elle.
+lien: wp Louis d'Aurelle de Paladines
+lien: de Louis d’Aurelle de Paladines
+sources: Wikipédia (fr : Louis d'Aurelle de Paladines, Bataille de Coulmiers, Chronologie du siège de Paris (1870-1871) ; de : Louis d’Aurelle de Paladines ; en : Louis d'Aurelle de Paladines)
+voir: bataille-de-coulmiers, armee-de-la-loire, prise-d-orleans, seconde-bataille-d-orleans, chanzy, charles-de-freycinet, gambetta, von-der-tann
+
+@ faidherbe
+cat: personnages
+nom: Faidherbe
+alias: Louis Faidherbe, Louis Léon César Faidherbe, général Faidherbe, armée du Nord, gouverneur du Sénégal, Campagne de l'armée du Nord
+dates: 1818 – 1889
+an: 1818
+fin: 1889
+camp: fr
+role: commandant en chef de l'armée du Nord
+def: Polytechnicien et ancien gouverneur du Sénégal, Louis Faidherbe prend en décembre 1870 le commandement de l'armée du Nord. Avec quelque 40 000 hommes mal armés, il tient tête aux Prussiens à Pont-Noyelles et à Bapaume, avant d'être battu à Saint-Quentin le 19 janvier 1871.
+texte: Né à Lille le 3 juin 1818, polytechnicien et officier du génie, Louis Faidherbe a fait sa carrière outre-mer : l'Algérie, la Guadeloupe, puis le Sénégal, qu'il gouverne de 1854 à 1861 et de 1863 à 1865, qu'il étend par les armes et où il crée en 1857 le corps des tirailleurs sénégalais. Général de brigade, républicain déclaré, il sert encore en Algérie à l'automne 1870.
+texte: [[gambetta|Gambetta]], qui cherche des généraux sûrs, le rappelle, le fait divisionnaire le 23 novembre et lui donne l'[[armee-du-nord|armée du Nord]] ; il prend son commandement à Lille au début de décembre. L'armée, deux corps, les 22e et 23e, quelque 40 000 hommes, vient de perdre Amiens (voir [[bataille-d-amiens]]) ; elle s'appuie sur les places de la frontière, Lille, Douai, Arras, Cambrai, qui l'abritent et la ravitaillent. Faidherbe la mène en courtes offensives contre la Ire armée de [[edwin-von-manteuffel|Manteuffel]], pour retenir loin de Paris le plus de troupes possible. Le 23 décembre, sur l'Hallue, à [[bataille-de-pont-noyelles|Pont-Noyelles]], il tient ses positions tout le jour, puis se replie sur Arras ; les 2 et 3 janvier 1871, à [[bataille-de-bapaume|Bapaume]], il repousse les Prussiens sans pouvoir dégager [[siege-de-peronne|Péronne]], qui capitule quelques jours plus tard. Il repart alors vers le sud-est, sur la route de Paris : le 19 janvier, le jour même de la sortie de Buzenval, [[august-von-goeben|Goeben]] l'arrête et le bat à [[bataille-de-saint-quentin|Saint-Quentin]]. L'armée se retire derrière les places du Nord, que l'ennemi ne vient pas attaquer, et c'est là que l'armistice la trouve.
+texte: Élu député de la Somme en février 1871, il démissionne aussitôt ; réélu en juillet, il opte pour le Nord et démissionne encore, jugeant que l'Assemblée outrepasse son mandat. Il publie en 1871 *Campagne de l'armée du Nord*, part étudier les inscriptions de la haute Égypte et entre à l'Académie des inscriptions en 1884. Sénateur du Nord de 1879 à 1888, grand chancelier de la Légion d'honneur à partir de 1880, il meurt à Paris le 28 septembre 1889. Sa statue équestre, à Lille, a été prise pour cible en 2020 par ceux qui contestent l'hommage rendu au conquérant du Sénégal.
+repere: 3 juin 1818 — Naissance à Lille.
+repere: 1854 – 1865 — Il gouverne le Sénégal, en deux séjours.
+repere: 23 novembre 1870 — Gambetta le nomme général de division et lui confie l'armée du Nord.
+repere: début de décembre 1870 — Il prend son commandement à Lille.
+repere: 23 décembre 1870 — Bataille de Pont-Noyelles, sur l'Hallue.
+repere: 2 – 3 janvier 1871 — Bataille de Bapaume.
+repere: 19 janvier 1871 — Défaite de Saint-Quentin.
+repere: 28 septembre 1889 — Mort à Paris.
+attention: Pont-Noyelles et Bapaume ont été célébrés en France comme des victoires, et les Allemands en ont dit autant de leur côté. Ce furent des combats indécis : Faidherbe gardait le terrain le soir, puis se repliait, et aucune de ses offensives n'a atteint son but, la délivrance d'Amiens ou de Péronne. Son mérite est ailleurs : avoir tenu deux mois avec une armée de mobiles et de mobilisés sans jamais la laisser se débander.
+lien: wp Louis Faidherbe
+lien: de Louis Faidherbe
+sources: Wikipédia (fr, de : Louis Faidherbe)
+voir: armee-du-nord, bataille-de-pont-noyelles, bataille-de-bapaume, bataille-de-saint-quentin, august-von-goeben, edwin-von-manteuffel, gambetta, siege-de-peronne
+
+@ denfert-rochereau
+cat: personnages
+nom: Denfert-Rochereau
+alias: Aristide Denfert-Rochereau, Pierre Marie Philippe Aristide Denfert-Rochereau, colonel Denfert, Lion de Belfort, gouverneur de Belfort
+dates: 1823 – 1878
+an: 1823
+fin: 1878
+camp: fr
+role: gouverneur de la place de Belfort
+def: Officier du génie protestant et républicain, chef du génie à Belfort depuis 1864, Aristide Denfert-Rochereau est nommé gouverneur de la place en octobre 1870. Il la défend cent trois jours contre les Allemands et n'en sort, en armes, que sur l'ordre du gouvernement, le 18 février 1871.
+texte: Né le 11 janvier 1823 à Saint-Maixent, dans une famille protestante, polytechnicien et officier du génie, Aristide Denfert-Rochereau a fait l'expédition de Rome, la Crimée et quatre ans d'Algérie. Chef du génie à Belfort depuis 1864, il connaît la place mieux que personne : il a obtenu qu'on bâtisse le fort de Bellevue et qu'on renforce les redoutes des Perches, deux hauteurs qui dominent le Château à 900 mètres — « qui tenait les Perches tenait Belfort », avait conclu en 1867 une commission présidée par [[frossard|Frossard]].
+texte: En quelques semaines d'automne, la place voit passer trois commandants. Le 19 octobre 1870, [[gambetta|Gambetta]] la confie à Denfert, simple lieutenant-colonel, avec le grade temporaire de colonel. Quand la division de [[landwehr|Landwehr]] du général von Tresckow arrive, au début de novembre, et le somme de se rendre, il répond : « Nous connaissons l'étendue de nos devoirs envers la France et envers la République, et nous sommes décidés à les remplir. » Il ne s'enferme pas derrière les remparts : il dispute les villages des abords, multiplie les sorties et tient, sous un bombardement de soixante-treize jours, une garnison faite surtout de [[garde-mobile|mobiles]] (voir [[siege-de-belfort]]). En janvier, il entend le canon de l'[[armee-de-l-est|armée de l'Est]] s'éloigner après la [[bataille-d-hericourt|bataille de la Lizaine]] ; le 8 février, les Perches tombent. L'armistice ne couvre pas Belfort, et Denfert refuse de traiter sans ordre. L'ordre exprès vient du gouvernement, par Jules Favre : le 18 février, la garnison sort avec ses armes et ses drapeaux.
+texte: Le siège pèse dans la négociation : [[adolphe-thiers|Thiers]] obtient de garder Belfort et son arrondissement, futur Territoire de Belfort (voir [[preliminaires-de-versailles]]). Élu député en février, Denfert démissionne quand l'Assemblée accepte la paix, revient siéger en juillet avec les amis de Gambetta et quitte l'armée. À l'automne, il demande en vain à Thiers la grâce de [[louis-rossel|Louis Rossel]], le jeune officier protestant passé à la Commune. Député de Paris en 1876, l'un des 363 qui tiennent tête à Mac-Mahon en 1877, il meurt à Versailles le 11 mai 1878 et repose à Montbéliard, auprès de sa femme. Une place de Paris porte son nom, avec une réduction du Lion de Bartholdi ; son nom est gravé au Panthéon parmi ceux des défenseurs de 1870-1871.
+repere: 11 janvier 1823 — Naissance à Saint-Maixent, dans les Deux-Sèvres.
+repere: 1864 — Il devient chef du génie de la place de Belfort.
+repere: 19 octobre 1870 — Gambetta le nomme gouverneur de Belfort.
+repere: 3 novembre 1870 — Investissement de la place par la division Tresckow.
+repere: 3 décembre 1870 — Début du bombardement.
+repere: 8 février 1871 — Les redoutes des Perches sont prises.
+repere: 18 février 1871 — Il quitte Belfort avec la garnison, armes et drapeaux.
+repere: 11 mai 1878 — Mort à Versailles.
+attention: Le surnom de « Lion de Belfort » s'est attaché à Denfert, mais le lion de grès rose que Bartholdi achève en 1880 au flanc du rocher ne le représente pas : il honore la ville et ses défenseurs. Et si l'on dit volontiers qu'il n'a « jamais capitulé », c'est qu'il a obtenu mieux qu'une capitulation : une remise de la place sur ordre, après l'armistice, sa garnison repartant libre.
+lien: wp Aristide Denfert-Rochereau
+lien: de Pierre Marie Philippe Aristide Denfert-Rochereau
+sources: Wikipédia (fr : Aristide Denfert-Rochereau, Siège de Belfort (1870-1871), Alfred Chanzy ; de : Pierre Marie Philippe Aristide Denfert-Rochereau)
+voir: siege-de-belfort, armee-de-l-est, bataille-d-hericourt, preliminaires-de-versailles, commandant-teyssier, places-fortes-en-1870, louis-rossel, lieux-de-memoire
+
+@ garibaldi
+cat: personnages
+nom: Garibaldi
+alias: Giuseppe Garibaldi, Joseph Garibaldi, armée des Vosges, garibaldiens, Ricciotti Garibaldi, Menotti Garibaldi, drapeau du 61e poméranien
+dates: 1807 – 1882
+an: 1807
+fin: 1882
+camp: autre
+role: commandant de l'armée des Vosges
+def: Héros de l'unité italienne, né à Nice, Giuseppe Garibaldi offre son épée à la République française en septembre 1870. À soixante-trois ans, perclus de rhumatismes, il commande l'armée des Vosges, faite de volontaires de toutes nations, et tient Dijon en janvier 1871.
+texte: Né à Nice le 4 juillet 1807, marin, conspirateur condamné à mort par contumace, combattant des guerres d'Amérique du Sud, Giuseppe Garibaldi est devenu en 1860, avec l'expédition des Mille, le héros de l'unité italienne. Il a contre lui, en France, d'avoir combattu les troupes françaises qui défendaient le pape, à Rome en 1849, puis à Mentana en 1867, où le général de Failly vantait les effets du [[fusil-chassepot|chassepot]].
+texte: Dès la proclamation de la République, il écrit au gouvernement de la Défense nationale : « Ce qui reste de moi est à votre disposition. » Sans réponse, il débarque à Marseille le 7 octobre 1870 et gagne Tours. [[gambetta|Gambetta]] l'embarrasse plus qu'il ne l'accueille : la droite catholique voit en lui l'ennemi du pape, et aucun officier supérieur français ne veut servir sous ses ordres. On lui donne les corps francs de l'Est et une brigade de mobiles, qui deviennent l'[[armee-des-vosges|armée des Vosges]] : des brigades que commandent ses fils Menotti et Ricciotti, son gendre Canzio, le Polonais Bossak-Hauké ; des Italiens, des Espagnols, des Polonais, des Français surtout, [[francs-tireurs]] et mobiles. Établi à Dole, puis à Autun, il harcèle les communications du corps de [[august-von-werder|Werder]] : le 19 novembre, Ricciotti surprend la garnison allemande de Châtillon-sur-Seine et ramène deux cents prisonniers ; le 26, une attaque sur Dijon échoue ; le 1er décembre, une contre-attaque allemande est repoussée.
+texte: En janvier 1871, quand [[bourbaki|Bourbaki]] marche sur Belfort, Garibaldi s'installe à Dijon, que les Badois ont évacuée, pour couvrir le flanc de l'[[armee-de-l-est|armée de l'Est]]. Les 21, 22 et 23 janvier, une brigade prussienne attaque la ville et se fait repousser ; Bossak-Hauké est tué le premier jour, et le 23 les volontaires s'emparent du drapeau du 61e régiment poméranien (voir [[batailles-de-dijon]]). Pendant ce temps, [[edwin-von-manteuffel|Manteuffel]] est passé avec deux corps d'armée entre Dijon et l'armée de l'Est, dont il coupe la retraite.
+texte: Élu le 8 février dans quatre départements, dont la Côte-d'Or et la Seine, sans avoir été candidat, il renonce à des mandats qu'un étranger ne pouvait exercer et quitte Bordeaux sans avoir pu se faire entendre de la majorité. Le 8 mars, quand [[victor-hugo-en-1870|Victor Hugo]] prend sa défense à la tribune — il est « le seul, des généraux qui ont lutté pour la France, le seul qui n'ait pas été vaincu » —, les cris couvrent sa voix, et Hugo démissionne. Garibaldi rentre à Caprera le 13 mars ; le 24, il refuse le commandement de la garde nationale que lui offre la [[commune-de-paris|Commune]]. Il meurt à Caprera le 2 juin 1882.
+repere: 4 juillet 1807 — Naissance à Nice.
+repere: 1860 — Expédition des Mille.
+repere: 7 octobre 1870 — Il débarque à Marseille.
+repere: 19 novembre 1870 — Ricciotti Garibaldi surprend la garnison allemande de Châtillon-sur-Seine.
+repere: 21 – 23 janvier 1871 — Combats de Dijon ; prise du drapeau du 61e régiment poméranien.
+repere: 8 février 1871 — Il est élu député dans quatre départements sans avoir été candidat.
+repere: 8 mars 1871 — Victor Hugo, empêché de le défendre, quitte l'Assemblée.
+repere: 2 juin 1882 — Mort à Caprera.
+attention: « Le seul qui n'ait pas été vaincu », disait Hugo. À Dijon, Garibaldi n'a pourtant affronté qu'une brigade, laissée là pour le fixer pendant que le gros de l'armée de Manteuffel passait entre lui et Bourbaki : sa victoire n'a pas empêché la manœuvre qui a perdu l'armée de l'Est. La droite en a fait le bouc émissaire du désastre, ses partisans un héros sans tache ; il fut plutôt un chef de volontaires à qui l'on avait confié une mission d'armée.
+lien: wp Giuseppe Garibaldi
+lien: wp Batailles de Dijon (1870-1871)
+sources: Wikipédia (fr : Giuseppe Garibaldi, Batailles de Dijon (1870-1871))
+voir: armee-des-vosges, batailles-de-dijon, bataille-de-nuits, francs-tireurs, armee-de-l-est, bourbaki, edwin-von-manteuffel, victor-hugo-en-1870
+
+@ general-vinoy
+cat: personnages
+nom: Le général Vinoy
+alias: Joseph Vinoy, général Vinoy, 13e corps, IIIe armée de Paris, armée de Paris, 18 mars 1871
+dates: 1800 – 1880
+an: 1800
+fin: 1880
+camp: fr
+role: commandant du 13e corps, puis de l'armée de Paris
+def: Général en retraite rappelé en 1870, Joseph Vinoy ramène intact à Paris, après Sedan, le 13e corps envoyé vers Mézières. Il succède à Trochu à la tête de l'armée de Paris en janvier 1871 et dirige, le 18 mars, l'opération manquée qui déclenche la Commune.
+texte: Né le 10 août 1800 à Saint-Étienne-de-Saint-Geoirs, en Isère, Joseph Vinoy a quitté le séminaire pour la garde royale, gagné son épaulette à la prise d'Alger en 1830 et ses étoiles de divisionnaire à l'assaut de Malakoff, en 1855 ; il commandait une division à Solférino. Mis à la retraite en 1865, il siège au Sénat de l'Empire.
+texte: La guerre le rappelle. On lui donne un corps nouveau, le 13e, qui doit rejoindre l'[[armee-de-chalons|armée de Châlons]] ; il n'a atteint que Mézières quand celle-ci est prise au piège à [[bataille-de-sedan|Sedan]]. Vinoy se dérobe alors au VIe corps prussien lancé à ses trousses et ramène ses troupes à Paris le 7 septembre : c'est la dernière grande unité de l'armée impériale encore intacte. Pendant le [[siege-de-paris|siège]], il commande au sud de la capitale, puis la IIIe armée de Paris, et prend part aux sorties de ce côté. Au lendemain de [[bataille-de-buzenval|Buzenval]], le 21 janvier 1871, un décret supprime le titre de gouverneur et lui confie, à la place de [[trochu|Trochu]], le commandement en chef de l'armée de Paris ; il assiste Jules Favre dans la négociation de l'[[armistice-de-1871|armistice]].
+texte: Resté à la tête des troupes de Paris après la paix, il interdit des réunions et suspend des journaux. Le 18 mars, c'est lui qui conduit, sur l'ordre de [[adolphe-thiers|Thiers]], la reprise des canons de la [[garde-nationale|garde nationale]] à Montmartre ; l'opération échoue, la troupe fraternise avec la foule, et Vinoy conseille de replier gouvernement et armée sur Versailles (voir [[commune-de-paris]]). L'échec lui reste attaché : en avril, c'est Mac-Mahon qui reçoit le commandement de l'armée de Versailles. Le 4 avril, Vinoy fait fusiller des officiers fédérés capturés, dont le général Duval ; le 23 mai, ses troupes reprennent les Tuileries et le Louvre en flammes. Grand chancelier de la Légion d'honneur d'avril 1871 à février 1880, il meurt à Paris le 27 avril 1880 et repose à Nantes.
+repere: 10 août 1800 — Naissance à Saint-Étienne-de-Saint-Geoirs, en Isère.
+repere: 1855 — Général de division après l'assaut de Malakoff.
+repere: août 1870 — Rappelé à l'activité, il reçoit le commandement du 13e corps.
+repere: 1er septembre 1870 — Son corps n'a atteint que Mézières quand l'armée de Châlons est battue à Sedan.
+repere: 7 septembre 1870 — Il ramène le 13e corps intact à Paris.
+repere: 21 janvier 1871 — Il remplace Trochu à la tête de l'armée de Paris.
+repere: 18 mars 1871 — Échec de la reprise des canons de Montmartre.
+repere: 27 avril 1880 — Mort à Paris.
+lien: wp Joseph Vinoy
+lien: en Joseph Vinoy
+sources: Wikipédia (fr : Joseph Vinoy, Soulèvement du 18 mars 1871, Campagne de 1871 à l'intérieur, Chronologie du siège de Paris (1870-1871) ; en, de : Joseph Vinoy)
+voir: siege-de-paris, trochu, armee-de-chalons, bataille-de-buzenval, armistice-de-1871, commune-de-paris, fortifications-de-paris
+
+@ clinchant
+cat: personnages
+nom: Clinchant
+alias: Justin Clinchant, général Clinchant, 20e corps, convention des Verrières, internement en Suisse, Hans Herzog
+dates: 1820 – 1881
+an: 1820
+fin: 1881
+camp: fr
+role: commandant du 20e corps, puis de l'armée de l'Est
+def: Lorrain de Thiaucourt, évadé de captivité après Metz, Justin Clinchant commande le 20e corps de l'armée de l'Est, puis l'armée entière après la tentative de suicide de Bourbaki. Le 1er février 1871, il signe aux Verrières l'internement en Suisse de plus de 87 000 hommes.
+texte: Né le 24 décembre 1820 à Thiaucourt, dans la Meurthe, saint-cyrien, Justin Clinchant s'est battu en Algérie, à Malakoff en 1855, en Italie et au Mexique. En 1870, général de brigade au 3e corps de l'armée du Rhin, il est pris dans la capitulation de Metz et conduit à Mayence ; il s'en évade au début de décembre, gagne la Hollande, puis la Loire, et se met au service de la Défense nationale.
+texte: Général de division, il reçoit le 20e corps de l'[[armee-de-l-est|armée de l'Est]] et se bat à [[bataille-de-villersexel|Villersexel]], le 9 janvier 1871, puis sur la Lizaine (voir [[bataille-d-hericourt]]). Le 26 janvier, [[bourbaki|Bourbaki]] lui remet le commandement avant de se tirer une balle dans la tête. Clinchant hérite d'une armée affamée et gelée, que [[edwin-von-manteuffel|Manteuffel]] coupe des routes du sud, et la pousse vers Pontarlier. L'annonce de l'armistice lui fait espérer une trêve ; Manteuffel la refuse, l'Est étant exclu de la convention (voir [[jules-favre]]). Acculé à la frontière, il signe aux premières heures du 1er février, aux Verrières, avec le général suisse Hans Herzog, la convention qui ouvre la Suisse à ses troupes : jusqu'au 3 février, plus de 87 000 hommes passent la frontière et déposent leurs armes (voir [[retraite-de-l-armee-de-l-est]]).
+texte: Rentré en mars, il commande le 5e corps de l'armée de Versailles, qui entre dans Paris pendant la Semaine sanglante. Commandant du 1er corps à Lille, puis du 6e, républicain bien vu de Gambetta, il devient en 1880 gouverneur militaire de Paris et meurt en fonctions le 20 mars 1881 ; il est inhumé au Père-Lachaise.
+repere: 24 décembre 1820 — Naissance à Thiaucourt, en Lorraine.
+repere: octobre 1870 — Il est pris dans la capitulation de Metz.
+repere: 9 janvier 1871 — Son 20e corps combat à Villersexel.
+repere: 26 janvier 1871 — Il succède à Bourbaki à la tête de l'armée de l'Est.
+repere: 1er février 1871 — Convention des Verrières avec le général Herzog.
+repere: 20 mars 1881 — Mort à Paris.
+attention: Les chiffres de l'internement varient : 87 847 hommes, dont 2 467 officiers, selon le décompte suisse le plus souvent cité, 84 000 ou 85 000 selon d'autres sources. Et la date de la prise de commandement aussi : le 26 janvier, jour de la tentative de suicide de Bourbaki, et non le 23, que donnent certaines notices.
+lien: wp Justin Clinchant
+lien: wp Convention des Verrières
+sources: Wikipédia (fr : Justin Clinchant, Convention des Verrières, Armée de l'Est ; de, en : Justin Clinchant ; en : Battle of Pontarlier ; de : Bourbaki-Armee)
+voir: armee-de-l-est, retraite-de-l-armee-de-l-est, bourbaki, bataille-d-hericourt, bataille-de-villersexel, edwin-von-manteuffel, jules-favre
+
+@ commandant-teyssier
+cat: personnages
+nom: Le commandant Teyssier
+alias: Louis-Casimir Teyssier, colonel Teyssier, défenseur de Bitche, citadelle de Bitche, Contes e racontes del coronèl
+dates: 1821 – 1916
+an: 1821
+fin: 1916
+camp: fr
+role: commandant de la citadelle de Bitche
+def: Fantassin couvert de blessures de Crimée et d'Italie, le chef de bataillon Louis-Casimir Teyssier commande en 1870 la citadelle de Bitche, qu'il tient près de huit mois sans la rendre. Il finit ses jours à Albi, sa ville natale, conteur en occitan.
+texte: Né à Albi le 25 août 1821, fils d'un lieutenant d'infanterie, ancien soldat de l'Empire, Louis-Casimir Teyssier a gagné tous ses galons dans le même régiment, le 21e de ligne, de caporal à capitaine. À l'assaut de Sébastopol, le 8 septembre 1855, il reçoit un éclat de pierre à la tête, une balle dans la main et un boulet dans la cuisse, et il est fait prisonnier ; à Montebello, en 1859, une balle lui traverse la poitrine. Chef de bataillon, versé pour ses blessures à l'état-major des places, il est nommé le 9 juillet 1870, dix jours avant la déclaration de guerre, commandant de la citadelle de Bitche.
+texte: Après [[bataille-de-froeschwiller-woerth|Frœschwiller]], il recueille les isolés de l'armée de Mac-Mahon, repousse le 8 août la première sommation bavaroise, puis tient sous deux bombardements et un long blocus, résolu, dit-il, à garder la place « jusqu'au bout » (voir [[siege-de-bitche]]). Quand on lui notifie l'[[armistice-de-1871|armistice]], il répond qu'il n'a d'ordres à recevoir que de son gouvernement. Il ne sort qu'à la fin de mars 1871, sur ordre, avec ses armes et ses drapeaux, d'une place que la paix vient de céder à l'Allemagne (voir [[alsace-lorraine]]).
+texte: Il prend sa retraite comme colonel en 1880 et rentre à Albi. Félibre, président de la Société des sciences, arts et belles-lettres du Tarn, il publie en 1913 des contes en parler albigeois, repris plus tard sous le titre *Contes e racontes del coronèl*. Il meurt à Albi en novembre 1916 et repose au cimetière des Planques ; Gabriel Pech lui a sculpté un monument dans sa ville, le lycée de Bitche porte son nom, et l'inscription du Panthéon le compte parmi ceux qui ont « sauvé l'honneur de la France ».
+repere: 25 août 1821 — Naissance à Albi.
+repere: 8 septembre 1855 — Grièvement blessé et fait prisonnier à l'assaut de Sébastopol.
+repere: 9 juillet 1870 — Il est nommé commandant de la citadelle de Bitche.
+repere: 8 août 1870 — Il repousse la première sommation des Bavarois.
+repere: fin de mars 1871 — Il quitte Bitche avec sa garnison, sur ordre du gouvernement.
+repere: novembre 1916 — Mort à Albi.
+lien: wp Louis-Casimir Teyssier
+sources: Wikipédia (fr : Louis-Casimir Teyssier, Alfred Chanzy)
+voir: siege-de-bitche, denfert-rochereau, places-fortes-en-1870, bataille-de-froeschwiller-woerth, lichtenberg-et-la-petite-pierre, alsace-lorraine
+
+@ louis-rossel
+cat: personnages
+nom: Louis Rossel
+alias: Louis Nathaniel Rossel, Louis-Nathaniel Rossel, capitaine Rossel, colonel Rossel, délégué à la Guerre de la Commune, Satory
+dates: 1844 – 1871
+an: 1844
+fin: 1871
+camp: fr
+role: capitaine du génie dans Metz assiégé
+def: Capitaine du génie enfermé dans Metz, Louis Rossel cherche à faire déposer Bazaine pour continuer la lutte, s'évade et sert la Défense nationale. En mars 1871, il passe à la Commune, dont il devient délégué à la Guerre ; il est fusillé à Satory le 28 novembre 1871, à vingt-sept ans.
+texte: Né à Saint-Brieuc le 9 septembre 1844, fils d'un officier républicain issu d'une famille protestante de Nîmes et d'une mère écossaise, Louis Rossel passe par le Prytanée de La Flèche et l'École polytechnique avant d'entrer dans le génie. En janvier 1870, dans *Le Temps*, il démontre que deux traités de stratégie publiés sous le nom de Napoléon sont des pastiches.
+texte: Capitaine à vingt-cinq ans, il obtient d'être affecté à Metz, où il arrive le jour de [[bataille-de-wissembourg|Wissembourg]], et travaille aux défenses extérieures de la place. Il écrit au *Temps* qu'il faudrait lever le pays entier en petites bandes, « faire une chouannerie en grand ». Enfermé avec l'armée du Rhin (voir [[siege-de-metz]]), il se persuade que [[bazaine|Bazaine]] ne veut pas se battre et cherche, avec d'autres jeunes officiers, à le faire arrêter et remplacer par un chef décidé à percer ; le projet est éventé. Au moment de la capitulation, il passe les lignes déguisé en paysan, gagne la Belgique et publie le 4 novembre, dans *L'Indépendance belge*, l'un des premiers réquisitoires contre le maréchal. À Tours, il obtient de [[gambetta|Gambetta]] et de [[charles-de-freycinet|Freycinet]] une mission d'inspection dans le Nord, puis, en décembre, la direction du génie au camp de Nevers, avec le grade de colonel auxiliaire.
+texte: L'[[armistice-de-1871|armistice]] et la paix le révoltent. Le 19 mars 1871, au lendemain du soulèvement de Paris, il écrit au ministre de la Guerre qu'il se range « sans hésitation du côté de celui qui n'a pas signé la paix » et rejoint la [[commune-de-paris|Commune]] : il est le seul officier supérieur de l'armée à le faire. Chef d'état-major de Cluseret, puis délégué à la Guerre le 30 avril, il veut faire de la garde nationale une armée disciplinée et se heurte aux comités. Le 9 mai, après la chute du fort d'Issy, il fait afficher la nouvelle sans prévenir la Commune et démissionne en demandant « une cellule à Mazas ». Arrêté, il s'échappe, se cache dans Paris sous un faux nom et y est pris le 7 juin.
+texte: Condamné à mort par un conseil de guerre le 8 septembre, puis de nouveau le 7 octobre après l'annulation du premier jugement, il voit se multiplier les demandes de grâce : [[victor-hugo-en-1870|Victor Hugo]], [[denfert-rochereau|Denfert-Rochereau]], des étudiants, des pasteurs, plus de deux cents Messins. La commission des grâces refuse. Rossel est fusillé au camp de Satory, près de Versailles, le 28 novembre 1871, avec Théophile Ferré et le sergent Bourgeois ; il repose au cimetière protestant de Nîmes.
+repere: 9 septembre 1844 — Naissance à Saint-Brieuc.
+repere: 4 août 1870 — Il arrive à Metz, affecté au génie de la place.
+repere: octobre 1870 — Il cherche à faire déposer Bazaine ; le projet est éventé.
+repere: 4 novembre 1870 — Évadé, il dénonce Bazaine dans *L'Indépendance belge*.
+repere: 19 mars 1871 — Il rejoint la Commune de Paris.
+repere: 30 avril 1871 — Il devient délégué à la Guerre de la Commune.
+repere: 9 mai 1871 — Il annonce la perte du fort d'Issy et démissionne.
+repere: 28 novembre 1871 — Fusillé au camp de Satory.
+attention: Rossel a été revendiqué de tous côtés : martyr pour la gauche, patriote égaré pour les républicains modérés, soldat du refus pour Charles de Gaulle, qui lui a rendu hommage. Ses lettres disent plus simplement pourquoi il est passé à la Commune : elle refusait la paix et ne comptait pas de « généraux coupables de capitulation ». Il n'adhérait pas à son programme social et l'a quittée quand il l'a jugée incapable de se battre.
+lien: wp Louis Rossel
+lien: de Louis Rossel
+sources: Wikipédia (fr : Louis Rossel, Aristide Denfert-Rochereau, François Achille Bazaine)
+voir: siege-de-metz, bazaine, commune-de-paris, gambetta, denfert-rochereau, victor-hugo-en-1870, armistice-de-1871
+
+@ emile-kuss
+cat: personnages
+nom: Émile Küss
+alias: Emile Kuss, Émile Kuss, Emil Küß, maire Küss, maire de Strasbourg, rue du Maire-Kuss, pont du Maire-Kuss
+dates: 1815 – 1871
+an: 1815
+fin: 1871
+camp: fr
+role: maire de Strasbourg, puis député du Bas-Rhin
+def: Professeur de physiologie et républicain de 1848, Émile Küss devient maire de Strasbourg le 11 septembre 1870, en plein siège. Élu député du Bas-Rhin, il meurt à Bordeaux dans la nuit du 1er mars 1871, le jour où l'Assemblée accepte la cession de l'Alsace.
+texte: Né à Strasbourg le 1er février 1815, fils d'un passementier, ancien officier, élève du gymnase Jean-Sturm, Émile Küss enseigne la physiologie à la faculté de médecine de sa ville depuis 1846 ; avec le chirurgien Sédillot, il a pratiqué dès 1847 l'une des premières biopsies de tumeur, et il a dirigé en 1867 la thèse d'Alphonse Laveran. Républicain de 1848, gérant du *Démocrate du Rhin*, il a été poursuivi en 1849 pour complot, enfermé dans la cellule qu'avait occupée Louis-Napoléon treize ans plus tôt, puis acquitté au procès de Metz, défendu par [[jules-favre|Jules Favre]].
+texte: En août 1870, la ville est investie, puis bombardée (voir [[siege-de-strasbourg]]) ; son maire est alors Théodore Humann. Le 11 septembre, le jour où la délégation suisse apporte la nouvelle de la République, la commission municipale qui administre la place assiégée choisit Küss pour maire. Il a seize jours à vivre sous les obus avant la reddition. Le 27 septembre au soir, quand le drapeau blanc flotte sur la cathédrale, un Strasbourgeois, Ernest Frantz, entend crier dans la foule : « Uhrich est un traître, Kuss est un Prussien ! » Le maire partage l'opprobre du gouverneur, le [[general-uhrich|général Uhrich]]. Il reste pourtant à son poste sous l'occupation, négocie avec les nouveaux maîtres pour modérer leurs exigences et commence à préparer la reconstruction des quartiers détruits.
+texte: Le 8 février 1871, le Bas-Rhin l'élit député par 98 090 voix sur 101 741 votants. Malade, il part pour Bordeaux porter la protestation de l'Alsace, mais ne peut siéger. Dans la nuit du 1er mars, quand il apprend que l'Assemblée a ratifié les [[preliminaires-de-versailles|préliminaires de paix]], qui cèdent l'Alsace, son cœur lâche. Bordeaux lui fait le 3 mars des obsèques aux frais de l'État, que suivent tous les députés d'Alsace et de Lorraine ; [[gambetta|Gambetta]] y promet que la France n'aura désormais d'autre politique que la « délivrance » des provinces perdues (voir [[protestation-de-bordeaux]]).
+texte: Le corps revient à Strasbourg, que l'Allemagne tient déjà. Le 8 mars 1871, la ville fait à son maire des funérailles solennelles ; il repose au cimetière Sainte-Hélène, aux confins de Schiltigheim, où sa grande stèle de grès rose se dresse au carrefour central. Théophile Schuler l'a peint en 1873, l'écharpe de maire en travers de la poitrine, debout dans une rue en ruine : le tableau est au Musée historique de Strasbourg. La rue qui fait face à la gare porte son nom, prolongée par le pont du Maire-Kuss sur le canal du Faux-Rempart ; Paris lui a donné une rue dans le 13e arrondissement.
+repere: 1er février 1815 — Naissance à Strasbourg.
+repere: 1846 — Il obtient la chaire de physiologie de la faculté de médecine de Strasbourg.
+repere: octobre 1849 — Défendu par Jules Favre, il est acquitté au procès de Metz.
+repere: 11 septembre 1870 — La commission municipale en fait le maire de Strasbourg assiégée.
+repere: 27 septembre 1870, au soir — Le drapeau blanc est hissé ; la foule s'en prend au gouverneur et au maire.
+repere: 8 février 1871 — Il est élu député du Bas-Rhin.
+repere: nuit du 1er mars 1871 — Mort à Bordeaux, après le vote des préliminaires de paix.
+repere: 8 mars 1871 — Funérailles à Strasbourg et inhumation au cimetière Sainte-Hélène.
+attention: Küss, dit-on, est « mort de douleur » en apprenant la cession, et cette fin a fait de lui un symbole de l'Alsace arrachée. La coïncidence est réelle, mais sa santé était précaire depuis longtemps et il n'avait pu siéger à Bordeaux. Contrairement à ce qu'écrivent certains récits, il n'était pas maire au début de la guerre : il a succédé à Théodore Humann pendant le siège.
+lien: wp Émile Küss
+lien: url https://pop.culture.gouv.fr/notice/joconde/00200045502 = Base Joconde : Théophile Schuler, Le maire Küss au milieu des ruines de Strasbourg (1873), Musée historique de Strasbourg
+lien: url https://archives.alsace.eu/media/rswhen22/1870_fiche_14_reddition_stbrg.pdf = Archives d'Alsace, fiche « La reddition de Strasbourg », avec le journal d'Ernest Frantz
+sources: Wikipédia (fr : Émile Küss, Cimetière Sainte-Hélène de Strasbourg, Théodore Humann ; en : Émile Küss) ; Archives d'Alsace, « La guerre de 1870 : la déchirure », fiche 14 (D. Hartmann), extrait du journal d'Ernest Frantz ; base Joconde, notice du tableau de T. Schuler
+voir: siege-de-strasbourg, general-uhrich, protestation-de-bordeaux, preliminaires-de-versailles, gambetta, alsace-lorraine, jules-favre, sur-les-champs-de-bataille-d-alsace
+
+@ sergent-hoff
+cat: personnages
+nom: Le sergent Hoff
+alias: Ignace Hoff, sergent Hoff, Hentzel, Wolff, île des Loups, 107e de ligne, rue du Sergent-Hoff
+dates: 1836 – 1902
+an: 1836
+fin: 1902
+camp: fr
+role: sergent au 7e régiment de marche (107e de ligne)
+def: Plâtrier alsacien de Marmoutier devenu sergent, Ignace Hoff est le héros populaire du siège de Paris : ses embuscades nocturnes au bord de la Marne lui valent la Légion d'honneur. Disparu à Champigny, il passe pour un espion allemand avant d'être réhabilité.
+texte: Né le 20 juillet 1836 à Marmoutier, près de Saverne, fils d'un tisserand, Ignace Hoff quitte jeune la maison pour faire son tour de France comme plâtrier. La conscription le prend en 1856 ; il rengage en 1863, devient caporal en 1867, sergent en 1869. En juillet 1870, il est au 25e de ligne, à Belle-Île-en-Mer.
+texte: À la mi-août, une lettre lui apprend que son père, un vieillard de soixante-quatorze ans, a été fusillé par les Prussiens en défendant sa maison. La nouvelle est fausse, mais Hoff ne songe plus qu'à le venger. Versé au 7e régiment de marche, futur 107e de ligne, il part avec le 13e corps de [[general-vinoy|Vinoy]] et revient avec lui à Paris. Pendant le [[siege-de-paris|siège]], cantonné du côté de Nogent et de la Marne, il fait la guerre en partisan : la nuit, avec une poignée de volontaires, il rampe jusqu'aux avant-postes, répond dans leur langue au « *Wer da ?* » des sentinelles et les abat. Il chasse les Allemands de l'île des Loups, devant Nogent-sur-Marne, et le général d'Exéa lui remet sur le terrain la Légion d'honneur. Les journaux font de lui le héros dont Paris a besoin ; les Prussiens, dit-on, mettent sa tête à prix.
+texte: Pendant la [[bataille-de-champigny|bataille de Champigny]], du 30 novembre au 2 décembre, il disparaît. Un journal « révèle » alors que le fameux sergent était un espion, un officier de chasseurs bavarois nommé Hentzel, qui passait les lignes à la faveur de sa réputation ; dans un Paris qui se croit trahi, on le croit. Hoff était prisonnier en Allemagne, près de Cologne, où il cachait son nom sous celui de Wolff. Rentré en mai 1871, il est blessé au bras en attaquant une barricade de la [[commune-de-paris|Commune]], rue de Lisbonne, puis va de rédaction en rédaction obtenir excuses et rectifications.
+texte: Il refuse, raconte-t-on, un brevet d'officier dans l'armée des Indes que lui offrent les Anglais, et devient gardien du square des Arts-et-Métiers, puis de la colonne Vendôme, enfin de l'Arc de Triomphe. Il meurt chez lui, 34 rue de Montenotte, le 29 mai 1902, la veille de sa retraite. Il repose au Père-Lachaise, dans la 4e division, sous une statue de Bartholdi, la dernière œuvre du sculpteur. Une rue du 17e arrondissement porte son nom, comme une rue de Marmoutier, et Bry-sur-Marne, où il guettait l'ennemi, lui a élevé un monument de Jean Magrou.
+repere: 20 juillet 1836 — Naissance à Marmoutier, dans le Bas-Rhin.
+repere: 1856 — La conscription le fait soldat.
+repere: mi-août 1870 — Une fausse nouvelle lui apprend que son père a été fusillé par les Prussiens.
+repere: 6 novembre 1870 — Le général d'Exéa lui remet la Légion d'honneur.
+repere: 30 novembre – 2 décembre 1870 — Il disparaît pendant la bataille de Champigny ; il est prisonnier.
+repere: mai 1871 — Revenu de captivité, il est blessé devant une barricade de la Commune.
+repere: 29 mai 1902 — Mort à Paris, rue de Montenotte.
+attention: La légende a grossi les chiffres : vingt-sept Prussiens tués pendant tout le siège selon un décompte, « plus de trente » dès le 10 novembre selon le récit de Lucien Louis-Lande publié en 1873, qui place aussi sa décoration à la fin d'octobre et en fait « la première croix donnée par la république ». L'espion Hentzel, lui, n'a jamais existé : la rumeur est née de sa disparition, dans une ville assiégée qui voyait des espions partout (voir [[espionnage-et-renseignement]]).
+lien: wp Ignace Hoff
+lien: ws Le sergent Hoff, épisode du siège de Paris
+sources: Wikipédia (fr : Ignace Hoff, Chronologie du siège de Paris (1870-1871)) ; L. Louis-Lande, « Le sergent Hoff, épisode du siège de Paris », *Revue des Deux Mondes*, 1873 (Wikisource)
+voir: siege-de-paris, bataille-de-champigny, general-vinoy, espionnage-et-renseignement, vie-a-paris-pendant-le-siege, commune-de-paris, francs-tireurs
+
+@ victor-hugo-en-1870
+cat: personnages
+nom: Victor Hugo et l'année terrible
+alias: Victor Hugo, Hugo en 1870, L'Année terrible, Aux Allemands, Aux Français, Les Châtiments, canon Victor Hugo, Hauteville House, Guernesey
+dates: 1802 – 1885
+an: 1802
+fin: 1885
+camp: fr
+role: écrivain revenu d'exil, député de la Seine (février – mars 1871)
+def: Proscrit depuis 1851, Victor Hugo rentre à Paris le 5 septembre 1870, au lendemain de la République. Il en appelle aux Allemands puis aux Français, vit le siège, combat la paix à Bordeaux, démissionne, et raconte ces douze mois dans *L'Année terrible* (1872).
+texte: Proscrit après le coup d'État de 1851, Victor Hugo vit depuis 1855 à Guernesey, à Hauteville House, d'où *Les Châtiments* ont poursuivi l'Empire. Le 14 juillet 1870, cinq jours avant la déclaration de guerre, il plante dans son jardin le « chêne des États-Unis d'Europe ». Le 15 août, devant les défaites, il gagne Bruxelles pour être prêt à rentrer.
+texte: Le 5 septembre, au lendemain du [[quatre-septembre|4 septembre]], il rentre à Paris après dix-neuf ans d'exil ; la foule l'accueille aux cris de « Vive Victor Hugo ! ». Il n'entre pas au gouvernement, mais le soutient. Le 9 septembre, il publie en français et en allemand un appel *Aux Allemands*, qui commence par « Allemands, celui qui vous parle est un ami », et les adjure de ne pas assiéger Paris ; le 17, dans *Aux Français*, il appelle au contraire la nation à la guerre. Pendant le [[siege-de-paris|siège]], *Les Châtiments* paraissent enfin à Paris, le 20 octobre : il en verse le premier bénéfice à la souscription pour les canons, et la Société des gens de lettres en fait dire des pièces pour offrir à la défense un canon qu'elle veut appeler le *Victor Hugo*. En janvier encore, il refuse de pousser à la chute de [[trochu|Trochu]] : « Je vois plus de danger à renverser le gouvernement qu'à le maintenir. »
+texte: Élu député de la Seine le 8 février, deuxième de la liste derrière Louis Blanc, il part pour Bordeaux le 13. Le 1er mars, à l'[[assemblee-de-bordeaux|Assemblée]], il parle contre le traité « qui nous coûte deux provinces et cinq milliards » et vote contre (voir [[preliminaires-de-versailles]]) ; il propose ensuite que les élus de l'Alsace et de la Lorraine gardent leurs sièges jusqu'au retour de leurs provinces. Le 8 mars, il se lève pour défendre [[garibaldi|Garibaldi]] ; la droite couvre sa voix, et il donne sa démission. Le 13, son fils Charles meurt subitement à Bordeaux. Le 18 mars, jour du soulèvement de Paris, le convoi traverse la ville jusqu'au Père-Lachaise, et des gardes nationaux insurgés lui font une haie d'honneur.
+texte: Parti pour Bruxelles régler la succession de son fils, il condamne de loin le décret des otages de la [[commune-de-paris|Commune]] (« Pas de représailles ») autant que la répression ; le 26 mai, il offre l'asile chez lui aux vaincus, voit sa maison attaquée la nuit suivante et se fait expulser de Belgique. Réfugié au Luxembourg, à Vianden surtout, de juin à septembre, il y achève *L'Année terrible*, publiée en 1872 : un journal en vers, mois après mois, de Sedan et du siège jusqu'aux fusillés de mai, avec « Sur une barricade, au milieu des pavés » et un plaidoyer pour l'amnistie, « À ceux qu'on foule aux pieds » (voir [[litterature-de-la-guerre]]). Il demande en vain la grâce de [[louis-rossel|Rossel]] ; partisan de l'amnistie, il est battu aux élections de juillet 1871 et de janvier 1872.
+repere: 15 août 1870 — Il quitte Guernesey pour Bruxelles.
+repere: 5 septembre 1870 — Il rentre à Paris après dix-neuf ans d'exil.
+repere: 9 septembre 1870 — Appel *Aux Allemands*, publié en français et en allemand.
+repere: 20 octobre 1870 — Première édition parisienne des *Châtiments*.
+repere: 1er mars 1871 — À Bordeaux, il parle contre les préliminaires de paix.
+repere: 8 mars 1871 — Il démissionne après avoir été empêché de défendre Garibaldi.
+repere: 18 mars 1871 — Obsèques de son fils Charles à Paris, le jour du soulèvement.
+repere: 1872 — Publication de *L'Année terrible*.
+attention: L'expression « l'année terrible », devenue le nom de 1870-1871, vient de ce recueil. Hugo ne rentrait pas de Jersey, comme on le lit parfois, mais de Guernesey, où il vivait depuis 1855. Et le livre n'est pas un chant de revanche : il accuse l'envahisseur, mais aussi la répression de mai 1871, et réclame la clémence pour les vaincus.
+lien: wp L'Année terrible
+lien: ws L’Année terrible
+lien: wp Victor Hugo
+sources: V. Hugo, *Actes et paroles. Depuis l'exil* (Aux Allemands, Aux Français, Les Châtiments, Bordeaux, Discours du 1er mars 1871, Conclusion, Notes), Wikisource ; Wikipédia (fr : Victor Hugo, L'Année terrible, Louis Jules Trochu, Giuseppe Garibaldi)
+voir: siege-de-paris, quatre-septembre, assemblee-de-bordeaux, garibaldi, commune-de-paris, litterature-de-la-guerre, louis-rossel, trochu

@@ -1,0 +1,380 @@
+# 1870 — lot 08 : les batailles du Nord, des Vosges, de Bourgogne et de l'Est, d'octobre 1870 à
+# février 1871 (onze articles, dans l'ordre du plan). Dates, unités et chiffres vérifiés sur Wikipédia
+# (fr, de, en : texte des pages, lu par build/wp.py), recoupés entre langues ; coordonnées des pages
+
+@ bataille-d-amiens
+cat: batailles
+nom: Bataille d'Amiens
+alias: bataille de Villers-Bretonneux, Villers-Bretonneux, Schlacht bei Amiens, Dury, Boves, Gentelles, Cachy, citadelle d'Amiens, commandant Vogel
+dates: 27 novembre 1870
+quand: 1870-11-27
+def: Le 27 novembre 1870, la Ire armée de [[edwin-von-manteuffel|Manteuffel]], libérée par la chute de Metz, bat au sud et à l'est d'Amiens la jeune [[armee-du-nord|armée du Nord]] du général Farre. Les Allemands entrent dans Amiens le lendemain, mais l'armée française leur échappe vers Arras.
+texte: La capitulation de [[siege-de-metz|Metz]], le 27 octobre, a libéré la Ire armée allemande. Manteuffel — le VIIIe corps de [[august-von-goeben|Goeben]] et une partie du Ier corps, quelque 40 000 hommes — reçoit de [[moltke]] l'ordre d'occuper Amiens puis Rouen, pour couvrir par le nord le [[siege-de-paris|siège de Paris]]. En face, l'armée du Nord n'existe officiellement que depuis le 18 novembre. [[bourbaki]], qui l'avait mise sur pied avec le colonel du génie Farre, a été appelé sur la Loire ; Farre, promu général de brigade, la commande par intérim. Elle n'a qu'un corps, le 22e, à trois brigades : 17 000 hommes et une cinquantaine de canons, plus les 8 000 [[garde-mobile|gardes mobiles]] du général Paulze d'Ivoy, chargés de défendre Amiens.
+texte: Le 26 au soir, Farre a tendu ses troupes sur 25 kilomètres au sud de la Somme, de Pont-de-Metz à Villers-Bretonneux et Corbie : mobiles, chasseurs et fusiliers marins dans les tranchées de Dury, la brigade Derroja à Boves, celle du colonel du Bessol à Villers-Bretonneux, avec la brigade Lecointe en soutien. Le 27, Manteuffel attaque avec 30 000 hommes environ, mais le vallon marécageux de l'Avre coupe son armée en deux. À l'ouest, Goeben vient buter sur Dury, où ses batteries s'avancent à 1 100 mètres des tranchées ; à Boves, un régiment prussien enlève les positions et 300 prisonniers. À l'est, la division Bentheim franchit la Luce vers 10 h et prend Gentelles et Cachy, que Lecointe reprend au début de l'après-midi.
+texte: Tout se décide à Villers-Bretonneux. Vers 14 h 30, deux colonnes prussiennes débouchant de Marcelcave enfoncent l'extrême gauche française ; du Bessol reprend les retranchements, puis tombe blessé à la seconde attaque. Treize batteries font taire l'artillerie française ; le bourg est pris vers 16 h. À 16 h 30, à court de munitions, Farre ordonne la retraite vers Arras ; une arrière-garde tient Cachy jusqu'au soir. Le 28 à midi, Goeben entre dans Amiens. Seule la citadelle résiste : le commandant Vogel, officier en retraite, s'y est enfermé avec 450 mobiles et une vingtaine de pièces. Il est tué dans la nuit du 28 au 29, et la garnison capitule — le 29 selon les historiques allemands, le 1er décembre selon des récits français. Les Prussiens rendent les honneurs à sa dépouille.
+texte: Les Français ont perdu 1 383 tués et blessés et 800 à 1 000 disparus ou prisonniers, les Allemands 1 292 hommes. La victoire reste incomplète : Manteuffel, persuadé d'avoir battu l'armée de Bourbaki, ne poursuit pas ; il laisse une garnison à Amiens et entre sans combat à Rouen le 5 décembre. Abritée derrière les places d'Arras, de Cambrai et de Lille, l'armée du Nord se reforme ; [[faidherbe]], qui la prend en main au début de décembre, la portera à plus de 40 000 hommes et reviendra vers Amiens trois semaines plus tard, sur l'[[bataille-de-pont-noyelles|Hallue]].
+repere: 27 octobre 1870 — Metz capitule ; la Ire armée allemande, libérée, est dirigée vers le nord.
+repere: 10 novembre 1870 — Bourbaki quitte le commandement du Nord pour la Loire ; Farre assure l'intérim.
+repere: 18 novembre 1870 — L'armée du Nord est officiellement constituée.
+repere: 26 novembre 1870, soir — Farre déploie ses trois brigades de Pont-de-Metz à Villers-Bretonneux et Corbie.
+repere: 27 novembre 1870, vers 10 h — Le Ier corps prussien franchit la Luce et prend Gentelles et Cachy.
+repere: 27 novembre 1870, vers 13 h — La brigade Lecointe contre-attaque et reprend Cachy et Gentelles.
+repere: 27 novembre 1870, vers 14 h 30 — Deux colonnes venues de Marcelcave enfoncent la gauche française devant Villers-Bretonneux.
+repere: 27 novembre 1870, 16 h 30 — Villers-Bretonneux perdu, Farre ordonne la retraite vers Arras.
+repere: 28 novembre 1870, midi — Goeben entre dans Amiens ; la citadelle refuse de se rendre.
+repere: 29 novembre 1870 — Le commandant Vogel est tué ; la citadelle capitule.
+attention: Le nom de Villers-Bretonneux évoque aujourd'hui surtout avril 1918, quand des troupes australiennes reprirent le bourg aux Allemands, et le mémorial national australien voisin. La bataille de 1870, que les Allemands appellent bataille d'Amiens, a laissé son propre monument et un ossuaire au cimetière communal.
+issue: victoire allemande, Amiens occupée
+effectifs: 25000 | 30000
+pertes: 2300 | 1292
+chefs: Farre | Manteuffel, Goeben
+chiffres: Côté français, 17 000 à 17 500 soldats de l'armée du Nord avec une cinquantaine de canons, et 8 000 mobiles de la garnison d'Amiens avec douze pièces (Wikipédia fr, de, en). Manteuffel disposait de 40 000 à 45 000 hommes dans la région, mais en engagea environ 30 000. Pertes françaises : 1 383 tués et blessés, plus 800 à 1 000 disparus ou prisonniers ; pertes allemandes : 76 officiers et 1 216 hommes.
+geo: 49.8675, 2.5208
+lieu: Villers-Bretonneux, Somme, France
+lien: wp Bataille de Villers-Bretonneux (1870)
+lien: de Schlacht bei Amiens (1870)
+lien: en Battle of Amiens (1870)
+sources: Wikipédia (fr : Bataille de Villers-Bretonneux (1870), Citadelle d'Amiens, Jean-Joseph Farre, Charles Denis Bourbaki, Armée du Nord (1870-1871) ; de : Schlacht bei Amiens (1870) ; en : Battle of Amiens (1870) et Second Battle of Villers-Bretonneux).
+voir: armee-du-nord, edwin-von-manteuffel, august-von-goeben, faidherbe, bataille-de-pont-noyelles, siege-de-metz, garde-mobile, france-occupee
+
+@ bataille-de-pont-noyelles
+cat: batailles
+nom: Bataille de Pont-Noyelles
+alias: bataille de l'Hallue, Hallue, Schlacht an der Hallue, Querrieu, Daours, Vecquemont, colonne Faidherbe
+dates: 23 – 24 décembre 1870
+quand: 1870-12-23
+jusqu: 1870-12-24
+def: Les 23 et 24 décembre 1870, sur l'Hallue, au nord-est d'Amiens, l'[[armee-du-nord|armée du Nord]] de [[faidherbe]] tient les hauteurs de la rive gauche contre les attaques du VIIIe corps de [[august-von-goeben|Goeben]]. Bataille indécise : les Français tiennent le terrain, puis se retirent vers Arras le lendemain.
+texte: Après la [[bataille-d-amiens|défaite de Villers-Bretonneux]], Faidherbe, l'ancien gouverneur du Sénégal, prend à Lille au début de décembre le commandement de l'armée du Nord. Il la réorganise en deux corps, le 22e du général Lecointe et le 23e de Paulze d'Ivoy, et la porte à plus de 40 000 hommes, régiments de marche et [[garde-mobile|mobiles]] pour l'essentiel, avec quelque 80 canons. Elle marche sur Amiens et, le 17 décembre, s'établit sur l'Hallue, petit affluent de la Somme, entre Bavelincourt et Daours, quartier général à Corbie. Elle tient les villages du fond de la vallée et, surtout, les hauteurs de la rive gauche. [[edwin-von-manteuffel|Manteuffel]], qui a ramené de Normandie le VIIIe corps, attaque le 23 avec quelque 22 000 hommes.
+texte: Ce jour-là, le sol est enneigé et un vent glacé souffle du nord ; on se bat sur douze kilomètres de front. Partie à 8 h, la 15e division de Kummer descend vers la vallée. Vers 11 h 15, sa 29e brigade aborde Querrieu, tenu par le 18e bataillon de chasseurs ; après une heure de duel d'artillerie, le village tombe, et le combat gagne Pont-Noyelles, défendu par les chasseurs et le 70e de marche. Vers 13 h, Bussy-lès-Daours est évacué ; à Vecquemont, les chasseurs et les fusiliers marins du capitaine de vaisseau Payen clouent les assaillants au sol jusqu'au milieu de l'après-midi. Au nord, la 16e division de Barnekow, qui devait déborder la droite française, ne trouve d'abord personne et ne s'engage que vers 15 h, à Montigny et Béhencourt. Les Prussiens prennent un à un les villages du fond ; ils n'enlèvent pas les hauteurs, que balaient l'artillerie française et le [[fusil-chassepot|chassepot]].
+texte: Vers 16 h, la nuit tombe. Faidherbe ordonne une contre-attaque sur toute la ligne. Lecointe lance par deux fois ses bataillons sur Pont-Noyelles, où l'on se bat à la baïonnette dans l'obscurité ; la brigade Foerster passe l'Hallue entre Querrieu et Bussy, la brigade Payen repart sur Vecquemont. Les renforts que Manteuffel envoie dans chaque village arrêtent tout. À 19 h, les Prussiens cantonnent dans les maisons de la vallée ; les Français passent la nuit dehors, sur les hauteurs nues, par huit degrés sous zéro. Le 24, veille de Noël, on ne fait guère que se canonner. Vers 14 h, Faidherbe ordonne la retraite, que les Allemands ne suivent que le lendemain : l'armée du Nord se replie derrière la Scarpe, entre Arras et Douai.
+texte: Les Français ont perdu un millier de tués et de blessés et 1 100 à 1 300 prisonniers, sans compter un millier de traînards ; les Allemands, 927 à 955 hommes. La colonne élevée dès 1872-1873 au lieu-dit la Bahotte, d'où Faidherbe dirigea les derniers combats, et le boulevard de Pont-Noyelles, à Amiens, en gardent le souvenir. Dix jours plus tard, l'armée du Nord revient pour dégager [[siege-de-peronne|Péronne]], assiégée depuis le 27 décembre : c'est la [[bataille-de-bapaume|bataille de Bapaume]].
+repere: 9 décembre 1870 — Quatre bataillons de l'armée du Nord s'emparent de la place de Ham.
+repere: 17 décembre 1870 — L'armée du Nord s'établit sur l'Hallue, entre Bavelincourt et Daours.
+repere: 20 décembre 1870 — Une reconnaissance prussienne est repoussée devant Querrieu.
+repere: 23 décembre 1870, 8 h — Le VIIIe corps prussien se met en marche vers l'Hallue.
+repere: 23 décembre 1870, vers 11 h 15 — La brigade von Bock attaque Querrieu, tenu par le 18e bataillon de chasseurs.
+repere: 23 décembre 1870, vers 13 h — Les Français évacuent Bussy-lès-Daours.
+repere: 23 décembre 1870, vers 15 h — La 16e division prussienne entre en ligne au nord, à Montigny.
+repere: 23 décembre 1870, 16 h — Faidherbe lance une contre-attaque générale, qui dure jusqu'à 18 h.
+repere: 23 décembre 1870, 19 h — Nuit noire : les Prussiens tiennent les villages, les Français bivouaquent sur les hauteurs.
+repere: 24 décembre 1870, vers 14 h — Faidherbe ordonne la retraite vers Arras et Douai.
+attention: Ni victoire française ni défaite : Faidherbe a prouvé que des troupes improvisées pouvaient tenir des hauteurs devant des soldats aguerris, mais il n'a repris ni les villages ni Amiens, et sa retraite volontaire du 24 laisse le terrain à l'adversaire. Les pertes en tués et blessés sont à peu près égales ; l'écart vient des prisonniers et des traînards français.
+issue: indécise, retraite française le 24
+effectifs: 40000 | 22500
+pertes: 2300 | 955
+chefs: Faidherbe | Manteuffel, Goeben
+chiffres: Effectifs : 40 000 à 43 000 Français avec environ 80 canons ; 20 000 à 22 500 Allemands, le VIIIe corps, une brigade du Ier corps et la 3e division de cavalerie (Wikipédia fr, de, en). Pertes françaises : un millier de tués et blessés (« tués » selon les pages française et anglaise), 1 100 à 1 300 prisonniers, et un millier de dispersés qui ne sont pas comptés ici ; pertes allemandes : 927 tués et blessés, 955 avec les disparus.
+geo: 49.9408, 2.4419
+lieu: Pont-Noyelles, Somme, France
+lien: wp Bataille de l'Hallue
+lien: de Schlacht an der Hallue
+lien: en Battle of Hallue
+sources: Wikipédia (fr : Bataille de l'Hallue, Louis Faidherbe ; de : Schlacht an der Hallue ; en : Battle of Hallue).
+voir: faidherbe, armee-du-nord, august-von-goeben, edwin-von-manteuffel, bataille-d-amiens, bataille-de-bapaume, siege-de-peronne, garde-mobile
+
+@ bataille-de-bapaume
+cat: batailles
+nom: Bataille de Bapaume
+alias: Schlacht bei Bapaume, Béhagnies, Sapignies, Biefvillers, Grévillers, Favreuil, Tilloy
+dates: 2 – 3 janvier 1871
+quand: 1871-01-02
+jusqu: 1871-01-03
+def: Les 2 et 3 janvier 1871, l'[[armee-du-nord|armée du Nord]] de [[faidherbe]], en marche pour dégager Péronne assiégée, refoule la division prussienne qui tient Bapaume. Succès tactique sans lendemain : Faidherbe recule au moment où l'adversaire s'apprêtait à le faire, et Péronne capitule.
+texte: Après l'Hallue, l'armée du Nord s'est arrêtée le 27 décembre derrière la Scarpe, entre Arras et Douai, pour se refaire. Le même jour, les Allemands investissent [[siege-de-peronne|Péronne]], dernière place française sur la haute Somme ; le bombardement commence le 28. Le 1er janvier 1871, à Beaurains, Faidherbe passe outre à l'avis de ses généraux : laisser bombarder la ville sans rien tenter serait, dit-il selon les récits français, un « déshonneur ». Il a quelque 30 000 hommes et 90 canons, en deux corps, le 22e de Lecointe et le 23e de Paulze d'Ivoy, qui comprend une division de [[garde-nationale|gardes nationaux mobilisés]], celle du général Robin. En face, le VIIIe corps de [[august-von-goeben|Goeben]] est dispersé entre Amiens, Rouen et le siège ; autour de Bapaume, la 15e division de Kummer et deux détachements de cavalerie ne comptent guère que 15 000 hommes.
+texte: Le 2 janvier, sous un ciel gris, l'armée s'avance sur un large front. À droite, la division Derroja repousse la cavalerie allemande et cantonne à Achiet-le-Petit ; au centre, Faidherbe enlève Achiet-le-Grand. À gauche, tout va mal : vers 14 h, la brigade Michelet prend Béhagnies, mais, mal soutenue, en est chassée et laisse quelque 250 prisonniers ; les mobilisés de Robin, partis par un mauvais chemin, n'arrivent qu'à 14 h 30. Le soir, Kummer resserre sa division sur Bapaume.
+texte: Le 3, la neige couvre la terre et le froid est intense. Dès le matin, la division du Bessol enlève Biefvillers, celle de Derroja Grévillers ; l'artillerie française fait taire les canons ennemis, et l'infanterie, qui trouve les maisons d'Avesnes pleines de blessés allemands, pousse jusqu'au faubourg d'Arras. Là, les fossés et les pans de murs des vieilles fortifications arrêtent l'assaut. À gauche, Favreuil tombe quand deux bataillons de la brigade Delagrange relèvent les mobilisés, incapables de tenir sous le feu ; à droite, dans l'après-midi, la brigade Pittié prend Tilloy, mais Ligny reste aux Allemands. À la nuit, les Français enserrent Bapaume sur trois côtés. En face, les munitions manquent et les hommes sont à bout : Goeben prépare pour le lendemain un repli derrière la Somme, et le général Barnekow, qui assiège Péronne, a reçu l'ordre de se tenir prêt à lever le siège. L'historique du grand état-major prussien l'admettra : les Allemands n'étaient « rien moins que désireux de reprendre la lutte ».
+texte: Faidherbe l'ignore. Devant le froid, l'épuisement de ses jeunes troupes et la difficulté de les ravitailler, comptant que Péronne tiendra encore quelques jours, il fait reculer son armée d'une dizaine de kilomètres, vers Boisleux. Les Français ont perdu 2 119 hommes, dont 800 disparus, des mobilisés pour la plupart, rentrés chez eux ; les Allemands, 750. Personne ne vient plus au secours de Péronne, qui capitule le 9 janvier. L'armée du Nord n'avait sans doute jamais été aussi près d'une victoire ; seize jours plus tard, elle est brisée à [[bataille-de-saint-quentin|Saint-Quentin]].
+repere: 27 décembre 1870 — Les Allemands investissent Péronne ; l'armée du Nord se reforme derrière la Scarpe.
+repere: 1er janvier 1871 — À Beaurains, Faidherbe décide, contre l'avis de ses généraux, de marcher au secours de Péronne.
+repere: 2 janvier 1871, vers 14 h — Maîtresse un moment de Béhagnies, la brigade Michelet en est rejetée et perd 250 prisonniers.
+repere: 2 janvier 1871, vers 19 h — Kummer replie sur Bapaume sa brigade avancée.
+repere: 3 janvier 1871, matin — Du Bessol enlève Biefvillers, Derroja Grévillers ; les Français atteignent le faubourg d'Arras.
+repere: 3 janvier 1871, 14 h — Le général Barnekow reçoit l'ordre de se tenir prêt à lever le siège de Péronne.
+repere: 3 janvier 1871, après-midi — Favreuil est pris à gauche, Tilloy à droite ; Ligny reste aux Allemands.
+repere: nuit du 3 au 4 janvier 1871 — Goeben prépare sa retraite derrière la Somme ; Faidherbe ordonne la sienne vers Boisleux.
+repere: 9 janvier 1871 — Péronne capitule.
+attention: Bapaume n'est ni l'« échec » que retiennent certaines chronologies, ni la victoire que la tradition française a parfois célébrée. Les Français ont gagné le terrain et l'ennemi s'apprêtait à reculer ; mais leur retraite le lui rend aussitôt, et le but de l'offensive, Péronne, n'est pas atteint.
+issue: succès tactique français sans lendemain
+effectifs: 25000 | 15000
+pertes: 2119 | 750
+chefs: Faidherbe | Goeben, Kummer
+chiffres: Faidherbe dit avoir eu au moins 30 000 hommes et 90 canons ; sans la division Robin, à peine engagée, le récit français retient 25 000 combattants, contre 15 000 Allemands. Pertes françaises : 53 officiers et 2 066 hommes (Wikipédia de), soit 1 319 tués et blessés et 800 disparus (Wikipédia fr) ; pertes allemandes : 52 officiers et 698 hommes, ou 780 selon l'aveu cité par les Français, qui les portaient à 1 100 sur des témoignages non précisés.
+geo: 50.1044, 2.8519
+lieu: Bapaume, Pas-de-Calais, France
+lien: wp Bataille de Bapaume
+lien: de Schlacht bei Bapaume
+sources: Wikipédia (fr : Bataille de Bapaume, Siège de Péronne (1871) ; de : Schlacht bei Bapaume ; en : Battle of Bapaume (1871)) ; extraits de l'historique du grand état-major prussien et de Schell, *Les Opérations de la première armée*, cités par la page française.
+voir: faidherbe, armee-du-nord, siege-de-peronne, august-von-goeben, bataille-de-pont-noyelles, bataille-de-saint-quentin, garde-nationale
+
+@ bataille-de-saint-quentin
+cat: batailles
+nom: Bataille de Saint-Quentin
+alias: Schlacht bei Saint-Quentin, Battle of St. Quentin, Grugies, Castres, Fayet, Francilly, Tertry
+dates: 19 janvier 1871
+quand: 1871-01-19
+def: Le 19 janvier 1871, la Ire armée allemande de [[august-von-goeben|Goeben]] attaque et bat devant Saint-Quentin l'[[armee-du-nord|armée du Nord]] de [[faidherbe]], venue attirer sur elle des troupes ennemies. La retraite tourne à la débandade : l'armée du Nord ne reprendra plus l'offensive.
+texte: En janvier 1871, le gouvernement veut faire agir ensemble toutes ses forces : Paris prépare une grande sortie, [[bourbaki]] marche vers Belfort. Faidherbe doit retenir au nord le plus possible de troupes allemandes. Le 9 janvier, [[edwin-von-manteuffel|Manteuffel]], appelé à commander contre Bourbaki, a laissé la Ire armée à Goeben. Le 16, l'armée du Nord quitte les environs de Bapaume et file vers l'est pour menacer, par Saint-Quentin, les communications de l'ennemi ; la brigade Isnard entre dans la ville, d'où la cavalerie saxonne se retire. Goeben suit le mouvement le long de la Somme. Le 18, à Tertry et à Pœuilly, sa 29e brigade accroche l'arrière-garde du 22e corps et la rejette sur Saint-Quentin. Faidherbe accepte la bataille devant la ville, avec quelque 40 000 hommes contre 33 000.
+texte: Le 19, vers 8 h, Goeben attaque des deux côtés de la Somme et du canal Crozat, qui coupent le champ de bataille. Au sud, le 22e corps de Lecointe tient Grugies, Castres et Contescourt : les assauts de la brigade Gneisenau, menés à découvert, se brisent sous les feux croisés, et une contre-attaque française rejette la 16e division prussienne jusqu'à Essigny. À l'ouest, face au 23e corps de Paulze d'Ivoy, un détachement du Ier corps bouscule les Français à Holnon et à Selency, et 28 pièces s'acharnent sur la division de [[garde-nationale|mobilisés]] du général Robin ; la 15e division, arrivée vers 10 h à Étreillers, engage la division Payen, tandis que la brigade Isnard tient bon à Francilly.
+texte: La décision vient du sud. Goeben y jette sa réserve, amenée de Ham par Roupy : les Français sont chassés de Castres, puis de Grugies, malgré le renfort de la brigade Pittié ; la brigade Foerster, découverte, doit suivre. À l'ouest, 48 pièces de la 15e division se mettent en batterie de part et d'autre de la route de Savy, et vers 16 h les brigades Delagrange et Isnard refluent sur la ville sans attendre l'assaut. Faidherbe n'a plus le choix qu'entre s'enfermer dans Saint-Quentin et décrocher de nuit : il décroche. Le 23e corps tient le faubourg Saint-Martin jusqu'au soir pour couvrir le 22e, qui gagne Le Cateau ; vers 19 h, le combat cesse, et les Allemands entrent dans la ville après une courte lutte contre les arrière-gardes. La retraite vers Cambrai tourne presque à la fuite.
+texte: Les Français ont perdu environ 3 500 tués et blessés, 9 000 prisonniers, beaucoup ramassés pendant la retraite, et six canons ; les Allemands, 2 400 à 2 500 tués et blessés. Le même jour, l'armée de Paris échoue à [[bataille-de-buzenval|Buzenval]]. L'armée du Nord se reforme à l'abri de Cambrai, de Douai et de Lille, mais ne livre plus de bataille avant l'[[armistice-de-1871|armistice]] ; elle est licenciée le 7 mars 1871. Goeben reçoit pour cette victoire la grand-croix de la Croix de fer, et Coblence lui élève en 1884 un monument.
+repere: 9 janvier 1871 — Goeben succède à Manteuffel à la tête de la Ire armée.
+repere: 16 janvier 1871 — L'armée du Nord marche vers l'est ; la brigade Isnard entre à Saint-Quentin.
+repere: 18 janvier 1871 — Combat de Tertry et de Pœuilly contre l'arrière-garde du 22e corps.
+repere: 19 janvier 1871, vers 8 h — Goeben attaque au sud et à l'ouest de la ville.
+repere: 19 janvier 1871, vers 10 h — La 15e division prussienne atteint Étreillers et engage le 23e corps.
+repere: 19 janvier 1871, après-midi — La réserve de Goeben enlève Castres et Grugies ; le 22e corps recule.
+repere: 19 janvier 1871, vers 16 h — À l'ouest, les brigades Delagrange et Isnard se replient sur Saint-Quentin.
+repere: 19 janvier 1871, vers 19 h — Les Français rompent le combat ; les Allemands entrent dans la ville.
+repere: 7 mars 1871 — L'armée du Nord est licenciée.
+attention: Ne pas confondre avec la défense de Saint-Quentin du 8 octobre 1870, quand le préfet Anatole de La Forge, à la tête des gardes nationaux, des pompiers et des francs-tireurs, fit reculer une colonne allemande — ni avec la bataille de 1557. Le nombre des prisonniers du 19 janvier, faits pour beaucoup pendant la retraite, varie de 9 000 à 10 000 selon les sources.
+issue: victoire allemande
+effectifs: 40000 | 33000
+pertes: 12500 | 2600
+chefs: Faidherbe | Goeben
+chiffres: Effectifs : 40 000 Français et 33 000 Allemands (Wikipédia de et en), chiffres eux-mêmes discutés. Pertes françaises : environ 3 500 tués et blessés et 9 000 prisonniers (Wikipédia en) ; le dictionnaire Meyer de 1888 donne 3 100 tués et blessés de chaque côté et 10 000 prisonniers. Pertes allemandes : 2 400 à 2 500 tués et blessés et une centaine de prisonniers.
+geo: 49.8486, 3.2864
+lieu: Saint-Quentin, Aisne, France
+lien: wp Bataille de Saint-Quentin (1871)
+lien: de Schlacht bei Saint-Quentin (1871)
+sources: Wikipédia (fr : Bataille de Saint-Quentin (1871), Armée du Nord (1870-1871), Anatole de La Forge ; de : Schlacht bei Saint-Quentin (1871), August Karl von Goeben ; en : Battle of St. Quentin (1871), avec sa boîte d'information, et Louis Faidherbe).
+voir: faidherbe, august-von-goeben, armee-du-nord, bataille-de-bapaume, bataille-de-buzenval, edwin-von-manteuffel, armistice-de-1871, guerre-a-outrance
+
+@ bataille-de-nompatelize
+cat: batailles
+nom: Bataille de Nompatelize
+alias: bataille de La Bourgonce, combat de La Bourgonce, Étival, Saint-Remy, Degenfeld, Dupré, Cambriels
+dates: 6 octobre 1870
+quand: 1870-10-06
+def: Le 6 octobre 1870, entre la Meurthe et les cols des Vosges, une brigade badoise du XIVe corps bat les troupes improvisées du général Dupré, avant-garde de la première armée de l'Est de Cambriels. La défaite ouvre aux Allemands le département des Vosges et la route du sud.
+texte: Au milieu de septembre 1870, l'ennemi n'a pas encore paru dans la montagne vosgienne. Mobiles, francs-tireurs, soldats évadés y affluent, que le général Cambriels doit fondre en une armée. On rêve de coups de main sur les arrières allemands : faire sauter le tunnel de Lutzelbourg, par où passe intacte la ligne de Strasbourg à Paris. La chute de [[siege-de-strasbourg|Strasbourg]], le 28 septembre, change la donne : les Badois de [[august-von-werder|Werder]], réunis dans le nouveau XIVe corps, passent les Vosges pour en finir avec les [[francs-tireurs]] et couvrir les communications allemandes. Le 27, une de leurs brigades a déjà canonné Raon-l'Étape.
+texte: Dans la nuit du 3 au 4 octobre, le commandant Perrin évacue Raon et gagne le plateau de La Bourgonce, sur la rive gauche de la Meurthe. Le général Dupré y amène une brigade de hasard : le 32e régiment de marche, les [[garde-mobile|mobiles]] des Deux-Sèvres, des Vosges et de la Meurthe, quatre compagnies de francs-tireurs, six pièces de 4. Ces hommes ont passé quarante-huit heures en train et marché une cinquantaine de kilomètres de nuit ; selon le rapport d'un de leurs chefs, ils n'ont pas mangé depuis trente-six heures. Le 6 au matin, ils se déploient sur six kilomètres, de Saint-Remy aux Feignes, par Nompatelize. Le général von Degenfeld, qui marchait sur Saint-Dié avec l'avant-garde du XIVe corps — six bataillons, deux escadrons et demi, douze canons —, doit faire front sur sa gauche.
+texte: Vers 9 h 30, les Badois attaquent Nompatelize et les Feignes. Les Français tiennent, contre-attaquent même. Degenfeld fait passer la Meurthe à des renforts et à quatre pièces lourdes ; vers midi, Nompatelize en flammes est abandonné. Du côté d'Étival, Saint-Remy tombe malgré les francs-tireurs de Lamarche et de Neuilly, dont une section est commandée par une femme, le lieutenant Marie-Antoinette Lix. Dupré mène sa réserve sur le village ; le lieutenant-colonel Hocédé est tué, les mobiles des Deux-Sèvres se débandent. Vers 15 h, des grenadiers badois débordent la gauche française ; Dupré a le cou traversé d'une balle ; les cartouches manquent, on se bat à la baïonnette dans les bois. Vers 17 h, la retraite tourne à la déroute, par le col de Mon Repos, vers Bruyères. Épuisés, les Badois ne poursuivent pas ; ils brûlent de nombreuses maisons.
+texte: Les Français ont perdu 300 tués, 500 blessés et 588 prisonniers ; les Badois, 436 hommes selon leurs chiffres officiels. Les historiens militaires ont reproché à Dupré de n'avoir pas concentré ses forces contre la colonne passée sur la rive gauche, à Perrin de n'avoir pas détruit les ponts de la Meurthe, et d'autres le choix même d'une bataille rangée avec des troupes improvisées. Cambriels fait évacuer le département ; ses troupes refluent vers Remiremont, Lure et Besançon, et Rambervillers le 9 octobre, Épinal le 12, n'opposent qu'une courte résistance. La route de la Haute-Saône et de la [[batailles-de-dijon|Bourgogne]] est ouverte.
+repere: 27 septembre 1870 — Une brigade badoise canonne Raon-l'Étape, défendue par des mobiles, des francs-tireurs et des habitants, puis se retire le soir.
+repere: 28 septembre 1870 — Strasbourg capitule ; les troupes badoises deviennent disponibles.
+repere: nuit du 3 au 4 octobre 1870 — Le commandant Perrin évacue Raon-l'Étape et rejoint la brigade Dupré sur le plateau de La Bourgonce.
+repere: 6 octobre 1870, 6 h 30 — Les Français se déploient sur six kilomètres, de Saint-Remy aux Feignes.
+repere: 6 octobre 1870, 9 h 30 — Les Badois de Degenfeld attaquent Nompatelize et les Feignes.
+repere: 6 octobre 1870, vers 12 h — Accablés par l'artillerie, les Français abandonnent Nompatelize en flammes.
+repere: 6 octobre 1870, 15 h — Les grenadiers badois débordent la gauche française ; Dupré est blessé.
+repere: 6 octobre 1870, 17 h — La retraite tourne à la déroute par le col de Mon Repos.
+repere: 12 octobre 1870 — Épinal est occupée ; Cambriels a fait évacuer le département des Vosges.
+attention: Les troupes de Cambriels ne sont ni l'[[armee-des-vosges|armée des Vosges]] de Garibaldi, formée plus tard en Bourgogne, ni l'[[armee-de-l-est|armée de l'Est]] de Bourbaki, de l'hiver suivant. Le chiffre de 2 000 Allemands hors de combat, avancé par des récits français, ne repose sur aucune source vérifiable ; les chiffres officiels badois sont de 436.
+issue: victoire allemande
+effectifs: 8000 | 7000
+canons: 6 | 12
+pertes: 1388 | 436
+chefs: Dupré, Perrin | Degenfeld
+chiffres: L'ordre de bataille de Wikipédia (fr) totalise 9 400 Français, dont tous ne combattirent pas ; d'autres récits disent 6 000 à 8 000 mobiles et francs-tireurs. Côté allemand, six bataillons badois, de la cavalerie et douze canons, quelque 7 000 hommes selon un récit cité par Ph. Alexandre. Pertes françaises : 300 tués, 500 blessés, 588 prisonniers dont 6 officiers ; pertes allemandes : 436 tués, blessés et disparus.
+geo: 48.3254, 6.8534
+lieu: Nompatelize, Vosges, France
+lien: wp Bataille de Nompatelize
+lien: url https://books.openedition.org/pur/301697 = Ph. Alexandre, « Les Vosges au début de la première campagne de l'Est en 1870 », Presses universitaires de Rennes
+sources: Wikipédia (fr : Bataille de Nompatelize, Marie-Antoinette Lix ; en : Battle of Nompatelize) ; Philippe Alexandre, « Les Vosges au début de la première campagne de l'Est en 1870 (6 septembre-15 octobre) », dans S. Tison, J.-N. Grandhomme et L. Jalabert (dir.), *La Guerre de siège en 1870-1871*, PUR, 2025
+voir: august-von-werder, francs-tireurs, garde-mobile, armee-de-l-est, armee-des-vosges, batailles-de-dijon, siege-de-strasbourg, france-occupee
+
+@ batailles-de-dijon
+cat: batailles
+nom: Les batailles de Dijon
+alias: bataille de Dijon, combat de Dijon, 30 octobre 1870, Fauconnet, Lantenay, Pouilly, usine Bargy, drapeau du 61e poméranien, Kettler, Victor Curtat
+dates: 30 octobre 1870 – 23 janvier 1871
+quand: 1870-10-30
+jusqu: 1871-01-23
+def: Dijon est prise par les Badois le 30 octobre 1870, au terme d'une journée de combats ; [[garibaldi]] échoue à la reprendre le 26 novembre, puis, installé dans la ville évacuée, la défend du 21 au 23 janvier 1871 contre une brigade prussienne, à qui ses volontaires prennent un drapeau.
+texte: Après le combat de l'Ognon, le 22 octobre, le XIVe corps de [[august-von-werder|Werder]] marche sur Gray, puis sur Dijon. Le colonel Fauconnet, qui commande les mobiles et les gardes nationaux, juge la ville indéfendable et se replie sur Beaune ; le 29, le préfet et le maire, pressés par la population, le rappellent. Le 30 octobre, deux brigades badoises attaquent par l'est. On se bat tout le jour sur les hauteurs de Montmusard et dans les faubourgs ; Fauconnet, frappé devant la barrière d'octroi de la route de Gray, meurt quelques heures plus tard, en apprenant sa nomination de général. Vers 17 h, la municipalité fait hisser le drapeau blanc sur la tour du Palais, sous les coups de feu de partisans de la résistance. Après une nuit de négociations, les Badois entrent le 31. Cent soixante défenseurs sont morts ; la ville recevra pour cette journée la Légion d'honneur en 1899.
+texte: Garibaldi, débarqué à Marseille le 7 octobre, a reçu le commandement des corps francs de l'Est ; son [[armee-des-vosges|armée des Vosges]] — volontaires italiens, polonais, espagnols, gardes nationaux, [[francs-tireurs]] — s'installe à Autun en novembre. Le 26, après avoir bousculé à Lantenay une colonne badoise, il attaque Dijon de nuit avec quelque 5 000 hommes, et échoue ; les Badois le suivent jusqu'à Autun, qu'ils attaquent le 1er décembre sans la prendre. Le 18 décembre, la division Crémer est battue au sud de la ville, à [[bataille-de-nuits|Nuits]]. Mais l'approche de l'armée de [[bourbaki]] décide Werder à évacuer Dijon le 27 décembre ; Garibaldi s'y installe au début de janvier.
+texte: Pendant qu'il marche vers le Doubs contre Bourbaki, [[edwin-von-manteuffel|Manteuffel]] lance sur Dijon, pour couvrir son flanc, la brigade Kettler : cinq bataillons et demi des 21e et 61e régiments poméraniens et deux batteries, quelque 4 000 hommes, avec l'ordre d'enlever une ville qu'il croit faiblement tenue. Le 21 janvier, Kettler attaque ; repoussé, il perd ce jour-là 341 hommes, les Français 437. Pendant ces combats, le général polonais Józef Hauke-Bosak, chef d'une brigade garibaldienne, est tué. Le 23, l'attaque reprend contre Pouilly, aux portes de la ville, où la brigade de Ricciotti Garibaldi tient l'usine Bargy. Les Poméraniens reculent en laissant sur le terrain le drapeau du IIe bataillon du 61e régiment, relevé, dira Bordone, le chef d'état-major de Garibaldi, sous un amas de cadavres. La tradition dijonnaise en attribue la prise à un volontaire savoyard des chasseurs du Mont-Blanc, Victor Curtat.
+texte: L'[[armistice-de-1871|armistice]] du 28 janvier excepte la Côte-d'Or, le Doubs et le Jura : une division allemande marche sur Dijon, que Bordone fait évacuer dans la nuit du 31 janvier au 1er février ; Kettler y entre sans combat. Le 8 mars, à Bordeaux, [[victor-hugo-en-1870|Victor Hugo]] salue en Garibaldi, devant une Assemblée hostile, « le seul qui n'ait pas été vaincu » des généraux de la France, puis démissionne.
+repere: 30 octobre 1870 — Deux brigades badoises attaquent Dijon ; le colonel Fauconnet est mortellement blessé.
+repere: 30 octobre 1870, vers 17 h — Le drapeau blanc est hissé sur la tour du Palais.
+repere: 31 octobre 1870 — Les Badois entrent dans Dijon.
+repere: 26 novembre 1870 — Garibaldi bouscule une colonne badoise à Lantenay, puis échoue dans une attaque de nuit sur Dijon.
+repere: 1er décembre 1870 — Les Badois attaquent Autun, qui leur résiste.
+repere: 27 décembre 1870 — Werder évacue Dijon devant la menace de l'armée de l'Est.
+repere: 21 janvier 1871 — La brigade Kettler attaque Dijon et est repoussée.
+repere: 23 janvier 1871 — Nouvel échec allemand devant Pouilly ; le drapeau du IIe bataillon du 61e régiment reste aux mains des garibaldiens.
+repere: 1er février 1871 — Exclue de l'armistice, Dijon a été évacuée dans la nuit par l'armée des Vosges ; Kettler y entre.
+repere: 8 mars 1871 — À Bordeaux, Victor Hugo défend Garibaldi devant l'Assemblée, puis démissionne.
+attention: Le drapeau du 61e n'est pas « le seul drapeau pris aux Allemands pendant la guerre », comme on l'a souvent répété : celui du IIe bataillon du 16e régiment westphalien avait été pris à Mars-la-Tour le 16 août 1870 et resta aux Invalides jusqu'à l'occupation de 1940. La numérotation des « batailles de Dijon » varie aussi : Wikipédia compte pour la deuxième celle de Nuits, d'autres l'attaque du 26 novembre.
+issue: Dijon prise en octobre, tenue par Garibaldi en janvier
+effectifs: 20000 | 4000
+pertes: ? | 700
+chefs: Fauconnet, puis Garibaldi | Werder, puis Kettler
+chiffres: Effectifs et pertes de la troisième bataille (21-23 janvier 1871). Garibaldi commande 15 000 à 20 000 hommes selon l'un de ses critiques, sans les mobilisés du général Pélissier (la page anglaise de Wikipédia avance 50 000 au total) ; la brigade Kettler compte cinq bataillons et demi et deux batteries, environ 4 000 hommes. Le 21 janvier, les Allemands perdent 19 officiers et 322 hommes, les Français 7 officiers et 430 hommes ; pour les trois jours, environ 700 tués et blessés allemands. Le 30 octobre, 160 défenseurs de Dijon avaient été tués.
+geo: 47.3217, 5.0414
+lieu: Dijon, Côte-d'Or, France
+lien: wp Batailles de Dijon (1870-1871)
+lien: en Battle of Dijon (1870)
+lien: url https://pop.culture.gouv.fr/notice/joconde/M0144005131 = « La prise du drapeau allemand du 8e régiment poméranien (n° 61) », estampe d'après Édouard Paupion, musée de Nuits-Saint-Georges
+sources: Wikipédia (fr : Batailles de Dijon (1870-1871), Armée des Vosges (1870), Giuseppe Garibaldi ; de : Philippe Toussaint Joseph Bordone, XIV. Armee-Korps (Deutsches Kaiserreich), Gefecht bei Nuits, régiments d'infanterie prussiens n° 16 et n° 21, Fahnen der Linien-Infanterie-Regimenter der Preußischen Armee ; en : Battle of Dijon (1870), Army of the Vosges) ; base Joconde (POP), notice de l'estampe d'après Paupion.
+voir: garibaldi, armee-des-vosges, august-von-werder, bataille-de-nuits, edwin-von-manteuffel, retraite-de-l-armee-de-l-est, victor-hugo-en-1870, bataille-de-mars-la-tour
+
+@ bataille-de-nuits
+cat: batailles
+nom: Bataille de Nuits
+alias: bataille de Nuits-Saint-Georges, Gefecht bei Nuits, Crémer, Glümer, Boncourt, Agencourt, Chaux
+dates: 18 décembre 1870
+quand: 1870-12-18
+def: Le 18 décembre 1870, à Nuits — Nuits-Saint-Georges depuis 1892 —, au sud de Dijon, la division badoise du général von Glümer attaque et bat la division du général Crémer, retranchée derrière la voie ferrée. Victoire coûteuse : les deux principaux chefs allemands sont blessés.
+texte: À la mi-décembre, le dégel ranime les opérations au sud de Dijon, que tiennent les Badois de [[august-von-werder|Werder]]. Le 14, le général Crémer occupe Nuits avec une division de deux brigades, 12 800 hommes et vingt canons. À trente ans, ce Mosellan de Sarreguemines, pris à Metz, s'est évadé d'Allemagne grâce à son allemand parfait, et [[gambetta]] l'a fait général. Werder laisse une brigade à Dijon et envoie contre lui les deux autres, sous Glümer : douze bataillons, sept escadrons et trente-six pièces, environ 10 500 hommes.
+texte: Le 18, vers midi, l'avant-garde badoise enlève Boncourt et Agencourt, dans la plaine. Les Français tiennent une ligne solide le long de la voie ferrée et du Meuzin, appuyée par des batteries sur la hauteur de Chaux. Vers 14 h, Glümer lance l'attaque générale ; devant le remblai et la tranchée du chemin de fer, le [[fusil-chassepot|chassepot]] fauche les grenadiers du corps. Glümer et le prince Guillaume de Bade sont grièvement blessés, le colonel von Renz est tué. La décision vient de l'aile gauche allemande : deux bataillons de la brigade Degenfeld prennent Vosne et Concœur et tournent la position française. Vers 17 h, Nuits est aux Badois, qui ont perdu 940 tués et blessés ; les Français, 1 700 hommes, dont 650 prisonniers.
+texte: Crémer se retire dans la nuit, sans être poursuivi. Werder, qui doit envoyer sept bataillons au [[siege-de-belfort|siège de Belfort]], rentre à Dijon, qu'il évacue le 27 décembre devant la concentration de l'[[armee-de-l-est|armée de l'Est]]. Quatre-vingts Badois reposent au vieux cimetière de Nuits.
+repere: 14 décembre 1870 — La division Crémer occupe Nuits.
+repere: 18 décembre 1870, vers midi — L'avant-garde badoise enlève Boncourt et Agencourt.
+repere: 18 décembre 1870, vers 14 h — Glümer ordonne l'attaque générale contre la voie ferrée.
+repere: 18 décembre 1870, après-midi — Glümer et le prince Guillaume de Bade sont blessés ; la brigade Degenfeld prend Vosne et Concœur.
+repere: 18 décembre 1870, vers 17 h — Nuits tombe aux mains des Badois.
+repere: 19 décembre 1870, matin — Les Badois constatent le départ des Français, qu'ils ne poursuivent pas.
+repere: 27 décembre 1870 — Werder évacue Dijon.
+attention: Nuits n'est pas une bataille « indécise », comme l'écrivent certaines chronologies : c'est une victoire badoise, payée cher. Des récits locaux ajoutent qu'une contre-attaque française aurait chassé les Badois dès le lendemain ; selon les sources allemandes, Crémer s'était retiré pendant la nuit, et Werder, trop faible pour le poursuivre, rentra de lui-même à Dijon.
+issue: victoire allemande
+effectifs: 12800 | 10500
+canons: 20 | 36
+pertes: 1700 | 940
+chefs: Crémer | Glümer, prince Guillaume de Bade
+chiffres: D'après Wikipédia (de), sur les sources allemandes : 10 500 Badois et 36 pièces contre une division de 12 800 hommes et 20 pièces ; 940 tués et blessés badois, 1 700 Français hors de combat, dont 650 prisonniers non blessés. La page française parle de 1 200 prisonniers français et de 97 officiers allemands tués ou blessés.
+geo: 47.1383, 4.9511
+lieu: Nuits-Saint-Georges, Côte-d'Or, France
+lien: de Gefecht bei Nuits
+lien: wp Batailles de Dijon (1870-1871)
+sources: Wikipédia (de : Gefecht bei Nuits ; fr : Batailles de Dijon (1870-1871), Nuits-Saint-Georges, Camille Crémer).
+voir: batailles-de-dijon, august-von-werder, armee-de-l-est, garibaldi, siege-de-belfort, bataille-de-villersexel, fusil-chassepot
+
+@ bataille-de-villersexel
+cat: batailles
+nom: Bataille de Villersexel
+alias: combat de Villersexel, Gefecht bei Villersexel, château des Grammont, Ognon
+dates: 9 janvier 1871
+quand: 1871-01-09
+jusqu: 1871-01-10
+def: Le 9 janvier 1871, à Villersexel, sur l'Ognon, l'[[armee-de-l-est|armée de l'Est]] de [[bourbaki]] reprend au terme d'un combat de rue et de nuit la petite ville que les Allemands lui avaient enlevée à la mi-journée. Succès réel, mais sans suite : Werder gagne avant elle la ligne de la Lizaine.
+texte: Le plan de [[charles-de-freycinet|Freycinet]], arrêté le 19 décembre 1870, est ambitieux : porter dans l'Est une armée formée à Bourges avec des corps de l'[[armee-de-la-loire|armée de la Loire]], débloquer Belfort et couper les communications allemandes. Dès le lendemain, *Le Moniteur universel* en publie les objectifs. Les 15e, 18e et 20e corps, rejoints par le 24e et par la division Crémer, quelque 140 000 hommes et 300 canons, partent en chemin de fer vers Chalon, Besançon et Clerval ; le transport est si mal réglé que des convois attendent jusqu'à dix jours dans le froid. [[august-von-werder|Werder]] évacue Dijon le 27 décembre et se concentre autour de Vesoul ; le 5 janvier, un combat devant la ville lui apprend qu'une nouvelle armée arrive.
+texte: L'armée de l'Est remonte vers Belfort. Le 8 janvier au soir, un détachement français s'installe à Villersexel. Werder, qui file vers l'est pour s'interposer, lance contre le flanc gauche de cette marche la brigade Goltz et la 4e division de réserve. Le 9 au matin, les Prussiens tournent les défenseurs du pont de l'Ognon par une passerelle mal gardée ; vers 13 h, la ville et le château des Grammont sont à eux. Autour, à Esprels, à Autrey-le-Vay, à Villers-la-Ville, les lignes françaises tiennent ; les deux brigades badoises que Werder appelle à midi arrivent trop tard pour peser. Dans l'après-midi, Bourbaki mène lui-même la contre-attaque. Le château, en flammes, est repris vers 17 h après un corps à corps confus, et l'on se bat dans les rues jusqu'à 3 h du matin, quand les derniers Allemands se retirent.
+texte: Les Français ont perdu 654 tués et blessés et 700 prisonniers, les Allemands 438 tués et blessés et 140 prisonniers. Le château et le bas du bourg, vers l'Ognon, ont brûlé. Bourbaki tient le champ de bataille, mais il lui faut trois jours pour rassembler et ravitailler ses corps : il ne repart que le 13. Werder a obtenu ce qu'il cherchait, décrocher et gagner avant lui la Lizaine, à l'ouest de Belfort, où sa ligne est occupée dès le soir du 11. Villersexel a élevé un monument en 1874 ; Paris a donné son nom à une rue en 1883.
+repere: 19 décembre 1870 — Le plan de Freycinet portant l'armée de Bourbaki dans l'Est est arrêté.
+repere: 27 décembre 1870 — Werder évacue Dijon et se concentre autour de Vesoul.
+repere: 5 janvier 1871 — Un combat devant Vesoul révèle aux Allemands l'approche d'une nouvelle armée.
+repere: 8 janvier 1871, soir — Un détachement français occupe Villersexel.
+repere: 9 janvier 1871, matin — Les Prussiens tournent le pont de l'Ognon par une passerelle mal gardée.
+repere: 9 janvier 1871, vers 13 h — La ville et le château des Grammont sont aux mains des Allemands.
+repere: 9 janvier 1871, vers 17 h — Menée par Bourbaki, la contre-attaque française reprend le château.
+repere: 10 janvier 1871, vers 3 h — Les derniers Allemands évacuent Villersexel.
+repere: 11 janvier 1871, soir — Les troupes de Werder occupent leur ligne de défense sur la Lizaine.
+repere: 13 janvier 1871 — L'armée de l'Est reprend sa marche vers Belfort.
+attention: Villersexel est bien une victoire de Bourbaki sur le terrain. Mais Werder ne cherchait pas à tenir la ville : il voulait retarder l'armée de l'Est pour occuper avant elle la position de la Lizaine, et il y parvint. Quant au 8 janvier, parfois donné comme date de la bataille, c'est celui de l'arrivée des premières troupes françaises.
+issue: victoire française sans lendemain
+effectifs: 20000 | 15000
+pertes: 1354 | 578
+chefs: Bourbaki | Werder
+chiffres: D'après la boîte d'information de la page anglaise de Wikipédia : 20 000 Français engagés contre 15 000 Allemands ; pertes françaises, 654 tués et blessés et 700 prisonniers ; pertes allemandes, 438 tués et blessés et 140 prisonniers. L'armée de l'Est comptait en tout quelque 140 000 hommes et 300 canons, dont une faible partie combattit ce jour-là.
+geo: 47.5514, 6.4339
+lieu: Villersexel, Haute-Saône, France
+lien: wp Bataille de Villersexel
+lien: de Gefecht bei Villersexel
+sources: Wikipédia (fr : Bataille de Villersexel, Armée de l'Est ; de : Gefecht bei Villersexel, Schlacht an der Lisaine, XIV. Armee-Korps (Deutsches Kaiserreich) ; en : Battle of Villersexel, avec sa boîte d'information).
+voir: bourbaki, armee-de-l-est, august-von-werder, bataille-d-hericourt, siege-de-belfort, charles-de-freycinet, retraite-de-l-armee-de-l-est, bataille-de-nuits
+
+@ bataille-d-hericourt
+cat: batailles
+nom: Bataille d'Héricourt
+alias: bataille de la Lizaine, Lisaine, Schlacht an der Lisaine, Chenebier, Montbéliard, Bethoncourt, Bussurel, Frahier
+dates: 15 – 17 janvier 1871
+quand: 1871-01-15
+jusqu: 1871-01-17
+def: Du 15 au 17 janvier 1871, sur la Lizaine, entre Montbéliard et Frahier, l'[[armee-de-l-est|armée de l'Est]] de [[bourbaki]] se brise contre la ligne retranchée du XIVe corps de [[august-von-werder|Werder]], à une douzaine de kilomètres de Belfort assiégée. Cet échec décide de la perte de l'armée.
+texte: Villersexel a donné à Werder deux jours d'avance. Il retranche son corps d'armée, renforcé d'une division de réserve, de la brigade Goltz et de Landwehr prélevée sur le siège de [[siege-de-belfort|Belfort]], environ 43 000 hommes, derrière la Lizaine, une rivière large de six à huit mètres qui descend vers Montbéliard. La ligne, longue de 21 kilomètres, va de Frahier et Chenebier, au nord, à Héricourt et Montbéliard, puis jusqu'à Delle le long de l'Allaine. Le remblai de la voie ferrée de Montbéliard à Héricourt sert de parapet, les ponts sont détruits ou minés, et dix-sept pièces de siège amenées de Belfort renforcent l'artillerie postée sur les hauteurs. Les Allemands logent dans les villages. Les Français arrivent par des chemins enneigés et bivouaquent dans les bois, par des nuits de − 17 à − 20 °C ; on manque jusqu'aux fers à glace pour les chevaux.
+texte: Le 15 janvier, par − 14 °C au matin, Bourbaki attaque sur près de vingt kilomètres. Au sud, le 15e corps refoule la Landwehr est-prussienne et entre vers 16 h dans Montbéliard, dont les Allemands gardent le château. Au centre, de 15 h à 17 h, les assauts se succèdent contre Bethoncourt, Bussurel et Héricourt ; trois attaques d'une division du 24e corps échouent devant Bussurel. À Bethoncourt, des bataillons de mobiles savoyards et de zouaves sont décimés. Nulle part les Français ne passent la Lizaine.
+texte: Le 16, Bourbaki tente de tourner la droite allemande par le nord, pour atteindre la route qui mène de Frahier à Belfort. Après dix heures de combat, la division Crémer enlève Chenebier et refoule les bataillons badois de Degenfeld jusqu'aux abords de Châlonvillars. Mais le mouvement, trop court, n'est pas exploité, et Châlonvillars tient. L'étendue de la ligne ennemie trompe Bourbaki, qui surestime les forces de Werder. Le 17, vers 4 h du matin, la brigade badoise Keller contre-attaque par surprise, reprend le bas de Chenebier et fait 400 prisonniers. Les derniers assauts français, ce jour-là, trahissent l'épuisement de troupes transies et mal nourries.
+texte: Le soir du 17, Bourbaki, qui sait qu'une nouvelle armée allemande, celle de [[edwin-von-manteuffel|Manteuffel]], descend sur ses arrières, ordonne la retraite ; une arrière-garde tient les positions jusqu'au soir du 18. Belfort, qui résistera jusqu'en février, ne sera pas délivrée. Les Français ont perdu quelque 4 000 tués et blessés et 500 prisonniers, les Allemands 1 800 tués et blessés. Werder a tenu trois jours à un contre deux ou trois, sur 21 kilomètres ; ses adversaires ont attaqué de front, sans exploiter leur seul succès, à Chenebier. Au cimetière d'Héricourt, deux monuments rappellent la bataille ; à Chenebier, l'État a élevé un monument aux morts français et allemands. Pour l'armée de l'Est commence la [[retraite-de-l-armee-de-l-est|retraite vers la Suisse]].
+repere: 11 janvier 1871, soir — Les troupes de Werder occupent leur ligne, de Frahier à Montbéliard et à Delle.
+repere: 14 janvier 1871 — Les premières troupes françaises arrivent vers Arcey ; dans la nuit, le thermomètre descend à − 17 °C.
+repere: 15 janvier 1871, vers 13 h — Le 15e corps attaque entre l'Allaine et la Lizaine.
+repere: 15 janvier 1871, 15 h — Les assauts commencent contre Bethoncourt, Bussurel et Héricourt ; aucun ne passe la Lizaine.
+repere: 15 janvier 1871, vers 16 h — Les Allemands évacuent Montbéliard, mais gardent le château.
+repere: 16 janvier 1871 — La division Crémer enlève Chenebier après dix heures de combat ; Châlonvillars tient.
+repere: 17 janvier 1871, vers 4 h — La brigade badoise Keller contre-attaque à Chenebier et fait 400 prisonniers.
+repere: 17 janvier 1871, soir — Bourbaki ordonne la retraite.
+repere: 18 janvier 1871, soir — L'arrière-garde française quitte ses positions.
+repere: 19 janvier 1871 — Werder commence la poursuite.
+attention: Bourbaki a-t-il manqué de mordant ? Engels le lui reproche dès le 21 janvier dans la *Pall Mall Gazette*, et Freycinet, le 25 janvier, lui en imputera seul la responsabilité. Le froid, le relief, le désordre des transports, l'inexpérience de troupes levées à la hâte et la position choisie par Werder pèsent au moins autant que la prudence du général.
+issue: victoire allemande
+effectifs: 110000 | 43000
+canons: 300 | 146
+pertes: 4500 | 1800
+chefs: Bourbaki | Werder
+chiffres: Effectifs : 110 000 Français engagés selon la page anglaise de Wikipédia, sur les quelque 140 000 hommes et 300 canons de l'armée de l'Est ; 43 000 Allemands selon la page allemande, 40 000 à 45 000 avec 146 pièces selon l'anglaise, 52 000 selon des sources françaises. Pertes, d'après la page anglaise : environ 4 000 tués et blessés et 500 prisonniers français, 1 800 tués et blessés allemands.
+geo: 47.5783, 6.7622
+lieu: Héricourt, Haute-Saône, France
+lien: wp Bataille d'Héricourt (1871)
+lien: de Schlacht an der Lisaine
+sources: Wikipédia (fr : Bataille d'Héricourt (1871), Armée de l'Est ; de : Schlacht an der Lisaine, XIV. Armee-Korps (Deutsches Kaiserreich) ; en : Battle of the Lisaine, avec sa boîte d'information).
+voir: bourbaki, august-von-werder, armee-de-l-est, siege-de-belfort, bataille-de-villersexel, retraite-de-l-armee-de-l-est, edwin-von-manteuffel, denfert-rochereau
+
+@ retraite-de-l-armee-de-l-est
+cat: batailles
+nom: La retraite de l'armée de l'Est
+alias: retraite de Bourbaki, les Bourbakis, internement en Suisse, convention des Verrières, Les Verrières, Pontarlier, La Cluse, panorama Bourbaki, Clinchant, Herzog
+dates: 18 janvier – 3 février 1871
+quand: 1871-01-18
+jusqu: 1871-02-03
+def: Après l'échec de la Lizaine, l'[[armee-de-l-est|armée de l'Est]], coupée de Lyon par l'armée allemande du Sud et exclue de l'armistice, recule dans la neige jusqu'à Pontarlier. Le 1er février 1871, la convention des Verrières ouvre la Suisse à plus de 87 000 soldats, désarmés et internés.
+texte: Le 18 janvier, l'armée quitte la Lizaine pour Besançon, où [[bourbaki]] compte se refaire avant de gagner Lyon. Mais pendant qu'il attaquait Werder, une nouvelle armée allemande, l'armée du Sud de [[edwin-von-manteuffel|Manteuffel]] — les IIe et VIIe corps, 60 000 hommes et 168 canons —, a traversé la Côte-d'Or, laissant à une seule brigade le soin de retenir [[garibaldi]] à [[batailles-de-dijon|Dijon]]. Elle descend vers le Doubs et le Jura et menace la voie ferrée de Besançon à Lyon. Le 23, l'arrière-garde se bat à Clerval et à Blamont, le 26 à Vorges et à Busy, aux portes de Besançon. Ce soir-là, Bourbaki, que [[charles-de-freycinet|Freycinet]] vient de rendre seul responsable de l'échec, se tire une balle dans la tête ; elle ricoche, il survit. [[clinchant]] prend le commandement d'une armée qui n'a plus d'autre issue que les plateaux du Haut-Doubs, vers Pontarlier.
+texte: On marche dans la neige, par des nuits où le thermomètre descend à − 20 °C. Les hommes sont affamés, épuisés, mal vêtus ; les chevaux n'ont pas de fers à glace. Beaucoup de soldats désertent pour tenter leur chance seuls. Le 28 janvier, l'[[armistice-de-1871|armistice]] est signé à Versailles. Il excepte le Doubs, le Jura et la Côte-d'Or, où les opérations continuent, mais le télégramme de [[jules-favre]] à la Délégation de Bordeaux n'en dit rien. Le 29 vers 17 h, Clinchant apprend la nouvelle, se croit couvert et pense avoir du temps ; les Allemands, renseignés depuis Versailles, poursuivent leur marche et ferment les dernières routes du sud, par Foncine-le-Bas et Saint-Laurent-en-Grandvaux. Pris entre deux armées et la frontière, Clinchant traite avec le général suisse Hans Herzog.
+texte: La convention des Verrières est signée le 1er février 1871, vers 3 h du matin. En dix articles, elle règle l'entrée de l'armée : les hommes déposent armes, équipements et munitions à la frontière, rendus à la France après la paix et le remboursement des frais ; les officiers gardent leurs chevaux, leurs armes et leurs effets ; les voitures de vivres retournent en France. Pendant que l'arrière-garde, soutenue par le fort de Joux, arrête les Prussiens au défilé de La Cluse, l'armée passe la frontière du 1er au 3 février, aux Verrières surtout, mais aussi à Sainte-Croix, à Vallorbe et dans la vallée de Joux : 87 847 hommes, dont 2 467 officiers, 11 800 chevaux, 285 canons et mortiers, 1 158 voitures. Quelques milliers d'hommes, avec Crémer et Pallu de la Barrière, ont pu s'échapper à travers le Jura vers Gex et Lyon.
+texte: La Suisse répartit les internés entre 190 localités de tous les cantons, sauf le Tessin, au-delà du Gothard enneigé. Habitants, autorités et sociétés de secours, dont le jeune Comité international qui deviendra la Croix-Rouge, les nourrissent, les soignent, les rhabillent ; environ 1 700 meurent pendant leur séjour. Les autres rentrent en France entre le 13 et le 22 mars, et la France rembourse 12 millions de francs. Le peintre suisse Édouard Castres, qui avait suivi la retraite comme volontaire de la Croix-Rouge, en a tiré en 1881, avec une douzaine de jeunes peintres dont Ferdinand Hodler, un panorama circulaire de plus de 110 mètres, montré d'abord à Genève, puis, depuis 1889, à Lucerne, où on le visite toujours.
+repere: 18 janvier 1871 — L'armée de l'Est quitte la Lizaine et recule vers Besançon.
+repere: 23 janvier 1871 — Combats d'arrière-garde à Clerval et à Blamont.
+repere: 26 janvier 1871, vers 19 h 30 — Bourbaki tente de se suicider ; Clinchant prend le commandement.
+repere: 28 janvier 1871 — L'armistice signé à Versailles excepte le Doubs, le Jura et la Côte-d'Or.
+repere: 29 janvier 1871, vers 17 h — Clinchant apprend l'armistice et se croit couvert.
+repere: 1er février 1871, vers 3 h — Clinchant et le général Herzog signent la convention des Verrières.
+repere: 1er février 1871 — Au défilé de La Cluse, sous le fort de Joux, l'arrière-garde arrête les Prussiens.
+repere: 1er – 3 février 1871 — 87 847 hommes et 11 800 chevaux passent en Suisse.
+repere: 13 – 22 mars 1871 — Les internés rentrent en France.
+repere: 1889 — Le panorama peint par Castres s'installe à Lucerne.
+attention: L'armée de l'Est n'a pas été « oubliée » par les Allemands : la convention d'armistice exceptait expressément les trois départements où elle se trouvait, ce qui laissait la poursuite permise. L'oubli est celui de Jules Favre, dont le télégramme tut l'exception. Le panorama de Lucerne, peint par un témoin, embellit aussi : la poignée de main entre les généraux français et suisse qu'il représente n'a jamais eu lieu.
+issue: armée internée en Suisse
+effectifs: 87847 | 60000
+canons: 285 | 168
+chefs: Bourbaki, puis Clinchant | Manteuffel, Werder
+chiffres: Côté français, les 87 847 hommes internés (dont 2 467 officiers) et les 285 canons et mortiers passés en Suisse, ce qui restait d'une armée partie avec quelque 140 000 hommes ; les pages allemandes arrondissent à 87 000 hommes et 12 000 chevaux. Côté allemand, l'armée du Sud de Manteuffel (60 000 hommes, 168 canons), sans le XIVe corps de Werder qui suivait la retraite.
+geo: 46.9056, 6.4819
+lieu: Les Verrières, Neuchâtel, Suisse
+lien: wp Convention des Verrières
+lien: wp Panorama Bourbaki
+lien: url https://www.bourbakipanorama.ch = Bourbaki Panorama, Lucerne : le musée du panorama
+sources: Wikipédia (fr : Armée de l'Est, Convention des Verrières, Panorama Bourbaki, Bataille d'Héricourt (1871), Déroulement de la guerre franco-allemande de 1870-1871 ; de : Schlacht an der Lisaine, Armée de l’Est, Bourbaki-Panorama, Edwin von Manteuffel) ; site du Bourbaki Panorama de Lucerne ; communiqué de la ville de Pontarlier pour le combat de La Cluse.
+voir: armee-de-l-est, bourbaki, clinchant, bataille-d-hericourt, armistice-de-1871, jules-favre, edwin-von-manteuffel, peinture-de-la-guerre
+
+@ pont-de-fontenoy
+cat: batailles
+nom: Le pont de Fontenoy
+alias: Fontenoy-sur-Moselle, viaduc de Fontenoy, chasseurs des Vosges, comité des Vosges, camp de la Vacheresse, Coumès
+dates: 22 janvier 1871
+quand: 1871-01-22
+def: Le 22 janvier 1871, des [[francs-tireurs]], les chasseurs des Vosges, surprennent le poste allemand de Fontenoy-sur-Moselle et font sauter le pont de la ligne de Paris à Strasbourg, entre Toul et Frouard. Les Allemands brûlent le village en représailles.
+texte: Depuis la chute de [[siege-de-toul|Toul]], la ligne de Paris à Strasbourg est l'artère des armées allemandes : par elle passent renforts, munitions et le matériel lourd du [[siege-de-paris|siège de Paris]]. Aucun de ses tunnels n'a été détruit pendant la retraite d'août. En novembre 1870, un « comité des Vosges » — le sous-préfet de Neufchâteau, Victor Martin, un charpentier, Tissot, deux entrepreneurs de travaux ferroviaires — décide de la couper. Autour de lui se forment les chasseurs des Vosges, quelque 300 hommes, soldats évadés comme le lieutenant Coumès, volontaires et gardes forestiers, retranchés dans les bois au camp de la Vacheresse. Sur ordre de [[gambetta]], ils obtiennent de la poudre et les plans du tunnel de Foug et du pont de Fontenoy.
+texte: Partie le 18 janvier 1871, la colonne marche de nuit dans la neige, renvoie en chemin un bataillon de mobiles jugé peu sûr, et choisit Fontenoy, gardé par une cinquantaine d'hommes seulement. Dans la nuit du 21 au 22, elle passe la Moselle en bac. Le 22, vers 5 h 30, le poste de la gare est surpris à l'arme blanche ; une sentinelle du pont est tuée. Deux hommes descendent dans le fourneau de mine, la poudre est bourrée, et l'explosion rase une pile et abat les deux arches qu'elle portait. Les francs-tireurs rentrent avec sept prisonniers, sans avoir perdu un homme.
+texte: La riposte tombe sur les civils. Persuadés que les habitants ont aidé les assaillants, les Allemands pillent et incendient Fontenoy et prennent des otages ; une contribution de dix millions de francs frappe la Lorraine occupée, et la population des environs est requise pour combler la brèche. Une voie rouvre le 4 février, la seconde le 11. L'[[armistice-de-1871|armistice]], signé six jours après le coup de main, lui a ôté toute portée militaire. Un monument rappelle à Fontenoy les victimes de l'incendie.
+repere: novembre 1870 — Un « comité des Vosges » se forme, résolu à couper les communications allemandes.
+repere: 18 janvier 1871, 17 h — 300 chasseurs des Vosges et 800 mobiles quittent le camp de la Vacheresse.
+repere: 20 janvier 1871, 16 h — Les mobiles renvoyés, les francs-tireurs repartent seuls, de nuit, dans la neige.
+repere: 21 janvier 1871 — Renseignés sur la faible garde du pont, ils choisissent Fontenoy plutôt que le tunnel de Foug.
+repere: nuit du 21 au 22 janvier 1871 — La colonne passe la Moselle en bac à Pierre-la-Treiche.
+repere: 22 janvier 1871, 5 h 30 — Le poste allemand de la gare de Fontenoy est surpris à l'arme blanche.
+repere: 22 janvier 1871, matin — La mine fait sauter une pile et deux arches du pont.
+repere: 22 janvier 1871 — Les Allemands pillent et incendient Fontenoy et prennent des otages.
+repere: 4 février 1871 — Une voie est rétablie sur le pont ; la seconde le 11 février.
+attention: Le coup de main, cité en exemple jusqu'en Allemagne, vint trop tard pour peser : la ligne fut rétablie en moins de trois semaines, et l'armistice était signé six jours après. Il rappelle surtout ce qu'aurait pu faire, dès août 1870, la destruction des tunnels de la ligne de l'Est, laissés intacts dans la retraite de Mac-Mahon — et le prix que payaient les civils pour les actions des francs-tireurs.
+issue: pont détruit, village incendié en représailles
+effectifs: 300 | 50
+pertes: 0 | ?
+chefs: le comité des Vosges, lieutenant Coumès | un sergent-major
+chiffres: D'après le récit publié par les *Études touloises* : environ 300 chasseurs des Vosges, sans le bataillon de mobiles renvoyé en route, contre un détachement d'une cinquantaine d'hommes, dont 25 étaient partis en patrouille vers Toul. Aucun Français tué ; côté allemand, des sentinelles tuées et sept prisonniers, sans décompte précis.
+geo: 48.7119, 5.9819
+lieu: Fontenoy-sur-Moselle, Meurthe-et-Moselle, France
+lien: wp Fontenoy-sur-Moselle
+lien: url https://etudes-touloises.fr/archives/128/art5.pdf = Études touloises, « Destruction du pont de Fontenoy, 22 janvier 1871 »
+sources: « Destruction du pont de Fontenoy, 22 janvier 1871 », annexe d'un cours d'instruction militaire signé S. Robert, publiée par les *Études touloises* n° 128 ; Wikipédia (fr : Fontenoy-sur-Moselle, dont la section sur le viaduc).
+voir: francs-tireurs, chemins-de-fer, france-occupee, siege-de-toul, armistice-de-1871, gambetta, siege-de-paris, bataille-de-nompatelize

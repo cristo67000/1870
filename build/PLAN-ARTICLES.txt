@@ -1,0 +1,231 @@
+# 1870 — le plan des articles. Un article par ligne : « id | Nom affiché | ce qu'il couvre ».
+# Les identifiants de ce plan sont les seuls renvois [[id]] permis dans les textes :
+# `node build/construire.mjs --verifier build/articles/NN-xxx.txt` s'en sert.
+# Les catégories (champ « cat: ») : guerre, personnages, batailles, sieges, forces, armes, memoire.
+# Les faits donnés ici sont des aide-mémoire écrits de tête : CHAQUE date, CHAQUE chiffre est à vérifier.
+# « geo » : l'article est une bataille, un siège ou un lieu et porte « geo: » et « lieu: ».
+
+# ══ 01-guerre.txt — cat: guerre ═══════════════════════════════════════════════
+guerre-de-1870 | La guerre de 1870-1871 | la porte d'entrée, longue : causes, deux phases (guerre impériale 19 juillet – 4 septembre ; guerre de la Défense nationale jusqu'au 28 janvier 1871), paix, bilan, noms de la guerre (franco-prussienne, franco-allemande, « l'année terrible ») ; renvoie à tout
+second-empire-en-1870 | L'Empire en 1870 | l'Empire libéral, ministère Ollivier du 2 janvier 1870, plébiscite du 8 mai 1870, opposition républicaine, maladie de Napoléon III, un régime qui croit s'être raffermi
+confederation-de-l-allemagne-du-nord | La Confédération de l'Allemagne du Nord | née de Sadowa (3 juillet 1866) et de la paix de Prague, constitution de 1867, 22 États sous présidence prussienne, Bismarck chancelier fédéral, Zollverein et parlement douanier, la ligne du Main
+causes-de-la-guerre | Les causes de la guerre | Sadowa et l'équilibre rompu, « politique des pourboires », crise du Luxembourg (1867), l'unité allemande inachevée, calculs de Bismarck, faiblesse et besoin de prestige de l'Empire, opinions publiques ; ce que disent les historiens des responsabilités
+candidature-hohenzollern | La candidature Hohenzollern | trône d'Espagne vacant depuis 1868, Prim, Léopold de Hohenzollern-Sigmaringen, rôle de Bismarck, révélation du 2-3 juillet 1870, déclaration de Gramont (6 juillet), retrait du 12 juillet, la demande de garanties
+depeche-d-ems | La dépêche d'Ems | 13 juillet 1870 : Benedetti et Guillaume Ier à Ems, le télégramme d'Abeken, la version resserrée par Bismarck (dîner avec Moltke et Roon), publication, l'effet à Paris ; le récit qu'en fait Bismarck dans ses souvenirs et ce qu'il vaut
+declaration-de-guerre | La déclaration de guerre | séance du 15 juillet au Corps législatif (Ollivier « d'un cœur léger », opposition de Thiers), vote des crédits, déclaration remise à Berlin le 19 juillet, les foules (« À Berlin ! »), une opinion moins unanime qu'on ne l'a dit
+isolement-diplomatique | L'isolement de la France | Autriche-Hongrie (Beust, archiduc Albert), Italie et question romaine, Russie bienveillante pour la Prusse, Angleterre (projet Benedetti sur la Belgique publié par le Times), Danemark ; la tournée de Thiers à l'automne 1870
+etats-allemands-du-sud | Les États allemands du Sud | Bavière, Wurtemberg, Bade, Hesse ; traités d'alliance de 1866, casus foederis de juillet 1870, leurs contingents, traités de novembre 1870 et droits réservés de la Bavière
+quatre-septembre | Le 4 septembre 1870 | la nouvelle de Sedan à Paris, le Palais-Bourbon envahi, Gambetta proclame la déchéance, la République à l'Hôtel de Ville, une révolution sans effusion de sang, la fuite de l'impératrice
+gouvernement-de-la-defense-nationale | Le gouvernement de la Défense nationale | les députés de Paris, Trochu président, Favre, Gambetta, Ferry, Simon, Picard, Crémieux, Arago, Rochefort… ; légitimité, divisions, de septembre 1870 à février 1871
+entrevue-de-ferrieres | L'entrevue de Ferrières | 19-20 septembre 1870, Jules Favre et Bismarck ; la circulaire du 6 septembre (« ni un pouce de notre territoire, ni une pierre de nos forteresses »), les exigences prussiennes, l'échec
+delegation-de-tours | La Délégation de Tours | Crémieux, Glais-Bizoin, Fourichon, puis Gambetta parti de Paris en ballon (7 octobre), Freycinet délégué à la Guerre, les armées levées en province, le transfert à Bordeaux (décembre)
+guerre-a-outrance | La guerre à outrance | la stratégie de Gambetta : délivrer Paris par la province ; moyens, résultats, opposition des partisans de la paix, jugement des historiens
+
+# ══ 02-paix.txt — cat: guerre ═════════════════════════════════════════════════
+journee-du-31-octobre | La journée du 31 octobre 1870 | Paris apprend la chute de Metz, la perte du Bourget et les pourparlers d'armistice ; l'Hôtel de Ville envahi (Flourens, Blanqui), le gouvernement prisonnier quelques heures, plébiscite parisien du 3 novembre
+proclamation-de-l-empire-allemand | La proclamation de l'Empire allemand | 18 janvier 1871, galerie des Glaces de Versailles ; la lettre impériale de Louis II, la querelle du titre, le tableau d'Anton von Werner, le sens de la date et du lieu
+armistice-de-1871 | L'armistice du 28 janvier 1871 | négociation Favre–Bismarck, convention signée à Versailles, clauses (forts, armes, contribution de Paris), l'exclusion des départements de l'Est, la démission de Gambetta
+assemblee-de-bordeaux | L'Assemblée de Bordeaux | élections du 8 février 1871, majorité monarchiste et pacifiste, Thiers chef du pouvoir exécutif (17 février), pacte de Bordeaux, déchéance de Napoléon III votée le 1er mars, départ pour Versailles
+protestation-de-bordeaux | La protestation de Bordeaux | déclarations du 17 février (Émile Keller) et du 1er mars 1871 (Jules Grosjean) des députés d'Alsace et de Lorraine, leur démission, la mort d'Émile Küss
+preliminaires-de-versailles | Les préliminaires de Versailles | 26 février 1871 : Thiers et Favre face à Bismarck, Belfort contre l'entrée dans Paris, cinq milliards, vote de l'Assemblée (1er mars), défilé allemand des 1er-3 mars
+traite-de-francfort | Le traité de Francfort | 10 mai 1871 : territoires cédés, indemnité et occupation, clause de la nation la plus favorisée, option de nationalité, tombes militaires (art. 16), rectification de frontière autour de Belfort et de Thionville
+alsace-lorraine | L'Alsace-Lorraine annexée | le territoire cédé (Bas-Rhin, Haut-Rhin moins Belfort, une grande partie de la Moselle et de la Meurthe, cantons vosgiens), le Reichsland, les arguments allemands (langue, sécurité), le débat Bismarck–militaires sur Metz, la population
+indemnite-de-guerre | Les cinq milliards | l'indemnité, les emprunts de 1871 et 1872, le paiement anticipé, ce que l'Allemagne en fit ; ordre de grandeur par rapport au budget
+liberation-du-territoire | L'occupation et la libération du territoire | l'armée d'occupation de Manteuffel (1871-1873), l'évacuation par étapes liée aux versements, la convention du 15 mars 1873, septembre 1873 (Verdun), Thiers « libérateur du territoire »
+france-occupee | La France envahie | départements envahis, réquisitions et contributions, gouvernements généraux, otages, représailles contre les villages, attitude des populations
+commune-de-paris | La Commune de Paris | 18 mars – 28 mai 1871, vue depuis la guerre : le siège, la garde nationale armée, les canons de Montmartre, Versailles, les prisonniers rendus par l'Allemagne, la Semaine sanglante sous les yeux des Prussiens
+bilan-de-la-guerre | Le bilan de la guerre | morts militaires français et allemands (fourchettes et sources), blessés, maladies (variole), prisonniers, internés en Suisse, pertes civiles, destructions, coût
+consequences-de-la-guerre | Les conséquences de la guerre | Empire allemand, IIIe République, Rome capitale de l'Italie (20 septembre 1870), la Russie et la mer Noire, le système bismarckien, l'antagonisme franco-allemand jusqu'en 1914
+
+# ══ 03-chefs-empire.txt — cat: personnages ════════════════════════════════════
+napoleon-iii | Napoléon III | 1808-1873 ; l'empereur malade en 1870, commandant en chef jusqu'au 12 août, errance avec l'armée de Châlons, Sedan, captivité à Wilhelmshöhe, exil et mort à Chislehurst
+imperatrice-eugenie | L'impératrice Eugénie | 1826-1920 ; régente en 1870, son rôle dans la décision de guerre et dans la marche sur Sedan (ce qui est établi, ce qui est légende), le 4 septembre, l'exil
+emile-ollivier | Émile Ollivier | 1825-1913 ; chef du ministère du 2 janvier, la déclaration de guerre et le « cœur léger », chute du 9 août, une vie à se justifier (L'Empire libéral)
+duc-de-gramont | Le duc de Gramont | 1819-1880 ; ministre des Affaires étrangères, la déclaration du 6 juillet, la demande de garanties, l'illusion des alliances
+edmond-le-boeuf | Le maréchal Le Bœuf | 1809-1888 ; ministre de la Guerre et major général, le mot du « bouton de guêtre », disgrâce, 3e corps à Metz
+comte-de-palikao | Le comte de Palikao | Cousin-Montauban, 1796-1878 ; chef du ministère du 10 août au 4 septembre, pousse l'armée de Châlons au secours de Bazaine
+mac-mahon | Mac-Mahon | 1808-1893 ; 1er corps en Alsace, Frœschwiller, armée de Châlons, blessé à Sedan ; puis armée de Versailles et présidence de la République
+bazaine | Bazaine | 1811-1888 ; sorti du rang, Mexique, armée du Rhin, enfermé dans Metz, capitulation du 27 octobre, procès de 1873, évasion, mort à Madrid
+canrobert | Canrobert | 1809-1895 ; 6e corps, héros de Saint-Privat laissé sans secours, captif après Metz
+frossard | Frossard | 1807-1875 ; général du génie, gouverneur du prince impérial, 2e corps : Sarrebruck, Spicheren
+abel-douay | Abel Douay | 1809-1870 ; général de la 2e division du 1er corps, tué à Wissembourg le 4 août, premier général français mort de la guerre
+ducrot | Ducrot | 1817-1882 ; commandant à Strasbourg avant-guerre (ses avertissements), Frœschwiller, Sedan (commandement de quelques heures), évasion, Champigny et Buzenval
+wimpffen | Wimpffen | 1811-1884 ; arrivé d'Algérie, réclame le commandement à Sedan en pleine bataille, signe la capitulation, polémique avec Ducrot
+bourbaki | Bourbaki | 1816-1897 ; Garde impériale, étrange sortie de Metz (affaire Régnier), armée de l'Est, tentative de suicide
+general-uhrich | Le général Uhrich | 1802-1886 ; gouverneur de Strasbourg pendant le siège, fêté puis critiqué
+general-margueritte | Le général Margueritte | 1823-1870 ; chasseurs d'Afrique, blessé à mort avant les charges de Floing ; père des écrivains Paul et Victor Margueritte
+galliffet | Galliffet | 1830-1909 ; les charges de Floing, plus tard la répression de la Commune et le ministère de la Guerre
+
+# ══ 04-chefs-republique.txt — cat: personnages ════════════════════════════════
+gambetta | Léon Gambetta | 1838-1882 ; le 4 septembre, le ballon, ministre de l'Intérieur et de la Guerre à Tours et Bordeaux, l'âme de la résistance, démission du 6 février 1871
+trochu | Le général Trochu | 1815-1896 ; L'Armée française en 1867, gouverneur de Paris, président du gouvernement, le « plan Trochu », « le gouverneur de Paris ne capitulera pas »
+jules-favre | Jules Favre | 1809-1880 ; vice-président et ministre des Affaires étrangères, Ferrières, l'armistice, l'oubli de l'armée de l'Est
+adolphe-thiers | Adolphe Thiers | 1797-1877 ; contre la guerre le 15 juillet, tournée des capitales, négociateur de la paix, chef du pouvoir exécutif, libération du territoire
+charles-de-freycinet | Charles de Freycinet | 1828-1923 ; ingénieur des Mines, délégué à la Guerre auprès de Gambetta, organisateur des armées de province, La Guerre en province
+chanzy | Chanzy | 1823-1883 ; 16e corps puis deuxième armée de la Loire, la retraite combattante de Beaugency au Mans
+aurelle-de-paladines | D'Aurelle de Paladines | 1804-1877 ; réorganise l'armée de la Loire, vainqueur à Coulmiers, relevé après la perte d'Orléans
+faidherbe | Faidherbe | 1818-1889 ; l'ancien gouverneur du Sénégal à la tête de l'armée du Nord : Pont-Noyelles, Bapaume, Saint-Quentin
+denfert-rochereau | Denfert-Rochereau | 1823-1878 ; colonel du génie, défenseur de Belfort
+garibaldi | Garibaldi | 1807-1882 ; débarque à Marseille en octobre 1870, armée des Vosges, Dijon, élu député puis démissionnaire
+general-vinoy | Le général Vinoy | 1800-1880 ; ramène le 13e corps de Mézières à Paris, succède à Trochu le 22 janvier 1871
+clinchant | Clinchant | 1820-1881 ; succède à Bourbaki, conduit l'armée de l'Est en Suisse
+commandant-teyssier | Le commandant Teyssier | 1821-1916 ; défenseur de Bitche, qui ne capitula pas
+louis-rossel | Louis Rossel | 1844-1871 ; capitaine du génie à Metz, hostile à la capitulation, s'évade, rejoint la Commune par patriotisme, fusillé à Satory
+emile-kuss | Émile Küss | 1815-1871 ; médecin, maire de Strasbourg pendant le siège, mort à Bordeaux le jour où l'Assemblée cède l'Alsace
+sergent-hoff | Le sergent Hoff | Ignace Hoff, 1836-1902, Alsacien ; le héros populaire du siège de Paris, soupçonné puis réhabilité
+victor-hugo-en-1870 | Victor Hugo et l'année terrible | retour d'exil le 5 septembre 1870, appels aux Allemands et aux Français, le siège, député à Bordeaux, démission, L'Année terrible (1872)
+
+# ══ 05-allemands.txt — cat: personnages ═══════════════════════════════════════
+guillaume-ier | Guillaume Ier | 1797-1888 ; roi de Prusse, Ems, commandant en chef nominal, Sedan, proclamé empereur allemand à Versailles
+bismarck | Bismarck | 1815-1898 ; ministre-président de Prusse et chancelier fédéral, la dépêche d'Ems, les négociations de Ferrières, Versailles et Francfort, ses conflits avec les militaires
+moltke | Moltke | Helmuth von Moltke l'Ancien, 1800-1891 ; chef du grand état-major, concepteur de la campagne, « marcher séparément, combattre ensemble »
+albrecht-von-roon | Roon | 1803-1879 ; ministre de la Guerre de Prusse, artisan de la réforme de l'armée et de la mobilisation
+kronprinz-frederic-guillaume | Le Kronprinz Frédéric-Guillaume | 1831-1888, futur Frédéric III ; IIIe armée : Wissembourg, Wœrth, Sedan, Paris ; son journal de guerre, ses réserves sur le bombardement
+prince-frederic-charles | Le prince Frédéric-Charles | 1828-1885, le « Prince rouge » ; IIe armée : Mars-la-Tour, Gravelotte, siège de Metz, la Loire, Le Mans
+steinmetz | Steinmetz | 1796-1877 ; Ire armée, indiscipliné : Spicheren, les attaques sanglantes de Gravelotte, relevé en septembre
+albert-de-saxe | Albert de Saxe | 1828-1902 ; prince royal de Saxe, XIIe corps à Saint-Privat, armée de la Meuse : Beaumont, Sedan, Paris
+von-der-tann | Von der Tann | 1815-1881 ; Ier corps bavarois : Bazeilles, Orléans, battu à Coulmiers
+august-von-werder | Werder | 1808-1887 ; siège de Strasbourg, XIVe corps, tient la Lizaine contre Bourbaki
+edwin-von-manteuffel | Manteuffel | 1809-1885 ; Ier corps, Ire armée dans le Nord, armée du Sud contre Bourbaki, chef de l'armée d'occupation
+august-von-goeben | Goeben | 1816-1880 ; VIIIe corps, vainqueur de Saint-Quentin
+blumenthal | Blumenthal | 1810-1900 ; chef d'état-major du Kronprinz, journal de campagne
+constantin-von-alvensleben | Constantin von Alvensleben | 1809-1892 ; IIIe corps, l'audace de Mars-la-Tour
+von-bredow | Von Bredow | 1814-1890 ; la « chevauchée de la mort » du 16 août 1870
+grand-duc-de-mecklembourg | Le grand-duc de Mecklembourg | Frédéric-François II, 1823-1883 ; le détachement d'armée entre Paris et la Loire : Loigny, Le Mans
+comte-zeppelin | Le comte Zeppelin | 1838-1917 ; officier wurtembergeois, la reconnaissance en Alsace des 24-25 juillet 1870 ; plus tard les dirigeables
+louis-ii-de-baviere | Louis II de Bavière | 1845-1886 ; l'entrée en guerre de la Bavière, la « lettre impériale » et ce qu'elle lui rapporta
+
+# ══ 06-batailles-aout.txt — cat: batailles (toutes « geo ») ═══════════════════
+combat-de-schirlenhof | Le combat de Schirlenhof | 25 juillet 1870, Gundershoffen (Bas-Rhin) : la patrouille de Zeppelin surprise à l'auberge, les premiers morts de la guerre ; geo
+combat-de-sarrebruck | Le combat de Sarrebruck | 2 août 1870 : le 2e corps de Frossard prend les hauteurs, le « baptême du feu » du prince impérial, une victoire sans lendemain ; geo
+bataille-de-wissembourg | Bataille de Wissembourg | 4 août 1870 : la division Douay surprise par la IIIe armée, le Geisberg, les turcos, la mort de Douay ; geo
+bataille-de-froeschwiller-woerth | Bataille de Frœschwiller-Wœrth | 6 août 1870, dite de Reichshoffen : Mac-Mahon contre le Kronprinz, une bataille non voulue, l'aile droite tournée, la retraite, l'Alsace ouverte ; geo
+charges-de-reichshoffen | Les charges de Reichshoffen | 6 août 1870 : la brigade Michel à Morsbronn, la division Bonnemains à Elsasshausen ; cuirassiers sacrifiés, naissance d'une légende (et d'un nom qui n'est pas celui du lieu) ; geo
+bataille-de-spicheren | Bataille de Spicheren | 6 août 1870, dite de Forbach : Frossard attaqué sur le Rotherberg, les renforts allemands « au canon », les divisions de Bazaine qui n'arrivent pas ; geo
+bataille-de-borny | Bataille de Borny | 14 août 1870, Borny-Colombey : une attaque d'avant-garde qui retarde le passage de la Moselle ; geo
+bataille-de-mars-la-tour | Bataille de Mars-la-Tour | 16 août 1870, Rezonville-Vionville : la route de Verdun coupée, Alvensleben seul contre l'armée du Rhin, la chevauchée de Bredow, la grande mêlée de cavalerie ; geo
+bataille-de-gravelotte | Bataille de Gravelotte – Saint-Privat | 18 août 1870 : la plus grande bataille de la guerre, la Garde prussienne fauchée devant Saint-Privat, les Saxons à Roncourt, le ravin de la Mance, Bazaine rentre dans Metz ; geo
+bataille-de-noisseville | Bataille de Noisseville | 31 août – 1er septembre 1870 : la tentative de sortie de l'armée de Metz ; geo
+bataille-de-beaumont | Bataille de Beaumont | 30 août 1870 : le 5e corps de Failly surpris au bivouac, le repli sur Mouzon et Sedan ; geo
+bataille-de-bazeilles | Bazeilles | 31 août – 1er septembre 1870 : l'infanterie de marine contre les Bavarois, la maison de la « dernière cartouche », le village incendié, les civils tués ; geo
+bataille-de-sedan | Bataille de Sedan | 1er septembre 1870 : l'armée de Châlons encerclée, trois commandants en chef en une matinée, l'artillerie allemande sur les hauteurs, le drapeau blanc ; geo
+charges-de-floing | Les charges de Floing | 1er septembre 1870 : la cavalerie de Margueritte et de Galliffet tente de percer, « Ah ! les braves gens ! » ; geo
+capitulation-de-sedan | La capitulation de Sedan | 1er-2 septembre 1870 : la lettre de Napoléon III, la nuit de Donchery, la maison du tisserand, le château de Bellevue, la presqu'île d'Iges ; geo
+
+# ══ 07-batailles-loire-paris.txt — cat: batailles (toutes « geo ») ════════════
+combat-de-chatillon | Combat de Châtillon | 19 septembre 1870 : Ducrot échoue à garder les hauteurs du sud, l'investissement de Paris se referme ; geo
+prise-d-orleans | Artenay et la première prise d'Orléans | 10-11 octobre 1870 : les Bavarois de von der Tann entrent dans Orléans ; geo
+defense-de-chateaudun | La défense de Châteaudun | 18 octobre 1870 : gardes nationaux et francs-tireurs de Paris, la ville incendiée, la Légion d'honneur ; geo
+bataille-de-coulmiers | Bataille de Coulmiers | 9 novembre 1870 : la victoire de l'armée de la Loire, Orléans reprise, l'occasion non exploitée ; geo
+bataille-de-beaune-la-rolande | Bataille de Beaune-la-Rolande | 28 novembre 1870 : l'aile droite de l'armée de la Loire échoue contre le Xe corps ; geo
+bataille-de-loigny | Bataille de Loigny | 2 décembre 1870, Loigny-Poupry : les 16e et 17e corps, Sonis et les zouaves pontificaux ; geo
+seconde-bataille-d-orleans | La seconde bataille d'Orléans | 3-4 décembre 1870 : l'armée de la Loire coupée en deux, Orléans reperdue ; geo
+bataille-de-beaugency | Bataille de Beaugency | 7-10 décembre 1870, Josnes-Villorceau : Chanzy tient quatre jours puis recule sur Vendôme ; geo
+bataille-du-mans | Bataille du Mans | 10-12 janvier 1871 : la fin de la deuxième armée de la Loire, la Tuilerie, la retraite sur Laval ; geo
+bataille-de-champigny | Bataille de Champigny | 30 novembre – 2 décembre 1870, Villiers-Champigny : la grande sortie de Ducrot sur la Marne ; geo
+combats-du-bourget | Les combats du Bourget | 28-30 octobre et 21 décembre 1870 : un village pris, perdu, et ses conséquences politiques ; geo
+bataille-de-buzenval | Bataille de Buzenval | 19 janvier 1871 : la dernière sortie, la garde nationale au feu, Montretout, la mort d'Henri Regnault ; geo
+
+# ══ 08-batailles-nord-est.txt — cat: batailles (toutes « geo ») ═══════════════
+bataille-d-amiens | Bataille d'Amiens | 27 novembre 1870, Villers-Bretonneux : la Ire armée de Manteuffel prend Amiens ; geo
+bataille-de-pont-noyelles | Bataille de Pont-Noyelles | 23-24 décembre 1870, l'Hallue : Faidherbe tient le terrain ; geo
+bataille-de-bapaume | Bataille de Bapaume | 2-3 janvier 1871 : succès de l'armée du Nord, Péronne non secourue ; geo
+bataille-de-saint-quentin | Bataille de Saint-Quentin | 19 janvier 1871 : Goeben brise l'armée du Nord ; geo
+bataille-de-nompatelize | Bataille de Nompatelize | 6 octobre 1870, La Bourgonce (Vosges) : la première armée improvisée de l'Est battue par les Badois ; geo
+batailles-de-dijon | Les batailles de Dijon | 30 octobre 1870 (la ville prise), puis 21-23 janvier 1871 : Garibaldi tient Dijon, le drapeau du 61e régiment poméranien ; geo
+bataille-de-nuits | Bataille de Nuits | 18 décembre 1870 : la division Cremer contre les Badois ; geo
+bataille-de-villersexel | Bataille de Villersexel | 9 janvier 1871 : le succès de Bourbaki ; geo
+bataille-d-hericourt | Bataille d'Héricourt | 15-17 janvier 1871, la Lizaine : l'armée de l'Est échoue à trois lieues de Belfort ; geo
+retraite-de-l-armee-de-l-est | La retraite de l'armée de l'Est | janvier – février 1871 : de Besançon à Pontarlier, l'armistice qui ne s'applique pas, la convention des Verrières, 87 000 hommes internés en Suisse, le panorama de Lucerne ; geo
+pont-de-fontenoy | Le pont de Fontenoy | 22 janvier 1871 : des chasseurs des Vosges font sauter le pont de Fontenoy-sur-Moselle, le village brûlé en représailles ; geo
+
+# ══ 09-sieges.txt — cat: sieges (« geo » sauf mention) ════════════════════════
+places-fortes-en-1870 | Les places fortes en 1870 | vue d'ensemble (pas de geo) : des enceintes bastionnées face au canon rayé, une vingtaine de sièges, des places qui gardent les voies ferrées, ce que la guerre a montré
+siege-de-strasbourg | Siège de Strasbourg | 13 août – 28 septembre 1870 : Werder et les Badois, le bombardement de la ville (nuits du 23 au 26 août : bibliothèque du Temple-Neuf, musée, toit de la cathédrale), la délégation suisse, le préfet Valentin, la brèche, la capitulation ; geo
+siege-de-metz | Siège de Metz | 20 août – 27 octobre 1870 : l'armée du Rhin immobile, la faim, les intrigues (Régnier, Boyer), 173 000 prisonniers, les drapeaux ; geo
+siege-de-paris | Siège de Paris | 19 septembre 1870 – 28 janvier 1871 : l'investissement, les forces, les sorties, la faim, le froid, le bombardement, la capitulation ; geo
+vie-a-paris-pendant-le-siege | Paris assiégé : la vie quotidienne | rationnement, boucheries de cheval, chiens, rats, animaux du Jardin des Plantes (Castor et Pollux), le pain du siège, le froid, les queues, la mortalité, les clubs (pas de geo)
+bombardement-de-paris | Le bombardement de Paris | 27 décembre 1870 (plateau d'Avron), puis du 5 au 26 janvier 1871 sur les forts et la rive gauche : moyens, victimes, effet moral ; geo
+siege-de-belfort | Siège de Belfort | 3 novembre 1870 – 18 février 1871 : Denfert-Rochereau contre Treskow, 103 jours, la sortie avec les honneurs sur ordre du gouvernement ; geo
+siege-de-bitche | Siège de Bitche | août 1870 – mars 1871 : la citadelle de Teyssier, bombardée, bloquée, jamais prise ; geo
+siege-de-phalsbourg | Siège de Phalsbourg | 10 août – 12 décembre 1870 : le commandant Taillant, quatre mois de résistance ; geo
+lichtenberg-et-la-petite-pierre | Lichtenberg et La Petite-Pierre | 9-10 août 1870 : les petits forts des Vosges du Nord après Frœschwiller ; geo
+siege-de-toul | Siège de Toul | 16 août – 23 septembre 1870 : la place qui barre la voie ferrée Strasbourg-Paris ; geo
+siege-de-selestat | Siège de Sélestat | octobre 1870, capitulation du 24 ; geo
+siege-de-neuf-brisach | Siège de Neuf-Brisach | octobre – 10 novembre 1870, le fort Mortier ; geo
+siege-de-verdun | Siège de Verdun | de l'attaque brusquée du 24 août à la capitulation du 8 novembre 1870 ; geo
+siege-de-thionville | Siège de Thionville | bombardement et capitulation du 24 novembre 1870 ; geo
+siege-de-montmedy | Siège de Montmédy | capitulation du 14 décembre 1870 ; geo
+siege-de-mezieres | Siège de Mézières | bombardement du 31 décembre 1870, capitulation du 2 janvier 1871 ; geo
+siege-de-longwy | Siège de Longwy | janvier 1871, capitulation du 25 ; geo
+siege-de-soissons | Siège de Soissons | septembre – 16 octobre 1870 ; geo
+citadelle-de-laon | La citadelle de Laon | 9 septembre 1870 : la poudrière saute au moment de la reddition ; geo
+siege-de-peronne | Siège de Péronne | 27 décembre 1870 – 9 janvier 1871 : la ville bombardée, l'armée du Nord trop tard ; geo
+
+# ══ 10-forces-france.txt — cat: forces ════════════════════════════════════════
+armee-francaise-en-1870 | L'armée française en 1870 | une armée de métier : recrutement (tirage au sort, sept ans, remplacement), effectifs réels, expérience des guerres lointaines, défauts d'organisation ; long
+loi-niel | La loi Niel | 1er février 1868 : la réforme voulue par Napoléon III et le maréchal Niel, rognée par le Corps législatif, la garde mobile sur le papier
+commandement-francais | Le commandement français | un empereur malade, pas d'état-major à la prussienne, des chefs braves et passifs, les ordres de Paris ; puis les généraux de la Défense nationale
+armee-du-rhin | L'armée du Rhin | la grande armée impériale de juillet 1870 : sept corps et la Garde, de la frontière à Metz
+armee-de-chalons | L'armée de Châlons | formée en août 1870 au camp de Châlons (1er, 5e, 7e, 12e corps), la marche vers Montmédy, Sedan
+garde-mobile | La garde mobile | les « moblots » : origine, levée en 1870, valeur inégale, rôle dans les armées de province et à Paris
+garde-nationale | La garde nationale | la garde sédentaire, Paris et ses bataillons, les trente sous, une force politique autant que militaire
+francs-tireurs | Les francs-tireurs | corps francs et volontaires, statut contesté par les Allemands, guerre de partisans et représailles
+armee-de-la-loire | L'armée de la Loire | de l'automne 1870 à janvier 1871 : formation, corps, les deux armées après Orléans
+armee-du-nord | L'armée du Nord | 22e et 23e corps, appuyée sur les places du Nord, Farre puis Faidherbe
+armee-de-l-est | L'armée de l'Est | Bourbaki, la manœuvre vers Belfort, le désastre de l'hiver
+armee-des-vosges | L'armée des Vosges | Garibaldi et ses volontaires de toutes nations, d'Autun à Dijon
+camp-de-conlie | Le camp de Conlie | l'armée de Bretagne de Kératry, la boue, la méfiance de Gambetta, les mobilisés bretons au Mans
+armee-d-afrique | Turcos, zouaves et armée d'Afrique | tirailleurs algériens, zouaves, chasseurs d'Afrique, spahis : Wissembourg, Frœschwiller, Sedan ; l'Algérie dégarnie et la révolte de 1871
+zouaves-pontificaux | Les Volontaires de l'Ouest | les anciens zouaves pontificaux de Charette, Loigny, la bannière du Sacré-Cœur
+marine-en-1870 | La marine en 1870 | une supériorité navale sans emploi : blocus de la mer du Nord et de la Baltique, pas de débarquement, marins et canons aux forts de Paris, le combat du Bouvet et du Meteor
+
+# ══ 11-forces-allemagne.txt — cat: forces ═════════════════════════════════════
+armee-allemande-en-1870 | Les armées allemandes en 1870 | service obligatoire, réserve et Landwehr, corps d'armée territoriaux, contingents de la Confédération et du Sud ; long
+grand-etat-major-prussien | Le grand état-major prussien | Moltke et ses officiers, Académie de guerre, préparation, directives plutôt qu'ordres, la section des chemins de fer
+armees-allemandes-en-campagne | Les armées allemandes en campagne | Ire, IIe, IIIe armées, armée de la Meuse, armée du Sud, détachements : composition, chefs, parcours
+landwehr | La Landwehr | les réservistes anciens : sièges, étapes, garde des voies
+mobilisation-de-1870 | La mobilisation | deux systèmes : la concentration allemande par voie ferrée en dix-huit jours, le désordre français (dépôts éloignés, mobilisation et concentration mêlées, télégrammes célèbres)
+effectifs-compares | Les effectifs en présence | début août 1870 : combien d'hommes et de canons de chaque côté sur la frontière ; puis à Sedan, devant Metz, devant Paris, en province ; les totaux mobilisés ; fourchettes et sources
+chemins-de-fer | Les chemins de fer | lignes de concentration, la ligne Strasbourg-Paris et ses verrous (Toul), tunnels sautés, exploitation par les Allemands, vulnérabilité (Fontenoy)
+intendance-et-ravitaillement | Intendance et ravitaillement | l'intendance française en faillite, le soldat allemand vit sur le pays : réquisitions, étapes, munitions
+service-de-sante | Service de santé et Croix-Rouge | convention de Genève de 1864, ambulances et sociétés de secours, chirurgie, variole (une armée vaccinée, l'autre non), mortalité
+prisonniers-de-guerre | Les prisonniers de guerre | près de 400 000 Français en Allemagne : transport, camps et forteresses, mortalité, retour ; les prisonniers allemands
+cavalerie-en-1870 | La cavalerie | uhlans et éclairage allemand, charges françaises et allemandes, une arme qui change de rôle
+tactique-en-1870 | La tactique en 1870 | le feu du Chassepot contre l'artillerie Krupp, colonnes de compagnie, défensive française « sur de belles positions », marche au canon
+espionnage-et-renseignement | Espionnage et renseignement | reconnaissances d'officiers avant la guerre, cartes, la fièvre des espions en France, ce que valent les récits sur Stieber
+
+# ══ 12-armes.txt — cat: armes ═════════════════════════════════════════════════
+fusil-chassepot | Le fusil Chassepot | modèle 1866 : mécanisme, calibre, portée, cadence, qualités et défauts, Mentana, production
+fusil-dreyse | Le fusil Dreyse | le fusil à aiguille prussien : une arme de 1841 dépassée en 1870, portée, étanchéité, tactique qui compense
+fusils-bavarois | Les fusils bavarois | Podewils transformé et Werder modèle 1869
+fusils-de-la-defense-nationale | Les fusils de la Défense nationale | fusil à tabatière, Remington, Snider, Springfield, Spencer… : des achats dans le monde entier, le casse-tête des munitions
+mitrailleuse-de-reffye | Le canon à balles | la mitrailleuse de Reffye : 25 tubes, le secret, l'emploi en batterie comme de l'artillerie, résultats réels
+canon-krupp | Les canons Krupp | canons de campagne en acier à chargement par la culasse (C/64, C/67), obus à fusée percutante, emploi en masse, Alfred Krupp
+artillerie-francaise | L'artillerie française | système La Hitte (1858) : canons de 4 et de 12 en bronze, rayés, chargés par la bouche, fusées à deux durées ; pourquoi elle est surclassée
+canon-de-7 | Le canon de 7 | le canon Reffye à culasse de la Défense nationale, fondu à Paris par souscription
+artillerie-de-siege | L'artillerie de siège | les pièces lourdes de Strasbourg, de Belfort et de Paris, mortiers rayés, portées
+armes-blanches | Sabres, lances et baïonnettes | la baïonnette-sabre du Chassepot, sabres de cavalerie, lance des uhlans, cuirasses ; la part réelle des blessures
+uniformes-francais | Les uniformes français | pantalon garance et capote, képi et shako, zouaves et turcos, mobiles, marins
+uniformes-allemands | Les uniformes allemands | tunique bleu foncé, casque à pointe (1842), casque à chenille bavarois, uhlans et hussards
+ballons-du-siege | Les ballons du siège | de la fin septembre 1870 à janvier 1871 : Nadar, les Godard, les ateliers des gares, Gambetta, la Ville d'Orléans en Norvège, le courrier
+pigeons-voyageurs | Pigeons et dépêches microfilmées | les pigeons emportés en ballon, la microphotographie de Dagron, les dépêches projetées à Paris
+telegraphe-en-1870 | Le télégraphe | télégraphe de campagne, câble de la Seine, boules de Moulins, le rôle de la dépêche dans la conduite de la guerre et dans l'opinion
+fortifications-de-paris | Les fortifications de Paris | l'enceinte de Thiers et ses 94 bastions, les forts détachés, le Mont-Valérien, les ouvrages improvisés
+
+# ══ 13-memoire.txt — cat: memoire ═════════════════════════════════════════════
+optants | Les optants | l'option de nationalité ouverte par le traité de Francfort (jusqu'au 1er octobre 1872), les chiffres, les départs, l'installation en France et en Algérie
+idee-de-revanche | La Revanche | de Gambetta (« Pensons-y toujours, n'en parlons jamais ») à Déroulède et à la Ligue des patriotes ; ce que fut réellement le revanchisme
+reformes-militaires-apres-1871 | Les réformes militaires après la défaite | lois de 1872 et 1873, service obligatoire, corps d'armée, École de guerre, système Séré de Rivières, nouveaux fusils et canons
+tombes-et-monuments | Tombes et monuments | l'article 16 du traité de Francfort, la loi de 1873, les ossuaires, le Souvenir français (1887), Mars-la-Tour, le Lion de Belfort
+memoire-allemande | La mémoire allemande | le jour de Sedan, colonnes de la Victoire, Niederwald, monuments régimentaires en Alsace-Lorraine
+peinture-de-la-guerre | La peinture de la guerre | Neuville, Detaille, Meissonier, Doré, Puvis de Chavannes, les panoramas ; Anton von Werner et la peinture d'histoire allemande
+litterature-de-la-guerre | La guerre dans la littérature | Hugo, Rimbaud, Daudet, Maupassant, Les Soirées de Médan, Zola et La Débâcle, les frères Margueritte, Déroulède ; côté allemand, Fontane
+photographie-et-presse | Photographie et presse illustrée | ruines de Strasbourg et de Paris photographiées, L'Illustration et Le Monde illustré, fausses nouvelles et dépêches
+proces-de-bazaine | Le procès de Bazaine | Trianon, 6 octobre – 10 décembre 1873 : le duc d'Aumale, « Il restait la France », la condamnation, la grâce, l'évasion ; ce que les historiens en pensent
+mots-de-1870 | Les mots de 1870 | « archi-prêts », « d'un cœur léger », « Ah ! les braves gens ! », « ni un pouce… », le « pot de chambre » de Ducrot, le « plan Trochu », « Il restait la France » : chaque mot, sa source, son degré d'authenticité
+idees-recues-sur-1870 | Idées reçues sur 1870 | « l'instituteur prussien a gagné la guerre », « Reichshoffen », « Bazaine le traître », « une guerre courte et oubliée », « la France unanime pour la guerre »… : ce qu'en disent les historiens
+juliette-dodu | Juliette Dodu | l'héroïne du télégraphe de Pithiviers : la Légion d'honneur de 1878 et ce que l'on sait vraiment de son histoire
+chansons-et-images | Chansons et images | « Alsace et Lorraine » (1871), Le Clairon, Die Wacht am Rhein, caricatures de l'empereur, images d'Épinal, la tache noire sur les cartes d'école
+sur-les-champs-de-bataille-d-alsace | 1870 en Alsace aujourd'hui | ce qui se voit encore : Wissembourg et le Geisberg, Wœrth et son musée, Frœschwiller, Morsbronn, Reichshoffen, Strasbourg (traces du siège, la Neustadt née de l'annexion)
+lieux-de-memoire | Sur les lieux de la guerre | hors d'Alsace : Gravelotte (musée de la Guerre de 1870 et de l'Annexion), Mars-la-Tour, Saint-Privat, Bazeilles, Sedan et Floing, Loigny, Belfort, Champigny, Lucerne

@@ -1,0 +1,681 @@
+# 1870 — lot 09 : sièges. Les vingt et un articles de la catégorie « sieges », dans l'ordre du plan :
+# la vue d'ensemble des places fortes, Strasbourg, Metz, Paris (siège, vie quotidienne, bombardement),
+# Belfort, Bitche, puis les petites places d'Alsace, de Lorraine, des Ardennes et du Nord.
+# Dates et chiffres vérifiés sur Wikipédia (fr, de, en), recoupés avec les Archives de Strasbourg
+# et les Archives d'Alsace pour Strasbourg. « effectifs: » = garnison | corps de siège ;
+# « pertes: » = tués et blessés pendant le siège, sans les prisonniers de la capitulation.
+
+# ── Les trois grands sièges ────────────────────────────────────────────────
+
+@ siege-de-strasbourg
+cat: sieges
+nom: Siège de Strasbourg
+alias: Belagerung von Straßburg, bombardement de Strasbourg, Strasbourg 1870, Temple-Neuf, Hortus deliciarum, capitulation de Strasbourg
+dates: 13 août – 28 septembre 1870
+quand: 1870-08-13
+jusqu: 1870-09-28
+def: Investie le 13 août 1870 par le corps de siège du général von Werder, Strasbourg est bombardée pendant quarante-six jours : sa bibliothèque et son musée brûlent, des faubourgs entiers sont rasés. Le général Uhrich capitule le 28 septembre, la brèche ouverte, à la veille de l'assaut.
+texte: Après la défaite de [[bataille-de-froeschwiller-woerth|Frœschwiller]], le 6 août, [[mac-mahon|Mac-Mahon]] se retire vers l'ouest et l'Alsace reste ouverte. Le [[kronprinz-frederic-guillaume|Kronprinz]] détache aussitôt la division badoise vers Strasbourg ; le général prussien [[august-von-werder|August von Werder]] en prend le commandement à la mi-août. La ville, 84 000 habitants au recensement de 1866, passe avec Metz pour la plus forte place de France. C'est une réputation : son enceinte de 6,5 km et de dix-sept bastions remonte à Daniel Specklin, au XVIe siècle, sa citadelle à Vauban, et elle n'a aucun fort détaché pour tenir l'artillerie rayée à distance. [[ducrot|Ducrot]], qui y commandait jusqu'en mai 1870, avait proposé dès 1866, en vain, un fort détaché sur les hauteurs de Hausbergen, et jugeait que la place ne tiendrait pas huit jours. Le maréchal n'y a laissé que trois bataillons de ligne. Avec les fuyards de Frœschwiller, des pontonniers, des marins, des douaniers, la [[garde-mobile|garde mobile]] du Bas-Rhin et la [[garde-nationale|garde nationale]] de la ville, [[general-uhrich|le général Uhrich]], soixante-huit ans, tiré de sa retraite, réunit quelque 17 000 hommes de valeur très inégale.
+texte: Le 12 août, les Badois coupent la voie ferrée et le télégraphe ; le 13, la place est investie et reçoit ses premiers obus. Deux petites sorties, vers Illkirch le 16 et vers Schiltigheim le 18, sont repoussées. Le 19, les canons de la citadelle tirent sur Kehl, ville ouverte de la rive badoise : les Allemands en tireront argument. Werder reçoit deux divisions prussiennes, la [[landwehr|Landwehr]] de la Garde et la 1re division de réserve, et un parc de siège installé à Vendenheim et à Kork, de l'autre côté du Rhin : 40 000 hommes d'abord, 50 000 à 60 000 à la fin, et 366 pièces lourdes.
+texte: Werder veut aller vite. Plutôt qu'un siège en règle, il choisit de bombarder la ville elle-même pour que la population pousse le gouverneur à se rendre ; le procédé est discuté jusque dans son état-major. Le 23 août au soir, l'[[artillerie-de-siege|artillerie de siège]] ouvre le feu ; le 24, jour de la Saint-Barthélemy, le bombardement se déchaîne. Dans la nuit du 24 au 25, le Temple-Neuf, l'ancienne église des Dominicains, brûle avec les deux bibliothèques qu'il abrite, celle de la ville et celle du séminaire protestant : plus de 300 000 volumes, au moins 3 446 manuscrits, dont l'*Hortus deliciarum*, l'encyclopédie enluminée de l'abbesse Herrade, du XIIe siècle. La même nuit flambe l'Aubette, sur la place Kléber, avec le musée de peinture. Dans la nuit du 25 au 26, c'est la toiture de la cathédrale ; les voûtes de pierre tiennent. Les faubourgs de Pierre, de Saverne et National sont presque rasés. Les habitants vivent dans les caves. L'évêque, Mgr Raess, va demander à Werder d'épargner la ville : en vain. Mais Strasbourg ne cède pas, les munitions baissent, et le 26 août Werder revient à l'attaque régulière.
+texte: Elle vise le front nord-ouest, autour de la porte de Pierre : les bastions 11 et 12 et leurs ouvrages avancés, les lunettes 52 et 53. La première parallèle est ouverte dans la nuit du 29 au 30 août. Les canons rayés se chargeant par la culasse et les gros mortiers démolissent les ouvrages à une vitesse inconnue jusque-là ; l'artillerie de la place, 1 200 bouches à feu pour la plupart lisses et anciennes, est vite réduite au silence, et les galeries de contre-mines restent vides faute de mineurs. Les batteries badoises de Kehl écrasent la citadelle. Les obus trop longs continuent de tomber sur la ville : le théâtre, la préfecture, le tribunal brûlent à leur tour. Entre le 19 et le 22 septembre, les lunettes 53 et 52 sont prises ; le 26, deux brèches sont ouvertes dans le rempart.
+texte: Le 11 septembre, un événement sans précédent rompt l'isolement : une délégation des villes de Bâle, Zurich et Berne, admise par Werder, entre par la porte Nationale. Elle apporte la nouvelle de [[bataille-de-sedan|Sedan]] et de la [[quatre-septembre|République]], et obtient de faire sortir des non-combattants : du 15 au 22 septembre, quatre convois emmènent vers la Suisse près de 1 800 femmes, enfants et vieillards. Le même jour, la commission municipale choisit pour maire le docteur [[emile-kuss|Émile Küss]]. Le 20 septembre arrive le préfet nommé par le [[gouvernement-de-la-defense-nationale|gouvernement de la Défense nationale]], le Strasbourgeois Edmond Valentin : il a traversé les lignes allemandes et franchi les fossés à la nage.
+texte: Le 27 septembre, à 14 h, les officiers du génie préviennent Uhrich que la brèche du bastion 11 est praticable et que l'assaut peut être donné d'une heure à l'autre. Le conseil de défense conclut à la reddition. Vers 17 h, un drapeau blanc monte sur la cathédrale ; le silence tombe sur la ville après plus d'un mois de canonnade, et sur les places des groupes crient à la trahison. La capitulation est signée le 28 à 2 h du matin, dans un wagon, à Koenigshoffen. La garnison est prisonnière : 451 officiers et 17 111 hommes, conduits à Rastatt ; les gardes nationaux rentrent chez eux. Le 30 septembre, cent quatre-vingt-neuf ans jour pour jour après la capitulation de la ville devant Louis XIV, Werder fait son entrée et assiste à un service d'action de grâces à l'église Saint-Thomas.
+texte: Plus de 200 000 obus sont tombés sur la place. Quelque 450 à 500 maisons sont entièrement détruites, 10 000 personnes sans abri ; les civils tués sont près de 300, les blessés plus d'un millier. Les ruines, photographiées dès octobre par Charles Winter, Baudelaire, Saglio et des opérateurs venus de Bâle et de Tübingen, font le tour de l'Europe : c'est l'un des premiers bombardements de ville que la [[photographie-et-presse|photographie]] ait montrés. À Paris, on fleurit la statue de Strasbourg, place de la Concorde. Pour les Allemands, la chute de la place, cinq jours après celle de [[siege-de-toul|Toul]], libère la voie ferrée et un corps d'armée : les troupes de Werder, devenues le XIVe corps, passent les Vosges et iront investir [[siege-de-belfort|Belfort]]. Elle a aussi un sens politique, celui d'une prise de possession : dès le 9 août 1871, une nouvelle bibliothèque, formée de 200 000 volumes donnés par toute l'Allemagne, ouvre dans la ville annexée.
+repere: 12-13 août 1870 — Les Badois coupent la voie ferrée et le télégraphe, puis investissent la place ; premiers obus sur la ville.
+repere: 23 août 1870 — L'artillerie de siège ouvre au soir le bombardement de la ville.
+repere: nuit du 24 au 25 août 1870 — Le Temple-Neuf brûle avec les bibliothèques et l'*Hortus deliciarum* ; l'Aubette et son musée de peinture sont détruits.
+repere: nuit du 25 au 26 août 1870 — La toiture de la cathédrale est incendiée.
+repere: nuit du 29 au 30 août 1870 — Werder, revenu au siège en règle, fait ouvrir la première parallèle devant la porte de Pierre.
+repere: 11 septembre 1870 — La délégation suisse entre dans la ville et annonce Sedan ; Émile Küss devient maire.
+repere: 20 septembre 1870 — Le préfet Valentin entre dans la place après avoir franchi les fossés à la nage.
+repere: 27 septembre 1870, vers 17 h — Le drapeau blanc est hissé sur la cathédrale.
+repere: 28 septembre 1870, 2 h — La capitulation est signée à Koenigshoffen ; la garnison sort et dépose les armes.
+repere: 30 septembre 1870 — Werder fait son entrée dans Strasbourg.
+attention: Uhrich a d'abord été un héros : Paris donne son nom à une avenue dès le 12 septembre, avant même la reddition. Puis on l'accuse d'avoir capitulé trop tôt, et le conseil d'enquête sur les capitulations le blâme en 1872. Ni l'un ni l'autre ne tient : la place, sans forts détachés ni abris, n'était pas défendable longtemps contre l'artillerie rayée, et le gouverneur s'est rendu brèche ouverte, pour éviter l'assaut et le combat de rues, alors qu'il lui restait des vivres et des munitions. Quant au « tiers de la ville détruit » que l'on lit souvent, c'est une image : les destructions totales se concentrent dans les faubourgs du nord-ouest et autour de la place Broglie.
+issue: capitulation
+effectifs: 17500 | 50000
+pertes: 2500 | 936
+chefs: Jean-Jacques Uhrich | August von Werder
+chiffres: Garnison : 17 562 prisonniers à la capitulation selon l'historique du grand état-major prussien, environ 23 000 hommes en comptant la garde nationale sédentaire, renvoyée dans ses foyers. Corps de siège : 40 000 hommes en août, 50 000 à 60 000 en septembre. Pertes militaires : l'état-major prussien estime à 2 500 les Français tués ou blessés (861 morts de toutes causes) et compte 936 Allemands hors de combat, dont 177 tués. Obus : 202 099 d'après la même source. Civils tués : 261 selon les relevés repris par les Archives d'Alsace, 341 selon l'historienne Rachel Chrastil ; maisons détruites : 448 à 500.
+geo: 48.5848, 7.7506
+lieu: Strasbourg, Bas-Rhin, France
+lien: wp Siège de Strasbourg (1870)
+lien: de Belagerung von Straßburg
+lien: en Siege of Strasbourg
+sources: Archives de Strasbourg, dossier de l'exposition « 1870, Strasbourg brûle-t-il ? », 2010 ; Archives d'Alsace, fiches « La guerre de 1870 : la déchirure » (D. Hartmann, fiche 14, d'après F. Burckel) et F. Gueringer, « Les événements clés des combats de 1870 en Alsace » ; Wikipédia (fr : Siège de Strasbourg (1870), Bibliothèque nationale et universitaire, Émile Küss, Marie-Edmond Valentin, Jean-Jacques Uhrich ; de : Belagerung von Straßburg ; en : Siege of Strasbourg, Strassburger memorial)
+voir: general-uhrich, august-von-werder, emile-kuss, artillerie-de-siege, places-fortes-en-1870, siege-de-belfort, photographie-et-presse, sur-les-champs-de-bataille-d-alsace
+
+@ siege-de-metz
+cat: sieges
+nom: Siège de Metz
+alias: blocus de Metz, capitulation de Metz, Belagerung von Metz, Ban-Saint-Martin, Frescaty, affaire Régnier, mission Boyer, drapeaux de Metz
+dates: 20 août – 27 octobre 1870
+quand: 1870-08-20
+jusqu: 1870-10-27
+def: Du 20 août au 27 octobre 1870, l'armée du Rhin du maréchal Bazaine reste enfermée sous Metz, bloquée par le prince Frédéric-Charles. Affamée, immobile, mêlée à des tractations politiques, elle capitule sans avoir été forcée : 173 000 prisonniers, la plus grande reddition du siècle.
+texte: Au soir de la [[bataille-de-gravelotte]], le 18 août, [[bazaine|Bazaine]] ramène l'[[armee-du-rhin|armée du Rhin]] sous les forts de Metz. Le 20, le cercle est fermé : la Ire et la IIe armée, sous [[prince-frederic-charles|le prince Frédéric-Charles]], tiennent les deux rives de la Moselle, après avoir cédé trois corps à l'armée de la Meuse qui marche contre Mac-Mahon. La place est trop forte pour être enlevée : à quatre ou cinq kilomètres de la vieille enceinte, quatre forts neufs, Saint-Quentin, Plappeville, Saint-Julien et Queuleu, inachevés mais armés, tiennent les hauteurs. Les Allemands font venir une cinquantaine de pièces lourdes, puis renoncent : ils n'ouvriront ni tranchée ni bombardement. Metz, à la différence de [[siege-de-strasbourg|Strasbourg]], sera prise par la faim.
+texte: Car ce n'est pas une garnison qui s'y trouve, c'est une armée : quatre corps et la Garde, quelque 150 000 hommes avec leurs chevaux, ajoutés aux troupes de la place du général Coffinières et à 70 000 civils, réfugiés compris. Les magasins, calculés pour nourrir cinq mois une garnison ordinaire, ne donnent plus que quarante et un jours de vivres et vingt-cinq d'avoine. Le maréchal installe son quartier général au Ban-Saint-Martin, hors de la ville, loin des Messins impatients de le voir sortir.
+texte: Il essaie peu. Le 26 août, l'armée massée sur la rive droite est renvoyée à ses bivouacs sous une pluie battante, après un conseil tenu au château de Grimont. Le 31 août et le 1er septembre, à [[bataille-de-noisseville|Noisseville]], la seule vraie tentative échoue, le jour même où l'[[armee-de-chalons|armée de Châlons]], venue à son secours, est prise à [[bataille-de-sedan|Sedan]]. Ensuite il n'y a plus que des opérations de fourrage : Peltre le 27 septembre, Ladonchamps le 2 octobre, Bellevue le 7, où l'on se bat pour des fermes pleines de foin et de vivres.
+texte: Bazaine commande la dernière armée de l'Empire, et il raisonne en politique. Il ne se rallie pas nettement au [[gouvernement-de-la-defense-nationale|gouvernement de la Défense nationale]] et laisse venir. Le 23 septembre se présente à lui un inconnu, Edmond Régnier, rentier et homme d'affaires, qui s'est donné lui-même une mission : muni d'une vue de Hastings signée du prince impérial et d'un sauf-conduit de [[bismarck|Bismarck]], qu'il a vu à Ferrières le 20, il propose de faire sortir l'armée pour rétablir la régence et signer la paix. Bazaine l'écoute et laisse partir [[bourbaki|Bourbaki]], le chef de la Garde, vers [[imperatrice-eugenie|l'impératrice]] ; celle-ci, en Angleterre, n'a rien demandé, et Bourbaki ne pourra pas rentrer dans Metz. Le 10 octobre, après un conseil de ses chefs de corps, le maréchal envoie à Versailles son aide de camp, le général Boyer, avec une note où l'armée est offerte comme le « palladium de la société » contre l'anarchie. Bismarck exige que l'impératrice signe d'abord des préliminaires de paix ; Boyer repart le 19 pour l'Angleterre, et elle refuse de céder du territoire. Le chancelier a gagné un mois.
+texte: Pendant ce temps l'armée se défait. Les vivres sont sévèrement rationnés ; on abat les chevaux, jusqu'à mille par jour, si bien que la cavalerie et l'artillerie ne peuvent plus marcher. Les pluies d'octobre noient les bivouacs ; la dysenterie emplit les hôpitaux et les baraques de 15 000 à 20 000 malades et blessés. En septembre, de petits ballons libres ont emporté par-dessus les lignes des billets sur papier pelure, les « papillons de Metz ». Le 20 octobre, les magasins sont vides.
+texte: Le 25 octobre, le vieux général Changarnier va demander les conditions au quartier général allemand de Corny : il n'y en a pas. La capitulation est signée le 27 au soir, au château de Frescaty, par le général Jarras, chef d'état-major de Bazaine, et son homologue prussien Stiehle. Elle livre 173 000 hommes, dont trois maréchaux, Bazaine, [[canrobert|Canrobert]] et [[edmond-le-boeuf|Le Bœuf]], et 6 000 officiers, plus de 1 300 canons de campagne et de place, des centaines de milliers de fusils, 53 aigles. Bazaine a fait porter les drapeaux à l'arsenal en laissant croire qu'ils y seraient brûlés ; quelques chefs, comme le général Lapasset, détruisent les leurs plutôt que de les rendre. Les Allemands offraient les honneurs de la guerre : le maréchal les refuse. Le 29, sous la pluie, les régiments vont se constituer prisonniers ; les vainqueurs entrent en ville vers 16 h. Depuis qu'elle était française, Metz n'avait jamais été prise.
+texte: La nouvelle provoque à Paris la [[journee-du-31-octobre|journée du 31 octobre]]. À Tours, [[gambetta|Gambetta]] proclame le 30 que « le maréchal Bazaine a trahi ». En tenant soixante-dix jours, Metz avait immobilisé près de 200 000 Allemands et laissé le temps de lever les armées de province ; en tombant fin octobre, elle les libère au pire moment. L'armée de Frédéric-Charles arrive sur la Loire quand l'[[armee-de-la-loire|armée de la Loire]] vient de vaincre à Coulmiers ; l'autre marche vers le Nord.
+repere: 18 août 1870 — Après Saint-Privat, l'armée du Rhin se replie sous les forts de Metz.
+repere: 20 août 1870 — La Ire et la IIe armée achèvent l'investissement.
+repere: 26 août 1870 — Une sortie par la rive droite est décommandée sous la pluie, après le conseil de Grimont.
+repere: 31 août 1870 — Bataille de Noisseville, seule tentative sérieuse de percée ; elle échoue le lendemain.
+repere: 23 septembre 1870 — Régnier, venu de Ferrières, est reçu par Bazaine ; Bourbaki quitte Metz le 25 pour l'Angleterre.
+repere: 7 octobre 1870 — Combat de Bellevue, dernière opération de l'armée.
+repere: 10 octobre 1870 — Bazaine décide d'envoyer le général Boyer négocier à Versailles.
+repere: 20 octobre 1870 — Les vivres sont épuisés ; l'armée ne vit plus que de ses chevaux.
+repere: 27 octobre 1870 — La capitulation est signée au château de Frescaty.
+repere: 29 octobre 1870, vers 16 h — L'armée est sortie se rendre ; les Allemands entrent dans Metz.
+attention: « Bazaine a trahi » : le mot est de Gambetta, le 30 octobre 1870, et il est resté. Mais rien n'a jamais montré que le maréchal ait vendu son armée ni voulu la livrer. Le [[proces-de-bazaine|conseil de guerre de 1873]] l'a condamné pour avoir capitulé en rase campagne et traité avec l'ennemi sans avoir fait tout ce que prescrivaient le devoir et l'honneur. Les historiens retiennent un chef passif, qui a voulu garder son armée intacte pour peser sur la paix et sur le régime, et que Bismarck a joué.
+issue: capitulation
+effectifs: 173000 | 197000
+pertes: 6000 | 5700
+chefs: François Achille Bazaine | le prince Frédéric-Charles
+chiffres: 173 000 prisonniers (167 000 hommes et 6 000 officiers), auxquels certains décomptes ajoutent 20 000 malades restés à Metz ; l'armée comptait encore quelque 150 000 hommes valides. Corps de blocus : 197 326 hommes en septembre, 171 000 au jour de la capitulation. Pertes : ordre de grandeur des tués et blessés des sorties (les deux principales, Noisseville et Bellevue, coûtent environ 5 000 hommes à chaque camp ; 5 740 Allemands en tout), sans les morts de maladie. Le matériel pris varie selon les décomptes : 541 canons de campagne et 800 de place selon les uns, 622 et 2 876 selon les autres ; 53 ou 56 aigles.
+geo: 49.1203, 6.1778
+lieu: Metz, Moselle, France
+lien: wp Siège de Metz (1870)
+lien: de Belagerung von Metz
+lien: wp Edmond Régnier
+sources: Wikipédia (fr : Siège de Metz (1870), Edmond Régnier ; de : Belagerung von Metz ; en : Siege of Metz (1870)) ; citations : note de Bazaine du 10 octobre 1870)
+voir: bazaine, proces-de-bazaine, armee-du-rhin, prince-frederic-charles, bataille-de-noisseville, bourbaki, louis-rossel, prisonniers-de-guerre
+
+@ siege-de-paris
+cat: sieges
+nom: Siège de Paris
+alias: Paris assiégé, investissement de Paris, Belagerung von Paris, capitulation de Paris, siège de 1870
+dates: 19 septembre 1870 – 28 janvier 1871
+quand: 1870-09-19
+jusqu: 1871-01-28
+def: Du 19 septembre 1870 au 28 janvier 1871, deux armées allemandes tiennent Paris enfermé sans jamais lui donner l'assaut. Les sorties échouent, la faim, le froid puis le bombardement usent la ville ; sa reddition, par l'armistice du 28 janvier, met fin à la guerre.
+texte: Après [[bataille-de-sedan|Sedan]], plus rien ne sépare les Allemands de la capitale. La IIIe armée du [[kronprinz-frederic-guillaume|Kronprinz]] et l'armée de la Meuse du prince royal de Saxe marchent sur Paris presque sans combat ; le 15 septembre, [[moltke|Moltke]] donne l'ordre de l'investir, l'une par le sud, l'autre par le nord. Le 17, un premier engagement a lieu à Montmesly, près de Créteil ; le 19, les dernières communications sont coupées et Versailles est occupée ; le même jour, [[ducrot|Ducrot]] tente de garder les hauteurs du sud : le [[combat-de-chatillon]] tourne à la panique, et le soir le cercle est fermé. Le [[gouvernement-de-la-defense-nationale|gouvernement de la Défense nationale]] a choisi de rester dans la ville ; une [[delegation-de-tours|délégation]] le représente à Tours.
+texte: Paris, deux millions d'habitants, est depuis les années 1840 la plus grande place forte d'Europe : une enceinte continue de 34 km et de 94 bastions, et, en avant, une quinzaine de [[fortifications-de-paris|forts détachés]], du Mont-Valérien à Vincennes. On les a réarmés à la hâte depuis août, avec plus de 2 000 canons tirés des arsenaux et des côtes. Les défenseurs sont nombreux et disparates. L'armée proprement dite, ce sont le 13e corps que [[general-vinoy|Vinoy]] a ramené intact de Mézières, un 14e corps formé dans les dépôts, 14 000 marins qui servent les forts : 80 000 à 90 000 hommes. S'y ajoutent une centaine de milliers de [[garde-mobile|mobiles]] venus des départements et la [[garde-nationale|garde nationale]] sédentaire, 266 bataillons à la fin, plus de 300 000 Parisiens payés trente sous par jour, qui élisent leurs officiers et n'ont jamais manœuvré. [[trochu|Trochu]], gouverneur de Paris et président du gouvernement, ne croit ni à cette troupe ni à la possibilité de percer.
+texte: Les Allemands ne sont que 150 000 en septembre, 240 000 au plus fort, sur un cercle de près de cent kilomètres tracé à dix ou douze kilomètres du centre. Moltke ne veut ni assaut ni combat de rues : il attendra que la ville ait faim. Ses troupes crénellent les villages, barricadent les routes, relient les postes par le télégraphe ; chaque attaque française se heurte à une première ligne qui tient le temps que les réserves arrivent. Le roi, [[bismarck|Bismarck]] et le grand quartier général s'installent à Versailles au début d'octobre : c'est là que sera [[proclamation-de-l-empire-allemand|proclamé l'Empire allemand]], le 18 janvier.
+texte: Les assiégés tentent de sortir une demi-douzaine de fois. Les premières affaires, Chevilly le 30 septembre, Bagneux et Châtillon le 13 octobre, la Malmaison le 21, sont des reconnaissances que l'on rappelle dès qu'elles réussissent. Le village du [[combats-du-bourget|Bourget]], enlevé le 28 octobre, est repris le 30 par la Garde prussienne. La « grande sortie », du 30 novembre au 2 décembre, jette 80 000 hommes sur la Marne pour tendre la main à l'armée de la Loire : c'est la [[bataille-de-champigny]], qui s'achève par un retour dans les lignes. Une nouvelle attaque vers Le Bourget, le 21 décembre, meurt dans un froid de quatorze degrés au-dessous de zéro. La dernière, le 19 janvier à [[bataille-de-buzenval|Buzenval]], engage 90 000 hommes, dont la garde nationale, et coûte 4 000 tués et blessés pour rien.
+texte: Au-dedans, la ville vit coupée du monde. Elle ne parle plus à la province que par les airs : les [[ballons-du-siege|ballons]], 65 environ, emportent 164 passagers, dont [[gambetta|Gambetta]] le 7 octobre, et deux à trois millions de lettres ; les pigeons rapportent les dépêches. La politique ne s'arrête pas : la chute de Metz et la perte du Bourget provoquent la [[journee-du-31-octobre|journée du 31 octobre]], suivie d'un plébiscite qui donne au gouvernement près de 558 000 oui contre 62 000 non ; les clubs réclament la Commune et la sortie en masse, et le 22 janvier on tire devant l'Hôtel de Ville. La viande est rationnée en octobre, le pain en janvier ; l'hiver est l'un des plus durs du siècle et la mortalité double : c'est l'objet de l'article sur [[vie-a-paris-pendant-le-siege|la vie quotidienne]]. Du 5 au 26 janvier enfin, les obus allemands tombent sur la rive gauche : voir [[bombardement-de-paris]].
+texte: Après Buzenval, Trochu cède le commandement à Vinoy, qui garde 146 000 hommes sous les armes ; il ne reste que quelques jours de pain. Le 23 janvier, [[jules-favre|Jules Favre]] écrit à Bismarck et se rend à Versailles. Le feu cesse le 26 à minuit. L'[[armistice-de-1871|armistice]], signé le 28, livre les forts, désarme l'enceinte et constitue la garnison prisonnière dans la ville même, sauf une division laissée pour le maintien de l'ordre ; la garde nationale garde ses fusils, Favre n'ayant pas osé les lui demander. Paris paie une contribution de 200 millions et sera ravitaillé. Les vainqueurs n'entrent que du 1er au 3 mars, pour une occupation symbolique des Champs-Élysées.
+texte: Paris a tenu plus de quatre mois, ce que personne n'attendait d'une capitale de deux millions d'âmes, et fixé devant ses murs le gros des forces allemandes pendant que la province levait des armées. Mais tout l'effort de la [[guerre-a-outrance|guerre à outrance]] visait à la délivrer : sa chute emporte le reste. Le siège laisse une ville affamée, une garde nationale armée et humiliée, persuadée d'avoir été trahie par ses chefs. Sept semaines plus tard commence la [[commune-de-paris|Commune]].
+repere: 19 septembre 1870 — Combat de Châtillon ; au soir, l'investissement de Paris est complet.
+repere: 7 octobre 1870 — Gambetta quitte Paris en ballon pour rejoindre la Délégation de Tours.
+repere: 28-30 octobre 1870 — Le Bourget est pris par les Français, puis repris par la Garde prussienne.
+repere: 31 octobre 1870 — À la nouvelle de la chute de Metz, l'Hôtel de Ville est envahi ; le gouvernement se maintient.
+repere: 30 novembre 1870 — Début de la grande sortie sur la Marne, à Champigny et Villiers.
+repere: 21 décembre 1870 — Seconde attaque du Bourget, arrêtée par le froid et l'artillerie.
+repere: 27 décembre 1870 — Les batteries de siège allemandes ouvrent le feu sur le plateau d'Avron.
+repere: 5 janvier 1871 — Premiers obus sur les quartiers de la rive gauche.
+repere: 19 janvier 1871 — Dernière sortie, à Buzenval et Montretout.
+repere: 28 janvier 1871 — L'armistice est signé à Versailles ; les forts sont remis le lendemain.
+attention: Quatre cent mille défenseurs contre deux cent mille assiégeants : le chiffre a nourri l'accusation de trahison lancée contre Trochu et le gouvernement. Il trompe. Moins d'un quart de ces hommes étaient des soldats instruits ; la garde nationale n'avait ni cadres ni entraînement, et les sorties n'ont jamais pu engager plus de 80 000 à 90 000 hommes à la fois contre des positions fortifiées. Les historiens reprochent moins aux chefs de Paris de n'avoir pas percé que d'avoir multiplié les demi-tentatives sans y croire.
+issue: capitulation
+effectifs: 400000 | 240000
+pertes: 24000 | 16000
+chefs: Louis Jules Trochu | Helmuth von Moltke
+chiffres: Défenseurs : environ 200 000 soldats, mobiles et marins et 200 000 à 350 000 gardes nationaux selon les sources, dont moins d'un quart instruits. Assiégeants : 150 000 hommes en septembre, 240 000 au maximum. Pertes militaires du siège (tués et blessés) : 24 000 Français, 16 000 Allemands ; 249 142 hommes sont compris dans la capitulation d'après l'historique du grand état-major prussien. La surmortalité civile est évaluée à 40 000 ou 50 000 morts.
+geo: 48.8566, 2.3518
+lieu: Paris, France
+lien: wp Siège de Paris (1870-1871)
+lien: wp Chronologie du siège de Paris (1870-1871)
+lien: de Belagerung von Paris (1870–1871)
+sources: Wikipédia (fr : Siège de Paris (1870-1871) ; de : Belagerung von Paris (1870–1871) ; en : Siege of Paris (1870–1871))
+voir: trochu, fortifications-de-paris, vie-a-paris-pendant-le-siege, bombardement-de-paris, bataille-de-champigny, bataille-de-buzenval, ballons-du-siege, armistice-de-1871
+
+# ── Paris : la vie quotidienne, le bombardement ────────────────────────────
+
+@ vie-a-paris-pendant-le-siege
+cat: sieges
+nom: Paris assiégé : la vie quotidienne
+alias: rationnement, pain du siège, boucheries de cheval, Castor et Pollux, rats, viande de fantaisie, queues, famine de Paris, menus du siège
+dates: 19 septembre 1870 – 28 janvier 1871
+def: Pendant les quatre mois du siège, deux millions de Parisiens apprennent les queues, la viande de cheval, le pain noir et le froid sans feu. La viande est rationnée dès octobre, le pain en janvier ; la mortalité double, surtout chez les pauvres et les enfants.
+texte: Paris entre dans le [[siege-de-paris|siège]] en croyant qu'il sera court. On a parqué au bois de Boulogne et au Luxembourg 250 000 moutons et 40 000 bœufs ; on pense avoir de la farine pour quatre-vingts jours. Mais il faut nourrir deux millions d'habitants, les réfugiés de la banlieue et plus de 200 000 soldats. Le gouvernement taxe la viande, puis hésite à rationner : pendant des semaines, c'est le prix qui rationne. Le 29 septembre, les premières queues se forment devant les boucheries ; un poulet vaut déjà 10 à 12 francs, la livre de beurre 8 francs.
+texte: La viande est rationnée le 6 octobre, et vendue dans des boucheries municipales : une livre par personne pour cinq jours, soit 100 grammes par jour, puis 50 grammes le 26 octobre. À la mi-novembre, il n'y a plus ni bœuf ni mouton. Le cheval, viande des pauvres avant la guerre, devient celle de tous ; le 15 décembre, chevaux, ânes et mulets sont réquisitionnés et payés au poids, de 1,25 à 1,75 franc le kilo vif. Le 10 novembre, un boucher du boulevard Rochechouart met en vente du chien, du chat et du rat, et un marché aux rats s'ouvre sur la place de l'Hôtel-de-Ville. Fin décembre, un chat vaut 20 francs, un rat 3 francs, un corbeau 5, la livre de chien 4. Un [[garde-nationale|garde national]] touche trente sous par jour, soit 1,50 franc, et 75 centimes pour sa femme.
+texte: Les animaux exotiques sont l'affaire des riches. Le Jardin des Plantes, qui ne peut plus les nourrir, vend à partir du 24 octobre yacks, zèbres, rennes et antilopes ; la « Boucherie anglaise » de M. Deboos, boulevard Haussmann, les débite sous le nom de « viande de fantaisie ». Les deux éléphants Castor et Pollux, abattus à la carabine par l'armurier Devisme, lui sont cédés pour 27 000 francs : la trompe se vend 40 à 45 francs la livre, le reste 10 à 14. À Noël, le Café Voisin affiche un consommé d'éléphant ; son chef, Choron, sert du chameau rôti à l'anglaise, du civet de kangourou, du cuissot de loup sauce chevreuil. Le journaliste anglais Henry Labouchère, qui a goûté une tranche de Pollux, la trouve dure, grossière et huileuse.
+texte: Le pain reste la vraie nourriture. Le gouvernement jure en décembre qu'il ne sera pas rationné, puis autorise le pain bis le 14 ; à partir du 19 janvier, chaque adulte n'a plus droit qu'à 300 grammes, les enfants de moins de cinq ans à 150, d'un pain noir où entrent du riz, de l'avoine et pire. « Nous mangeons de l'inconnu », note [[victor-hugo-en-1870|Victor Hugo]] le 30 décembre ; et le 18 janvier : « J'émiette aux poules notre pain noir. Elles n'en veulent pas. » L'hiver est terrible, jusqu'à douze et quatorze degrés au-dessous de zéro en décembre. Il n'y a plus ni charbon ni bois ; le gaz, réservé aux [[ballons-du-siege|ballons]], ne brûle plus dans les rues, le pétrole est réquisitionné le 25 novembre. On abat les arbres des boulevards, de Belleville aux Champs-Élysées.
+texte: Ce sont le froid et la maladie, plus que la faim seule, qui tuent. La mortalité double dès l'automne ; en janvier, il meurt 3 000 à 4 000 personnes par semaine, de pneumonie, de variole, de fièvre typhoïde. Les nourrissons succombent faute de lait. Les plus pauvres paient le plus cher : le travail s'est arrêté, la solde du mari ne suffit pas, les femmes font la queue des heures dans la nuit. Le soir, on se réchauffe dans les clubs, où l'on refait 1793 et où l'on réclame la Commune. Dès l'[[armistice-de-1871|armistice]], des convois de vivres arrivent de province et d'Angleterre ; le premier chargement britannique est pillé aux Halles.
+repere: 29 septembre 1870 — Premières queues devant les boucheries.
+repere: 6 octobre 1870 — La viande est rationnée ; des boucheries municipales sont créées.
+repere: 26 octobre 1870 — La ration de viande tombe à 50 grammes par jour.
+repere: 10 novembre 1870 — Du chien, du chat et du rat sont mis en vente ; un marché aux rats s'ouvre place de l'Hôtel-de-Ville.
+repere: 15 décembre 1870 — Réquisition de tous les chevaux, ânes et mulets pour la boucherie.
+repere: 25 décembre 1870 — Un consommé d'éléphant figure au menu de Noël du Café Voisin.
+repere: 19 janvier 1871 — Le pain est rationné : 300 grammes par adulte.
+attention: Les rats et les éléphants ont fait la légende du siège ; ils n'en ont pas fait l'ordinaire. On a mangé peu de rats, par crainte des maladies et parce qu'il fallait les accommoder, et la « viande de fantaisie » était hors de prix : le siège a vécu de cheval et de pain. La date même de la mort de Castor et Pollux est incertaine : les 29 et 30 novembre selon les chronologies françaises, les 29 et 30 décembre selon un journal du siège, alors qu'un menu du 25 décembre propose déjà de l'éléphant. Et il n'y eut pas de grande épidémie : ni choléra, ni typhus.
+lien: wp Chronologie du siège de Paris (1870-1871)
+lien: wp Castor et Pollux (éléphants)
+lien: en Castor and Pollux (elephants)
+sources: Wikipédia (fr : Chronologie du siège de Paris (1870-1871), Siège de Paris (1870-1871), Castor et Pollux (éléphants) ; en : Siege of Paris (1870–1871), Castor and Pollux (elephants)) ; Ville de Paris (paris.fr), « 5 techniques pour survivre pendant un siège à Paris », d'après F. Wey, Chronique du siège de Paris ; V. Hugo, Choses vues, cité d'après Wikipédia
+voir: siege-de-paris, bombardement-de-paris, garde-nationale, ballons-du-siege, victor-hugo-en-1870, journee-du-31-octobre, service-de-sante, commune-de-paris
+
+@ bombardement-de-paris
+cat: sieges
+nom: Le bombardement de Paris
+alias: bombardement de la rive gauche, plateau d'Avron, batteries de Châtillon, Beschießung von Paris, obus prussiens
+dates: 27 décembre 1870 – 26 janvier 1871
+quand: 1870-12-27
+jusqu: 1871-01-26
+def: Du 27 décembre 1870 au 26 janvier 1871, l'artillerie de siège allemande écrase le plateau d'Avron et les forts de l'est et du sud, puis, à partir du 5 janvier, tire sur les quartiers de la rive gauche. Voulu par Bismarck pour hâter la reddition, le bombardement fait quelque 400 victimes sans entamer la résistance.
+texte: Faut-il bombarder Paris ? La question divise le quartier général de Versailles dès octobre. [[bismarck|Bismarck]] le réclame, soutenu par [[albrecht-von-roon|Roon]] : il veut en finir avant que les neutres s'en mêlent et que les armées de province grossissent. Le roi et le [[kronprinz-frederic-guillaume|Kronprinz]] redoutent l'effet sur l'opinion étrangère, en Angleterre surtout. [[moltke|Moltke]] et [[blumenthal|Blumenthal]] opposent des raisons de métier : le parc de siège a servi devant les places de l'Est, la voie ferrée est restée coupée par [[siege-de-toul|Toul]] puis par le tunnel sauté de Nanteuil, et chaque obus doit finir le trajet en voiture. Les grosses pièces n'arrivent qu'à partir de la fin de novembre.
+texte: Le feu s'ouvre le 27 décembre à 7 h 45, à l'est : 76 pièces tirent sur le plateau d'Avron, que les Français occupent depuis un mois, et sur les forts de Rosny, de Noisy et de Nogent. Avron est intenable ; son artillerie est retirée dans la nuit du 28 au 29. Le 5 janvier, 98 pièces installées sur les hauteurs de Châtillon, de Clamart, de Meudon, de Fontenay et de L'Haÿ, celles que Ducrot n'avait pu garder le 19 septembre, prennent à partie les [[fortifications-de-paris|forts du sud]], Issy, Vanves et Montrouge. Ces forts ont 402 bouches à feu, mais l'[[artillerie-de-siege|artillerie de siège]] allemande, plus précise et de plus longue portée, les domine ; leurs canons se taisent, les batteries se rapprochent.
+texte: Le même 5 janvier, les premiers obus tombent dans la ville : rue Lalande, rue Daguerre, au cimetière du Montparnasse, autour du Luxembourg. Les artilleurs pointent au plus haut et forcent les charges pour atteindre des portées jamais vues, près de huit kilomètres. Il tombe 300 à 400 obus par jour, surtout la nuit, des Invalides au Muséum ; dans la nuit du 8 au 9 janvier, le quartier compris entre Saint-Sulpice et l'Odéon en reçoit un toutes les deux minutes. Le Panthéon, le Val-de-Grâce, la Sorbonne, la Salpêtrière, les serres du Muséum sont touchés ; rue de Vaugirard, un seul projectile tue quatre enfants dans une école et en blesse cinq. Aucun obus ne dépasse la Seine : les plus longs atteignent l'île Saint-Louis et le pont Notre-Dame. Près de 20 000 habitants se réfugient sur la rive droite.
+texte: En vingt-trois nuits, la ville reçoit environ 12 000 obus, qui font quelque 400 tués et blessés. C'est peu, au regard de [[siege-de-strasbourg|Strasbourg]] : les maisons de pierre de taille résistent, beaucoup de projectiles se perdent dans les jardins et les cours. Le gouvernement proteste le 9 janvier contre un bombardement ouvert sans avertissement et qui frappe les hôpitaux ; à [[trochu|Trochu]], qui s'en plaint, Moltke répond qu'il espère rapprocher bientôt ses batteries pour mieux distinguer les drapeaux de la Croix-Rouge. La population s'indigne plus qu'elle ne s'effraie. Les forts du sud, presque détruits, ne sont pas pris. Le feu cesse le 26 janvier à minuit, deux jours avant l'[[armistice-de-1871|armistice]] : c'est la faim, non le canon, qui a fait céder Paris, comme le raconte l'article sur [[vie-a-paris-pendant-le-siege|la vie quotidienne]].
+repere: 27 décembre 1870, 7 h 45 — Soixante-seize pièces de siège ouvrent le feu sur le plateau d'Avron et les forts de l'Est.
+repere: nuit du 28 au 29 décembre 1870 — Les Français évacuent l'artillerie du plateau d'Avron.
+repere: 5 janvier 1871 — Bombardement des forts d'Issy, de Vanves et de Montrouge ; premiers obus sur la rive gauche.
+repere: nuit du 8 au 9 janvier 1871 — Un obus toutes les deux minutes entre Saint-Sulpice et l'Odéon.
+repere: 9 janvier 1871 — Protestation du gouvernement de la Défense nationale.
+repere: 12 janvier 1871 — L'hôpital de la Salpêtrière est atteint.
+repere: 26 janvier 1871 — Le feu cesse à minuit.
+attention: Deux idées reçues. Le bombardement n'a pas fait capituler Paris : les témoins s'accordent sur son peu d'effet moral, et la reddition tient à l'épuisement des vivres. Et rien ne montre que les Allemands aient visé les hôpitaux, comme on l'a cru sur le moment : tirant à la limite de leur portée, sur des dômes qui servaient de repères, ils ne pouvaient choisir leurs cibles à une rue près.
+issue: sans effet sur la résistance
+canons: 593 | 174
+chiffres: Canons : 174 pièces de siège allemandes à l'ouverture du feu (76 à l'est le 27 décembre, 98 au sud le 5 janvier) contre les 593 bouches à feu des forts attaqués (191 à l'est, 402 au sud). Environ 12 000 obus sur la ville en vingt-trois nuits et près de 400 tués et blessés, d'après les relevés repris par les historiens anglais du siège.
+geo: 48.8469, 2.3372
+lieu: Paris, rive gauche, France
+lien: wp Siège de Paris (1870-1871)
+lien: de Belagerung von Paris (1870–1871)
+sources: Wikipédia (fr : Siège de Paris (1870-1871), Chronologie du siège de Paris (1870-1871), dont la déclaration du gouvernement du 9 janvier 1871 ; de : Belagerung von Paris (1870–1871) ; en : Siege of Paris (1870–1871))
+voir: siege-de-paris, artillerie-de-siege, fortifications-de-paris, canon-krupp, bismarck, moltke, vie-a-paris-pendant-le-siege, siege-de-strasbourg
+
+# ── Les places qui n'ont pas capitulé ──────────────────────────────────────
+
+@ siege-de-belfort
+cat: sieges
+nom: Siège de Belfort
+alias: Belagerung von Belfort, défense de Belfort, les Perches, cent trois jours, Lion de Belfort
+dates: 3 novembre 1870 – 18 février 1871
+quand: 1870-11-03
+jusqu: 1871-02-18
+def: Du 3 novembre 1870 au 18 février 1871, la place de Belfort, commandée par le colonel Denfert-Rochereau, tient cent trois jours contre le corps de siège du général von Tresckow. Elle ne s'ouvre que sur l'ordre du gouvernement, après l'armistice, et sa garnison sort en armes.
+texte: Belfort garde la trouée entre les Vosges et le Jura, la porte de l'Alsace vers la Franche-Comté et la Bourgogne. Après la chute de [[siege-de-strasbourg|Strasbourg]], le XIVe corps de [[august-von-werder|Werder]] descend vers le sud ; pour couvrir ses arrières, la 1re division de [[landwehr|Landwehr]] du général Udo von Tresckow, renforcée d'éléments de réserve, investit la place le 3 novembre. Autour de la ville de Vauban et du Château, sur son rocher, la défense compte les forts de la Miotte, de la Justice, des Barres et de Bellevue, et les redoutes des Hautes et des Basses-Perches. Le gouverneur, [[denfert-rochereau|Denfert-Rochereau]], colonel du génie, connaît chaque ouvrage. Il a 17 700 hommes, mais à peine trois bataillons de ligne : tout le reste, ce sont des [[garde-mobile|mobiles]] du Haut-Rhin, de la Haute-Saône, du Rhône, de la Haute-Garonne et des Vosges.
+texte: Au lieu de s'enfermer, Denfert dispute les approches. Il fait mettre en défense les villages, Pérouse, Danjoutin, Cravanche, Bessoncourt, et multiplie les sorties, appuyées par ses pièces à longue portée ; les assiégeants, d'abord moins nombreux que la garnison, mettent un mois à s'établir. Le bombardement ne commence que le 3 décembre, par l'ouest. Il durera soixante-treize jours, presque sans interruption : la population vit dans les caves, presque toutes les maisons sont touchées, et en janvier le typhus et la variole s'ajoutent aux obus.
+texte: Le salut doit venir de [[armee-de-l-est]], que [[bourbaki|Bourbaki]] amène par la Saône. Du 15 au 17 janvier, sur la Lizaine, à trois lieues de la place, la garnison entend le canon de la [[bataille-d-hericourt]] ; le 18, il s'éloigne. Tresckow, renforcé, veut en finir : dans la nuit du 26 au 27 janvier, un assaut sur les Perches lui coûte 500 hommes. L'[[armistice-de-1871|armistice]] du 28 janvier laisse l'Est en dehors de la trêve ; l'attaque reprend à la sape, et le 8 février les deux redoutes sont prises. De là, l'artillerie allemande bat le Château à courte distance.
+texte: Les hostilités sont suspendues le 13 février. Le gouvernement, qui a besoin de prolonger l'armistice, envoie à Denfert l'ordre exprès de remettre la place ; la convention est signée le 16. Les 17 et 18 février, la garnison sort avec ses armes, ses drapeaux, ses canons de campagne et ses archives, et rejoint les lignes françaises ; les Allemands lui rendent les honneurs. Elle laisse plus de 2 000 morts, et la ville 336 civils. Huit jours plus tard, lors des [[preliminaires-de-versailles|préliminaires de Versailles]], [[adolphe-thiers|Thiers]] obtient de [[bismarck|Bismarck]] que Belfort reste à la France, en échange de l'entrée des troupes allemandes dans Paris : l'arrondissement, détaché du Haut-Rhin annexé, deviendra le Territoire de Belfort. Le Lion de Bartholdi, achevé en 1880 au flanc du rocher, rappelle le siège.
+repere: 3 novembre 1870 — La division Tresckow investit Belfort.
+repere: 3 décembre 1870 — Début du bombardement de la ville et des forts.
+repere: 15-17 janvier 1871 — Bataille de la Lizaine : l'armée de secours de Bourbaki échoue devant Héricourt.
+repere: nuit du 26 au 27 janvier 1871 — L'assaut allemand sur les redoutes des Perches est repoussé.
+repere: 8 février 1871 — Les Hautes et les Basses-Perches sont prises.
+repere: 13 février 1871 — Suspension d'armes ; le gouvernement ordonne de remettre la place.
+repere: 16 février 1871 — Signature de la convention de reddition.
+repere: 18 février 1871 — Les dernières troupes quittent Belfort avec les honneurs de la guerre.
+attention: Belfort n'a pas capitulé, c'est exact : la place a été remise sur ordre, après l'armistice, et sa garnison est repartie libre. Mais la légende d'une forteresse invaincue passe sur deux faits. Les Perches tombées, le Château sous le feu direct, la résistance ne pouvait plus durer longtemps. Et ce n'est pas le siège seul qui a gardé Belfort à la France : Thiers l'a obtenu en cédant sur l'entrée dans Paris, face à un état-major allemand qui tenait surtout à Metz.
+issue: place non prise, remise sur ordre du gouvernement
+effectifs: 17700 | ?
+pertes: 4750 | 4745
+chefs: Pierre Philippe Denfert-Rochereau | Udo von Tresckow
+chiffres: Garnison : 17 700 hommes au début, 15 000 à 17 000 selon les sources. Le corps de siège, une division de Landwehr inférieure en nombre à la garnison en novembre, a été renforcé après la Lizaine ; aucun chiffre sûr. Pertes : 4 750 Français tués ou blessés selon les sources allemandes, dont 2 124 morts d'après le décompte français ; 4 745 Allemands hors de combat, dont environ 2 000 morts. On cite 400 000 obus tirés sur la place, chiffre invérifiable.
+geo: 47.6379, 6.8628
+lieu: Belfort, Territoire de Belfort, France
+lien: wp Siège de Belfort (1870-1871)
+lien: de Belagerung von Belfort
+lien: wp Lion de Belfort
+sources: Wikipédia (fr : Siège de Belfort (1870-1871) ; de : Belagerung von Belfort ; en : Siege of Belfort)
+voir: denfert-rochereau, august-von-werder, bataille-d-hericourt, armee-de-l-est, preliminaires-de-versailles, siege-de-bitche, places-fortes-en-1870, lieux-de-memoire
+
+@ siege-de-bitche
+cat: sieges
+nom: Siège de Bitche
+alias: Bitsch, citadelle de Bitche, Belagerung von Bitsch, blocus de Bitche, deux cent trente jours
+dates: 8 août 1870 – 26 mars 1871
+quand: 1870-08-08
+jusqu: 1871-03-26
+def: Sommée dès le 8 août 1870, bombardée en août et en septembre puis bloquée tout l'hiver par les Bavarois, la citadelle de Bitche, commandée par le chef de bataillon Teyssier, ne se rend pas. Sa garnison n'en sort que le 26 mars 1871, sur ordre du gouvernement français.
+texte: La citadelle de Bitche couronne un rocher de grès aux parois taillées à pic, au milieu des Vosges du Nord. Ses souterrains, creusés dans la roche, mettent une garnison entière à l'abri des bombes. Elle commande la route et, depuis la fin de 1869, la voie ferrée de Haguenau à Sarreguemines. Son commandant, [[commandant-teyssier|le commandant Teyssier]], un blessé de Sébastopol et de Montebello versé à l'état-major des places, n'y est arrivé qu'en juillet 1870. Au soir de [[bataille-de-froeschwiller-woerth|Frœschwiller]], le 6 août, il voit refluer vers lui les débris de l'armée de Mac-Mahon. Il en garde 1 200, isolés de soixante-dix corps différents, qu'il ajoute à ses 800 hommes du 86e de ligne, à 250 artilleurs, 200 douaniers, 250 gardes nationaux et quelques gendarmes : moins de 3 000 hommes.
+texte: Les Bavarois se présentent le 8 août et somment la place ; Teyssier refuse. Un premier bombardement, le 23 août, n'obtient rien. Le parc de siège arrive en septembre : du 11 au 21, dix jours de feu ruinent tous les bâtiments du plateau, sauf la chapelle, et incendient une grande partie de la ville basse. La garnison, sous le roc, n'a presque pas souffert. Les assiégeants en tirent la conséquence : l'[[artillerie-de-siege|artillerie de siège]], inutile ici, est retirée, et à partir du 25 septembre Bitche n'est plus que bloquée par des forces réduites. Dès le 10 octobre, on ne tire presque plus de part et d'autre.
+texte: L'hiver se passe ainsi, la place coupée de tout, vivant sur ses magasins. Le 1er février 1871, les Allemands notifient à Teyssier l'[[armistice-de-1871|armistice]] ; il répond qu'il n'a d'ordre à recevoir que de son gouvernement. Les [[preliminaires-de-versailles|préliminaires de paix]] du 26 février rangent Bitche dans le territoire cédé ; il ne bouge pas davantage. L'ordre officiel d'évacuation finit par arriver. Le 23 mars, une convention est conclue avec le colonel bavarois Kohlermann. Le 25 et le 26, la garnison sort avec ses armes et ses drapeaux, dispensée de défiler devant l'ennemi, et Teyssier remet les clés : la place a tenu deux cent trente jours. Deux mois après la reddition de Paris, c'est la dernière garnison française à quitter son poste.
+texte: Le siège a fait 186 morts du côté français, 23 du côté allemand. Bitche, annexée avec le reste de l'[[alsace-lorraine|Alsace-Lorraine]], reste allemande jusqu'en 1918 ; la ville reçoit la Légion d'honneur en 1919. Le nom de Teyssier est gravé au Panthéon, à côté de celui de [[denfert-rochereau|Denfert-Rochereau]], sous l'urne qui renferme le cœur de Gambetta.
+repere: 6 août 1870 — Après Frœschwiller, des fuyards de l'armée de Mac-Mahon se réfugient à Bitche.
+repere: 8 août 1870 — Première sommation des Bavarois, repoussée par Teyssier.
+repere: 23 août 1870 — Premier bombardement de la citadelle et de la ville.
+repere: 11-21 septembre 1870 — Dix jours de bombardement par l'artillerie de siège ; la ville brûle.
+repere: 25 septembre 1870 — Les Allemands renoncent à l'attaque et s'en tiennent au blocus.
+repere: 1er février 1871 — L'armistice est notifié à Teyssier, qui refuse de quitter la place sans ordre.
+repere: 23 mars 1871 — Convention d'évacuation avec le colonel Kohlermann.
+repere: 26 mars 1871 — La garnison a quitté Bitche avec les honneurs de la guerre.
+attention: « La place qui ne fut jamais prise » : c'est vrai, mais les sept mois du siège ne sont pas sept mois de combat. Après le bombardement de septembre, les Allemands ont cessé d'attaquer une citadelle qui ne gênait plus leurs communications, et le blocus a tourné à la trêve de fait. Quant aux « 20 000 Bavarois » des récits français, les sources allemandes n'en comptent jamais plus de 7 000.
+issue: place non prise, évacuée sur ordre du gouvernement
+effectifs: 3000 | 7000
+pertes: 186 | 85
+chefs: Louis-Casimir Teyssier | le colonel Kohlermann
+chiffres: Garnison : un peu moins de 3 000 hommes. Assiégeants : jusqu'à 7 000 Bavarois selon les sources allemandes, 20 000 selon la tradition française. Pertes : 186 morts français d'après le décompte repris à Bitche (les sources allemandes parlent de 93 morts dans les hôpitaux de la ville et d'un nombre inconnu à la citadelle) ; 23 morts et 62 blessés allemands. Les dates du bombardement varient : du 23 août au 21 septembre pour les uns, dix jours du 11 au 21 septembre pour les autres. La sortie de la garnison est datée du 25, du 26 ou du 27 mars.
+geo: 49.0528, 7.4311
+lieu: Bitche, Moselle, France
+lien: wp Citadelle de Bitche
+lien: wp Louis-Casimir Teyssier
+lien: de Zitadelle von Bitsch
+sources: Wikipédia (fr : Bitche, Louis-Casimir Teyssier ; de : Zitadelle von Bitsch)
+voir: commandant-teyssier, siege-de-belfort, siege-de-phalsbourg, lichtenberg-et-la-petite-pierre, bataille-de-froeschwiller-woerth, places-fortes-en-1870, alsace-lorraine
+
+# ── Les petites places d'Alsace et de Lorraine ─────────────────────────────
+
+@ siege-de-phalsbourg
+cat: sieges
+nom: Siège de Phalsbourg
+alias: Pfalzburg, Belagerung von Pfalzburg, commandant Taillant, désarmés mais non vaincus
+dates: 10 août – 12 décembre 1870
+quand: 1870-08-10
+jusqu: 1870-12-12
+def: Petite place de Vauban au débouché du col de Saverne, sur la route de Strasbourg à Nancy, Phalsbourg refuse de se rendre au lendemain de Frœschwiller. Bombardée puis bloquée, elle tient quatre mois sous le commandant Taillant et n'ouvre ses portes que le 12 décembre 1870, faute de vivres.
+texte: Phalsbourg, alors dans la Meurthe, est une petite place de Vauban au débouché du col de Saverne : elle garde la grande route de Strasbourg à Nancy et à Paris. Le 6 août au soir, quand refluent les débris de l'armée de [[mac-mahon|Mac-Mahon]] battue à [[bataille-de-froeschwiller-woerth|Frœschwiller]], le commandant de la place, le chef de bataillon Pierre Taillant, retient 330 isolés. Avec quatre compagnies du 63e de ligne, 750 [[garde-mobile|mobiles]] de la Meurthe à peine équipés, une cinquantaine d'artilleurs et une centaine de gardes nationaux, il a environ 1 900 hommes, et des remparts armés de quarante vieux canons, dont quinze du temps de Louis XIV.
+texte: Le XIe corps allemand, en route vers la Lorraine, le somme de se rendre ; Taillant refuse. Le 14 août, l'artillerie du VIe corps tire de 7 h à 18 h et la ville flambe. Mais l'armée allemande ne s'attarde pas : le soir même, elle reprend sa marche et ne laisse devant la place que deux bataillons et un escadron, bientôt relevés par des troupes de seconde ligne. Phalsbourg n'est plus que bloquée. La garnison multiplie les sorties ; cinq bombardements, au total, détruisent ou incendient les deux tiers de la ville.
+texte: Le 12 décembre, la dernière ration est consommée et la moitié de la garnison est à l'hôpital. Taillant fait enclouer les canons, détruire les munitions, et écrit au major von Giese, qui commande le blocus : « Les portes de Phalsbourg sont ouvertes. Vous nous y trouverez désarmés, mais non vaincus. » Les Allemands prennent 52 officiers, 1 839 hommes et 65 canons. Annexée en 1871 avec l'[[alsace-lorraine|Alsace-Lorraine]], la ville reçoit la Légion d'honneur en 1919. Entre-temps, *Le Tour de la France par deux enfants* (1877) l'a rendue célèbre : ses deux héros en partent, orphelins d'un charpentier blessé pendant le siège.
+repere: 6 août 1870 — Au soir de Frœschwiller, des isolés de l'armée de Mac-Mahon se réfugient dans la place.
+repere: 10 août 1870 — Première sommation allemande ; Taillant refuse.
+repere: 14 août 1870 — Bombardement de 7 h à 18 h, la ville brûle ; le soir, le VIe corps reprend sa marche vers l'ouest.
+repere: 12 décembre 1870 — Les vivres épuisés, Taillant ouvre les portes de la place.
+repere: 15 décembre 1870 — Taillant, qui refuse de s'engager à ne plus servir, part en captivité à Coblence.
+repere: 22 août 1919 — Raymond Poincaré remet à Phalsbourg la croix de la Légion d'honneur.
+attention: Phalsbourg n'a pas arrêté l'invasion : le gros des Allemands l'a dépassée en quatre jours, et pendant quatre mois elle n'a retenu que quelques bataillons. Le mot « J'accepte le bombardement », prêté à Taillant le jour de la première sommation, vient des récits français du siège ; sa lettre du 12 décembre, elle, est citée partout dans les mêmes termes.
+issue: capitulation, faute de vivres
+effectifs: 1900 | ?
+canons: 65 | ?
+chefs: Pierre Taillant | le major von Giese
+chiffres: Garnison : environ 1 900 hommes d'après le détail des unités, 1 700 selon d'autres décomptes ; à la reddition, 52 officiers et 1 839 hommes faits prisonniers, 65 canons pris (40 au début du siège). Les troupes du blocus, quelques bataillons, ne sont pas chiffrées, pas plus que les pertes. La première sommation est datée du 10 août par les sources françaises, du 12 par l'historique du XIe corps allemand.
+geo: 48.7686, 7.2592
+lieu: Phalsbourg, Moselle, France
+lien: wp Siège de Phalsbourg (1870)
+lien: wp Pierre Taillant
+sources: Wikipédia (fr : Siège de Phalsbourg (1870), Pierre Taillant ; en : Siege of Phalsbourg ; de : XI. Armee-Korps (Deutsches Kaiserreich))
+voir: siege-de-bitche, lichtenberg-et-la-petite-pierre, bataille-de-froeschwiller-woerth, siege-de-strasbourg, garde-mobile, alsace-lorraine, places-fortes-en-1870
+
+@ lichtenberg-et-la-petite-pierre
+cat: sieges
+nom: Lichtenberg et La Petite-Pierre
+alias: Lützelstein, château de Lichtenberg, siège de Lichtenberg, Belagerung von Lichtenberg, forts des Vosges du Nord
+dates: 9-10 août 1870
+quand: 1870-08-09
+jusqu: 1870-08-10
+def: Deux châteaux forts des Vosges du Nord, sur les passages d'Alsace en Lorraine. Au lendemain de Frœschwiller, La Petite-Pierre est évacuée sans combat ; Lichtenberg, bombardé et incendié par les Wurtembergeois le 9 août 1870, capitule le lendemain matin.
+texte: Lichtenberg et La Petite-Pierre sont deux châteaux du Moyen Âge devenus places royales sous Louis XIV, quand la plupart des châteaux d'Alsace étaient abandonnés ou rasés. En 1870, ce sont des postes de montagne, bons contre un parti de cavalerie, pas contre une armée. Après [[bataille-de-froeschwiller-woerth|Frœschwiller]], la [[armees-allemandes-en-campagne|IIIe armée]] du [[kronprinz-frederic-guillaume|Kronprinz]] franchit les Vosges par plusieurs routes pour gagner la Lorraine : les deux forts sont sur son chemin, isolés.
+texte: La Petite-Pierre n'attend pas l'ennemi. Sa garnison évacue le fort en y laissant canons et vivres, et les Allemands y entrent sans résistance ; le bulletin militaire daté de Sarrebruck l'annonce le 10 août à 22 h. Lichtenberg, sur sa butte isolée à l'entrée des montagnes, résiste. Le 9 août, une colonne wurtembergeoise, deux bataillons de chasseurs et leur artillerie sous le général von Hügel, prend le village et somme le château, tenu par moins de 300 hommes sous un sous-lieutenant du 96e de ligne, Archer, qui refuse. Les pièces de 4 ne font presque rien. Les Wurtembergeois se retirent déjà, laissant un bataillon en observation, dont le chef, le lieutenant-colonel Steiger, est mortellement blessé, quand le feu prend aux toits du château : l'artillerie revient et tire jusqu'à la nuit. Le drapeau blanc est hissé, la capitulation conclue au matin du 10 août : 280 prisonniers, dont 3 officiers.
+texte: L'incendie a ruiné le château, qui ne servira plus de forteresse ; c'est l'administration allemande qui le classe monument historique en 1878. Au village, une tombe française, une tombe allemande, une stèle des Wurtembergeois et celle de Steiger rappellent le combat. Quant à La Petite-Pierre, un sergent et vingt-cinq hommes du 96e venus de là comptent parmi les défenseurs de [[siege-de-phalsbourg|Phalsbourg]].
+repere: 6 août 1870 — Frœschwiller perdue, les forts des Vosges du Nord sont coupés de l'armée.
+repere: 9 août 1870, matin — Les Wurtembergeois occupent le village de Lichtenberg et somment le château.
+repere: 9 août 1870, après-midi — Bombardement ; le château prend feu.
+repere: 10 août 1870, matin — Capitulation de Lichtenberg ; le bulletin de Sarrebruck annonce le soir que La Petite-Pierre a été évacuée.
+repere: 1878 — L'administration allemande classe les ruines de Lichtenberg monument historique.
+attention: On lit que Lichtenberg a tenu trois jours, « du 7 au 9 août » : le télégramme wurtembergeois ne connaît qu'un bombardement, l'après-midi du 9, et une capitulation le lendemain matin. Ce n'était pas une place capable de soutenir un siège, mais un vieux château dont les toits ont pris feu sous les obus.
+issue: capitulation (Lichtenberg), évacuation (La Petite-Pierre)
+effectifs: 280 | ?
+pertes: ? | 19
+chefs: le sous-lieutenant Archer | Hermann von Hügel
+chiffres: 280 prisonniers, dont 3 officiers, d'après le télégramme du major Steinheil au ministre de la Guerre wurtembergeois, publié le 13 août 1870 ; la Wikipédia anglaise parle de « centaines » de prisonniers, dont 30 officiers, chiffre sans appui. Pertes wurtembergeoises : le lieutenant-colonel Steiger et 6 hommes tués, un capitaine et 11 hommes blessés ; pertes françaises inconnues. La colonne de Hügel, environ deux bataillons et trois batteries, n'est pas chiffrée en hommes.
+geo: 48.9211, 7.4872
+lieu: Lichtenberg, Bas-Rhin, France
+lien: wp Château de Lichtenberg (Alsace)
+lien: wp Château de La Petite-Pierre
+lien: en Siege of Lichtenberg
+sources: Wikipédia (fr : Château de Lichtenberg (Alsace), Lichtenberg (Bas-Rhin), Château de La Petite-Pierre ; de : Burg Lichtenberg (Elsass), La Petite-Pierre ; en : Siege of Lichtenberg) ; *Karlsruher Zeitung*, 12 et 13 août 1870 (Badische Landesbibliothek) ; F. Gueringer, « Les événements clés des combats de 1870 en Alsace », Collectivité européenne d'Alsace
+voir: siege-de-phalsbourg, siege-de-bitche, bataille-de-froeschwiller-woerth, kronprinz-frederic-guillaume, etats-allemands-du-sud, sur-les-champs-de-bataille-d-alsace, places-fortes-en-1870
+
+@ siege-de-toul
+cat: sieges
+nom: Siège de Toul
+alias: Belagerung von Toul, commandant Huck, verrou de la ligne de l'Est
+dates: 16 août – 23 septembre 1870
+quand: 1870-08-16
+jusqu: 1870-09-23
+def: Petite place bastionnée sur la Moselle, Toul barre la voie ferrée de Strasbourg à Paris, dont les Allemands ont besoin pour ravitailler leurs armées. Elle repousse un coup de main le 16 août 1870 et ne capitule que le 23 septembre, après une journée de bombardement.
+texte: Toul, alors dans la Meurthe, n'est qu'une enceinte de Vauban dominée au nord par le mont Saint-Michel, mais la ligne de Strasbourg à Paris passe au pied de ses remparts : tant qu'elle tient, la grande artère de l'Est est coupée pour l'envahisseur. Le commandant de place, le chef de bataillon Huck, a environ 2 300 hommes : des [[garde-mobile|mobiles]] de la Meurthe, 500 soldats du 63e de ligne, des isolés de l'armée en retraite, des cuirassiers et des hommes du train.
+texte: Le 14 août, des dragons de la Garde prussienne somment la place ; Huck les renvoie. Le 16, l'avant-garde du IVe corps de Gustav von Alvensleben tente un coup de main : deux batteries tirent sur les remparts, l'infanterie s'avance jusqu'au fossé, mais le pont-levis est levé et l'on ne trouve aucun passage. L'attaque est abandonnée dans l'après-midi ; elle a coûté près de 200 hommes. La place n'est plus qu'observée, puis bombardée sans effet le 10 septembre avec des canons pris à Marsal.
+texte: Quand l'armée allemande s'installe devant [[siege-de-paris|Paris]], la ligne devient vitale. [[grand-duc-de-mecklembourg|Le grand-duc de Mecklembourg]] arrive de Metz avec la 17e division ; 26 pièces lourdes viennent de Nancy par le train. Le 23 septembre à 5 h 30, onze batteries de siège, 62 canons et obusiers, ouvrent le feu ; casernes et magasins brûlent. À 15 h 30, le drapeau blanc flotte sur la cathédrale. 109 officiers et 2 240 hommes sont faits prisonniers ; 71 canons, 30 000 fusils et cent tonnes de poudre sont pris. La garnison a perdu 26 tués et 88 blessés, la ville 8 civils. L'[[artillerie-de-siege|artillerie de siège]] repart aussitôt contre [[siege-de-soissons|Soissons]], et les pièces prises à Toul serviront contre [[siege-de-verdun|Verdun]].
+repere: 14 août 1870 — Des dragons de la Garde prussienne somment la place ; le commandant Huck refuse.
+repere: 16 août 1870 — Le coup de main du IVe corps échoue au pied des remparts.
+repere: 10 septembre 1870 — Bombardement par des pièces prises à Marsal ; la contre-batterie française le fait cesser.
+repere: 17-18 septembre 1870 — Vingt-six pièces lourdes arrivent de Nancy par le chemin de fer.
+repere: 23 septembre 1870, 5 h 30 — Onze batteries de siège ouvrent le feu.
+repere: 23 septembre 1870, 15 h 30 — Le drapeau blanc est hissé sur la cathédrale ; la garnison est prisonnière.
+attention: La chute de Toul n'a pas ouvert d'un coup aux Allemands la voie ferrée de Paris : plus à l'ouest, un tunnel détruit coupait encore la ligne. Mais elle levait le principal obstacle, et la tête de ligne allemande, avec les [[chemins-de-fer|trains]] de munitions et de vivres, s'est rapprochée des assiégeants de Paris.
+issue: capitulation
+effectifs: 2375 | ?
+canons: 71 | 62
+pertes: 114 | 232
+chefs: le chef de bataillon Huck | Frédéric-François II de Mecklembourg-Schwerin
+chiffres: Garnison : 2 375 hommes selon les sources allemandes, dont 109 officiers et 2 240 hommes faits prisonniers. Pertes : 26 tués et 88 blessés français, plus 8 civils tués et 20 blessés ; côté allemand, 197 tués, blessés et disparus le 16 août, 35 ensuite. Les « 700 victimes » allemandes d'un assaut bavarois, que donne la page française de Wikipédia, ne sont pas confirmées. Canons : 71 pièces de place ; 62 pièces de siège le 23 septembre.
+geo: 48.6750, 5.8917
+lieu: Toul, Meurthe-et-Moselle, France
+lien: wp Siège de Toul
+lien: de Belagerung von Toul
+lien: en Siege of Toul
+sources: Wikipédia (fr : Siège de Toul ; de : Belagerung von Toul ; en : Siege of Toul)
+voir: chemins-de-fer, grand-duc-de-mecklembourg, siege-de-strasbourg, siege-de-soissons, siege-de-verdun, siege-de-paris, artillerie-de-siege, places-fortes-en-1870
+
+@ siege-de-selestat
+cat: sieges
+nom: Siège de Sélestat
+alias: Schlettstadt, Schlestadt, Belagerung von Schlettstadt
+dates: 20-24 octobre 1870
+quand: 1870-10-20
+jusqu: 1870-10-24
+def: Place de Vauban de la plaine d'Alsace, sur la voie ferrée de Strasbourg à Bâle, Sélestat est investie en octobre 1870 par la Landwehr du général von Schmeling. Quatre jours d'attaque en règle suffisent : la ville capitule le 24 octobre, au milieu du pillage.
+texte: Sélestat, 10 000 habitants, est une place de Vauban sur l'Ill, entre Strasbourg et Colmar ; la voie ferrée de Strasbourg à Bâle longe son front ouest. Après la chute de [[siege-de-strasbourg|Strasbourg]], il ne reste aux Français, en Alsace, que [[siege-de-belfort|Belfort]] et deux places de la plaine, Sélestat et [[siege-de-neuf-brisach|Neuf-Brisach]]. Pour les réduire, la division de réserve du général von Schmeling, de la [[landwehr|Landwehr]] prussienne, passe le Rhin à Neuenburg au début d'octobre ; une brigade investit Sélestat, et l'on amène de Strasbourg un parc de 56 pièces lourdes.
+texte: La place, protégée par un fossé plein d'eau et par des inondations à l'est et au sud, a 120 canons, mais 2 000 hommes seulement, des [[garde-mobile|mobiles]] pour la plupart, et presque pas de casemates. Les Allemands attaquent par l'ouest, où vignes et haies couvrent l'approche et où le remblai du chemin de fer leur offre une tranchée toute faite. Le 20 octobre, une batterie tire sur les casernes et sur l'écluse qui retient l'inondation ; dans la nuit du 21 au 22, la première parallèle est creusée derrière la voie ferrée, à 400 pas du glacis. Le 22, vingt pièces lourdes et huit mortiers engagent le duel ; la ville brûle en plusieurs points et le feu de la place s'éteint peu à peu.
+texte: À l'aube du 24 octobre, le drapeau blanc flotte. Le commandant, de Reinach, prie les Allemands d'entrer sans attendre : des soldats ivres et des pillards mettent à sac les bâtiments publics, et une poudrière brûle. Les assiégeants rétablissent l'ordre et emmènent plus de 2 000 prisonniers ; ils prennent 120 canons et 7 000 fusils, pour une vingtaine d'hommes hors de combat. Un monument dédié « Den tapferen Kriegern beider Nationen », aux vaillants soldats des deux nations, rappelle 25 Français et 23 Allemands.
+repere: début octobre 1870 — La division de réserve du général von Schmeling passe le Rhin à Neuenburg.
+repere: 20 octobre 1870 — Une batterie allemande tire sur les casernes et sur l'écluse de l'inondation.
+repere: nuit du 21 au 22 octobre 1870 — La première parallèle est creusée derrière le remblai du chemin de fer.
+repere: 22 octobre 1870 — Duel d'artillerie ; la ville brûle en plusieurs points.
+repere: 24 octobre 1870, à l'aube — Drapeau blanc ; la place capitule avec sa garnison.
+issue: capitulation
+effectifs: 2000 | ?
+canons: 120 | 56
+pertes: ? | 20
+chefs: de Reinach | Wilhelm von Schmeling
+chiffres: Garnison : 2 000 hommes selon Moltke et la Wikipédia française, 2 000 à 2 400 prisonniers selon les sources. Assiégeants : huit bataillons, deux escadrons et deux batteries, plus douze compagnies d'artillerie de forteresse et quatre de pionniers ; parc de 56 pièces lourdes, dont vingt canons et huit mortiers en action le 22 octobre. Pertes allemandes : une vingtaine d'hommes ; pertes françaises inconnues (« une cinquantaine de morts » selon la Wikipédia française). Le blocus a commencé plus tôt en octobre, à une date que les sources consultées ne précisent pas.
+geo: 48.2594, 7.4542
+lieu: Sélestat, Bas-Rhin, France
+lien: en Siege of Sélestat
+lien: url https://www.gutenberg.org/ebooks/36209 = Moltke, The Franco-German War of 1870-71 (traduction anglaise, Project Gutenberg)
+sources: Moltke, *The Franco-German War of 1870-71* (trad. revue par Archibald Forbes, 1893, Project Gutenberg) ; Wikipédia (fr : Sélestat ; en : Siege of Sélestat ; de : Wilhelm von Schmeling) ; F. Gueringer, « Les événements clés des combats de 1870 en Alsace », Collectivité européenne d'Alsace
+voir: siege-de-neuf-brisach, siege-de-strasbourg, siege-de-belfort, landwehr, garde-mobile, artillerie-de-siege, places-fortes-en-1870
+
+@ siege-de-neuf-brisach
+cat: sieges
+nom: Siège de Neuf-Brisach
+alias: Neubreisach, Neu-Breisach, fort Mortier, Belagerung von Neubreisach
+dates: 7 octobre – 10 novembre 1870
+quand: 1870-10-07
+jusqu: 1870-11-10
+def: L'octogone de Vauban qui garde le Rhin face à Vieux-Brisach est investi le 7 octobre 1870 par la Landwehr du général von Schmeling. Le fort Mortier tombé, la place, bombardée neuf jours, capitule le 10 novembre ; ses plus de 5 000 défenseurs sortent avec les honneurs de la guerre.
+texte: Neuf-Brisach est la dernière œuvre de Vauban : un octogone régulier bâti dans la plaine à partir de 1698, pour remplacer Brisach, la forteresse de la rive droite rendue à l'Empire. Près du Rhin, le fort Mortier, fait pour se défendre seul, commande les approches du front nord-ouest. En 1870, la place a vieilli mais reste solide : ses fossés secs sont revêtus de maçonnerie, et les casemates de ses demi-lunes abritent une garnison de plus de 5 000 hommes, sous le lieutenant-colonel de Kerhor, avec 108 canons.
+texte: Le 7 octobre, la [[landwehr|Landwehr]] de Prusse-Orientale du général von Schmeling l'investit ; ses batteries de campagne tirent sans effet. Il faut attendre la chute de [[siege-de-selestat|Sélestat]] pour que l'[[artillerie-de-siege|artillerie de siège]] arrive, à la fin d'octobre. Sur la rive badoise, à Vieux-Brisach, douze pièces lourdes venues de Rastatt battent le fort Mortier à bonne portée. Le 2 novembre, 24 pièces lourdes ouvrent le feu depuis Wolfgantzen, Biesheim et Vieux-Brisach ; l'après-midi, une grande partie de la ville brûle. Le fort Mortier, en ruine, repousse un assaut, puis se rend : il ne lui reste qu'un canon en état de tirer.
+texte: Deux batteries de mortiers s'ajoutent, la défense faiblit, et le 10 novembre Neuf-Brisach capitule. La garnison sort avec les honneurs de la guerre avant de partir en captivité : 100 officiers et 4 700 hommes. Les remparts sont presque intacts, mais sur 280 maisons, 60 sont détruites et 15 seulement indemnes ; réfugiés dans les casemates, les habitants n'ont eu ni tué ni blessé. Les Allemands, qui ont perdu 70 hommes, prennent 108 canons et 6 000 fusils. En Alsace, il ne reste plus aux Français que [[siege-de-belfort|Belfort]]. Le musée Vauban de Neuf-Brisach expose des documents et des photographies du siège.
+repere: 7 octobre 1870 — La Landwehr de Prusse-Orientale investit Neuf-Brisach ; ses canons de campagne tirent sans effet.
+repere: fin octobre 1870 — L'artillerie de siège arrive de Sélestat.
+repere: 2 novembre 1870 — Vingt-quatre pièces lourdes ouvrent le feu ; la ville brûle.
+repere: 7 novembre 1870 — Le fort Mortier, en ruine, capitule.
+repere: 10 novembre 1870 — Capitulation de Neuf-Brisach ; la garnison sort avec les honneurs de la guerre.
+attention: Les Allemands n'ont pas fait brèche : à la capitulation, les remparts de Vauban étaient presque intacts et la ville en grande partie brûlée. Comme à Strasbourg, la place a cédé au bombardement des maisons et à l'impuissance de son artillerie, non à un assaut.
+issue: capitulation avec les honneurs de la guerre
+effectifs: 5000 | 15000
+canons: 108 | 24
+pertes: ? | 70
+chefs: le lieutenant-colonel de Kerhor | Wilhelm von Schmeling
+chiffres: Garnison : plus de 5 000 hommes selon Moltke, 5 500 selon les Wikipédias française et allemande ; 100 officiers et 4 700 hommes faits prisonniers. Assiégeants : la 4e division de réserve, environ 15 000 hommes, qui assiège aussi Sélestat jusqu'au 24 octobre. Pertes allemandes : 70 hommes ; pertes françaises inconnues. Le fort Mortier capitule le 7 novembre selon la Wikipédia anglaise, alors que le récit resserré de Moltke laisse croire au soir du 2. Le début du siège est daté du 7 octobre par Moltke et la page allemande, du 1er septembre par la page française, du 13 octobre (investissement complet) par l'anglaise.
+geo: 48.0189, 7.5292
+lieu: Neuf-Brisach, Haut-Rhin, France
+lien: wp Neuf-Brisach
+lien: wp Fort Mortier
+lien: url https://www.gutenberg.org/ebooks/36209 = Moltke, The Franco-German War of 1870-71 (traduction anglaise, Project Gutenberg)
+sources: Moltke, *The Franco-German War of 1870-71* (trad. revue par Archibald Forbes, 1893, Project Gutenberg) ; Wikipédia (fr : Neuf-Brisach, Fort Mortier ; de : Neuf-Brisach, Wilhelm von Schmeling ; en : Siege of Neu-Breisach)
+voir: siege-de-selestat, siege-de-strasbourg, siege-de-belfort, landwehr, artillerie-de-siege, places-fortes-en-1870, alsace-lorraine
+
+# ── Les places de la Meuse, de la Moselle et des Ardennes ────────────────────
+
+@ siege-de-verdun
+cat: sieges
+nom: Siège de Verdun
+alias: Belagerung von Verdun, général Guérin de Waldersbach, côte de Hayvaux
+dates: 24 août – 8 novembre 1870
+quand: 1870-08-24
+jusqu: 1870-11-08
+def: Place forte de la Meuse qui barre aux Allemands leur plus courte voie ferrée vers l'Allemagne, Verdun repousse une attaque le 24 août 1870, gagne en octobre le duel d'artillerie et ne capitule que le 8 novembre, après la chute de Metz, à des conditions rares.
+texte: Verdun, place bastionnée flanquée d'une citadelle dans la vallée de la Meuse, est cernée de hauteurs. Elle barre la voie ferrée qui serait, pour les Allemands, la plus courte liaison avec leur pays. Le 24 août, les Saxons de l'[[armees-allemandes-en-campagne|armée de la Meuse]] tentent de l'enlever au passage ; leurs canons de campagne n'obtiennent rien. La place n'est plus qu'observée, et sa garnison grossit de soldats évadés après [[bataille-de-sedan|Sedan]] : en octobre, le général Guérin de Waldersbach commande 6 000 hommes et 140 canons.
+texte: À la fin de septembre, le général von Gayl s'établit devant le front est avec un régiment d'infanterie et douze compagnies de [[landwehr|Landwehr]] ; on lui amène des pièces lourdes françaises prises à [[siege-de-toul|Toul]] et à Sedan. Le 13 octobre au matin, 52 canons ouvrent le feu, mais la place répond si bien qu'avant midi deux batteries de la côte de Hayvaux sont réduites au silence. En trois jours, quinze pièces allemandes sont hors de service et l'assiégeant perd cent hommes. La garnison, plus nombreuse que lui, passe à l'attaque : dans la nuit du 19 au 20 octobre, elle encloue les canons de Hayvaux ; le 28, elle ruine les batteries du mont Saint-Michel.
+texte: La capitulation de [[siege-de-metz|Metz]], le 27 octobre, change tout : la Ire armée envoie des renforts et le parc de siège atteint 102 canons. Guérin de Waldersbach n'attend pas l'attaque en règle : le 8 novembre, il signe une capitulation peu commune. La garnison est prisonnière, mais pas la garde nationale de la ville ; les officiers restent libres sur parole avec leur épée, et le matériel de guerre doit être rendu à la paix. Verdun sera la dernière ville évacuée lors de la [[liberation-du-territoire|libération du territoire]], le 13 septembre 1873.
+repere: 24 août 1870 — Les Saxons de l'armée de la Meuse échouent à enlever Verdun au passage.
+repere: fin septembre 1870 — Le général von Gayl s'établit devant le front est.
+repere: 13 octobre 1870 — Cinquante-deux pièces allemandes ouvrent le feu ; l'artillerie de la place l'emporte.
+repere: nuit du 19 au 20 octobre 1870 — Une sortie encloue les canons allemands de la côte de Hayvaux.
+repere: 28 octobre 1870 — Grande sortie sur le mont Saint-Michel et la côte de Hayvaux.
+repere: 8 novembre 1870 — Capitulation, à des conditions exceptionnelles.
+repere: 13 septembre 1873 — Les dernières troupes d'occupation quittent Verdun.
+attention: Verdun n'a pas cédé à la force : elle avait gagné le duel d'artillerie d'octobre, et c'est la chute de Metz, en libérant contre elle les renforts et les canons de la Ire armée, qui l'a condamnée. Les Allemands ont payé sa reddition rapide de conditions qu'ils n'accordaient guère : garde nationale libre, matériel rendu à la paix.
+issue: capitulation
+effectifs: 6000 | ?
+canons: 140 | 102
+chefs: Guérin de Waldersbach | von Gayl
+chiffres: Garnison : 6 000 hommes et 140 canons selon Moltke, évadés de Sedan compris. Assiégeants : un régiment et douze compagnies de Landwehr en octobre, moins nombreux que la garnison, rejoints en novembre par cinq bataillons et de l'artillerie ; 52 pièces le 13 octobre, 102 en novembre. Pertes : les Allemands perdent cent hommes et quinze pièces dans le duel des 13-15 octobre ; les totaux du siège ne sont pas connus. La Wikipédia anglaise nomme « Marnier » le chef des sorties ; nom non vérifié.
+geo: 49.1577, 5.3764
+lieu: Verdun, Meuse, France
+lien: wp Place fortifiée de Verdun
+lien: en Siege of Verdun (1870)
+lien: url https://www.gutenberg.org/ebooks/36209 = Moltke, The Franco-German War of 1870-71 (traduction anglaise, Project Gutenberg)
+sources: Moltke, *The Franco-German War of 1870-71* (trad. revue par Archibald Forbes, 1893, Project Gutenberg) ; Wikipédia (fr : Verdun, Place fortifiée de Verdun ; en : Siege of Verdun (1870))
+voir: siege-de-metz, siege-de-toul, siege-de-montmedy, siege-de-mezieres, albert-de-saxe, landwehr, liberation-du-territoire, places-fortes-en-1870
+
+@ siege-de-thionville
+cat: sieges
+nom: Siège de Thionville
+alias: Diedenhofen, Belagerung von Diedenhofen, colonel Turnier
+dates: 14 août – 24 novembre 1870
+quand: 1870-08-14
+jusqu: 1870-11-24
+def: Petite place de la Moselle au nord de Metz, sur les voies ferrées du Luxembourg et des Ardennes, Thionville repousse un coup de main le 14 août 1870, reste bloquée tout l'automne et capitule le 24 novembre, après trois jours de bombardement par 85 pièces.
+texte: Thionville, à une trentaine de kilomètres en aval de Metz, est une petite place bastionnée enserrée de hauteurs, sans abris à l'épreuve des bombes. Au début de la guerre, elle sert de base de ravitaillement au 4e corps de Ladmirault ; elle commande la voie ferrée de Metz vers le Luxembourg et celle des Ardennes, vers Montmédy et Sedan. Le colonel Turnier n'a d'abord qu'un bataillon de garde nationale et quelques cavaliers. Dans la nuit du 13 au 14 août, une brigade prussienne s'approche avec des échelles et des explosifs ; accueillie par la fusillade, arrêtée par une crue de la Moselle, elle se retire.
+texte: Après [[bataille-de-gravelotte|Gravelotte]], quand l'[[armee-du-rhin|armée du Rhin]] s'enferme dans [[siege-de-metz|Metz]], les Allemands bloquent Thionville pour l'empêcher de la soutenir, et somment le Luxembourg voisin de cesser toute aide aux assiégés. La garnison a reçu deux compagnies du 44e de ligne et un bataillon de [[garde-mobile|mobiles]] de la Moselle. Metz tombée, la 14e division du général von Kameke arrive devant la place le 13 novembre. Plutôt qu'une attaque en règle, il choisit un bombardement massif : le 22 novembre au matin, 85 pièces ouvrent le feu des deux rives de la Moselle. La nuit suivante, l'infanterie s'avance à 600 pas du front ouest, sous une pluie battante.
+texte: Le 24 novembre à midi, le commandant demande à négocier. Les 4 000 hommes de la garnison sont faits prisonniers, sauf les gardes nationaux de la ville, renvoyés chez eux ; 199 canons et d'importants approvisionnements sont pris. Les troupes de siège marchent aussitôt contre [[siege-de-montmedy|Montmédy]]. Annexée en 1871, Thionville devient Diedenhofen ; une partie de ses habitants [[optants|opte pour la France]] et s'en va.
+repere: juillet 1870 — Mise en état de siège, Thionville sert de base de ravitaillement au 4e corps.
+repere: nuit du 13 au 14 août 1870 — Un coup de main prussien échoue devant la place.
+repere: fin août 1870 — Après Gravelotte, les Allemands bloquent Thionville.
+repere: 13 novembre 1870 — La 14e division du général von Kameke arrive devant la place.
+repere: 22 novembre 1870 — Quatre-vingt-cinq pièces ouvrent le feu des deux rives de la Moselle.
+repere: 24 novembre 1870, midi — Le commandant demande à capituler.
+attention: On parle de « trois mois de siège » : Thionville a surtout été bloquée. L'attaque proprement dite a duré trois jours, du 22 au 24 novembre, et la place, sans abris contre les obus, ne pouvait pas soutenir longtemps un tel bombardement.
+issue: capitulation
+effectifs: 4000 | ?
+canons: 199 | 85
+chefs: le colonel Turnier | Georg von Kameke
+chiffres: Garnison : 4 000 hommes à la capitulation selon Moltke et la Wikipédia française ; 199 canons pris. Assiégeants : la 14e division, avec 85 pièces le 22 novembre ; effectif non chiffré. Les pertes des deux camps ne sont pas données par les sources consultées.
+geo: 49.3581, 6.1683
+lieu: Thionville, Moselle, France
+lien: wp Siège de Thionville (1870)
+lien: en Siege of Thionville (1870)
+lien: url https://www.gutenberg.org/ebooks/36209 = Moltke, The Franco-German War of 1870-71 (traduction anglaise, Project Gutenberg)
+sources: Wikipédia (fr : Siège de Thionville (1870) ; en : Siege of Thionville (1870)) ; Moltke, *The Franco-German War of 1870-71* (trad. revue par Archibald Forbes, 1893, Project Gutenberg)
+voir: siege-de-metz, siege-de-montmedy, siege-de-longwy, chemins-de-fer, alsace-lorraine, optants, places-fortes-en-1870
+
+@ siege-de-montmedy
+cat: sieges
+nom: Siège de Montmédy
+alias: Belagerung von Montmédy, commandant Tessier, tunnel de Tivoli
+dates: 5 septembre – 14 décembre 1870
+quand: 1870-09-05
+jusqu: 1870-12-14
+def: Petite place de la Meuse près de la frontière belge, sur la voie ferrée des Ardennes, Montmédy est bombardée le 5 septembre 1870, harcèle l'ennemi par ses sorties tout l'automne, puis capitule le 14 décembre après trois jours de feu de la grosse artillerie allemande.
+texte: Montmédy, 3 000 habitants, à six kilomètres de la Belgique, perche sa ville haute, bastionnée par les Espagnols puis par Vauban, à 70 mètres au-dessus de la Chiers ; mais un cercle de hauteurs l'entoure à moins de quatre kilomètres, et elle manque d'abris à l'épreuve des bombes. Elle verrouille la voie ferrée des Ardennes, de Thionville à Sedan, qui passe sous le col de Tivoli par un tunnel de 900 mètres. Sa garnison, de 2 500 à 3 000 hommes, a 65 canons, dont huit rayés.
+texte: Le 5 septembre, au lendemain de [[bataille-de-sedan|Sedan]], l'artillerie de campagne de la Garde prussienne bombarde la ville toute une journée : les deux tiers des maisons sont touchées, les remparts presque pas. Le 11, la garnison enferme locomotives et wagons dans le tunnel et en fait sauter les deux entrées. Renforcée de 600 évadés de Sedan, elle multiplie les sorties ; à Stenay, dans la nuit du 11 au 12 octobre, elle ramène 200 prisonniers. Le 28 octobre, une patrouille recueille l'équipage d'un [[ballons-du-siege|ballon]] parti de Paris. Mais [[siege-de-metz|Metz]] tombe, puis [[siege-de-thionville|Thionville]] : la 14e division du général von Kameke referme le cercle et installe 44 pièces lourdes, dont des mortiers rayés de 21 cm.
+texte: Le feu commence le 12 décembre à 7 h 30. Le 13 et le 14, le brouillard aveugle les canonniers français, les incendies se multiplient, les obus de 21 entament les portes blindées de la poudrière, et des soldats ivres pillent les caves. Le 14 décembre à 2 h, le chef de bataillon Tessier signe la capitulation : la garnison est prisonnière, la garde nationale sédentaire libérée. La voie ferrée de Thionville à Sedan est désormais tout entière aux Allemands, qui ravitaillent par elle le front de Picardie.
+repere: 5 septembre 1870 — L'artillerie de la Garde prussienne bombarde Montmédy pendant une journée.
+repere: 11 septembre 1870 — La garnison fait sauter les deux entrées du tunnel de Tivoli, où sont garés locomotives et wagons.
+repere: nuit du 11 au 12 octobre 1870 — Une sortie sur Stenay ramène 200 prisonniers allemands.
+repere: 16-17 novembre 1870 — La 14e division allemande investit étroitement la place.
+repere: 12 décembre 1870, 7 h 30 — Début du bombardement par la grosse artillerie.
+repere: 14 décembre 1870, 2 h — Le commandant Tessier signe la capitulation.
+attention: Ne pas confondre le chef de bataillon Tessier, qui rendit Montmédy, et le [[commandant-teyssier|commandant Teyssier]], qui ne rendit jamais Bitche. Tessier capitula sans avoir subi d'assaut, contre le règlement de 1863 ; le conseil d'enquête jugea pourtant, en 1872, qu'il avait résisté « autant que ses moyens le lui permettaient », et ne lui reprocha que d'avoir livré intacts ses canons et ses munitions.
+issue: capitulation
+effectifs: 3000 | ?
+canons: 65 | 44
+chefs: le chef de bataillon Tessier | Georg von Kameke
+chiffres: Garnison : 2 500 à 3 000 hommes en septembre, plus 600 évadés de Sedan ; le nombre de prisonniers de décembre n'est pas donné par les sources consultées. Canons : 65 pièces françaises, dont 8 rayées ; côté allemand, 44 pièces lourdes et cinq batteries de campagne, pour dix bataillons, deux escadrons et cinq compagnies de pionniers. Pertes connues : 3 tués et 19 blessés français le 5 septembre, 85 hommes dans la sortie du 16 novembre ; pas de total.
+geo: 49.5203, 5.3667
+lieu: Montmédy, Meuse, France
+lien: wp Siège de Montmédy (1870)
+lien: url https://www.gutenberg.org/ebooks/36209 = Moltke, The Franco-German War of 1870-71 (traduction anglaise, Project Gutenberg)
+sources: Wikipédia (fr : Siège de Montmédy (1870)) ; Moltke, *The Franco-German War of 1870-71* (trad. revue par Archibald Forbes, 1893, Project Gutenberg)
+voir: siege-de-thionville, siege-de-mezieres, siege-de-verdun, bataille-de-sedan, ballons-du-siege, commandant-teyssier, chemins-de-fer, places-fortes-en-1870
+
+@ siege-de-mezieres
+cat: sieges
+nom: Siège de Mézières
+alias: Belagerung von Mézières, Charleville-Mézières, bombardement de Mézières
+dates: 19 décembre 1870 – 1er janvier 1871
+quand: 1870-12-19
+jusqu: 1871-01-01
+def: Place de Vauban sur la Meuse, face à Charleville, Mézières est épargnée trois mois après Sedan, puis attaquée parce qu'elle barre une voie ferrée vers Paris. Investie en décembre 1870, écrasée le 31 décembre par 76 pièces, elle hisse le drapeau blanc le 1er janvier 1871.
+texte: Mézières, dans une boucle de la Meuse face à Charleville, a des remparts remaniés par Vauban, aux saillants nombreux, qu'entoure un cercle de hauteurs : contre l'artillerie rayée, ils ne valent plus grand-chose. Le 31 août, [[general-vinoy|Vinoy]] en approche avec le 13e corps : c'est par là que [[mac-mahon|Mac-Mahon]] compte poursuivre sa retraite. Après [[bataille-de-sedan|Sedan]], Vinoy ramène ses troupes vers Paris. Le commandant de la place fournit alors des vivres de ses magasins pour nourrir la masse des prisonniers de Sedan, et les Allemands le laissent en paix.
+texte: Mais Mézières commande la voie ferrée des Ardennes, dont les Allemands ont besoin pour une nouvelle liaison avec Paris. Elle reste observée tout l'automne, tandis que des [[francs-tireurs]] harcèlent les convois dans les bois. Après la chute de [[siege-de-montmedy|Montmédy]], la 14e division du général von Kameke arrive devant elle le 19 décembre et achève l'investissement le 25. La garnison n'a que 2 000 hommes. Les pièces lourdes libérées par la chute de [[siege-de-verdun|Verdun]] viennent par le train, et les batteries sont creusées dans un sol gelé sur cinquante centimètres, devant le front sud.
+texte: Le 31 décembre à 8 h 15, 68 pièces de siège et 8 canons de campagne ouvrent le feu. La place répond d'abord vigoureusement ; l'après-midi, son artillerie est réduite au silence, et la ville a beaucoup souffert. Le lendemain, 1er janvier 1871, le drapeau blanc est hissé : la garnison est prisonnière, 132 canons et d'importants approvisionnements sont pris. Pour les Allemands, l'essentiel est ailleurs : une nouvelle voie ferrée s'ouvre vers les assiégeants de [[siege-de-paris|Paris]].
+repere: 31 août 1870 — Le 13e corps de Vinoy approche de Mézières, par où Mac-Mahon compte se replier.
+repere: septembre 1870 — Les magasins de la place nourrissent les prisonniers de Sedan ; Mézières n'est pas attaquée.
+repere: 19 décembre 1870 — Après la chute de Montmédy, la 14e division allemande arrive devant Mézières.
+repere: 25 décembre 1870 — L'investissement est complet.
+repere: 31 décembre 1870, 8 h 15 — Soixante-seize pièces allemandes ouvrent le feu ; l'après-midi, la place se tait.
+repere: 1er janvier 1871 — Le drapeau blanc est hissé ; la place capitule.
+attention: La date de la capitulation varie selon les sources : 1er janvier 1871 pour Moltke, 2 janvier pour les Wikipédias française et anglaise ; et l'entrée des Allemands est datée du 2 ou du 7 janvier. Le drapeau blanc a été hissé le 1er, la convention conclue dans la nuit. La Wikipédia anglaise situe par erreur le siège à Mézières-en-Gâtinais, dans le Loiret : il s'agit bien de Mézières des Ardennes, aujourd'hui Charleville-Mézières.
+issue: capitulation
+effectifs: 2000 | ?
+canons: 132 | 76
+chefs: ? | Georg von Kameke
+chiffres: Garnison : 2 000 hommes selon Moltke ; 132 canons pris. Attaque : 68 pièces de siège et 8 canons de campagne le 31 décembre. Pertes non chiffrées par les sources consultées. Le commandant français est nommé « colonel Vernet » par la Wikipédia anglaise, « général Blondeau » par une fiche associative : nom non établi. La Wikipédia anglaise fait commencer le siège au 17 novembre, la page française sur Montmédy parle d'un encerclement dès le 16 novembre ; Moltke ne connaît qu'une observation jusqu'au 19 décembre.
+geo: 49.7609, 4.7165
+lieu: Charleville-Mézières, Ardennes, France
+lien: en Siege of Mézières (1870–1871)
+lien: wp Mézières (Ardennes)
+lien: url https://www.gutenberg.org/ebooks/36209 = Moltke, The Franco-German War of 1870-71 (traduction anglaise, Project Gutenberg)
+sources: Moltke, *The Franco-German War of 1870-71* (trad. revue par Archibald Forbes, 1893, Project Gutenberg) ; Wikipédia (fr : Mézières (Ardennes), Siège de Montmédy (1870) ; en : Siege of Mézières (1870–1871))
+voir: siege-de-montmedy, siege-de-verdun, bataille-de-sedan, general-vinoy, francs-tireurs, chemins-de-fer, places-fortes-en-1870
+
+@ siege-de-longwy
+cat: sieges
+nom: Siège de Longwy
+alias: Belagerung von Longwy, colonel Massaroly, Longwy-Haut
+dates: 16-25 janvier 1871
+quand: 1871-01-16
+jusqu: 1871-01-25
+def: Place de Vauban à la pointe nord de la Lorraine, au contact de la Belgique et du Luxembourg, Longwy, bloquée depuis la fin de novembre 1870, est bombardée à partir du 16 janvier 1871 et capitule le 25, trois jours avant l'armistice.
+texte: Longwy-Haut, la ville neuve que Vauban a bâtie sur son plateau, garde la frontière là où se touchent la France, la Belgique et le Luxembourg. Tant que les Allemands assiègent [[siege-de-montmedy|Montmédy]] et [[siege-de-mezieres|Mézières]], ils se contentent de la surveiller avec de la [[landwehr|Landwehr]], et le colonel von Cosel ne la bloque qu'à partir de la fin de novembre. La garnison, renseignée par les [[francs-tireurs]], lance deux bataillons contre les postes allemands de Tellancourt et de Fresnois-la-Montagne ; elle fait quelques prisonniers, puis est repoussée dans la nuit du 26 au 27 décembre.
+texte: Mézières tombée, l'artillerie de siège vient à Longwy. Du 16 au 19 janvier, des batteries de campagne tirent sur la ville pour masquer la construction des batteries lourdes, qui ouvrent le feu le 19. Le 22, les assiégeants creusent leur parallèle ; le 24, le colonel Massaroly demande à négocier, et le 25 au matin la place capitule. Près de 4 000 hommes sont faits prisonniers, 200 canons sont pris, beaucoup hors d'usage ; les Allemands ont perdu 9 tués et 20 blessés. Trois jours plus tard, l'[[armistice-de-1871|armistice]] est signé à Versailles. Le [[traite-de-francfort|traité de Francfort]] laisse Longwy à la France : elle devient une ville-frontière, à quelques kilomètres de la Moselle annexée.
+repere: fin novembre 1870 — Le colonel von Cosel bloque Longwy.
+repere: nuit du 26 au 27 décembre 1870 — La sortie de la garnison sur Tellancourt et Fresnois-la-Montagne est repoussée.
+repere: 16 janvier 1871 — Des batteries de campagne commencent à tirer sur la ville.
+repere: 19 janvier 1871 — Les batteries de siège ouvrent le feu.
+repere: 24 janvier 1871 — Le colonel Massaroly demande à négocier.
+repere: 25 janvier 1871, matin — Capitulation de Longwy.
+issue: capitulation
+effectifs: 4000 | ?
+canons: 200 | ?
+pertes: ? | 29
+chefs: le colonel Massaroly | le général von Krenski
+chiffres: Prisonniers : près de 4 000 hommes, 200 canons pris, selon la Wikipédia anglaise, qui s'appuie sur des ouvrages allemands traduits ; pertes allemandes : 9 tués et 20 blessés ; pertes françaises inconnues. Le siège est mené par le général von Krenski selon Moltke, par le colonel von Cosel et la 14e division du général von Kameke selon la Wikipédia anglaise. La Wikipédia française fait commencer le siège au 24 août 1870 ; l'anglaise ne connaît qu'un blocus à partir de la fin de novembre.
+geo: 49.5240, 5.7631
+lieu: Longwy, Meurthe-et-Moselle, France
+lien: en Siege of Longwy (1871)
+lien: wp Enceinte de Longwy
+lien: url https://www.gutenberg.org/ebooks/36209 = Moltke, The Franco-German War of 1870-71 (traduction anglaise, Project Gutenberg)
+sources: Wikipédia (fr : Longwy ; en : Siege of Longwy (1871)) ; Moltke, *The Franco-German War of 1870-71* (trad. revue par Archibald Forbes, 1893, Project Gutenberg)
+voir: siege-de-montmedy, siege-de-mezieres, siege-de-thionville, armistice-de-1871, traite-de-francfort, francs-tireurs, places-fortes-en-1870
+
+# ── Les places de l'Aisne et de la Somme ───────────────────────────────────
+
+@ siege-de-soissons
+cat: sieges
+nom: Siège de Soissons
+alias: Belagerung von Soissons, lieutenant-colonel de Noue, mont Marion
+dates: 11 septembre – 16 octobre 1870
+quand: 1870-09-11
+jusqu: 1870-10-16
+def: Place de l'Aisne qui empêche les Allemands de prolonger au-delà de Reims la voie ferrée de leur ravitaillement, Soissons, défendue surtout par des mobiles et des dépôts, est investie le 6 octobre 1870, bombardée quatre jours et livrée le 16 octobre.
+texte: Soissons, sur l'Aisne, a une enceinte de huit mètres de haut que la retenue de la Crise protège au sud ; mais au sud-ouest le fossé est sec, et le mont Marion, à moins de deux kilomètres, domine la ville d'une centaine de mètres. Les régiments de ligne sont partis en juillet ; le lieutenant-colonel de Noue commande des [[garde-mobile|mobiles]] de l'Aisne, le dépôt du 15e de ligne grossi d'évadés de [[bataille-de-sedan|Sedan]], des gardes nationaux et une batterie. La place gêne les Allemands : elle leur interdit de prolonger au-delà de Reims la voie ferrée qui les ravitaille.
+texte: L'[[armees-allemandes-en-campagne|armée de la Meuse]], en route vers Paris, la canonne sans résultat à la mi-septembre ; ensuite, on l'observe seulement. Le 6 octobre, huit bataillons de [[landwehr|Landwehr]] l'investissent ; le 11 arrivent de [[siege-de-toul|Toul]] 26 pièces de siège prussiennes et 10 mortiers français, et le [[grand-duc-de-mecklembourg|grand-duc de Mecklembourg]] prend le commandement. Le 12 à 6 h, les batteries du mont Marion et de Sainte-Geneviève ouvrent le feu. Le 15, la brèche est large de quarante pas ; à 20 h, de Noue demande à capituler.
+texte: Le 16 octobre, avant la remise des magasins, des soldats les pillent et vident les réserves d'eau-de-vie ; l'après-midi, la garnison, quelque 4 800 hommes, sort par la porte de Reims, « ivre en majeure partie », écrit l'historique allemand. Les mobiles sont renvoyés chez eux sur parole, les autres partent pour l'Allemagne ; le soir, dans le bois Saint-Jean, près d'Oulchy-le-Château, une évasion tourne à la panique, les gardes se fusillent entre eux, et 600 prisonniers s'échappent. Les assiégeants ont perdu 120 hommes ; ils prennent 128 canons et 8 000 fusils.
+repere: 6 septembre 1870 — Les ponts de l'Aisne autour de Soissons sautent, les tunnels de Vauxaillon et de Vierzy sont obstrués.
+repere: mi-septembre 1870 — L'armée de la Meuse canonne la place en passant, sans résultat.
+repere: 6 octobre 1870 — Huit bataillons de Landwehr investissent Soissons.
+repere: 12 octobre 1870, 6 h — Les batteries de siège ouvrent le feu.
+repere: 15 octobre 1870, 20 h — Le lieutenant-colonel de Noue demande à capituler.
+repere: 16 octobre 1870 — La garnison sort par la porte de Reims ; le soir, 600 prisonniers s'évadent près d'Oulchy.
+attention: Soissons ne fut pas une place écrasée sous les obus. Le conseil d'enquête sur les capitulations jugea en 1871 que la brèche n'était pas praticable, que l'artillerie pouvait encore tirer et que vivres et munitions abondaient, et que de Noue avait « révélé une profonde incapacité et une grande faiblesse ». La ville, dont l'hôpital avait brûlé, l'avait pourtant supplié de céder.
+issue: capitulation
+effectifs: 4800 | ?
+canons: 128 | 36
+pertes: ? | 120
+chefs: le lieutenant-colonel de Noue | Frédéric-François II de Mecklembourg-Schwerin
+chiffres: Garnison : environ 4 800 hommes à la sortie, selon l'historique du grand état-major allemand ; Moltke compte 1 000 mobiles libérés sur parole et 3 800 soldats faits prisonniers. Assiégeants : huit bataillons de Landwehr, quatre escadrons, deux batteries, puis 26 pièces de siège et 10 mortiers. Pertes allemandes : 120 hommes ; pertes françaises non totalisées, « relativement peu considérables » selon le conseil d'enquête. La Wikipédia française date le siège du 11 septembre au 16 octobre ; Moltke date la reddition du 15, jour où elle fut négociée.
+geo: 49.3817, 3.3236
+lieu: Soissons, Aisne, France
+lien: wp Siège de Soissons (1870)
+lien: url https://www.gutenberg.org/ebooks/36209 = Moltke, The Franco-German War of 1870-71 (traduction anglaise, Project Gutenberg)
+sources: Wikipédia (fr : Siège de Soissons (1870)) ; Moltke, *The Franco-German War of 1870-71* (trad. revue par Archibald Forbes, 1893, Project Gutenberg)
+voir: siege-de-toul, grand-duc-de-mecklembourg, citadelle-de-laon, siege-de-paris, garde-mobile, landwehr, prisonniers-de-guerre, places-fortes-en-1870
+
+@ citadelle-de-laon
+cat: sieges
+nom: La citadelle de Laon
+alias: explosion de Laon, poudrière de Laon, garde d'artillerie Henriot, général Thérémin d'Hame
+dates: 9 septembre 1870
+quand: 1870-09-09
+def: Le 9 septembre 1870, Laon se rend sans combat à la cavalerie prussienne. Pendant la remise de la citadelle, la poudrière saute : des centaines de tués et de blessés, mobiles désarmés et soldats allemands, et le commandant de la place mortellement atteint.
+texte: Après [[bataille-de-sedan|Sedan]], rien ne s'interpose plus entre l'armée allemande et Paris. Laon, perchée sur sa butte, a une citadelle et une vieille enceinte, mais pour garnison environ 2 000 [[garde-mobile|mobiles]] de l'Aisne et quelques détachements de ligne, sous le général Thérémin d'Hame. Quand se présente la 6e division de cavalerie prussienne, commandée par le duc de Mecklembourg, le général accepte de capituler : la troupe de ligne sera prisonnière, les mobiles rentreront chez eux sur parole, les 25 canons et les magasins seront livrés.
+texte: Le 9 septembre, les Allemands entrent dans la ville. Dans la cour de la citadelle, Thérémin d'Hame vient de remettre la place et s'entretient avec le duc ; les mobiles, désarmés, défilent ; des chasseurs prussiens prennent possession des lieux. C'est alors que la poudrière saute. L'explosion jette à terre des centaines d'hommes et endommage jusqu'à la cathédrale et l'ancien palais épiscopal. Le duc et son chef d'état-major sont blessés, Thérémin d'Hame mourra de ses blessures. Se croyant trahis, les Allemands tirent sur les mobiles et les pourchassent jusque dans les maisons et les caves ; le duc dénonce à l'hôtel de ville une « honte pour la France ».
+texte: Le bilan varie selon les sources : 114 Allemands tués ou blessés et 300 pertes françaises pour Moltke ; 460 hommes à terre, dont 100 Allemands, pour la *Revue des Deux Mondes* de 1871 ; 70 chasseurs prussiens et 500 mobiles pour la Wikipédia allemande. La seule 7e compagnie de mobiles, celle du canton de Rozoy-sur-Serre, compte 132 victimes. La citadelle abrite aujourd'hui une cité administrative.
+repere: 1er septembre 1870 — Après Sedan, la route de Paris est ouverte ; les places de l'Aisne sont isolées.
+repere: 9 septembre 1870 — Laon capitule devant la 6e division de cavalerie prussienne.
+repere: 9 septembre 1870 — Pendant la remise de la citadelle, la poudrière saute.
+repere: 9 septembre 1870 — Se croyant trahis, les Allemands tirent sur les mobiles désarmés.
+repere: 1927 — La porte de la citadelle est classée monument historique.
+attention: L'explosion est attribuée au garde d'artillerie Henriot, qui avait la charge de la poudrière. La tradition française y voit le geste désespéré d'un homme qui refusait de livrer la poudre à l'ennemi, Moltke une mise à feu « probablement volontaire », le duc une trahison. Ses motifs exacts restent inconnus ; mais si le geste fut voulu, il a fait plus de victimes parmi les mobiles désarmés que chez les Allemands.
+issue: capitulation sans combat, suivie de l'explosion de la poudrière
+effectifs: 2000 | ?
+canons: 25 | ?
+pertes: 300 | 114
+chefs: Charles-Louis Thérémin d'Hame | le duc de Mecklembourg
+chiffres: Garnison : environ 2 000 mobiles renvoyés sur parole et quelques détachements de ligne faits prisonniers, 25 canons livrés (Moltke). Les pertes sont celles de l'explosion : 300 Français et 114 Allemands (15 officiers et 99 hommes) selon Moltke ; 460 victimes dont 100 Allemands selon la *Revue des Deux Mondes* ; 500 mobiles et 70 chasseurs selon la Wikipédia allemande ; « plusieurs centaines » selon la française.
+geo: 49.5648, 3.6297
+lieu: Laon, Aisne, France
+lien: wp Citadelle de Laon
+lien: wp Laon
+lien: url https://www.gutenberg.org/ebooks/36209 = Moltke, The Franco-German War of 1870-71 (traduction anglaise, Project Gutenberg)
+sources: Moltke, *The Franco-German War of 1870-71* (trad. revue par Archibald Forbes, 1893, Project Gutenberg) ; Wikipédia (fr : Laon, Citadelle de Laon ; de : Laon) ; *Revue des Deux Mondes*, 1871, t. 95, p. 55 (Wikisource)
+voir: siege-de-soissons, bataille-de-sedan, garde-mobile, armees-allemandes-en-campagne, france-occupee, places-fortes-en-1870
+
+@ siege-de-peronne
+cat: sieges
+nom: Siège de Péronne
+alias: Belagerung von Péronne, commandant Garnier, marin Delpas
+dates: 27 décembre 1870 – 9 janvier 1871
+quand: 1870-12-27
+jusqu: 1871-01-09
+def: Petite place de la Somme qui offre un passage sûr à l'armée du Nord, Péronne est investie à la fin de décembre 1870 et bombardée pendant deux semaines. Faidherbe, vainqueur à Bapaume, ne va pas jusqu'à elle, et elle capitule le 9 janvier 1871, la ville en ruine, la garnison presque intacte.
+texte: Péronne, entre ses prairies inondées et ses murs aux tours médiévales, ne craint pas la surprise, mais des hauteurs la dominent de tous côtés. C'est la dernière place que les Français tiennent sur la haute Somme, et un passage sûr pour l'[[armee-du-nord|armée du Nord]] de [[faidherbe|Faidherbe]]. Après la [[bataille-de-pont-noyelles|bataille de l'Hallue]], la Ire armée allemande l'investit avec onze bataillons, seize escadrons et dix batteries. La garnison compte 3 500 hommes sous le chef d'escadron Garnier ; le 29 décembre, un obus tue sur les remparts le marin Jean Delpas, qui sert une pièce de marine.
+texte: Le bombardement par les canons de campagne fait peu de mal aux remparts, et l'emploi de pièces de siège françaises capturées ne donne rien ; la place répond et tente des sorties. Le 3 janvier, une partie des assiégeants est appelée à la [[bataille-de-bapaume|bataille de Bapaume]] ; Faidherbe a interrompu le siège, mais il ne pousse pas plus loin et ramène ses troupes vers Arras. Deux jours plus tard arrive de La Fère un parc de 55 pièces lourdes. Du 6 au 9 janvier, la ville reçoit, dit-on, 2 000 obus par jour : près de 800 maisons sont détruites ou endommagées, une vingtaine restent intactes, et la variole s'y ajoute.
+texte: Le 8 janvier, un grand convoi de munitions parvient aux assiégeants ; le 9, le général von Barnekow offre une capitulation « honorable ». Le conseil de défense l'accepte à la majorité. Le 10, les Allemands entrent dans une place encore pourvue d'armes, de munitions et de vivres ; la garnison est prisonnière. En 1909, le Souvenir français élève un monument au marin Delpas ; sa statue de bronze, enlevée en 1917 par les Allemands et fondue, est remplacée en 1933 par une statue de pierre.
+repere: 27 décembre 1870 — La Ire armée allemande investit Péronne.
+repere: 29 décembre 1870 — Le marin Delpas est tué sur son canon, sur les remparts.
+repere: 3 janvier 1871 — Bataille de Bapaume : une partie des assiégeants est rappelée, le siège faiblit.
+repere: 6-9 janvier 1871 — Bombardement de la ville, renforcé par les pièces lourdes venues de La Fère.
+repere: 9 janvier 1871 — Le conseil de défense accepte la capitulation proposée par le général von Barnekow.
+repere: 10 janvier 1871 — Les Allemands entrent dans Péronne.
+attention: Péronne n'a pas été prise d'assaut ni réduite à la famine : elle a cédé au bombardement de la ville, garnison presque intacte et magasins pleins. Faidherbe le lui reprocha. Mais l'armée du Nord, victorieuse à Bapaume le 3 janvier, à une vingtaine de kilomètres de là, avait renoncé à pousser jusqu'à la place.
+issue: capitulation
+effectifs: 3500 | ?
+chefs: le chef d'escadron Garnier | le général von Barnekow
+chiffres: Garnison : 3 500 hommes selon Moltke et la Wikipédia française. Assiégeants : onze bataillons, seize escadrons et dix batteries, avec 58 canons de campagne selon Moltke (38 selon la Wikipédia française), puis 55 pièces lourdes venues de La Fère. Les « 2 000 obus par jour » et les 800 maisons touchées viennent de la tradition locale reprise par la Wikipédia française. Pertes non chiffrées par les sources consultées.
+geo: 49.9331, 2.9372
+lieu: Péronne, Somme, France
+lien: wp Siège de Péronne (1871)
+lien: url https://www.gutenberg.org/ebooks/36209 = Moltke, The Franco-German War of 1870-71 (traduction anglaise, Project Gutenberg)
+sources: Wikipédia (fr : Siège de Péronne (1871)) ; Moltke, *The Franco-German War of 1870-71* (trad. revue par Archibald Forbes, 1893, Project Gutenberg)
+voir: faidherbe, armee-du-nord, bataille-de-bapaume, bataille-de-pont-noyelles, edwin-von-manteuffel, august-von-goeben, tombes-et-monuments, places-fortes-en-1870
+
+# ── Vue d'ensemble ─────────────────────────────────────────────────────────
+
+@ places-fortes-en-1870
+cat: sieges
+nom: Les places fortes en 1870
+alias: forteresses, places de guerre, guerre de siège, sièges de 1870, capitulations, conseil d'enquête sur les capitulations, Festungskrieg
+def: En 1870, la frontière du Nord et de l'Est est couverte de places fortes, presque toutes à enceinte bastionnée héritée de Vauban. Une vingtaine sont assiégées ; face à une artillerie rayée qui tire de loin, toutes se rendent, sauf Bitche et Belfort, remises sur ordre après l'armistice.
+texte: La frontière est hérissée de places : la ceinture de Vauban, de Dunkerque à Belfort, et en arrière des places plus anciennes encore, de Toul et Verdun à Soissons et Laon. Presque toutes sont des enceintes bastionnées, remparts de maçonnerie et fossés faits pour tenir à distance un ennemi qui tirait à quelques centaines de mètres. Dans l'Est, rares sont celles qui ont des forts détachés, comme [[fortifications-de-paris|Paris]], Metz et Belfort, et ceux de Metz sont inachevés ; [[siege-de-strasbourg|Strasbourg]] n'en a pas. Beaucoup de places sont dominées par des hauteurs voisines, et les abris à l'épreuve des bombes manquent presque partout. Les garnisons sont faites de [[garde-mobile|mobiles]] à peine instruits, de dépôts, de gardes nationaux, d'isolés et d'évadés de Sedan ; les canons sont vieux, souvent lisses.
+texte: En face, l'[[artillerie-de-siege|artillerie de siège]] allemande, rayée, tire à plusieurs kilomètres : canons de 12 et de 15 cm, mortiers rayés de 21 cm. Les Allemands complètent leurs parcs avec les pièces prises aux Français et les font passer d'un siège à l'autre : celles de [[siege-de-toul|Toul]] servent contre [[siege-de-soissons|Soissons]], celles de [[siege-de-selestat|Sélestat]] contre [[siege-de-neuf-brisach|Neuf-Brisach]], celles de [[siege-de-verdun|Verdun]] et de [[siege-de-montmedy|Montmédy]] contre [[siege-de-mezieres|Mézières]]. Les armées en marche ne s'attardent pas devant les places : elles y laissent des détachements, souvent de la [[landwehr|Landwehr]] ou des divisions de réserve. Les sièges en règle, menés à la sape jusqu'à la brèche, sont rares : Strasbourg, Belfort. Le plus souvent, on bombarde la ville plutôt que les remparts, pour amener habitants et commandant à céder. À Neuf-Brisach, les remparts sont presque intacts quand la place se rend ; à [[siege-de-peronne|Péronne]], la garnison l'est.
+texte: Pourquoi s'en soucier ? Parce que ces petites places barrent les [[chemins-de-fer|voies ferrées]] dont vivent les armées allemandes. Toul coupe jusqu'au 23 septembre la ligne de Strasbourg à Paris, Soissons empêche de la prolonger au-delà de Reims, Verdun barre la plus courte liaison avec l'Allemagne, [[siege-de-thionville|Thionville]] et Montmédy la ligne des Ardennes, Mézières une nouvelle route vers [[siege-de-paris|Paris]] : chaque reddition rapproche des assiégeants de la capitale la tête de ligne allemande. Les places qui ne gênent personne sont laissées de côté : [[siege-de-bitche|Bitche]] n'est plus que bloquée après septembre, [[siege-de-phalsbourg|Phalsbourg]] est contournée, Mézières épargnée trois mois. [[citadelle-de-laon|Laon]] se rend sans combat, et [[lichtenberg-et-la-petite-pierre|Lichtenberg]], simple château, en moins d'une journée.
+texte: Les places ont retenu des troupes : une division de réserve devant Sélestat et Neuf-Brisach, une autre devant [[siege-de-belfort|Belfort]], la 14e division devant Thionville, Montmédy et Mézières pendant sept semaines, puis l'artillerie de siège devant [[siege-de-longwy|Longwy]]. Mais, l'artillerie lourde arrivée, la plupart n'ont tenu que quelques jours : un à Toul, deux à Mézières, trois à Thionville. Ensemble, les petites places de l'Est et du Nord ont livré de l'ordre de 40 000 hommes et plus d'un millier de canons, sans compter Strasbourg, [[siege-de-metz|Metz]] et Paris.
+texte: Le décret de 1863 sur le service des places interdisait à un commandant de capituler avant d'avoir soutenu un assaut sur une brèche praticable. Dans aucun des sièges racontés ici une place n'a été enlevée d'assaut, et aucun des commandants qui ont capitulé n'a attendu l'assaut. Après la guerre, un conseil d'enquête sur les capitulations, présidé par le maréchal Baraguey d'Hilliers, examine chaque reddition : il blâme Uhrich à Strasbourg, juge de Noue incapable à Soissons, estime que Tessier, à Montmédy, a résisté autant qu'il le pouvait ; Taillant, le défenseur de Phalsbourg, en sort lieutenant-colonel et commandeur de la Légion d'honneur. La leçon est retenue : le [[reformes-militaires-apres-1871|système Séré de Rivières]] entoure les places de ceintures de forts placés loin en avant des villes, et beaucoup de vieilles enceintes, à Mézières ou à Soissons, sont déclassées et rasées dans les années 1880.
+repere: 1863 — Le décret sur le service des places interdit de capituler avant d'avoir soutenu un assaut sur une brèche praticable.
+repere: 16 août 1870 — Le coup de main allemand sur Toul échoue : contre les places, il faudra de l'artillerie de siège.
+repere: 27 octobre 1870 — Capitulation de Metz : troupes et canons sont libérés contre Verdun, Thionville et les places du Nord.
+repere: 24 novembre 1870 — Thionville capitule après trois jours de bombardement.
+repere: 1er janvier 1871 — Mézières hisse le drapeau blanc ; une nouvelle voie ferrée s'ouvre vers Paris.
+repere: 26 mars 1871 — La garnison de Bitche, jamais prise, quitte la place sur ordre du gouvernement.
+repere: 13 novembre 1871 — Le conseil d'enquête sur les capitulations juge sévèrement le commandant de Soissons.
+repere: 17 juillet 1874 — L'Assemblée vote les premiers crédits des forts de Séré de Rivières.
+attention: On tient volontiers ces petites places pour inutiles, tombées sans vraie résistance. Il est vrai qu'aucune n'a arrêté une armée en campagne et que la plupart ont cédé au bombardement de la ville. Mais en barrant les voies ferrées, elles ont pesé sur ce qui comptait le plus pour l'envahisseur, le ravitaillement : Toul a fermé cinq semaines la ligne directe de Strasbourg à Paris, Verdun, Thionville et Mézières d'autres liaisons dont les Allemands avaient besoin.
+chiffres: Les totaux (environ 40 000 hommes et 1 250 canons pour Phalsbourg, Lichtenberg, Toul, Sélestat, Neuf-Brisach, Verdun, Thionville, Montmédy, Mézières, Longwy, Soissons, Laon et Péronne) additionnent les chiffres donnés dans les articles de chaque siège, eux-mêmes approximatifs ; ils comptent les prisonniers et les mobiles renvoyés sur parole.
+lien: wp Système Séré de Rivières
+lien: url https://www.gutenberg.org/ebooks/36209 = Moltke, The Franco-German War of 1870-71 (traduction anglaise, Project Gutenberg)
+sources: Moltke, *The Franco-German War of 1870-71* (trad. revue par Archibald Forbes, 1893, Project Gutenberg) ; Wikipédia (fr, de, en : pages des sièges citées dans les articles de ce lot) ; conseil d'enquête sur les capitulations, avis cités par la Wikipédia française (Soissons, Montmédy, Phalsbourg)
+voir: siege-de-strasbourg, siege-de-metz, siege-de-paris, siege-de-belfort, siege-de-bitche, artillerie-de-siege, chemins-de-fer, reformes-militaires-apres-1871

@@ -1,0 +1,74 @@
+{
+  "id": "./",
+  "name": "1870 · la guerre franco-allemande",
+  "short_name": "1870",
+  "description": "La guerre franco-allemande de 1870-1871 : articles illustrés et vérifiés, cartes animées de la campagne et des batailles, frise jour par jour, textes de témoins et d’écrivains. Hors ligne, sans compte, sans publicité.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f0e8",
+  "theme_color": "#f3f0e8",
+  "categories": [
+    "education",
+    "books",
+    "reference"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Les cartes animées",
+      "short_name": "Cartes",
+      "url": "./#/cartes",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "La frise",
+      "short_name": "Frise",
+      "url": "./#/frise",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Les textes",
+      "short_name": "Textes",
+      "url": "./#/textes",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

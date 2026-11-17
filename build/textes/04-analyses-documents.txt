@@ -1,0 +1,475 @@
+# 1870 — extraits de textes, lot 04 : analyses et documents.
+# Format : voir l'en-tête de build/annexes.mjs et build/CONSIGNES-TEXTES.md.
+# Textes copiés des transcriptions de Wikisource (sauf mention) ; cotes Gallica prises sur data.bnf.fr
+# ou sur la page « Livre: » de Wikisource.
+
+@ fustel-alsace-patrie
+genre: analyse
+auteur: Fustel de Coulanges
+vie: 1830-1889
+titre: « Strasbourg n’est pas à nous, il est avec nous »
+oeuvre: L’Alsace est-elle allemande ou française ? Réponse à M. Mommsen
+annee: 1870
+quand: 1870-10
+intro: Fustel de Coulanges a enseigné près de dix ans à la faculté des lettres de Strasbourg, où il a
+  écrit *La Cité antique*. En octobre 1870, garde national dans Paris assiégé, il répond par une
+  brochure de seize pages aux lettres adressées aux Italiens par l'historien allemand Theodor
+  Mommsen, qui réclamait l'Alsace au nom de la race et de la langue. Il leur oppose la volonté des
+  habitants : une définition de la nation que Renan reprendra en 1882.
+p: Ce qui distingue les nations, ce n’est ni la race, ni la langue. Les hommes sentent dans leur cœur qu’ils sont un même peuple lorsqu’ils ont une communauté d’idées, d’intérêts, d’affections, de souvenirs et d’espérances. Voilà ce qui fait la patrie. Voilà pourquoi les hommes veulent marcher ensemble, ensemble travailler, ensemble combattre, vivre et mourir les uns pour les autres. La patrie, c’est ce qu’on aime. Il se peut que l’Alsace soit allemande par la race et par le langage ; mais par la nationalité et le sentiment de la patrie elle est française. Et savez-vous ce qui l’a rendue française ? Ce n’est pas Louis XIV, c’est notre Révolution de 1789. Depuis ce moment, l’Alsace a suivi toutes nos destinées ; elle a vécu de notre vie. Tout ce que nous pensions, elle le pensait ; tout ce que nous sentions, elle le sentait. Elle a partagé nos victoires et nos revers, notre gloire et nos fautes, toutes nos joies et toutes nos douleurs. Elle n’a rien eu de commun avec vous. La patrie, pour elle, c’est la France. L’étranger, pour elle, c’est l’Allemagne.
+p: […]
+p: Son sort doit dépendre d’elle. En ce moment la France et la Prusse se la disputent ; mais c’est l’Alsace seule qui doit prononcer. Vous dites que vous revendiquez Strasbourg et qu’il doit vous être restitué. Que parlez-vous de revendication ? Strasbourg n’appartient à personne. Strasbourg n’est pas un objet de possession que nous ayons à restituer. Strasbourg n’est pas à nous, il est avec nous. Nous souhaitons que l’Alsace reste parmi les provinces françaises, mais sachez bien quel motif nous alléguons pour cela. Disons-nous que c’est parce que Louis XIV l’a conquise ? Nullement. Disons-nous que c’est parce qu’elle est utile à notre défense ? Non. Ni les raisons tirées de la force, ni les intérêts de la stratégie n’ont de valeur en cette affaire. Il ne s’agit que d’une question de droit public, et nous devons résoudre cette question d’après les principes modernes. La France n’a qu’un seul motif pour vouloir conserver l’Alsace, c’est que l’Alsace a vaillamment montré qu’elle voulait rester avec la France. Voilà pourquoi nous soutenons la guerre contre la Prusse. Bretons et Bourguignons, Parisiens et Marseillais, nous combattons contre vous au sujet de l’Alsace ; mais, que nul ne s’y trompe ; nous ne combattons pas pour la contraindre, nous combattons pour vous empêcher de la contraindre.
+gallica: bpt6k5442701h = L’Alsace est-elle allemande ou française ? Réponse à M. Mommsen, Paris, E. Dentu, 1870
+preuve: data.bnf.fr, notice cb30471541q ; même cote sur la page Livre: de Wikisource
+source: ws L’Alsace est-elle allemande ou française : réponse à M. Mommsen
+pour: alsace-lorraine, guerre-de-1870
+
+@ fustel-strasbourg-martyre
+genre: analyse
+auteur: Fustel de Coulanges
+vie: 1830-1889
+titre: « Strasbourg, par le martyre »
+oeuvre: L’Alsace est-elle allemande ou française ? Réponse à M. Mommsen
+annee: 1870
+quand: 1870-09
+intro: Dans la même brochure, écrite quelques semaines après la capitulation de Strasbourg
+  (28 septembre 1870), Fustel prend le siège pour preuve. L'argument force un peu les faits : le
+  gouverneur, le général Uhrich, était un Lorrain de Phalsbourg, et l'évêque, Mgr Raess, déclarera
+  en 1874 au Reichstag que les catholiques d'Alsace-Lorraine reconnaissaient le traité de
+  Francfort. Mais le bombardement de la population avait ému jusqu'en Suisse, d'où une délégation
+  vint en septembre évacuer des habitants.
+p: Vous l’avez bien vu depuis deux mois. Le 6 août, la France était vaincue ; l’Alsace, dégarnie de troupes, était ouverte aux Allemands. Comment les a-t-elle accueillis ? Les paysans alsaciens ont pris leurs vieux fusils à pierre et leurs pioches pour combattre l’étranger. Beaucoup d’entre eux, ne pouvant souffrir la présence de l’ennemi dans leurs villages, se sont réfugiés dans les montagnes, et à l’heure qu’il est ils défendent encore pied à pied chaque défilé et chaque ravin. On a sommé Strasbourg de se rendre, et vous savez comment il a répondu. Or, notez ce point : Strasbourg n’avait pour garnison que 2 500 soldats français et le 6e régiment d’artillerie qui est composé d’Alsaciens. C’est la population strasbourgeoise qui a résisté aux allemands. C’est un général alsacien qui commandait la ville. L’évêque, que l’on a si durement repoussé du camp allemand, était un Alsacien. Ceux qui ont si vaillamment combattu, ceux qui ont frappé l’ennemi par de si rudes sorties étaient des Alsaciens. Tous ces hommes-là, sans doute, parlaient votre langue ; mais ils ne se sentaient certainement pas vos compatriotes. Et ces soldats allemands qui lançaient des bombes contre Strasbourg, qui visaient la cathédrale, qui brûlaient le Temple-Neuf, la bibliothèque, les maisons, l’hôpital, qui, respectant les remparts et ménageant la garnison, n’étaient impitoyables que pour les habitants, dites franchement, la main sur le cœur, se sentaient-ils leurs compatriotes ? Ne parlez donc plus de nationalité, et surtout gardez-vous bien de dire aux Italiens : Strasbourg est à nous du même droit que Milan et Venise sont à vous ; car les Italiens vous répondraient qu’ils n’ont bombardé ni Milan ni Venise. Si l’on avait pu avoir quelque doute sur la vraie nationalité de Strasbourg et de l’Alsace, le doute ne serait plus possible aujourd’hui. La cruauté de l’attaque et l’énergie de la défense ont fait éclater la vérité à tous les yeux. Quelle preuve plus forte voudriez-vous ? Comme les premiers chrétiens confessaient leur foi, Strasbourg, par le martyre, a confessé qu’il est Français.
+gallica: bpt6k5442701h = L’Alsace est-elle allemande ou française ? Réponse à M. Mommsen, Paris, E. Dentu, 1870
+preuve: data.bnf.fr, notice cb30471541q ; même cote sur la page Livre: de Wikisource
+source: ws L’Alsace est-elle allemande ou française : réponse à M. Mommsen
+pour: siege-de-strasbourg, alsace-lorraine
+
+@ stoffel-etat-major-prussien
+genre: analyse
+auteur: Eugène Stoffel
+vie: 1821-1907
+titre: « Caveant consules ! »
+oeuvre: Rapports militaires écrits de Berlin, 1866-1870
+annee: 1868
+quand: 1868-04-23
+intro: Ancien officier d'ordonnance de Napoléon III, qui lui avait confié les fouilles d'Alésia, le
+  lieutenant-colonel Stoffel est attaché militaire à l'ambassade de France à Berlin de 1866 à
+  1870. Son rapport du 23 avril 1868 au ministre de la Guerre fait le compte des avantages de
+  l'armée prussienne. Publiés en 1871, après la défaite, ses rapports montrèrent que le
+  gouvernement impérial avait été averti.
+p: Voici, d’après ce qui précède, le résumé des divers éléments de supériorité particuliers à l’armée prussienne :
+p: Sentiment profond et salutaire que le principe du service militaire obligatoire répand dans l’armée, qui renferme toute la partie virile, toutes les intelligences, toutes les forces vives du pays, et qui se regarde comme la nation en armes ;
+p: Le niveau intellectuel de l’armée plus élevé que dans aucun pays, grâce à une instruction générale plus vaste, répandue dans toutes les classes du peuple ;
+p: A tous les degrés de la hiérarchie, le sentiment du devoir beaucoup plus développé qu’en France ;
+p: Services spéciaux (compagnies de chemins de fer, compagnies de porteurs de blessés, télégraphie) organisés à demeure, avec le plus grand soin, et sans diminution du nombre des combattants ;
+p: Feux d’infanterie plus redoutables, grâce au tempérament particulier aux Allemands du Nord et aux soins extrêmes apportés à l’instruction du tir ;
+p: Matériel d’artillerie de campagne bien supérieur au nôtre, comme justesse, portée et rapidité de tir.
+p: […]
+p: Mais de tous les éléments de supériorité dont la Prusse tirerait avantage dans une guerre prochaine, le plus grand, le plus incontestable, sans contredit, lui serait acquis par la composition de son corps d’officiers d’état-major.
+p: Il faut le proclamer bien haut, comme une vérité éclatante : l’état-major prussien est le premier de l’Europe ; le nôtre ne saurait lui être comparé. Je n’ai pas cessé d’insister sur ce sujet dans mes premiers Rapports de 1866 et d’émettre l’avis qu’il était urgent d’aviser aux moyens d’élever notre corps d’état-major à la hauteur du corps d’état-major prussien. Persuadé que dans une guerre prochaine l’armée de l’Allemagne du Nord tirerait de la composition de son corps d’état-major de sérieux avantages et que nous aurions à nous repentir cruellement peut-être de notre infériorité, je reviens sur cette question, selon moi la plus grave de toutes. Je ne le dissimulerai pas : ma conviction est telle à cet égard que, ici, je jette le cri d’alarme : Caveant consules ! Je croirais manquer à un devoir en agissant autrement.
+gallica: bpt6k2207082 = Rapports militaires écrits de Berlin, 1866-1870, Paris, Garnier frères, 1871
+preuve: data.bnf.fr, notice cb32648840w
+source: ia rapportsmilitai00stofgoog
+pour: grand-etat-major-prussien, armee-allemande-en-1870, armee-francaise-en-1870
+
+@ ardant-du-picq-quatre-braves
+genre: analyse
+auteur: Charles Ardant du Picq
+vie: 1821-1870
+titre: « Quatre braves qui ne se connaissent pas »
+oeuvre: Études sur le combat
+annee: 1880
+intro: Colonel du 10e de ligne, Ardant du Picq a la jambe brisée par un obus le 15 août 1870 à
+  Longeville-lès-Metz, pendant le passage de la Moselle, et meurt trois jours plus tard à Metz.
+  Il travaillait depuis des années à une étude du combattant et de sa peur, nourrie de l'avis de
+  ses camarades officiers. Publiées en 1880, ses *Études sur le combat* furent écrites, notent
+  les éditeurs, avant la guerre.
+p: Le rang est la garantie prise par la discipline contre la faiblesse de l’homme devant le danger. La faiblesse est plus grande, aujourd’hui que les engins ont une action morale plus forte, et le rang matériel est forcément plus faible aussi par le manque de cohésion de l’ordre mince ; et cependant l’ordre mince est indispensable, et pour perdre moins, et pour faire usage de ses armes. Donc, aujourd’hui, il y a nécessité plus grande que jamais du rang ou discipline (non le rang mathématique, figure de géométrie), et difficulté beaucoup plus grande aussi pour le maintenir.
+p: Avec le perfectionnement des armes, des engins de jet, la puissance de destruction croît, l’action morale des engins croît, le courage d’affronter devient plus difficile, et l’homme ne change pas, ne peut pas changer. Ce qui doit croître avec la puissance des engins, c’est la force d’organisation, la solidarité des combattants, c’est-à-dire tous moyens qui peuvent augmenter cette solidarité, et c’est ce dont on s’occupe le moins. Avoir un million d’hommes dressés aux exercices, aux manœuvres militaires (qui doivent se simplifier à mesure que se fortifient les engins), ce n’est rien, si une organisation sainement raisonnée n’assure leur discipline, et par leur discipline leur solidarité, c’est-à-dire leur courage au jour de l’action.
+p: Quatre braves, qui ne se connaissent pas, n’iront point franchement à l’attaque d’un lion. Quatre moins braves, mais se connaissant bien, sûrs de leur solidarité et par suite de leur appui mutuel, iront résolument. Toute la science des organisations d’armées est là.
+p: A un moment donné, un engin nouveau peut vous assurer la victoire. Soit. Mais on n’invente pas des engins praticables tous les jours, et bien vite les nations se mettent au même niveau sous le rapport de l’armement.
+p: La question finale en revient toujours (laissons de côté les généraux de génie, chance sur laquelle on ne peut guère compter) à la qualité des troupes, c’est-à-dire à l’organisation qui assure le mieux leur bon esprit, leur solidité, leur confiance, leur solidarité en un mot. Qui dit troupes dit soldats. Des soldats, si bien dressés qu’ils soient, réunis du jour au lendemain en compagnie, bataillon, etc., ne sauraient avoir, n’ont jamais eu cette solidarité qui, du haut en bas, ne peut naître que de la connaissance mutuelle.
+gallica: bpt6k864841 = Études sur le combat, Paris, Hachette, 1880
+preuve: data.bnf.fr, notice cb30025610z
+source: ia tudessurlecomba00picqgoog
+pour: tactique-en-1870, armee-francaise-en-1870
+
+@ renan-ne-touchez-pas-a-son-bocage
+genre: analyse
+auteur: Ernest Renan
+vie: 1823-1892
+titre: « Si vous voulez que l’oiseau chante »
+oeuvre: La Guerre entre l’Allemagne et la France
+annee: 1870
+quand: 1870-09
+intro: Le 15 septembre 1870, onze jours après la chute de l'Empire, la *Revue des Deux Mondes*
+  publie cet article d'Ernest Renan, l'un des savants français qui doivent le plus à
+  l'Allemagne. Il s'y adresse à l'Europe autant qu'à ses lecteurs : la paix qu'il espère
+  laisserait la France « vaincue, mais fière dans son intégrité ». Renan le reprend, légèrement
+  retouché, dans *La Réforme intellectuelle et morale* (1871).
+p: Il ne faut pas s’y tromper en effet ; une France faible et humiliée ne saurait exister. Que la France perde l’Alsace et la Lorraine, et la France n’est plus. L’édifice est si compacte que l’enlèvement d’une ou deux grosses pierres le ferait crouler. L’histoire naturelle nous apprend que l’animal dont l’organisation est très centralisée ne souffre pas l’amputation d’un membre important ; on voit souvent un homme à qui l’on coupe une jambe mourir de phthisie ; de même la France atteinte dans ses parties principales verrait sa vie générale s’éteindre et ses organes du centre insuffisans pour renvoyer la vie jusqu’aux extrémités.
+p: Qu’on ne rêve donc pas de concilier deux choses contradictoires, conserver la France et l’amoindrir. Il y a des ennemis absolus de la France qui croient que le but suprême de la politique contemporaine doit être d’étouffer une puissance qui, selon eux, représente le mal. Que ces fanatiques conseillent d’en finir avec l’ennemi qu’ils ont momentanément vaincu, rien de plus simple ; mais que ceux qui croient que le monde serait mutilé si la France disparaissait y prennent garde. Une France diminuée perdrait successivement toutes ses parties ; l’ensemble se disloquerait, le midi se séparerait ; l’œuvre séculaire des rois de France serait anéantie, et, je vous le jure, le jour où cela arriverait, personne n’aurait lieu de s’en réjouir. Plus tard, quand on voudrait former la grande coalition que provoque toute ambition démesurée, on regretterait en Europe de ne pas avoir été plus prévoyant. De grandes races sont en présence ; toutes ont fait de grandes choses, toutes ont une grande tâche à remplir en commun ; il ne faut pas que l’une d’elles soit mise en un état qui équivaille à sa destruction. Le monde sans la France serait aussi mutilé que le monde sans l’Allemagne ; ces grands organes de l’humanité ont chacun leur office : il importe de les maintenir pour l’accomplissement de leur mission diverse. Sans attribuer à l’esprit français le premier rôle dans l’histoire de l’esprit humain, on doit reconnaître qu’il y joue un rôle essentiel : le concert serait troublé, si cette note y manquait. Or, si vous voulez que l’oiseau chante, ne touchez pas à son bocage. La France humiliée, vous n’aurez plus d’esprit français.
+gallica: btv1b86267612 = La Réforme intellectuelle et morale, Paris, Michel Lévy frères, 1871
+preuve: data.bnf.fr, notice cb311956054 (le recueil reprend l'article ; vérifié sur le texte du volume, Internet Archive larformeintelle00rngoog)
+source: ws La Guerre entre l’Allemagne et la France = Revue des Deux Mondes, 15 septembre 1870
+pour: alsace-lorraine, consequences-de-la-guerre
+
+@ michelet-strasbourg
+genre: analyse
+auteur: Jules Michelet
+vie: 1798-1874
+titre: « Entre Strasbourg et Kehl »
+oeuvre: La France devant l'Europe
+annee: 1871
+quand: 1870-09
+intro: Surpris par la guerre loin de Paris, Jules Michelet, soixante-douze ans, écrit à Florence
+  pendant l'hiver 1870-1871 ce plaidoyer pour la France adressé à l'Europe, publié au début de
+  1871 par l'éditeur florentin Le Monnier. Son chapitre « Strasbourg » accuse le grand-duc de
+  Bade, gendre du roi de Prusse, d'avoir mis ses troupes au service de la destruction de la
+  ville voisine. Michelet écrit « Uhric » pour Uhrich.
+p: Rien ne marque mieux les vues haineuses de l’invasion, le plan de créer des haines ineffaçables, que l’emploi de l’armée Badoise à la destruction de Strasbourg. Cette œuvre de barbarie, exécutée précisément par les plus proches voisins, constitue Bade et l’Alsace en opposition durable, fait de cette jalouse Bade comme un geôlier Prussien, intéressé par son crime à tenir de près la captive. L’étrange, c’est qu’on n’a pas prévu une chose pourtant naturelle. On se trouve avoir par là doublé, creusé le fossé qui sépare l’Alsace de Bade. Le Rhin devient par ces haines d’une profondeur immense. Entre Strasbourg et Kehl maintenant ce n’est plus un fleuve qui roule, c’est un gouffre, l’abîme des mers.
+p: […]
+p: Si l’Alsace fut surprise par la France, comme le disent, le répètent tant les Allemands, il faut bien qu’ils avouent aussi qu’elle fut charmée de la surprise, se donna de volonté. Ce ne fut pas un rapt, car ce fut un mariage. Il n’y en a jamais eu de plus fidèle. Que viennent-ils donc nous dire avec ce divorce brutal qu’ils lui infligent malgré elle ? Qu’ils osent la consulter !
+p: […]
+p: Celui du général Uhric est maintenant consacré. Abandonné, sans artilleurs, n’ayant pour servir ses canons que des soldats d’infanterie et quelques Turcos novices, on sait comme il résista. Le gendre du roi de Prusse, le Badois et son général Werder, furent terribles d’acharnement. Le feu ne fut point suspendu, dit-on, au moment où les Suisses envoyés par leurs cantons, vinrent prier qu’on laissât sortir des femmes, des vieux, des malades. Il fallut que ces hommes admirables, missionnaires de la charité fraternelle, passassent, pour entrer à Strasbourg, sous le feu, sous les boulets !
+p: Les Suisses obtinrent la sortie de peu de personnes, et l’on continua de bombarder, moins les murs, moins la citadelle, que les quartiers les plus habités. Tout le monde a déploré la perte de l’irréparable bibliothèque et de tant d’autres monumens. Les caves humides de Strasbourg, très-malsaines, recevaient un monde de pauvres femmes tremblantes sous la pluie de fer, de feu, qui, la nuit surtout, tombait, crevant les toits des maisons avec un bruit épouvantable. L’effroi fut au comble surtout quand le toit de la cathédrale, une immensité de zinc, fondu, sifflant, tout-à-coup illumina la ville entière, lui donna, et à toutes les campagnes, une scène du Jugement dernier.
+gallica: bpt6k39958j = La France devant l’Europe, Florence, Successeurs Le Monnier, 1871
+preuve: data.bnf.fr, notice cb309431869
+source: ia bub_gb_sz3M9s097vIC
+pour: siege-de-strasbourg, alsace-lorraine
+
+@ sorel-depeche-d-ems
+genre: analyse
+auteur: Albert Sorel
+vie: 1842-1906
+titre: « Forcer la main au roi »
+oeuvre: Histoire diplomatique de la guerre franco-allemande
+annee: 1875
+quand: 1870-07-13
+intro: Jeune diplomate du quai d'Orsay, Albert Sorel a suivi à Tours, auprès de Chaudordy, les
+  négociations de la Défense nationale. Son *Histoire diplomatique* paraît en 1875, bien avant que
+  Bismarck reconnaisse, dans les années 1890, avoir lui-même resserré le soir du 13 juillet le
+  télégramme envoyé d'Ems par le conseiller Abeken. Sorel ignore cette retouche ; il cite la
+  version publiée à Berlin et devine déjà le calcul du chancelier.
+p: Le général de Moltke était revenu la veille de sa terre de Silésie. Le 13 au soir les ministres prussiens se réunirent en conseil à Berlin. D’accord avec le ministre de la guerre, M. de Roon, M. de Moltke déclara que jamais la Prusse n’avait été mieux en mesure d’entreprendre la guerre. Le roi cependant n’y semblait pas encore entièrement résolu : il n’avait pas brisé avec M. Benedetti, il s’était borné à lui faire dire qu’il considérait l’affaire comme terminée. L’apparence modérée de cette déclaration jointe à la courtoisie du souverain, ne donnaient point à l’incident d’Ems le caractère évident d’une rupture : il y aurait eu moyen peut-être de reprendre la négociation sous une autre forme : or, à partir du 13, M. de Bismarck jugeait la guerre utile et n’entendait plus la laisser échapper. Il ne s’agissait que de forcer la main au roi et de précipiter les événements. A neuf heures du soir des crieurs se répandirent dans Berlin ; ils distribuaient gratuitement un supplément de la Gazette de l’Allemagne du Nord ; on y lisait en gros caractères, le télégramme suivant, daté d’Ems, dans la journée :
+p: « Après que la nouvelle de la renonciation du prince de Hohenzollern a été officiellement donnée au gouvernement français par celui de Madrid, l’ambassadeur français a fait demander au roi Guillaume de l’autoriser à télégraphier à Paris que Sa Majesté le roi s’obligeait pour l’avenir à ne jamais donner son consentement aux Hohenzollern, dans le cas où ceux-ci reviendraient sur leur renonciation. Sa Majesté le roi a refusé de recevoir encore une fois l’ambassadeur français, auquel il a fait savoir par l’aide de camp de service qu’il n’avait plus rien à lui communiquer. »
+p: Ce texte assez obscur n’était pas de nature à frapper les imaginations populaires. Mais il se trouva dans les rues des commentateurs officieux pour en expliquer le sens.
+gallica: bpt6k6373483f = Histoire diplomatique de la guerre franco-allemande, tome 1, Paris, E. Plon, 1875
+preuve: data.bnf.fr, notice cb31385441k ; tome 1 = NUMM-6373483 d'après le catalogue général
+source: ia histoirediplomat01soreuoft
+pour: depeche-d-ems, bismarck, candidature-hohenzollern
+
+@ hugo-aux-allemands
+genre: document
+auteur: Victor Hugo
+vie: 1802-1885
+titre: Aux Allemands
+oeuvre: Actes et paroles. Depuis l’exil
+annee: 1870
+quand: 1870-09-09
+intro: Rentré à Paris le 5 septembre 1870, après dix-neuf ans d'exil, au lendemain de la
+  proclamation de la République, Victor Hugo publie quatre jours plus tard, en français et en
+  allemand, cet appel aux Allemands, que suivront un appel aux Français et un autre aux Parisiens.
+  Les armées allemandes marchent alors sur la capitale, investie le 19 septembre. Hugo le recueille
+  en 1876 dans *Actes et paroles*.
+p: Allemands, celui qui vous parle est un ami.
+p: Il y a trois ans, à l’époque de l’Exposition de 1867, du fond de l’exil, je vous souhaitais la bienvenue dans votre ville.
+p: Quelle ville ?
+p: Paris.
+p: Car Paris ne nous appartient pas à nous seuls. Paris est à vous autant qu’à nous. Berlin, Vienne, Dresde, Munich, Stuttgart, sont vos capitales ; Paris est votre centre. C’est à Paris que l’on sent vivre l’Europe. Paris est la ville des villes. Paris est la ville des hommes. Il y a eu Athènes, il y a eu Rome, et il y a Paris.
+p: Paris n’est autre chose qu’une immense hospitalité.
+p: Aujourd’hui vous y revenez.
+p: Comment ?
+p: En frères, comme il y a trois ans ?
+p: Non, en ennemis.
+p: Pourquoi ?
+p: Quel est ce malentendu sinistre ?
+p: Deux nations ont fait l’Europe. Ces deux nations sont la France et l’Allemagne. L’Allemagne est pour l’occident ce que l’Inde est pour l’orient, une sorte de grande aïeule. Nous la vénérons. Mais que se passe-t-il donc ? et qu’est-ce que cela veut dire ? Aujourd’hui, cette Europe, que l’Allemagne a construite par son expansion et la France par son rayonnement, l’Allemagne veut la défaire.
+p: Est-ce possible ?
+p: L’Allemagne déferait l’Europe en mutilant la France.
+p: L’Allemagne déferait l’Europe en détruisant Paris.
+p: Réfléchissez.
+p: Pourquoi cette invasion ? Pourquoi cet effort sauvage contre un peuple frère ?
+p: Qu’est-ce que nous vous avons fait ?
+p: Cette guerre, est-ce qu’elle vient de nous ? c’est l’empire qui l’a voulue, c’est l’empire qui l’a faite. Il est mort. C’est bien.
+p: Nous n’avons rien de commun avec ce cadavre.
+p: Il est le passé, nous sommes l’avenir.
+p: Il est la haine, nous sommes la sympathie.
+p: Il est la trahison, nous sommes la loyauté.
+p: Il est Capoue et Gomorrhe, nous sommes la France.
+p: […]
+p: Maintenant, j’ai dit. Allemands, si vous persistez, soit, vous êtes avertis. Faites, allez, attaquez la muraille de Paris. Sous vos bombes et vos mitrailles, elle se défendra. Quant à moi, vieillard, j’y serai, sans armes. Il me convient d’être avec les peuples qui meurent, je vous plains d’être avec les rois qui tuent.
+p: Paris, 9 septembre 1870.
+gallica: btv1b8626422x = Actes et paroles. Depuis l’exil, 1870-1876, Paris, Michel Lévy frères, 1876
+preuve: data.bnf.fr, notice cb30625210w (volume 3, « Depuis l’exil »)
+source: ws Actes et paroles, volume 5
+pour: victor-hugo-en-1870, siege-de-paris, quatre-septembre
+
+@ uhrich-strasbourg-se-defendra
+genre: document
+auteur: Jean-Jacques Uhrich
+vie: 1802-1886
+titre: « Tant qu’il restera un soldat, un biscuit, une cartouche »
+oeuvre: Affiche « Aux habitants de Strasbourg ! »
+annee: 1870
+quand: 1870-08-10
+intro: Quatre jours après Frœschwiller, l'armée de Mac-Mahon a reflué au-delà des Vosges et les
+  Badois approchent de Strasbourg. Le général Uhrich, un Lorrain de Phalsbourg sorti du cadre de
+  réserve pour commander la place, fait afficher avec le préfet cet avis le matin du 10 août 1870.
+  Le chroniqueur strasbourgeois Gustave Fischbach, qui le reproduit, y voit la réponse à la panique
+  semée par un parlementaire venu menacer la ville de bombardement.
+p: Des bruits inquiétants, des paniques ont été répandus ces jours derniers, involontairement ou à dessein, dans notre brave cité. Quelques individus ont osé manifester la pensée que la place se rendrait sans coup férir.
+p: Nous protestons énergiquement, au nom de la population courageuse, et française, contre ces défaillances lâches et criminelles.
+p: Les remparts sont armés de 400 canons. La garnison est composée de 11,000 hommes, sans compter la garde nationale sédentaire.
+p: Si Strasbourg est attaqué, Strasbourg se défendra tant qu’il restera un soldat, un biscuit, une cartouche.
+p: Les bons peuvent se rassurer ; quant aux autres, ils n’ont qu’à s’éloigner.
+p: Strasbourg, le 10 août 1870.
+p: Le général de division, commandant supérieur, Uhrich.
+p: Le préfet du Bas-Rhin, Baron Pron.
+gallica: bpt6k64716526 = Gustave Fischbach, Guerre de 1870. Le Siège et le bombardement de Strasbourg, Strasbourg, chez les principaux libraires, 1870
+preuve: data.bnf.fr, notice cb30437752j (le livre reproduit l'affiche ; même édition que la source)
+source: ia bub_gb_Fl5UAAAAcAAJ = Fischbach, Le Siège et le bombardement de Strasbourg, 1870
+pour: siege-de-strasbourg, general-uhrich
+
+@ uhrich-adieux-strasbourg
+genre: document
+auteur: Jean-Jacques Uhrich
+vie: 1802-1886
+titre: « L’honneur civil, l’honneur militaire sont saufs »
+oeuvre: Proclamation aux habitants de Strasbourg
+annee: 1870
+quand: 1870-09-27
+intro: Le 27 septembre 1870, quarante-six jours après l'investissement, deux brèches ouvertes dans
+  le rempart, le conseil de défense se range à l'avis du gouverneur : la capitulation est signée
+  dans la nuit à Kœnigshoffen. Uhrich fait afficher au petit matin du 28 ces adieux, qui
+  remercient la population, les autorités et chaque corps de la garnison. Fêté à son retour en
+  France, il sera ensuite critiqué pour avoir rendu la place avant l'assaut.
+p: Habitants de Strasbourg !
+p: Ayant reconnu aujourd’hui que la défense de la place de Strasbourg n’est plus possible, et le Conseil de défense ayant unanimement partagé mon avis, j’ai dû recourir à la triste nécessité d’entrer en négociations avec le général commandant l’armée assiégeante.
+p: Votre mâle attitude pendant ces longs jours de douloureuses épreuves m’a permis de retarder jusqu’à la dernière limite la chute de votre cité. L’honneur civil, l’honneur militaire sont saufs, grâce à vous, merci !
+p: Merci à vous aussi, préfet du Bas-Rhin et magistrats municipaux, qui par votre énergie et par votre union m’avez prêté un concours si précieux, qui avez su venir en aide à la population malheureuse, et maintenir haut son attachement à notre patrie commune.
+p: […]
+p: Merci à vous, représentants de notre armée de mer, qui avez su faire oublier votre petit nombre par l’énergie de votre action ; merci enfin à vous, enfants de l’Alsace ; à vous, gardes nationaux mobiles ; à vous, francs-tireurs et compagnie franche ; à vous aussi, artilleurs de la garde nationale sédentaire, qui avez si noblement payé le tribut du sang à notre grande cause aujourd’hui perdue ; […]
+p: Je conserverai jusqu’à mon dernier jour le souvenir des deux mois qui viennent de s’écouler, et le sentiment de gratitude et d’admiration que vous m’avez inspiré ne s’éteindra qu’avec ma vie.
+p: De votre côté, souvenez-vous sans amertume de votre vieux général, qui aurait été si heureux de vous épargner les malheurs, les souffrances et les dangers qui vous ont frappés, mais qui a dû fermer son cœur à ce sentiment, pour ne voir devant lui que le devoir, la patrie en deuil de ses enfants.
+p: Fermons les yeux, si nous le pouvons, sur le triste et douloureux présent et tournons-les vers l’avenir ; là nous trouverons le soutien des malheureux : l’espérance !
+p: Vive la France à jamais !
+p: Fait au quartier-général, le 27 septembre 1870.
+p: Le général de division, commandant supérieur de la 6e division militaire, Uhrich.
+gallica: bpt6k64716526 = Gustave Fischbach, Guerre de 1870. Le Siège et le bombardement de Strasbourg, Strasbourg, chez les principaux libraires, 1870
+preuve: data.bnf.fr, notice cb30437752j (le livre reproduit la proclamation ; même édition que la source)
+source: ia bub_gb_Fl5UAAAAcAAJ = Fischbach, Le Siège et le bombardement de Strasbourg, 1870
+pour: siege-de-strasbourg, general-uhrich
+
+@ favre-circulaire-6-septembre
+genre: document
+auteur: Jules Favre
+vie: 1809-1880
+titre: « Ni un pouce de notre territoire, ni une pierre de nos forteresses »
+oeuvre: Circulaire aux agents diplomatiques de la France
+annee: 1870
+quand: 1870-09-06
+intro: Deux jours après le 4 septembre, Jules Favre, vice-président du gouvernement de la Défense
+  nationale et ministre des Affaires étrangères, adresse cette circulaire aux représentants de la
+  France à l'étranger ; elle paraît au *Journal officiel* du 6 et sur les murs de Paris. Son
+  collègue Ernest Picard, raconte-t-il, avait seul demandé qu'on retranchât « ni une pierre de nos
+  forteresses ». La formule lui sera reprochée dès l'entrevue de Ferrières, puis à la paix.
+p: De son côté, le roi de Prusse a déclaré qu’il faisait la guerre non à la France, mais à la dynastie impériale.
+p: La dynastie est à terre. La France libre se lève.
+p: Le roi de Prusse veut-il continuer une lutte impie qui lui sera au moins aussi fatale qu’à nous ?
+p: Veut-il donner au monde du dix-neuvième siècle ce cruel spectacle de deux nations qui s’entre-détruisent, et qui, oublieuses de l’humanité, de la raison, de la science, accumulent les ruines et les cadavres ?
+p: Libre à lui ; qu’il assume cette responsabilité devant le monde et devant l’histoire !
+p: Si c’est un défi, nous l’acceptons.
+p: Nous ne céderons ni un pouce de notre territoire, ni une pierre de nos forteresses.
+p: Une paix honteuse serait une guerre d’extermination à courte échéance.
+p: Nous ne traiterons que pour une paix durable.
+p: Ici, notre intérêt est celui de l’Europe entière, et nous avons lieu d’espérer que, dégagée de toute préoccupation dynastique, la question se posera ainsi dans les chancelleries.
+p: Mais fussions-nous seuls, nous ne faiblirons pas.
+p: Nous avons une armée résolue, des forts bien pourvus, une enceinte bien établie, mais surtout les poitrines de trois cent mille combattants décidés à tenir jusqu’au dernier.
+p: Quand ils vont pieusement déposer des couronnes aux pieds de la statue de Strasbourg, ils n’obéissent pas seulement à un sentiment d’admiration enthousiaste, ils prennent leur héroïque mot d’ordre, ils jurent d’être dignes de leurs frères d’Alsace et de mourir comme eux.
+p: Après les forts, les remparts ; après les remparts, les barricades. Paris peut tenir trois mois et vaincre ; s’il succombait, la France, debout à son appel, le vengerait ; elle continuerait la lutte, et l’agresseur y périrait.
+p: Voilà, monsieur, ce que l’Europe doit savoir. Nous n’avons pas accepté le pouvoir dans un autre but.
+gallica: bpt6k23522s = Jules Favre, Gouvernement de la Défense nationale, tome 1, Paris, H. Plon, 1871 (pièces justificatives, n° 10)
+preuve: data.bnf.fr, notice cb30423166d ; partie 1 = NUMM-23522 d'après le catalogue général
+source: ia gouvernementdela01favr
+pour: entrevue-de-ferrieres, jules-favre, gouvernement-de-la-defense-nationale, mots-de-1870
+
+@ gambetta-metz-a-capitule
+genre: document
+auteur: Léon Gambetta
+vie: 1838-1882
+titre: « Le maréchal Bazaine a trahi ! »
+oeuvre: Proclamation au peuple français
+annee: 1870
+quand: 1870-10-30
+intro: Metz a capitulé le 27 octobre 1870 : 173 000 hommes prisonniers, et l'armée du prince
+  Frédéric-Charles libre de marcher sur la Loire. À Tours, où il est arrivé en ballon trois
+  semaines plus tôt, Gambetta rédige le 30 cette proclamation, signée avec Crémieux et
+  Glais-Bizoin. Le mot de trahison, lancé avant toute enquête, pèsera sur Bazaine jusqu'à son
+  procès de 1873 ; les chiffres donnés ici, écrits dans l'émotion, ne s'accordent pas entre eux.
+p: Français,
+p: Élevez vos âmes et vos résolutions à la hauteur des effroyables périls qui fondent sur la patrie.
+p: Il dépend encore de nous de lasser la mauvaise fortune et de montrer à l’univers ce qu’est un grand peuple qui ne veut pas périr, et dont le courage s’exalte au sein même des catastrophes.
+p: Metz a capitulé.
+p: Un général sur qui la France comptait, même après le Mexique, vient d’enlever à la patrie en danger plus de deux cent mille de ses défenseurs.
+p: Le maréchal Bazaine a trahi !
+p: Il s’est fait l’agent de l’homme de Sedan, le complice de l’envahisseur ; et, au mépris de l’honneur de l’armée dont il avait la garde, il a livré, sans même essayer un suprême effort, cent vingt mille combattants, vingt mille blessés, ses fusils, ses canons, ses drapeaux, et la plus forte citadelle de la France, Metz, vierge jusqu’à lui des souillures de l’étranger.
+p: Un tel crime est au-dessus même des châtiments de la justice.
+p: Et maintenant, Français, mesurez la profondeur de l’abîme où vous a précipités l’Empire ! Vingt ans la France a subi ce pouvoir corrupteur, qui tarissait en elle toutes les sources de la grandeur et de la vie.
+p: […]
+p: Il est temps de nous ressaisir, citoyens, et, sous l’égide de la République que nous sommes décidés à ne laisser capituler ni au dedans ni au dehors, de puiser dans l’étendue même de nos malheurs le rajeunissement de notre moralité et de notre virilité politique et sociale. Oui, quelle que soit l’étendue du désastre, il ne nous trouve ni consternés ni hésitants.
+p: Nous sommes prêts aux derniers sacrifices, et, en face d’ennemis que tout favorise, nous jurons de ne jamais nous rendre. Tant qu’il restera un pouce du sol sacré sous nos semelles, nous tiendrons ferme le glorieux drapeau de la Révolution française.
+gallica: bpt6k5813377q = Dépêches, circulaires, décrets, proclamations et discours de Léon Gambetta, publiés par Joseph Reinach, tome 1, Paris, G. Charpentier, 1886
+preuve: data.bnf.fr, notice cb34035997f ; tome 1 = NUMM-5813377 d'après le catalogue général
+source: ia dpchescirculaire01gamb
+pour: gambetta, siege-de-metz, delegation-de-tours, bazaine
+
+@ jaures-qui-est-responsable
+genre: analyse
+auteur: Jean Jaurès
+vie: 1859-1914
+titre: « La France a une grande et profonde responsabilité »
+oeuvre: Histoire socialiste. La Guerre franco-allemande (1870-1871)
+annee: 1908
+quand: 1870-07
+intro: Jaurès a onze ans en 1870. En 1908, député de Carmaux et directeur de *L'Humanité*, il
+  écrit pour l'*Histoire socialiste* qu'il dirige le volume sur la guerre, au moment où la Revanche
+  reste un mot d'ordre et où il plaide lui-même pour le rapprochement franco-allemand. Son
+  chapitre sur les responsabilités, qui n'épargne pas Bismarck, commence par cet aveu, rare alors
+  sous une plume française.
+p: Dans le conflit qui a mis aux prises deux puissantes nations, la France a une grande et profonde responsabilité. C’est elle qui l’a préparé dès longtemps et qui l’a rendu presque inévitable en méconnaissant les conditions de vie de l’Allemagne, en marquant une hostilité sourde ou violente à la nécessaire et légitime unité allemande. Cet aveu est douloureux sans doute, et il semble que ce soit redoubler la défaite du vaincu que le reconnaître responsable, pour une large part, de la guerre où il a succombé. Mais c’est au contraire échapper à la défaite en se haussant à la vérité qui sauve et qui prépare les relèvements. M. de Bismarck a dit : « La France est politiquement le plus ignorant de tous les peuples ; elle ignore ce qui se passe chez les autres. »
+p: Sur l’Allemagne elle s’était longuement méprise. Elle avait oublié le merveilleux génie pratique et agissant de Frédéric II : elle avait oublié aussi l’admirable mouvement de passion nationale qui avait soulevé et emporté l’Allemagne de 1813. Elle se figurait que jamais l’âpre volonté prussienne ne disciplinerait les flottantes énergies de la race allemande. Et elle croyait qu’après une courte crise de patriotisme exaspéré, l’Allemagne, à peine délivrée de l’occupation étrangère, se livrait aux douceurs inertes d’un idéalisme impuissant, et renonçait à fonder dans le monde réel des intérêts et des forces sa grandeur politique, industrielle et militaire.
+gallica: bpt6k49856s = Histoire socialiste, tome XI : La Guerre franco-allemande (1870-1871), par Jean Jaurès, Paris, J. Rouff, [1908]
+preuve: data.bnf.fr, notice cb37297418d
+source: ws Histoire socialiste/La Guerre Franco-Allemande/Qui est responsable
+pour: causes-de-la-guerre, idees-recues-sur-1870, guerre-de-1870
+
+@ gramont-declaration-6-juillet
+genre: document
+auteur: Duc de Gramont
+vie: 1819-1880
+titre: « Le trône de Charles-Quint »
+oeuvre: Déclaration au Corps législatif
+annee: 1870
+quand: 1870-07-06
+intro: Le 3 juillet 1870, Paris apprend que le prince Léopold de Hohenzollern accepte la couronne
+  d'Espagne. Le 6, le ministre des Affaires étrangères lit au Corps législatif une déclaration
+  arrêtée en conseil ; en voici le passage décisif, tel que le cite Albert Sorel, pour qui ce
+  langage « mettait le roi Guillaume en demeure de subir un affront diplomatique ou de déclarer
+  la guerre ». La candidature fut retirée le 12 ; la crise ne s'arrêta pas là.
+p: Nous ne croyons pas que le respect des droits d’un peuple voisin nous oblige à souffrir qu’une puissance étrangère, en plaçant un de ses princes sur le trône de Charles-Quint, puisse déranger à notre détriment l’équilibre actuel des forces en Europe et mettre en péril les intérêts et l’honneur de la France. Cette éventualité, nous en avons le ferme espoir, ne se réalisera pas. Pour l’empêcher, nous comptons à la fois sur la sagesse du peuple allemand et sur l’amitié du peuple espagnol. S’il en était autrement, forts de votre appui et de celui de la nation, nous saurions remplir notre devoir sans hésitation et sans faiblesse.
+gallica: bpt6k6373483f = Albert Sorel, Histoire diplomatique de la guerre franco-allemande, tome 1, Paris, E. Plon, 1875
+preuve: data.bnf.fr, notice cb31385441k ; tome 1 = NUMM-6373483 d'après le catalogue général
+source: ia histoirediplomat01soreuoft
+pour: candidature-hohenzollern, duc-de-gramont, causes-de-la-guerre
+
+@ ollivier-coeur-leger
+genre: analyse
+auteur: Émile Ollivier
+vie: 1825-1913
+titre: « Je ne l’efface pas »
+oeuvre: L’Empire libéral
+annee: 1909
+quand: 1870-07-15
+intro: Chef du ministère du 2 janvier, Émile Ollivier demande le 15 juillet 1870 au Corps législatif les crédits de la guerre. Un mot de son discours, « le cœur léger », le poursuivra jusqu'à sa mort. Près de quarante ans plus tard, au tome XIV de *L'Empire libéral*, dont la *Revue des Deux Mondes* donne les chapitres en 1909, il cite le compte rendu de la séance et plaide sa cause. L'interrupteur qu'il ne nomme pas est le député républicain Alphonse Esquiros.
+p: Je me crus, moi aussi, obligé de donner ce témoignage à mes collègues et à moi-même et, cherchant de fortes paroles pour exprimer le sentiment violent qui me secouait, je me rappelai les malédictions bibliques sur les impies aux cœurs pesans. Je les retournai et je dis : « Oui, de ce jour commence, pour les ministres mes collègues et pour moi, une grande responsabilité. Nous l’acceptons le cœur léger ! » La moindre incertitude sur ma pensée était-elle admissible lorsque je venais de dire quelques minutes auparavant que mon âme était désolée ? Néanmoins, avant que j’eusse pu terminer ma phrase et lui donner le complément qui n’eût permis aucune équivoque, je fus rappelé dans le triste milieu au-dessus duquel je m’étais élevé, par un glapissement haineux : « Dites attristé ! Vous avez le cœur léger et le sang des nations va couler ! » Je repris avec une émotion indignée qui entraîna l’assemblée : « Oui, d’un cœur léger, et n’équivoquez pas sur cette parole, et ne croyez pas que je veuille dire avec joie ; je vous ai dit moi-même mon chagrin d’être condamné à la guerre, je veux dire d’un cœur que le remords n’alourdit pas, d’un cœur confiant, parce que la guerre que nous ferons, nous la subissons, parce que nous avons fait tout ce qu’il était humainement et honorablement possible de tenter pour l’éviter ; et enfin parce que notre cause est juste et qu’elle est confiée à l’armée française. » (Vives et nombreuses marques d’approbation. — Nouveaux applaudissemens.)
+p: Combien de fois mes ennemis ne m’ont-ils pas poursuivi, devant la tourbe ignorante d’en haut et d’en bas, de ce mot de cœur léger ! C’est devenu un cliché lorsqu’on veut m’attaquer. Fût-il vrai qu’à ce moment, excédé par les angoisses, les fatigues, les insomnies, obligé de répondre seul à des orateurs puissans, n’ayant pas eu le loisir de réfléchir une minute à l’ordonnance et aux termes de mes discours, il me fût échappé une expression impropre, le commentaire que j’en donnai aussitôt ne permettait plus loyalement aucun malentendu sur la véritable portée de mon langage, et personne n’avait plus le droit, sans cesser d’être un honnête homme, d’y relever un aveu révoltant de dureté ou d’insouciance. Tout au plus les juges du talent auraient-ils pu y critiquer une défaillance de l’orateur ou du lettré. Mais mon expression est aussi irréprochable que le sentiment qu’elle manifestait, et sa correction littéraire ne peut pas faire doute plus que sa rectitude morale. Je ne l’efface pas.
+gallica: bpt6k24353r = L’Empire libéral : études, récits, souvenirs, tome XIV, Paris, Garnier frères, 1909
+preuve: data.bnf.fr, notice cb31035848j ; tome 14 = NUMM-24353 d'après le catalogue général (le volume reprend le chapitre paru dans la revue)
+source: ws Notre Réponse au soufflet de Bismarck - Déclaration du 15 juillet = Revue des Deux Mondes, 1909
+pour: declaration-de-guerre, emile-ollivier, mots-de-1870
+
+@ trochu-debrouillez-vous
+genre: analyse
+auteur: Louis-Jules Trochu
+vie: 1815-1896
+titre: « Débrouillez-vous »
+oeuvre: L’Armée française en 1867
+annee: 1867
+quand: 1867
+intro: Général de division, ancien de la Crimée et de l'Italie, Trochu publie en 1867, sans nom
+  d'auteur, ce livre écrit sous le coup de Sadowa et aussitôt réédité bien des fois. Il y gagne
+  la froideur de l'entourage impérial et une popularité qui le portera, en août 1870, au
+  gouvernement de Paris. Cette page du chapitre sur la préparation de la guerre décrit trois ans
+  d'avance la mobilisation de juillet 1870.
+p: Le mécanisme de l’armée française, malgré ses complications et quelque décousu, s’est prêté de tout temps aux exigences de la préparation de la guerre. Pourquoi donc cette grande tradition, ces habitudes si anciennes parmi nous, s’altèrent-elles ? Des faits multipliés, très-divers, graves, ont marqué dans nos dernières campagnes (Orient, Italie, Mexique) cette altération qui s’est invariablement manifestée sous des formes que je veux indiquer brièvement :
+p: La guerre paraissait imminente et occupait tous les esprits. On la niait, on l’affirmait, et, au milieu de ces incertitudes de l’opinion, elle éclatait. A ce moment, par terre et par mer, par wagons et par bateaux, dans la précipitation et le pêle-mêle, les troupes, hommes et chevaux, le matériel, les approvisionnements, etc., étaient mis en mouvement, encombraient toutes les voies et allaient s’accumuler un peu au hasard sur tel point et sur tel autre. A chacun des groupes qui prenaient terre, avec des manquements et dans le désarroi qu’on peut imaginer, on disait : « débrouillez-vous, » et il s’en allait insoucieusement du côté de l’ennemi, avec cette formule essentiellement française.
+p: Le merveilleux, et c’est là peut-être la plus réelle origine de notre supériorité militaire, que nous attribuons à d’autres causes parce qu’elles ont plus d’éclat et caressent mieux l’amour-propre national, le merveilleux, c’est qu’on « se débrouillait en effet. » Par toute sorte de moyens et par toute sorte d’industries, on se complétait, on se constituait un peu plus et un peu mieux, chaque jour, en cheminant. L’heure venue des premiers chocs, si on n’était pas en mesure, quelques-uns seulement le savaient, personne ne s’en mettait en peine dans tous les cas, et on opérait absolument comme si on avait été armé de toutes pièces.
+p: Assurément, il est heureux que nos troupes aient à un si haut degré la faculté de « se débrouiller » — elle n’est pas en campagne médiocrement précieuse ; — mais en venir au point de fonder sur cette faculté toute la préparation et une part de la pratique de la guerre, c’est un excès, et c’est trop donner au hasard.
+gallica: bpt6k36512d = L’Armée française en 1867, Paris, Amyot, 1867
+preuve: data.bnf.fr, notice cb37309828m
+source: ia larmefranaiseen00trocgoog
+pour: mobilisation-de-1870, trochu, armee-francaise-en-1870, intendance-et-ravitaillement
+
+@ proclamation-de-la-republique
+genre: document
+auteur: Gouvernement de la Défense nationale
+titre: « Le Peuple a devancé la Chambre qui hésitait »
+oeuvre: Affiche « Français ! »
+annee: 1870
+quand: 1870-09-04
+intro: Le dimanche 4 septembre 1870, la nouvelle de Sedan connue, la foule envahit le Palais-Bourbon ; les députés de Paris gagnent l'Hôtel de Ville et y proclament la République. Cette affiche, la première du recueil des *Murailles politiques françaises*, l'annonce aux Parisiens. Ses signatures ne sont pas encore celles du gouvernement définitif : on y lit Dorian, Magnin, Guyot-Montpayroux, Ordinaire ; il y manque Trochu, Rochefort et Glais-Bizoin.
+p: FRANÇAIS !
+p: Le Peuple a devancé la Chambre qui hésitait. Pour sauver la Patrie en danger, il a demandé la République.
+p: Il a mis ses représentants non au pouvoir, mais au péril.
+p: La République a vaincu l’invasion en 1792 ; la République est proclamée.
+p: La Révolution est faite au nom du droit, du salut public.
+p: Citoyens, veillez sur la Cité qui vous est confiée ; demain vous serez, avec l’armée, les vengeurs de la Patrie !
+p: Emmanuel Arago, Crémieux, Dorian, Jules Favre, Jules Ferry, Guyot-Montpayroux, Léon Gambetta, Garnier-Pagès, Magnin, Ordinaire, E. Pelletan, Ernest Picard, Jules Simon.
+gallica: bpt6k57946133 = Les Murailles politiques françaises depuis le 4 septembre 1870, Paris, Armand Le Chevalier, 1873-1874
+preuve: data.bnf.fr, notice cb34825203h (fac-similé de l'affiche en tête du recueil)
+source: ia bub_gb_tO9cNMqhDxYC = Les Murailles politiques françaises, tome 1, 1873
+pour: quatre-septembre, gouvernement-de-la-defense-nationale
+
+@ hugo-bordeaux-1er-mars
+genre: document
+auteur: Victor Hugo
+vie: 1802-1885
+titre: « Je ne voterai point cette paix »
+oeuvre: Actes et paroles. Depuis l’exil
+annee: 1871
+quand: 1871-03-01
+intro: Le 1er mars 1871, à Bordeaux, l'Assemblée nationale discute les préliminaires de paix qui cèdent l'Alsace et une partie de la Lorraine ; elle les ratifiera le soir même par 546 voix contre 107. Victor Hugo, député de Paris, parle contre. Lorsqu'il nomme Mayence et Coblence, les députés alsaciens eux-mêmes l'interrompent, par crainte de voir prêter à la France des projets de conquête ; il achève, et démissionnera une semaine plus tard.
+p: Je ne voterai point cette paix, parce que, avant tout, il faut sauver l’honneur de son pays ; je ne la voterai point, parce qu’une paix infâme est une paix terrible. Et pourtant, peut-être aurait-elle un mérite à mes yeux : c’est qu’une telle paix, ce n’est plus la guerre, soit, mais c’est la haine. (Mouvement.) La haine contre qui ? Contre les peuples ? non ! contre les rois ! Que les rois recueillent ce qu’ils ont semé. Faites, princes ; mutilez, coupez, tranchez, volez, annexez, démembrez ! Vous créez la haine profonde ; vous indignez la conscience universelle. La vengeance couve, l’explosion sera en raison de l’oppression. Tout ce que la France perdra, la Révolution le gagnera. (Approbation sur les bancs de la gauche.)
+p: Oh ! une heure sonnera — nous la sentons venir — cette revanche prodigieuse. Nous entendons dès à présent notre triomphant avenir marcher à grands pas dans l’histoire. Oui, dès demain, cela va commencer ; dès demain, la France n’aura plus qu’une pensée : se recueillir, se reposer dans la rêverie redoutable du désespoir ; reprendre des forces ; élever ses enfants, nourrir de saintes colères ces petits qui deviendront grands ; forger des canons et former des citoyens, créer une armée qui soit un peuple ; appeler la science au secours de la guerre ; étudier le procédé prussien, comme Rome a étudié le procédé punique ; se fortifier, s’affermir, se régénérer, redevenir la grande France, la France de 92, la France de l’idée et la France de l’épée. (Très bien ! très bien !)
+p: […]
+p: On verra la France se redresser, on la verra ressaisir la Lorraine, ressaisir l’Alsace. (Oui ! oui ! — Très bien !) Et puis, est-ce tout ? Non… saisir Trèves, Mayence, Cologne, Coblentz, toute la rive gauche du Rhin… Et on entendra la France crier : C’est mon tour ! Allemagne, me voilà ! Suis-je ton ennemie ? Non ! je suis ta sœur. (Très bien ! très bien !) Je t’ai tout repris, et je te rends tout, à une condition : c’est que nous ne ferons plus qu’un seul peuple, qu’une seule famille, qu’une seule république. (Mouvements divers.) Je vais démolir mes forteresses, tu vas démolir les tiennes. Ma vengeance, c’est la fraternité ! (A gauche : Bravo ! bravo !) Plus de frontières ! Le Rhin à tous ! Soyons la même république, soyons les États-Unis d’Europe, soyons la fédération continentale, soyons la liberté européenne, soyons la paix universelle ! Et maintenant serrons-nous la main, car nous nous sommes rendu service l’une à l’autre ; tu m’as délivrée de mon empereur, et je te délivre du tien. (Bravo ! bravo ! — Applaudissements.)
+gallica: btv1b8626422x = Actes et paroles. Depuis l’exil, 1870-1876, Paris, Michel Lévy frères, 1876
+preuve: data.bnf.fr, notice cb30625210w (volume 3, « Depuis l’exil »)
+source: ws Actes et paroles/Depuis l’exil/Bordeaux
+pour: preliminaires-de-versailles, assemblee-de-bordeaux, victor-hugo-en-1870, idee-de-revanche
+
+@ trochu-ne-capitulera-pas
+genre: document
+auteur: Louis-Jules Trochu
+vie: 1815-1896
+titre: « Le Gouverneur de Paris ne capitulera pas »
+oeuvre: Affiche « Aux Citoyens de Paris »
+annee: 1871
+quand: 1871-01-06
+intro: Le 5 janvier 1871, les batteries allemandes ouvrent le feu sur les forts du sud et sur la rive gauche de Paris, investi depuis plus de cent jours ; la ville a faim et froid, et l'on y accuse le gouvernement d'inertie. Le 6, le général Trochu, gouverneur de Paris et président du gouvernement, fait placarder ces quelques lignes. Remplacé le 22 janvier à la tête de l'armée, il n'aura pas à signer la capitulation ; le mot lui resta.
+p: Aux Citoyens de Paris,
+p: Au moment où l’ennemi redouble ses efforts d’intimidation, on cherche à égarer les Citoyens de Paris par la tromperie et par la calomnie. On exploite, contre la défense, nos souffrances et nos sacrifices.
+p: Rien ne fera tomber les armes de nos mains. Courage, confiance, patriotisme ! Le Gouverneur de Paris ne capitulera pas.
+p: Paris, le 6 janvier 1871.
+p: Le Gouverneur de Paris, Le général TROCHU.
+gallica: bpt6k57946133 = Les Murailles politiques françaises depuis le 4 septembre 1870, Paris, Armand Le Chevalier, 1873-1874
+preuve: data.bnf.fr, notice cb34825203h (fac-similé de l'affiche, p. 710 du recueil)
+source: ia bub_gb_tO9cNMqhDxYC = Les Murailles politiques françaises, tome 1, 1873
+pour: trochu, siege-de-paris, bombardement-de-paris, mots-de-1870
+
+@ jaures-depeche-d-ems
+genre: analyse
+auteur: Jean Jaurès
+vie: 1859-1914
+titre: « Un chef-d’œuvre de condensation »
+oeuvre: Histoire socialiste. La Guerre franco-allemande (1870-1871)
+annee: 1908
+quand: 1870-07-13
+intro: En 1908, Jaurès dispose de ce qui manquait aux historiens de 1875 : les souvenirs de Bismarck et le texte du télégramme d'Abeken, qu'il compare à la dépêche publiée. Il refuse pourtant de s'en tenir au récit du chancelier, trop content de s'attribuer tout le coup : pour lui, le télégramme parti d'Ems durcissait déjà les faits. L'édition transcrite imprime « Hoon » pour Roon et ne referme pas le guillemet de la dépêche.
+p: Mais il n’était pas interdit de donner à la sinistre maquette un coup de pouce. M. de Bismarck collationnait à ce moment-là au ministère avec MM. de Moltke et Hoon, c’était la chope de cinq heures. Êtes-vous prêt ? demande-t-il à de Moltke ? — Le plus tôt sera le mieux, répondit l’autre ; et M. de Bismarck, resserrant encore la dépêche qui elle-même avait resserré les faits pour leur donner plus de saillie, formule de son gros crayon le simple texte suivant : « La nouvelle du renoncement du prince héritier de Hohenzollern a été officiellement communiquée au gouvernement impérial français par le gouvernement royal espagnol. Depuis, l’ambassadeur français a adressé à Ems, à Sa Majesté le Roi, la demande de l’autoriser à télégraphier à Paris que Sa Majesté le Roi s’engageait à tout jamais à ne point permettre la reprise de la candidature. Là-dessus, Sa Majesté a refusé de recevoir encore l’ambassadeur et lui a fait dire par l’aide de camp de service qu’Elle n’avait plus rien à lui communiquer. C’est vraiment un chef-d’œuvre de condensation : M. de Bismarck avait bien compris le Roi, plus peut-être qu’il ne plaisait au Roi de se comprendre lui-même. Les choses auraient l’air de faire violence à Sa Majesté ; et il aurait sans doute, devant les formidables conséquences de sa dépêche un peu simplifiée, ces étonnements ingénus où sa conscience se rassurait elle-même. Mais, gloire ou crime, la responsabilité du drame se partage entre le ministre et le souverain.
+p: Quand M. de Bismarck, tout doucement, vers 6 heures du soir, laissa tomber dans la rue, par une fenêtre de la Wilhelmstrasse, cette bonne petite bombe, l’explosion fut effroyable. Une édition spéciale de l’organe officieux, la Gazette de l’Allemagne du Nord, fut criée dans la capitale ; son commentaire mélodramatique, une sorte d’enluminure grossière et violente, ajoutait à l’effet : M. Benedetti avait obsédé le Roi à Ems d’insistances déplacées et de démarches inconvenantes ; le Roi avait dû s’en débarrasser comme d’un importun et d’un malappris.
+gallica: bpt6k49856s = Histoire socialiste, tome XI : La Guerre franco-allemande (1870-1871), par Jean Jaurès, Paris, J. Rouff, [1908]
+preuve: data.bnf.fr, notice cb37297418d
+source: ws Histoire socialiste/La Guerre Franco-Allemande/Qui est responsable
+pour: depeche-d-ems, bismarck, guillaume-ier

@@ -1,0 +1,1922 @@
+{
+ "Paris": {
+  "lat": 48.856578,
+  "lon": 2.351828,
+  "rang": 1,
+  "titre": "Paris",
+  "page": "Paris"
+ },
+ "Metz": {
+  "lat": 49.1203,
+  "lon": 6.1778,
+  "rang": 1,
+  "titre": "Metz",
+  "page": "Metz"
+ },
+ "Strasbourg": {
+  "lat": 48.5734053,
+  "lon": 7.7521113,
+  "rang": 1,
+  "titre": "Strasbourg",
+  "page": "Strasbourg"
+ },
+ "Sedan": {
+  "lat": 49.7025,
+  "lon": 4.94111,
+  "rang": 1,
+  "titre": "Sedan",
+  "page": "Sedan"
+ },
+ "Orléans": {
+  "lat": 47.9025,
+  "lon": 1.909,
+  "rang": 1,
+  "titre": "Orléans",
+  "page": "Orléans"
+ },
+ "Lille": {
+  "lat": 50.637222,
+  "lon": 3.063333,
+  "rang": 1,
+  "titre": "Lille",
+  "page": "Lille"
+ },
+ "Lyon": {
+  "lat": 45.7578,
+  "lon": 4.8322,
+  "rang": 1,
+  "titre": "Lyon",
+  "page": "Lyon"
+ },
+ "Bordeaux": {
+  "lat": 44.837912,
+  "lon": -0.579541,
+  "rang": 1,
+  "titre": "Bordeaux",
+  "page": "Bordeaux"
+ },
+ "Bruxelles": {
+  "lat": 50.8467,
+  "lon": 4.3525,
+  "rang": 1,
+  "source": "main"
+ },
+ "Cologne": {
+  "lat": 50.94257,
+  "lon": 6.958976,
+  "rang": 1,
+  "titre": "Cologne",
+  "page": "Cologne"
+ },
+ "Francfort": {
+  "lat": 50.117,
+  "lon": 8.683,
+  "rang": 1,
+  "titre": "Francfort-sur-le-Main",
+  "page": "Francfort-sur-le-Main"
+ },
+ "Munich": {
+  "lat": 48.15,
+  "lon": 11.575,
+  "rang": 1,
+  "titre": "Munich",
+  "page": "Munich"
+ },
+ "Nancy": {
+  "lat": 48.6936,
+  "lon": 6.1846,
+  "rang": 2,
+  "titre": "Nancy",
+  "page": "Nancy"
+ },
+ "Reims": {
+  "lat": 49.26278,
+  "lon": 4.03472,
+  "rang": 2,
+  "titre": "Reims",
+  "page": "Reims"
+ },
+ "Châlons": {
+  "lat": 48.9575,
+  "lon": 4.365,
+  "rang": 2,
+  "titre": "Châlons-en-Champagne",
+  "page": "Châlons-en-Champagne"
+ },
+ "Belfort": {
+  "lat": 47.637942,
+  "lon": 6.862813,
+  "rang": 2,
+  "titre": "Belfort",
+  "page": "Belfort"
+ },
+ "Besançon": {
+  "lat": 47.24306,
+  "lon": 6.02194,
+  "rang": 2,
+  "titre": "Besançon",
+  "page": "Besançon"
+ },
+ "Dijon": {
+  "lat": 47.32167,
+  "lon": 5.04139,
+  "rang": 2,
+  "titre": "Dijon",
+  "page": "Dijon"
+ },
+ "Troyes": {
+  "lat": 48.297419,
+  "lon": 4.074263,
+  "rang": 2,
+  "titre": "Troyes",
+  "page": "Troyes"
+ },
+ "Tours": {
+  "lat": 47.393611,
+  "lon": 0.689167,
+  "rang": 2,
+  "titre": "Tours",
+  "page": "Tours"
+ },
+ "Le Mans": {
+  "lat": 48.004167,
+  "lon": 0.196944,
+  "rang": 2,
+  "titre": "Le Mans",
+  "page": "Le Mans"
+ },
+ "Bourges": {
+  "lat": 47.08444444,
+  "lon": 2.39638889,
+  "rang": 2,
+  "titre": "Bourges",
+  "page": "Bourges"
+ },
+ "Rouen": {
+  "lat": 49.443232,
+  "lon": 1.099971,
+  "rang": 2,
+  "titre": "Rouen",
+  "page": "Rouen"
+ },
+ "Le Havre": {
+  "lat": 49.49,
+  "lon": 0.1,
+  "rang": 2,
+  "titre": "Le Havre",
+  "page": "Le Havre"
+ },
+ "Amiens": {
+  "lat": 49.894293,
+  "lon": 2.295736,
+  "rang": 2,
+  "titre": "Amiens",
+  "page": "Amiens"
+ },
+ "Sarrebruck": {
+  "lat": 49.2333,
+  "lon": 7,
+  "rang": 2,
+  "titre": "Sarrebruck",
+  "page": "Sarrebruck"
+ },
+ "Luxembourg": {
+  "lat": 49.611567,
+  "lon": 6.133836,
+  "rang": 2,
+  "titre": "Luxembourg (ville)",
+  "page": "Luxembourg (ville)"
+ },
+ "Genève": {
+  "lat": 46.200013,
+  "lon": 6.149985,
+  "rang": 2,
+  "titre": "Genève",
+  "page": "Genève"
+ },
+ "Berne": {
+  "lat": 46.9490904,
+  "lon": 7.4473572,
+  "rang": 2,
+  "titre": "Berne",
+  "page": "Berne"
+ },
+ "Bâle": {
+  "lat": 47.567,
+  "lon": 7.583,
+  "rang": 2,
+  "titre": "Bâle",
+  "page": "Bâle"
+ },
+ "Coblence": {
+  "lat": 50.35,
+  "lon": 7.6,
+  "rang": 2,
+  "titre": "Coblence",
+  "page": "Coblence"
+ },
+ "Mayence": {
+  "lat": 50,
+  "lon": 8.271111,
+  "rang": 2,
+  "titre": "Mayence",
+  "page": "Mayence"
+ },
+ "Mannheim": {
+  "lat": 49.489,
+  "lon": 8.4691,
+  "rang": 2,
+  "titre": "Mannheim",
+  "page": "Mannheim"
+ },
+ "Karlsruhe": {
+  "lat": 49.014,
+  "lon": 8.4043,
+  "rang": 2,
+  "titre": "Karlsruhe",
+  "page": "Karlsruhe"
+ },
+ "Stuttgart": {
+  "lat": 48.7766,
+  "lon": 9.1777,
+  "rang": 2,
+  "titre": "Stuttgart",
+  "page": "Stuttgart"
+ },
+ "Cassel": {
+  "lat": 51.31972222,
+  "lon": 9.497778,
+  "rang": 2,
+  "titre": "Cassel (Hesse)",
+  "page": "Cassel (Hesse)"
+ },
+ "Nantes": {
+  "lat": 47.21806,
+  "lon": -1.55278,
+  "rang": 2,
+  "titre": "Nantes",
+  "page": "Nantes"
+ },
+ "Rennes": {
+  "lat": 48.114722,
+  "lon": -1.679444,
+  "rang": 2,
+  "titre": "Rennes",
+  "page": "Rennes"
+ },
+ "Brest": {
+  "lat": 48.390834,
+  "lon": -4.485556,
+  "rang": 2,
+  "titre": "Brest",
+  "page": "Brest"
+ },
+ "Marseille": {
+  "lat": 43.296346,
+  "lon": 5.369889,
+  "rang": 2,
+  "titre": "Marseille",
+  "page": "Marseille"
+ },
+ "Versailles": {
+  "lat": 48.8053,
+  "lon": 2.135,
+  "rang": 3,
+  "titre": "Versailles",
+  "page": "Versailles"
+ },
+ "Toul": {
+  "lat": 48.675,
+  "lon": 5.89166667,
+  "rang": 3,
+  "titre": "Toul",
+  "page": "Toul"
+ },
+ "Verdun": {
+  "lat": 49.1608,
+  "lon": 5.388422,
+  "rang": 3,
+  "titre": "Verdun",
+  "page": "Verdun"
+ },
+ "Bar-le-Duc": {
+  "lat": 48.771944,
+  "lon": 5.160278,
+  "rang": 3,
+  "titre": "Bar-le-Duc",
+  "page": "Bar-le-Duc"
+ },
+ "Rethel": {
+  "lat": 49.5106,
+  "lon": 4.3667,
+  "rang": 3,
+  "titre": "Rethel",
+  "page": "Rethel"
+ },
+ "Montmédy": {
+  "lat": 49.52027778,
+  "lon": 5.36666667,
+  "rang": 3,
+  "titre": "Montmédy",
+  "page": "Montmédy"
+ },
+ "Mézières": {
+  "lat": 49.771911,
+  "lon": 4.716122,
+  "rang": 3,
+  "titre": "Charleville-Mézières",
+  "page": "Charleville-Mézières"
+ },
+ "Thionville": {
+  "lat": 49.35888889,
+  "lon": 6.16916667,
+  "rang": 3,
+  "titre": "Thionville",
+  "page": "Thionville"
+ },
+ "Longwy": {
+  "lat": 49.52,
+  "lon": 5.76055556,
+  "rang": 3,
+  "titre": "Longwy",
+  "page": "Longwy"
+ },
+ "Wissembourg": {
+  "lat": 49.03833333,
+  "lon": 7.94694444,
+  "rang": 3,
+  "titre": "Wissembourg",
+  "page": "Wissembourg"
+ },
+ "Haguenau": {
+  "lat": 48.81722222,
+  "lon": 7.78861111,
+  "rang": 3,
+  "titre": "Haguenau",
+  "page": "Haguenau"
+ },
+ "Saverne": {
+  "lat": 48.742222,
+  "lon": 7.362777,
+  "rang": 3,
+  "titre": "Saverne",
+  "page": "Saverne"
+ },
+ "Phalsbourg": {
+  "lat": 48.768611,
+  "lon": 7.259167,
+  "rang": 3,
+  "titre": "Phalsbourg",
+  "page": "Phalsbourg"
+ },
+ "Bitche": {
+  "lat": 49.0525,
+  "lon": 7.42583333,
+  "rang": 3,
+  "titre": "Bitche",
+  "page": "Bitche"
+ },
+ "Lunéville": {
+  "lat": 48.58944444,
+  "lon": 6.50166667,
+  "rang": 3,
+  "titre": "Lunéville",
+  "page": "Lunéville"
+ },
+ "Sélestat": {
+  "lat": 48.259444,
+  "lon": 7.454167,
+  "rang": 3,
+  "titre": "Sélestat",
+  "page": "Sélestat"
+ },
+ "Colmar": {
+  "lat": 48.08166667,
+  "lon": 7.35555556,
+  "rang": 3,
+  "titre": "Colmar",
+  "page": "Colmar"
+ },
+ "Neuf-Brisach": {
+  "lat": 48.01888889,
+  "lon": 7.52916667,
+  "rang": 3,
+  "titre": "Neuf-Brisach",
+  "page": "Neuf-Brisach"
+ },
+ "Mulhouse": {
+  "lat": 47.749481,
+  "lon": 7.33994,
+  "rang": 3,
+  "titre": "Mulhouse",
+  "page": "Mulhouse"
+ },
+ "Montbéliard": {
+  "lat": 47.51027,
+  "lon": 6.79888,
+  "rang": 3,
+  "titre": "Montbéliard",
+  "page": "Montbéliard"
+ },
+ "Vesoul": {
+  "lat": 47.623055,
+  "lon": 6.155833,
+  "rang": 3,
+  "titre": "Vesoul",
+  "page": "Vesoul"
+ },
+ "Pontarlier": {
+  "lat": 46.9066,
+  "lon": 6.35555,
+  "rang": 3,
+  "titre": "Pontarlier",
+  "page": "Pontarlier"
+ },
+ "Autun": {
+  "lat": 46.95166667,
+  "lon": 4.29944444,
+  "rang": 3,
+  "titre": "Autun",
+  "page": "Autun"
+ },
+ "Langres": {
+  "lat": 47.85333333,
+  "lon": 5.33388889,
+  "rang": 3,
+  "titre": "Langres",
+  "page": "Langres"
+ },
+ "Chaumont": {
+  "lat": 48.11166667,
+  "lon": 5.13888889,
+  "rang": 3,
+  "titre": "Chaumont (Haute-Marne)",
+  "page": "Chaumont (Haute-Marne)"
+ },
+ "Épinal": {
+  "lat": 48.1744,
+  "lon": 6.4512,
+  "rang": 3,
+  "titre": "Épinal",
+  "page": "Épinal"
+ },
+ "Auxerre": {
+  "lat": 47.7986,
+  "lon": 3.5672,
+  "rang": 3,
+  "titre": "Auxerre",
+  "page": "Auxerre"
+ },
+ "Châteaudun": {
+  "lat": 48.071667,
+  "lon": 1.33867,
+  "rang": 3,
+  "titre": "Châteaudun",
+  "page": "Châteaudun"
+ },
+ "Blois": {
+  "lat": 47.593889,
+  "lon": 1.328056,
+  "rang": 3,
+  "titre": "Blois",
+  "page": "Blois"
+ },
+ "Vendôme": {
+  "lat": 47.7936,
+  "lon": 1.0663,
+  "rang": 3,
+  "titre": "Vendôme",
+  "page": "Vendôme"
+ },
+ "Laval": {
+  "lat": 48.072778,
+  "lon": -0.77,
+  "rang": 3,
+  "titre": "Laval (Mayenne)",
+  "page": "Laval (Mayenne)"
+ },
+ "Nevers": {
+  "lat": 46.992899,
+  "lon": 3.161659,
+  "rang": 3,
+  "titre": "Nevers",
+  "page": "Nevers"
+ },
+ "Chartres": {
+  "lat": 48.455847,
+  "lon": 1.484184,
+  "rang": 3,
+  "titre": "Chartres",
+  "page": "Chartres"
+ },
+ "Évreux": {
+  "lat": 49.0270129,
+  "lon": 1.151361,
+  "rang": 3,
+  "titre": "Évreux",
+  "page": "Évreux"
+ },
+ "Dieppe": {
+  "lat": 49.92222222,
+  "lon": 1.07861111,
+  "rang": 3,
+  "titre": "Dieppe (Seine-Maritime)",
+  "page": "Dieppe (Seine-Maritime)"
+ },
+ "Péronne": {
+  "lat": 49.93305556,
+  "lon": 2.93722222,
+  "rang": 3,
+  "titre": "Péronne (Somme)",
+  "page": "Péronne (Somme)"
+ },
+ "Saint-Quentin": {
+  "lat": 49.84861111,
+  "lon": 3.28638889,
+  "rang": 3,
+  "titre": "Saint-Quentin",
+  "page": "Saint-Quentin"
+ },
+ "Arras": {
+  "lat": 50.28972222,
+  "lon": 2.78083333,
+  "rang": 3,
+  "titre": "Arras",
+  "page": "Arras"
+ },
+ "Cambrai": {
+  "lat": 50.17666667,
+  "lon": 3.23555556,
+  "rang": 3,
+  "titre": "Cambrai",
+  "page": "Cambrai"
+ },
+ "Laon": {
+  "lat": 49.56388889,
+  "lon": 3.62444444,
+  "rang": 3,
+  "titre": "Laon",
+  "page": "Laon"
+ },
+ "Soissons": {
+  "lat": 49.38166667,
+  "lon": 3.32361111,
+  "rang": 3,
+  "titre": "Soissons",
+  "page": "Soissons"
+ },
+ "Compiègne": {
+  "lat": 49.4149,
+  "lon": 2.823056,
+  "rang": 3,
+  "titre": "Compiègne",
+  "page": "Compiègne"
+ },
+ "Beauvais": {
+  "lat": 49.430278,
+  "lon": 2.0952,
+  "rang": 3,
+  "titre": "Beauvais",
+  "page": "Beauvais"
+ },
+ "Meaux": {
+  "lat": 48.96027778,
+  "lon": 2.88833333,
+  "rang": 3,
+  "titre": "Meaux",
+  "page": "Meaux"
+ },
+ "Melun": {
+  "lat": 48.54055556,
+  "lon": 2.66,
+  "rang": 3,
+  "titre": "Melun",
+  "page": "Melun"
+ },
+ "Alençon": {
+  "lat": 48.429722,
+  "lon": 0.091944,
+  "rang": 3,
+  "titre": "Alençon",
+  "page": "Alençon"
+ },
+ "Caen": {
+  "lat": 49.182222,
+  "lon": -0.370556,
+  "rang": 3,
+  "titre": "Caen",
+  "page": "Caen"
+ },
+ "Cherbourg": {
+  "lat": 49.638889,
+  "lon": -1.625,
+  "rang": 3,
+  "titre": "Cherbourg-en-Cotentin",
+  "page": "Cherbourg-en-Cotentin"
+ },
+ "Limoges": {
+  "lat": 45.85,
+  "lon": 1.25,
+  "rang": 3,
+  "titre": "Limoges",
+  "page": "Limoges"
+ },
+ "Clermont-Ferrand": {
+  "lat": 45.775882,
+  "lon": 3.082285,
+  "rang": 3,
+  "titre": "Clermont-Ferrand",
+  "page": "Clermont-Ferrand"
+ },
+ "Toulouse": {
+  "lat": 43.604482,
+  "lon": 1.443962,
+  "rang": 3,
+  "titre": "Toulouse",
+  "page": "Toulouse"
+ },
+ "Liège": {
+  "lat": 50.63972222,
+  "lon": 5.57055556,
+  "rang": 3,
+  "titre": "Liège",
+  "page": "Liège"
+ },
+ "Ems": {
+  "lat": 50.3381,
+  "lon": 7.71056,
+  "rang": 3,
+  "titre": "Bad Ems",
+  "page": "Bad Ems"
+ },
+ "Trèves": {
+  "lat": 49.7596,
+  "lon": 6.6439,
+  "rang": 3,
+  "source": "main"
+ },
+ "Kaiserslautern": {
+  "lat": 49.44472222,
+  "lon": 7.76888889,
+  "rang": 3,
+  "titre": "Kaiserslautern",
+  "page": "Kaiserslautern"
+ },
+ "Landau": {
+  "lat": 49.1994444,
+  "lon": 8.1230555,
+  "rang": 3,
+  "titre": "Landau in der Pfalz",
+  "page": "Landau in der Pfalz"
+ },
+ "Spire": {
+  "lat": 49.3194,
+  "lon": 8.4311,
+  "rang": 3,
+  "source": "main"
+ },
+ "Fribourg": {
+  "lat": 47.9955,
+  "lon": 7.8522,
+  "rang": 3,
+  "titre": "Fribourg-en-Brisgau",
+  "page": "Fribourg-en-Brisgau"
+ },
+ "Camp de Châlons": {
+  "lat": 49.1417,
+  "lon": 4.365,
+  "rang": 0,
+  "titre": "Mourmelon-le-Grand",
+  "page": "Mourmelon-le-Grand"
+ },
+ "Vitry-le-François": {
+  "lat": 48.72555556,
+  "lon": 4.58527778,
+  "rang": 0,
+  "titre": "Vitry-le-François",
+  "page": "Vitry-le-François"
+ },
+ "Sainte-Menehould": {
+  "lat": 49.09083333,
+  "lon": 4.89805556,
+  "rang": 0,
+  "titre": "Sainte-Menehould",
+  "page": "Sainte-Menehould"
+ },
+ "Vouziers": {
+  "lat": 49.39722222,
+  "lon": 4.69833333,
+  "rang": 0,
+  "titre": "Vouziers",
+  "page": "Vouziers"
+ },
+ "Le Chesne": {
+  "lat": 49.5144,
+  "lon": 4.765,
+  "rang": 0,
+  "titre": "Le Chesne (Ardennes)",
+  "page": "Le Chesne (Ardennes)"
+ },
+ "Beaumont": {
+  "lat": 49.53916667,
+  "lon": 5.05805556,
+  "rang": 0,
+  "titre": "Beaumont-en-Argonne",
+  "page": "Beaumont-en-Argonne"
+ },
+ "Mouzon": {
+  "lat": 49.6069,
+  "lon": 5.075,
+  "rang": 0,
+  "titre": "Mouzon (Ardennes)",
+  "page": "Mouzon (Ardennes)"
+ },
+ "Stenay": {
+  "lat": 49.490828,
+  "lon": 5.1863853,
+  "rang": 0,
+  "titre": "Stenay",
+  "page": "Stenay"
+ },
+ "Forbach": {
+  "lat": 49.18888,
+  "lon": 6.90083,
+  "rang": 0,
+  "titre": "Forbach",
+  "page": "Forbach"
+ },
+ "Spicheren": {
+  "lat": 49.1925,
+  "lon": 6.9692,
+  "rang": 0,
+  "titre": "Spicheren",
+  "page": "Spicheren"
+ },
+ "Saint-Avold": {
+  "lat": 49.103713,
+  "lon": 6.707926,
+  "rang": 0,
+  "titre": "Saint-Avold",
+  "page": "Saint-Avold"
+ },
+ "Wœrth": {
+  "lat": 48.93972222,
+  "lon": 7.74638889,
+  "rang": 0,
+  "titre": "Wœrth",
+  "page": "Wœrth"
+ },
+ "Frœschwiller": {
+  "lat": 48.94444444,
+  "lon": 7.72277778,
+  "rang": 0,
+  "titre": "Frœschwiller",
+  "page": "Frœschwiller"
+ },
+ "Reichshoffen": {
+  "lat": 48.935,
+  "lon": 7.666944,
+  "rang": 0,
+  "titre": "Reichshoffen",
+  "page": "Reichshoffen"
+ },
+ "Sarreguemines": {
+  "lat": 49.11111111,
+  "lon": 7.06805556,
+  "rang": 0,
+  "titre": "Sarreguemines",
+  "page": "Sarreguemines"
+ },
+ "Pont-à-Mousson": {
+  "lat": 48.90527778,
+  "lon": 6.05472222,
+  "rang": 0,
+  "titre": "Pont-à-Mousson",
+  "page": "Pont-à-Mousson"
+ },
+ "Mars-la-Tour": {
+  "lat": 49.0997,
+  "lon": 5.8867,
+  "rang": 0,
+  "titre": "Mars-la-Tour",
+  "page": "Mars-la-Tour"
+ },
+ "Gravelotte": {
+  "lat": 49.11055556,
+  "lon": 6.03055556,
+  "rang": 0,
+  "titre": "Gravelotte",
+  "page": "Gravelotte"
+ },
+ "Saint-Privat": {
+  "lat": 49.1897,
+  "lon": 6.0369,
+  "rang": 0,
+  "titre": "Saint-Privat-la-Montagne",
+  "page": "Saint-Privat-la-Montagne"
+ },
+ "Borny": {
+  "lat": 49.108,
+  "lon": 6.223,
+  "rang": 0,
+  "source": "main"
+ },
+ "Héricourt": {
+  "lat": 47.57833333,
+  "lon": 6.76222222,
+  "rang": 0,
+  "titre": "Héricourt (Haute-Saône)",
+  "page": "Héricourt (Haute-Saône)"
+ },
+ "Villersexel": {
+  "lat": 47.55139,
+  "lon": 6.433889,
+  "rang": 0,
+  "titre": "Villersexel",
+  "page": "Villersexel"
+ },
+ "Les Verrières": {
+  "lat": 46.904,
+  "lon": 6.48,
+  "rang": 0,
+  "source": "main"
+ },
+ "Nuits": {
+  "lat": 47.13833333,
+  "lon": 4.95111111,
+  "rang": 0,
+  "titre": "Nuits-Saint-Georges",
+  "page": "Nuits-Saint-Georges"
+ },
+ "Saint-Dié": {
+  "lat": 48.285,
+  "lon": 6.95,
+  "rang": 0,
+  "titre": "Saint-Dié-des-Vosges",
+  "page": "Saint-Dié-des-Vosges"
+ },
+ "Sens": {
+  "lat": 48.1949,
+  "lon": 3.3039,
+  "rang": 0,
+  "titre": "Sens (Yonne)",
+  "page": "Sens (89), table des communes"
+ },
+ "Artenay": {
+  "lat": 48.0773,
+  "lon": 1.8792,
+  "rang": 0,
+  "titre": "Artenay",
+  "page": "Artenay (45), table des communes"
+ },
+ "Coulmiers": {
+  "lat": 47.934,
+  "lon": 1.6605,
+  "rang": 0,
+  "titre": "Coulmiers",
+  "page": "Coulmiers (45), table des communes"
+ },
+ "Loigny": {
+  "lat": 48.1302,
+  "lon": 1.7243,
+  "rang": 0,
+  "titre": "Loigny-la-Bataille",
+  "page": "Loigny-la-Bataille (28), table des communes"
+ },
+ "Beaune-la-Rolande": {
+  "lat": 48.0762,
+  "lon": 2.4347,
+  "rang": 0,
+  "titre": "Beaune-la-Rolande",
+  "page": "Beaune-la-Rolande (45), table des communes"
+ },
+ "Beaugency": {
+  "lat": 47.777,
+  "lon": 1.6376,
+  "rang": 0,
+  "titre": "Beaugency",
+  "page": "Beaugency (45), table des communes"
+ },
+ "Conlie": {
+  "lat": 48.1206,
+  "lon": -0.0015,
+  "rang": 0,
+  "titre": "Conlie",
+  "page": "Conlie (72), table des communes"
+ },
+ "Gien": {
+  "lat": 47.7175,
+  "lon": 2.6687,
+  "rang": 0,
+  "titre": "Gien",
+  "page": "Gien (45), table des communes"
+ },
+ "Montargis": {
+  "lat": 47.9998,
+  "lon": 2.7388,
+  "rang": 0,
+  "titre": "Montargis",
+  "page": "Montargis (45), table des communes"
+ },
+ "Pithiviers": {
+  "lat": 48.1805,
+  "lon": 2.2501,
+  "rang": 0,
+  "titre": "Pithiviers",
+  "page": "Pithiviers (45), table des communes"
+ },
+ "Dreux": {
+  "lat": 48.7482,
+  "lon": 1.3578,
+  "rang": 0,
+  "titre": "Dreux",
+  "page": "Dreux (28), table des communes"
+ },
+ "Bapaume": {
+  "lat": 50.1018,
+  "lon": 2.8559,
+  "rang": 0,
+  "titre": "Bapaume",
+  "page": "Bapaume (62), table des communes"
+ },
+ "La Fère": {
+  "lat": 49.6683,
+  "lon": 3.3694,
+  "rang": 0,
+  "titre": "La Fère",
+  "page": "La Fère (02), table des communes"
+ },
+ "Château-Thierry": {
+  "lat": 49.0556,
+  "lon": 3.3784,
+  "rang": 0,
+  "titre": "Château-Thierry",
+  "page": "Château-Thierry (02), table des communes"
+ },
+ "Épernay": {
+  "lat": 49.0391,
+  "lon": 3.9282,
+  "rang": 0,
+  "titre": "Épernay",
+  "page": "Épernay (51), table des communes"
+ },
+ "Ferrières": {
+  "lat": 48.818,
+  "lon": 2.7046,
+  "rang": 0,
+  "titre": "Ferrières-en-Brie",
+  "page": "Ferrières-en-Brie (77), table des communes"
+ },
+ "Lagny": {
+  "lat": 48.8716,
+  "lon": 2.7045,
+  "rang": 0,
+  "titre": "Lagny-sur-Marne",
+  "page": "Lagny-sur-Marne (77), table des communes"
+ },
+ "Sarrelouis": {
+  "lat": 49.3136,
+  "lon": 6.7516,
+  "rang": 0,
+  "source": "main"
+ },
+ "Hombourg": {
+  "lat": 49.3264,
+  "lon": 7.3386,
+  "rang": 0,
+  "source": "main"
+ },
+ "Rastatt": {
+  "lat": 48.8589,
+  "lon": 8.2096,
+  "rang": 0,
+  "source": "main"
+ },
+ "Kehl": {
+  "lat": 48.5731,
+  "lon": 7.8153,
+  "rang": 0,
+  "source": "main"
+ },
+ "Bouillon": {
+  "lat": 49.795,
+  "lon": 5.067,
+  "rang": 0,
+  "source": "main"
+ },
+ "Donchery": {
+  "lat": 49.732,
+  "lon": 4.8886,
+  "rang": 0,
+  "titre": "Donchery",
+  "page": "Donchery (08), table des communes"
+ },
+ "Bazeilles": {
+  "lat": 49.7143,
+  "lon": 5.0269,
+  "rang": 0,
+  "titre": "Bazeilles",
+  "page": "Bazeilles (08), table des communes"
+ },
+ "Nouart": {
+  "lat": 49.4479,
+  "lon": 5.0596,
+  "rang": 0,
+  "titre": "Nouart",
+  "page": "Nouart (08), table des communes"
+ },
+ "Buzancy": {
+  "lat": 49.4174,
+  "lon": 4.9689,
+  "rang": 0,
+  "titre": "Buzancy (Ardennes)",
+  "page": "Buzancy (08), table des communes"
+ },
+ "Grandpré": {
+  "lat": 49.3532,
+  "lon": 4.8568,
+  "rang": 0,
+  "titre": "Grandpré",
+  "page": "Grandpré (08), table des communes"
+ },
+ "Attigny": {
+  "lat": 49.4756,
+  "lon": 4.5915,
+  "rang": 0,
+  "titre": "Attigny (Ardennes)",
+  "page": "Attigny (08), table des communes"
+ },
+ "Suippes": {
+  "lat": 49.1248,
+  "lon": 4.5296,
+  "rang": 0,
+  "titre": "Suippes",
+  "page": "Suippes (51), table des communes"
+ },
+ "Clermont-en-Argonne": {
+  "lat": 49.1202,
+  "lon": 5.0925,
+  "rang": 0,
+  "titre": "Clermont-en-Argonne",
+  "page": "Clermont-en-Argonne (55), table des communes"
+ },
+ "Commercy": {
+  "lat": 48.749,
+  "lon": 5.5658,
+  "rang": 0,
+  "titre": "Commercy",
+  "page": "Commercy (55), table des communes"
+ },
+ "Ligny-en-Barrois": {
+  "lat": 48.6569,
+  "lon": 5.2986,
+  "rang": 0,
+  "titre": "Ligny-en-Barrois",
+  "page": "Ligny-en-Barrois (55), table des communes"
+ },
+ "Neufchâteau": {
+  "lat": 48.3568,
+  "lon": 5.7026,
+  "rang": 0,
+  "titre": "Neufchâteau (Vosges)",
+  "page": "Neufchâteau (88), table des communes"
+ },
+ "Sarrebourg": {
+  "lat": 48.7329,
+  "lon": 7.0476,
+  "rang": 0,
+  "titre": "Sarrebourg",
+  "page": "Sarrebourg (57), table des communes"
+ },
+ "Marsal": {
+  "lat": 48.7825,
+  "lon": 6.6198,
+  "rang": 0,
+  "titre": "Marsal (Moselle)",
+  "page": "Marsal (57), table des communes"
+ },
+ "Niederbronn": {
+  "lat": 48.9544,
+  "lon": 7.6398,
+  "rang": 0,
+  "titre": "Niederbronn-les-Bains",
+  "page": "Niederbronn-les-Bains (67), table des communes"
+ },
+ "Soultz": {
+  "lat": 48.9509,
+  "lon": 7.8705,
+  "rang": 0,
+  "titre": "Soultz-sous-Forêts",
+  "page": "Soultz-sous-Forêts (67), table des communes"
+ },
+ "Lauterbourg": {
+  "lat": 48.9617,
+  "lon": 8.1931,
+  "rang": 0,
+  "titre": "Lauterbourg",
+  "page": "Lauterbourg (67), table des communes"
+ },
+ "Brumath": {
+  "lat": 48.7199,
+  "lon": 7.7146,
+  "rang": 0,
+  "titre": "Brumath",
+  "page": "Brumath (67), table des communes"
+ },
+ "Rambervillers": {
+  "lat": 48.3457,
+  "lon": 6.6312,
+  "rang": 0,
+  "titre": "Rambervillers",
+  "page": "Rambervillers (88), table des communes"
+ },
+ "Nompatelize": {
+  "lat": 48.3274,
+  "lon": 6.8608,
+  "rang": 0,
+  "titre": "Nompatelize",
+  "page": "Nompatelize (88), table des communes"
+ },
+ "Fontenoy-sur-Moselle": {
+  "lat": 48.7076,
+  "lon": 5.9893,
+  "rang": 0,
+  "titre": "Fontenoy-sur-Moselle",
+  "page": "Fontenoy-sur-Moselle (54), table des communes"
+ },
+ "Gray": {
+  "lat": 47.431,
+  "lon": 5.6153,
+  "rang": 0,
+  "titre": "Gray (Haute-Saône)",
+  "page": "Gray (70), table des communes"
+ },
+ "Dole": {
+  "lat": 47.0739,
+  "lon": 5.5024,
+  "rang": 0,
+  "titre": "Dole",
+  "page": "Dole (39), table des communes"
+ },
+ "Arcey": {
+  "lat": 47.5207,
+  "lon": 6.651,
+  "rang": 0,
+  "titre": "Arcey (Doubs)",
+  "page": "Arcey (25), table des communes"
+ },
+ "Clerval": {
+  "lat": 47.3936,
+  "lon": 6.4972,
+  "rang": 0,
+  "source": "main"
+ },
+ "Salins": {
+  "lat": 46.9503,
+  "lon": 5.9054,
+  "rang": 0,
+  "titre": "Salins-les-Bains",
+  "page": "Salins-les-Bains (39), table des communes"
+ },
+ "Chagny": {
+  "lat": 46.8995,
+  "lon": 4.7764,
+  "rang": 0,
+  "titre": "Chagny (Saône-et-Loire)",
+  "page": "Chagny (71), table des communes"
+ },
+ "Vierzon": {
+  "lat": 47.2351,
+  "lon": 2.0776,
+  "rang": 0,
+  "titre": "Vierzon",
+  "page": "Vierzon (18), table des communes"
+ },
+ "Salbris": {
+  "lat": 47.4194,
+  "lon": 2.0427,
+  "rang": 0,
+  "titre": "Salbris",
+  "page": "Salbris (41), table des communes"
+ },
+ "La Ferté-Saint-Aubin": {
+  "lat": 47.7122,
+  "lon": 1.9129,
+  "rang": 0,
+  "titre": "La Ferté-Saint-Aubin",
+  "page": "La Ferté-Saint-Aubin (45), table des communes"
+ },
+ "Patay": {
+  "lat": 48.0513,
+  "lon": 1.6936,
+  "rang": 0,
+  "titre": "Patay",
+  "page": "Patay (45), table des communes"
+ },
+ "Toury": {
+  "lat": 48.1954,
+  "lon": 1.9425,
+  "rang": 0,
+  "titre": "Toury",
+  "page": "Toury (28), table des communes"
+ },
+ "Étampes": {
+  "lat": 48.4227,
+  "lon": 2.1524,
+  "rang": 0,
+  "titre": "Étampes",
+  "page": "Étampes (91), table des communes"
+ },
+ "Corbeil": {
+  "lat": 48.5973,
+  "lon": 2.4646,
+  "rang": 0,
+  "titre": "Corbeil-Essonnes",
+  "page": "Corbeil-Essonnes (91), table des communes"
+ },
+ "Fontainebleau": {
+  "lat": 48.4236,
+  "lon": 2.6817,
+  "rang": 0,
+  "titre": "Fontainebleau",
+  "page": "Fontainebleau (77), table des communes"
+ },
+ "Nogent-le-Rotrou": {
+  "lat": 48.3197,
+  "lon": 0.8071,
+  "rang": 0,
+  "titre": "Nogent-le-Rotrou",
+  "page": "Nogent-le-Rotrou (28), table des communes"
+ },
+ "La Ferté-Bernard": {
+  "lat": 48.1847,
+  "lon": 0.6366,
+  "rang": 0,
+  "titre": "La Ferté-Bernard",
+  "page": "La Ferté-Bernard (72), table des communes"
+ },
+ "Saint-Calais": {
+  "lat": 47.932,
+  "lon": 0.7418,
+  "rang": 0,
+  "titre": "Saint-Calais",
+  "page": "Saint-Calais (72), table des communes"
+ },
+ "Mayenne": {
+  "lat": 48.3066,
+  "lon": -0.614,
+  "rang": 0,
+  "titre": "Mayenne (commune)",
+  "page": "Mayenne (53), table des communes"
+ },
+ "Villers-Bretonneux": {
+  "lat": 49.8627,
+  "lon": 2.5183,
+  "rang": 0,
+  "titre": "Villers-Bretonneux",
+  "page": "Villers-Bretonneux (80), table des communes"
+ },
+ "Pont-Noyelles": {
+  "lat": 49.9416,
+  "lon": 2.4523,
+  "rang": 0,
+  "titre": "Pont-Noyelles",
+  "page": "Pont-Noyelles (80), table des communes"
+ },
+ "Albert": {
+  "lat": 50.0035,
+  "lon": 2.6515,
+  "rang": 0,
+  "titre": "Albert (Somme)",
+  "page": "Albert (80), table des communes"
+ },
+ "Ham": {
+  "lat": 49.7529,
+  "lon": 3.0699,
+  "rang": 0,
+  "titre": "Ham (Somme)",
+  "page": "Ham (80), table des communes"
+ },
+ "Douai": {
+  "lat": 50.3785,
+  "lon": 3.1004,
+  "rang": 0,
+  "titre": "Douai",
+  "page": "Douai (59), table des communes"
+ },
+ "Saint-Denis": {
+  "lat": 48.9378,
+  "lon": 2.3657,
+  "rang": 0,
+  "titre": "Saint-Denis (Seine-Saint-Denis)",
+  "page": "Saint-Denis (93), table des communes"
+ },
+ "Champigny": {
+  "lat": 48.8173,
+  "lon": 2.5206,
+  "rang": 0,
+  "titre": "Champigny-sur-Marne",
+  "page": "Champigny-sur-Marne (94), table des communes"
+ },
+ "Le Bourget": {
+  "lat": 48.9378,
+  "lon": 2.4287,
+  "rang": 0,
+  "titre": "Le Bourget (Seine-Saint-Denis)",
+  "page": "Le Bourget (93), table des communes"
+ },
+ "Buzenval": {
+  "lat": 48.8717,
+  "lon": 2.1806,
+  "rang": 0,
+  "titre": "Rueil-Malmaison",
+  "page": "Rueil-Malmaison (92), table des communes"
+ },
+ "Châtillon": {
+  "lat": 48.8031,
+  "lon": 2.2887,
+  "rang": 0,
+  "titre": "Châtillon (Hauts-de-Seine)",
+  "page": "Châtillon (92), table des communes"
+ },
+ "Pontoise": {
+  "lat": 49.0488,
+  "lon": 2.0996,
+  "rang": 0,
+  "titre": "Pontoise",
+  "page": "Pontoise (95), table des communes"
+ },
+ "Mantes": {
+  "lat": 48.9961,
+  "lon": 1.6918,
+  "rang": 0,
+  "titre": "Mantes-la-Jolie",
+  "page": "Mantes-la-Jolie (78), table des communes"
+ },
+ "Gisors": {
+  "lat": 49.2775,
+  "lon": 1.7642,
+  "rang": 0,
+  "titre": "Gisors",
+  "page": "Gisors (27), table des communes"
+ },
+ "Coulommiers": {
+  "lat": 48.8096,
+  "lon": 3.0918,
+  "rang": 0,
+  "titre": "Coulommiers",
+  "page": "Coulommiers (77), table des communes"
+ },
+ "Étain": {
+  "lat": 49.2204,
+  "lon": 5.6311,
+  "rang": 0,
+  "titre": "Étain (Meuse)",
+  "page": "Étain (55), table des communes"
+ },
+ "Conflans": {
+  "lat": 49.1666,
+  "lon": 5.8462,
+  "rang": 0,
+  "titre": "Conflans-en-Jarnisy",
+  "page": "Conflans-en-Jarnisy (54), table des communes"
+ },
+ "Briey": {
+  "lat": 49.2494,
+  "lon": 5.9389,
+  "rang": 0,
+  "source": "main"
+ },
+ "Boulay": {
+  "lat": 49.1749,
+  "lon": 6.4965,
+  "rang": 0,
+  "titre": "Boulay-Moselle",
+  "page": "Boulay-Moselle (57), table des communes"
+ },
+ "Faulquemont": {
+  "lat": 49.0409,
+  "lon": 6.5918,
+  "rang": 0,
+  "titre": "Faulquemont",
+  "page": "Faulquemont (57), table des communes"
+ },
+ "Château-Salins": {
+  "lat": 48.8201,
+  "lon": 6.4928,
+  "rang": 0,
+  "titre": "Château-Salins",
+  "page": "Château-Salins (57), table des communes"
+ },
+ "Dieuze": {
+  "lat": 48.81277778,
+  "lon": 6.72055556,
+  "rang": 0,
+  "titre": "Dieuze",
+  "page": "Dieuze"
+ },
+ "Blâmont": {
+  "lat": 48.59055556,
+  "lon": 6.84305556,
+  "rang": 0,
+  "titre": "Blâmont",
+  "page": "Blâmont"
+ },
+ "Baccarat": {
+  "lat": 48.44916667,
+  "lon": 6.73888889,
+  "rang": 0,
+  "titre": "Baccarat",
+  "page": "Baccarat"
+ },
+ "Mirecourt": {
+  "lat": 48.3007,
+  "lon": 6.1351,
+  "rang": 0,
+  "titre": "Mirecourt",
+  "page": "Mirecourt"
+ },
+ "Vaucouleurs": {
+  "lat": 48.6162,
+  "lon": 5.6363,
+  "rang": 0,
+  "titre": "Vaucouleurs",
+  "page": "Vaucouleurs (55), table des communes"
+ },
+ "Joinville": {
+  "lat": 48.4431,
+  "lon": 5.1389,
+  "rang": 0,
+  "titre": "Joinville (Haute-Marne)",
+  "page": "Joinville (Haute-Marne)"
+ },
+ "Saint-Dizier": {
+  "lat": 48.6392683,
+  "lon": 4.9524614,
+  "rang": 0,
+  "titre": "Saint-Dizier",
+  "page": "Saint-Dizier"
+ },
+ "Sézanne": {
+  "lat": 48.71972222,
+  "lon": 3.72361111,
+  "rang": 0,
+  "titre": "Sézanne",
+  "page": "Sézanne"
+ },
+ "Montmirail": {
+  "lat": 48.870191,
+  "lon": 3.537061,
+  "rang": 0,
+  "titre": "Montmirail (Marne)",
+  "page": "Montmirail (Marne)"
+ },
+ "Nogent-sur-Seine": {
+  "lat": 48.49416667,
+  "lon": 3.50333333,
+  "rang": 0,
+  "titre": "Nogent-sur-Seine",
+  "page": "Nogent-sur-Seine"
+ },
+ "Provins": {
+  "lat": 48.5603634,
+  "lon": 3.2989883,
+  "rang": 0,
+  "titre": "Provins",
+  "page": "Provins"
+ },
+ "Villeneuve-Saint-Georges": {
+  "lat": 48.7325,
+  "lon": 2.449722,
+  "rang": 0,
+  "titre": "Villeneuve-Saint-Georges",
+  "page": "Villeneuve-Saint-Georges"
+ },
+ "Choisy-le-Roi": {
+  "lat": 48.766389,
+  "lon": 2.407778,
+  "rang": 0,
+  "titre": "Choisy-le-Roi",
+  "page": "Choisy-le-Roi"
+ },
+ "Saint-Germain-en-Laye": {
+  "lat": 48.8989,
+  "lon": 2.0938,
+  "rang": 0,
+  "titre": "Saint-Germain-en-Laye",
+  "page": "Saint-Germain-en-Laye"
+ },
+ "Gonesse": {
+  "lat": 48.9833,
+  "lon": 2.45,
+  "rang": 0,
+  "titre": "Gonesse",
+  "page": "Gonesse"
+ },
+ "Chelles": {
+  "lat": 48.8833,
+  "lon": 2.6,
+  "rang": 0,
+  "titre": "Chelles (Seine-et-Marne)",
+  "page": "Chelles"
+ },
+ "Senlis": {
+  "lat": 49.208056,
+  "lon": 2.5875,
+  "rang": 0,
+  "titre": "Senlis (Oise)",
+  "page": "Senlis (Oise)"
+ },
+ "Creil": {
+  "lat": 49.25833333,
+  "lon": 2.48333333,
+  "rang": 0,
+  "titre": "Creil",
+  "page": "Creil"
+ },
+ "Noyon": {
+  "lat": 49.58166667,
+  "lon": 2.99972222,
+  "rang": 0,
+  "titre": "Noyon",
+  "page": "Noyon"
+ },
+ "Saint-Mihiel": {
+  "lat": 48.889168,
+  "lon": 5.543611,
+  "rang": 0,
+  "titre": "Saint-Mihiel",
+  "page": "Saint-Mihiel"
+ },
+ "Dun-sur-Meuse": {
+  "lat": 49.38666667,
+  "lon": 5.18388889,
+  "rang": 0,
+  "titre": "Dun-sur-Meuse",
+  "page": "Dun-sur-Meuse"
+ },
+ "Carignan": {
+  "lat": 49.6333,
+  "lon": 5.1686,
+  "rang": 0,
+  "titre": "Carignan (Ardennes)",
+  "page": "Carignan (Ardennes)"
+ },
+ "Raucourt": {
+  "lat": 49.6031,
+  "lon": 4.9581,
+  "rang": 0,
+  "titre": "Raucourt-et-Flaba",
+  "page": "Raucourt-et-Flaba"
+ },
+ "Vrigne-aux-Bois": {
+  "lat": 49.73833333,
+  "lon": 4.85666667,
+  "rang": 0,
+  "titre": "Vrigne-aux-Bois",
+  "page": "Vrigne-aux-Bois"
+ },
+ "Tourteron": {
+  "lat": 49.54,
+  "lon": 4.6383,
+  "rang": 0,
+  "titre": "Tourteron",
+  "page": "Tourteron"
+ },
+ "Monthois": {
+  "lat": 49.3128,
+  "lon": 4.7094,
+  "rang": 0,
+  "titre": "Monthois",
+  "page": "Monthois"
+ },
+ "Varennes-en-Argonne": {
+  "lat": 49.2269,
+  "lon": 5.035,
+  "rang": 0,
+  "titre": "Varennes-en-Argonne",
+  "page": "Varennes-en-Argonne"
+ },
+ "Lure": {
+  "lat": 47.6817,
+  "lon": 6.4933,
+  "rang": 0,
+  "titre": "Lure (Haute-Saône)",
+  "page": "Lure (70), table des communes"
+ },
+ "Rioz": {
+  "lat": 47.42444444,
+  "lon": 6.07083333,
+  "rang": 0,
+  "titre": "Rioz",
+  "page": "Rioz"
+ },
+ "Baume-les-Dames": {
+  "lat": 47.35277778,
+  "lon": 6.36083333,
+  "rang": 0,
+  "titre": "Baume-les-Dames",
+  "page": "Baume-les-Dames"
+ },
+ "Ornans": {
+  "lat": 47.10595,
+  "lon": 6.14383,
+  "rang": 0,
+  "titre": "Ornans",
+  "page": "Ornans"
+ },
+ "Mouthe": {
+  "lat": 46.71138889,
+  "lon": 6.19444444,
+  "rang": 0,
+  "titre": "Mouthe",
+  "page": "Mouthe"
+ },
+ "Morteau": {
+  "lat": 47.05888,
+  "lon": 6.60694,
+  "rang": 0,
+  "titre": "Morteau",
+  "page": "Morteau"
+ },
+ "Auxonne": {
+  "lat": 47.19472222,
+  "lon": 5.38861111,
+  "rang": 0,
+  "titre": "Auxonne",
+  "page": "Auxonne"
+ },
+ "Beaune": {
+  "lat": 47.025,
+  "lon": 4.83972222,
+  "rang": 0,
+  "titre": "Beaune",
+  "page": "Beaune"
+ },
+ "Chalon-sur-Saône": {
+  "lat": 46.78055556,
+  "lon": 4.85277778,
+  "rang": 0,
+  "titre": "Chalon-sur-Saône",
+  "page": "Chalon-sur-Saône"
+ },
+ "Avallon": {
+  "lat": 47.49083333,
+  "lon": 3.90916667,
+  "rang": 0,
+  "titre": "Avallon",
+  "page": "Avallon"
+ },
+ "Clamecy": {
+  "lat": 47.46083333,
+  "lon": 3.52027778,
+  "rang": 0,
+  "titre": "Clamecy (Nièvre)",
+  "page": "Clamecy (Nièvre)"
+ },
+ "Cosne": {
+  "lat": 47.41222222,
+  "lon": 2.9275,
+  "rang": 0,
+  "titre": "Cosne-Cours-sur-Loire",
+  "page": "Cosne-Cours-sur-Loire"
+ },
+ "Briare": {
+  "lat": 47.63888889,
+  "lon": 2.74,
+  "rang": 0,
+  "titre": "Briare",
+  "page": "Briare"
+ },
+ "Châteauneuf-sur-Loire": {
+  "lat": 47.86611111,
+  "lon": 2.22305556,
+  "rang": 0,
+  "titre": "Châteauneuf-sur-Loire",
+  "page": "Châteauneuf-sur-Loire"
+ },
+ "Meung-sur-Loire": {
+  "lat": 47.82944444,
+  "lon": 1.69916667,
+  "rang": 0,
+  "titre": "Meung-sur-Loire",
+  "page": "Meung-sur-Loire"
+ },
+ "Marchenoir": {
+  "lat": 47.8242,
+  "lon": 1.3956,
+  "rang": 0,
+  "titre": "Marchenoir",
+  "page": "Marchenoir"
+ },
+ "Fréteval": {
+  "lat": 47.88861111,
+  "lon": 1.21055556,
+  "rang": 0,
+  "titre": "Fréteval",
+  "page": "Fréteval"
+ },
+ "Morée": {
+  "lat": 47.90361111,
+  "lon": 1.23527778,
+  "rang": 0,
+  "titre": "Morée (Loir-et-Cher)",
+  "page": "Morée (Loir-et-Cher)"
+ },
+ "Montoire": {
+  "lat": 47.755,
+  "lon": 0.86444444,
+  "rang": 0,
+  "titre": "Montoire-sur-le-Loir",
+  "page": "Montoire-sur-le-Loir"
+ },
+ "Château-Renault": {
+  "lat": 47.59222222,
+  "lon": 0.91027778,
+  "rang": 0,
+  "titre": "Château-Renault",
+  "page": "Château-Renault"
+ },
+ "Saint-Amand-Longpré": {
+  "lat": 47.69083333,
+  "lon": 1.0175,
+  "rang": 0,
+  "titre": "Saint-Amand-Longpré",
+  "page": "Saint-Amand-Longpré"
+ },
+ "Écommoy": {
+  "lat": 47.828333,
+  "lon": 0.273056,
+  "rang": 0,
+  "titre": "Écommoy",
+  "page": "Écommoy"
+ },
+ "Sillé-le-Guillaume": {
+  "lat": 48.183333,
+  "lon": -0.129167,
+  "rang": 0,
+  "titre": "Sillé-le-Guillaume",
+  "page": "Sillé-le-Guillaume"
+ },
+ "Sablé": {
+  "lat": 47.84,
+  "lon": -0.334167,
+  "rang": 0,
+  "titre": "Sablé-sur-Sarthe",
+  "page": "Sablé-sur-Sarthe"
+ },
+ "Bonnétable": {
+  "lat": 48.1833,
+  "lon": 0.4333,
+  "rang": 0,
+  "titre": "Bonnétable",
+  "page": "Bonnétable"
+ },
+ "Bellême": {
+  "lat": 48.376389,
+  "lon": 0.560556,
+  "rang": 0,
+  "titre": "Bellême",
+  "page": "Bellême"
+ },
+ "Mortagne": {
+  "lat": 48.520278,
+  "lon": 0.547222,
+  "rang": 0,
+  "titre": "Mortagne-au-Perche",
+  "page": "Mortagne-au-Perche"
+ },
+ "Verneuil": {
+  "lat": 48.73944444,
+  "lon": 0.92861111,
+  "rang": 0,
+  "titre": "Verneuil-sur-Avre",
+  "page": "Verneuil-sur-Avre"
+ },
+ "Vernon": {
+  "lat": 49.0926,
+  "lon": 1.48583333,
+  "rang": 0,
+  "titre": "Vernon (Eure)",
+  "page": "Vernon (Eure)"
+ },
+ "Elbeuf": {
+  "lat": 49.28666667,
+  "lon": 1.00916667,
+  "rang": 0,
+  "titre": "Elbeuf",
+  "page": "Elbeuf"
+ },
+ "Forges-les-Eaux": {
+  "lat": 49.61333333,
+  "lon": 1.54555556,
+  "rang": 0,
+  "titre": "Forges-les-Eaux",
+  "page": "Forges-les-Eaux"
+ },
+ "Gournay": {
+  "lat": 49.48138889,
+  "lon": 1.72472222,
+  "rang": 0,
+  "titre": "Gournay-en-Bray",
+  "page": "Gournay-en-Bray"
+ },
+ "Clermont": {
+  "lat": 49.37972222,
+  "lon": 2.41333333,
+  "rang": 0,
+  "titre": "Clermont (Oise)",
+  "page": "Clermont (Oise)"
+ },
+ "Montdidier": {
+  "lat": 49.6486,
+  "lon": 2.5708,
+  "rang": 0,
+  "titre": "Montdidier (Somme)",
+  "page": "Montdidier (Somme)"
+ },
+ "Corbie": {
+  "lat": 49.90972222,
+  "lon": 2.50805556,
+  "rang": 0,
+  "titre": "Corbie",
+  "page": "Corbie"
+ },
+ "Abbeville": {
+  "lat": 50.105835,
+  "lon": 1.834054,
+  "rang": 0,
+  "titre": "Abbeville",
+  "page": "Abbeville"
+ },
+ "Doullens": {
+  "lat": 50.1575,
+  "lon": 2.34138889,
+  "rang": 0,
+  "titre": "Doullens",
+  "page": "Doullens"
+ },
+ "Vermand": {
+  "lat": 49.8767,
+  "lon": 3.15049,
+  "rang": 0,
+  "titre": "Vermand",
+  "page": "Vermand"
+ },
+ "Saint-Omer": {
+  "lat": 50.746111,
+  "lon": 2.261667,
+  "rang": 0,
+  "titre": "Saint-Omer (Pas-de-Calais)",
+  "page": "Saint-Omer (Pas-de-Calais)"
+ },
+ "Valenciennes": {
+  "lat": 50.358056,
+  "lon": 3.523333,
+  "rang": 0,
+  "titre": "Valenciennes",
+  "page": "Valenciennes"
+ },
+ "Maubeuge": {
+  "lat": 50.2775,
+  "lon": 3.9734,
+  "rang": 0,
+  "titre": "Maubeuge",
+  "page": "Maubeuge"
+ },
+ "Givet": {
+  "lat": 50.13888889,
+  "lon": 4.825,
+  "rang": 0,
+  "titre": "Givet",
+  "page": "Givet"
+ },
+ "Rocroi": {
+  "lat": 49.9261,
+  "lon": 4.5222,
+  "rang": 0,
+  "titre": "Rocroi",
+  "page": "Rocroi"
+ },
+ "Hirson": {
+  "lat": 49.92166667,
+  "lon": 4.08388889,
+  "rang": 0,
+  "titre": "Hirson",
+  "page": "Hirson"
+ },
+ "Vervins": {
+  "lat": 49.83583333,
+  "lon": 3.91,
+  "rang": 0,
+  "titre": "Vervins",
+  "page": "Vervins"
+ },
+ "Guise": {
+  "lat": 49.90083333,
+  "lon": 3.62833333,
+  "rang": 0,
+  "titre": "Guise",
+  "page": "Guise"
+ }
+}

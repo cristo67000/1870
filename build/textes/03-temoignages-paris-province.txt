@@ -1,0 +1,455 @@
+# 1870 — extraits de textes, lot 03 : témoignages sur la République en guerre (le 4 septembre,
+# le siège de Paris, la province envahie, les armées de la Loire, du Nord et de l'Est, l'armistice).
+# Format : voir l'en-tête de build/annexes.mjs et build/CONSIGNES-TEXTES.md.
+
+@ goncourt-4-septembre
+genre: temoignage
+auteur: Edmond de Goncourt
+vie: 1822-1896
+titre: « La République est proclamée »
+oeuvre: Journal des Goncourt, tome IV
+annee: 1870
+quand: 1870-09-04
+intro: Edmond de Goncourt a perdu son frère Jules le 20 juin 1870 et poursuit seul le journal
+  qu'ils tenaient ensemble depuis 1851. Le dimanche 4 septembre, au lendemain de la nouvelle de
+  Sedan, il suit la foule du Palais-Bourbon envahi aux Tuileries, puis à l'Hôtel de Ville où la
+  République est proclamée. Il ne publie ces pages, revues, qu'en 1890 : l'œil du romancier note
+  les gestes et les inscriptions, la défiance de l'homme d'ordre perce à la fin.
+p: Vers les quatre heures, voici l’aspect extérieur de la Chambre. Se détachant du grisâtre de la façade, au-devant et autour des colonnes, sur les marches de l’escalier, le tassement d’une multitude, d’un monde d’hommes, où les blouses font des taches blanches et bleues dans le noir du drap, d’hommes, dont la plupart ont des branchages à la main, ou des bouquets de feuilles vertes, attachés à leurs chapeaux noirs.
+p: Soudain, une main se lève au-dessus de toutes les têtes, et écrit sur une colonne, en grandes lettres rouges, la liste des membres du gouvernement provisoire, pendant qu’en même temps apparaît, charbonné sur une autre colonne : La République est proclamée. Alors des acclamations, des cris, des chapeaux en l’air, des gens escaladant les piédestaux des statues, un homme en blouse se mettant tranquillement à fumer sa pipe, sur les genoux de pierre du chancelier de L’Hôpital, et des grappes de femmes se tenant appendues à la grille, qui fait face au pont de la Concorde.
+p: Partout on entend, autour de soi, des gens s’abordant avec cette parole : « Ça y est ! » et au haut du fronton, un homme enlève au drapeau tricolore son bleu et son blanc, et ne laisse flotter que le rouge.
+p: […]
+p: À la grille des Tuileries, près du grand bassin, les N dorés, sont dissimulés sous de vieux journaux, et des couronnes d’immortelles pendent à la place des aigles absentes.
+p: […]
+p: Il est cinq heures à l’Hôtel de Ville. Le monument de la cité libre, les pieds dans l’ombre, rayonne en haut d’un soleil qui fait aveuglant l’horloge. Aux fenêtres du premier étage, des blouses et des redingotes s’étagent jusqu’aux meneaux supérieurs : le premier rang, assis les jambes pendantes en dehors de l’édifice, et semblable à un gigantesque paradis de titis, dans un décor de la Renaissance.
+p: […]
+p: De temps en temps, tombent des fenêtres de petits papiers, que la foule ramasse et rejette, en l’air, et qui font au-dessus des têtes, comme une giboulée de flocons de neige. « Les chiffonniers vont faire leur beurre ! » dit un homme du peuple, de ces papiers : les bulletins du plébiscite du 8 mai, portant les oui, imprimés d’avance.
+p: […]
+p: Je ne sais pas, mais je n’ai pas confiance, il ne me paraît pas retrouver dans cette plèbe braillarde les premiers bonshommes de l’ancienne Marseillaise : ça me semble simplement des voyous d’âge, en joie et en esbaudissement, des voyous sceptiques, faisant de la casse politique, et n’ayant rien, sous la mamelle gauche, pour les grands sacrifices à la patrie.
+p: […]
+p: Ce soir, les bouquetières ne vendent plus, sur toute la ligne des boulevards, que des œillets rouges.
+gallica: bpt6k202667h = Journal des Goncourt : mémoires de la vie littéraire, 4e volume (1870-1871), Paris, G. Charpentier et E. Fasquelle, 1887-1896
+preuve: data.bnf.fr, notice cb34163155m (9 vol.) ; le 4e volume identifié par sa notice Gallica reprise sur Europeana (« Journal des Goncourt… 4e vol. »)
+source: ws Journal des Goncourt/IV/Année 1870
+pour: quatre-septembre, gouvernement-de-la-defense-nationale, guerre-de-1870
+
+@ goncourt-31-octobre
+genre: temoignage
+auteur: Edmond de Goncourt
+vie: 1822-1896
+titre: « Une forêt de crosses de fusils relevées »
+oeuvre: Journal des Goncourt, tome IV
+annee: 1870
+quand: 1870-10-31
+intro: Le 31 octobre, Paris apprend d'un coup la capitulation de Metz, la perte du Bourget, repris
+  la veille par la Garde prussienne, et les pourparlers d'armistice confiés à Thiers. Des
+  bataillons de la garde nationale envahissent l'Hôtel de Ville, où une partie du gouvernement
+  reste prisonnière jusque dans la nuit, et l'on dresse des listes de « Commune ». Goncourt, venu
+  sous la pluie de la rue de Rivoli, croit le pouvoir renversé.
+p: Lundi 31 octobre. — Sur les visages, dans l’attitude des gens, on sent le contre-coup de grandes et terribles choses qui sont dans l’air. Derrière le dos de questionneurs, groupés autour d’un garde national, j’entends les mots : « coups de revolver… feu de peloton… blessés. » Sur le seuil du Théâtre-Français, Lafontaine m’apprend la nouvelle officielle de la capitulation de Metz.
+p: […]
+p: Là, c’est un encombrement, une mêlée, une confusion de gens de toutes sortes, que trouent, à tout moment, des gardes nationaux, la crosse en l’air, et criant : « Vive la Commune ! » L’édifice tout noir, avec l’heure, qui marche insouciante sur son cadran déjà allumé, à ses fenêtres grandes ouvertes, avec au dehors les jambes ballantes des blousiers, qui y figuraient le 4 septembre. La place : une forêt de crosses de fusils relevées, aux plaques brillantes sous la pluie !
+p: Sur les visages, on sent la douleur de la capitulation de Bazaine, une espèce de fureur de l’échec d’hier au Bourget, en même temps qu’une volonté colère et héroïquement irréfléchie de ne pas faire la paix.
+p: Des ouvriers, en chapeau rond, écrivent, au crayon, sur des portefeuilles crasseux, une liste que leur dicte un monsieur. J’entends parmi les noms, ceux de Blanqui, de Flourens, de Ledru-Rollin, de Mottu. « Ça va aller maintenant, » s’écrie un blousier, au milieu du silence consterné de mes voisins, et je tombe dans un groupe de femmes, parlant déjà peureusement du partage des biens.
+p: […]
+p: C’en est fait. On peut écrire à cette date : Finis Franciæ… Les cris : « Vive la Commune ! » éclatent sur toute la place, et de nouveaux bataillons se précipitent par la rue de Rivoli, suivis d’une voyoucratie vociférante et gesticulante… Dans ce moment une vieille dame qui me voit achever le journal du soir, me demande, ô ironie, si le cours des fonds publics est dans mon journal.
+p: […]
+p: Le boulevard est tout noir. Les boutiques sont fermées. Le passant n’existe plus. Quelques rares groupes de gens, le doigt coupé par une ficelle au bout de laquelle il y a quelque mangeaille empaquetée, se tiennent dans la projection du gaz des kiosques, des cafés, dont les maîtres vont et viennent sur la porte, incertains s’ils doivent fermer. Le rappel bat, la générale bat, un vieux garde national apoplectique passe son képi à la main, criant : « Les canailles ! » un officier de garde nationale appelle à la porte du Café Riche les hommes de son bataillon. Il circule le bruit que le général Tamisier est prisonnier de la Commune.
+p: […]
+p: La guerre civile, avec la famine et le bombardement ; est-ce notre lot de demain ?
+gallica: bpt6k202667h = Journal des Goncourt : mémoires de la vie littéraire, 4e volume (1870-1871), Paris, G. Charpentier et E. Fasquelle, 1887-1896
+preuve: data.bnf.fr, notice cb34163155m (9 vol.) ; le 4e volume identifié par sa notice Gallica reprise sur Europeana (« Journal des Goncourt… 4e vol. »)
+source: ws Journal des Goncourt/IV/Année 1870
+pour: journee-du-31-octobre, garde-nationale, siege-de-metz, siege-de-paris
+
+@ goncourt-boudin-d-elephant
+genre: temoignage
+auteur: Edmond de Goncourt
+vie: 1822-1896
+titre: Le boudin d'éléphant
+oeuvre: Journal des Goncourt, tome IV
+annee: 1870
+quand: 1870-12-31
+intro: Décembre 1870 est d'un froid terrible et Paris, investi depuis plus de trois mois, manque de
+  tout : le cheval est rationné, on vend chats, chiens et rats, les restaurants servent les bêtes
+  des ménageries. Les éléphants Castor et Pollux, que tous les Parisiens connaissaient, ont été
+  abattus et vendus à un boucher du boulevard Haussmann. Le dernier jour de l'année, Goncourt,
+  seul depuis la mort de son frère, fait le tour des étals.
+p: Samedi 31 décembre. — La viande de cheval, une viande de mauvais rêves et de cauchemars. Depuis que je m’en nourris, c’est une suite de nuits insomnieuses.
+p: […]
+p: Dans les rues de Paris, la mort croise la mort : le fourgon des pompes funèbres croise le corbillard. À la grille de la Madeleine, j’aperçois trois bières recouvertes d’une capote de mobile, surmontée d’une couronne d’immortelles.
+p: J’ai la curiosité d’entrer chez Roos, le boucher anglais du boulevard Haussmann. Je vois toutes sortes de dépouilles bizarres. Il y a au mur, accrochée à une place d’honneur, la trompe écorchée du jeune Pollux, l’éléphant du Jardin d’Acclimatation, et au milieu de viandes anonymes et de cornes excentriques, un garçon offre des rognons de chameau.
+p: Le maître boucher pérore, au milieu d’un cercle de femmes : « C’est 40 francs la livre, pour le filet et pour la trompe… Oui, 40 francs… Vous trouvez cela cher… Eh bien ! vraiment, je ne sais pas comment je vais m’en tirer… Je comptais sur trois mille livres, et il n’a produit que deux mille trois cents… Les pieds, vous me demandez le prix des pieds, c’est vingt francs ; les autres morceaux, ça va de huit à quarante francs… Ah ! permettez-moi de vous recommander le boudin ; le sang de l’éléphant, vous ne l’ignorez pas, c’est le sang le plus généreux… son cœur, savez-vous, pesait vingt-cinq livres… et il y a de l’oignon, mesdames, dans mon boudin… »
+p: Je me rabats sur deux alouettes que j’emporte pour mon déjeuner de demain.
+p: […]
+p: Le jour de l’an de Paris de cette année, il réside dans une douzaine de misérables petites boutiques, semées, çà et là, sur le boulevard, où des marchands grelottants offrent des Bismarck, caricaturés en pantins, aux passants gelés.
+p: Ce soir, je retrouve, chez Voisin, le fameux boudin d’éléphant, et j’en dîne.
+gallica: bpt6k202667h = Journal des Goncourt : mémoires de la vie littéraire, 4e volume (1870-1871), Paris, G. Charpentier et E. Fasquelle, 1887-1896
+preuve: data.bnf.fr, notice cb34163155m (9 vol.) ; le 4e volume identifié par sa notice Gallica reprise sur Europeana (« Journal des Goncourt… 4e vol. »)
+source: ws Journal des Goncourt/IV/Année 1870
+pour: vie-a-paris-pendant-le-siege, siege-de-paris
+
+@ goncourt-entree-des-allemands
+genre: temoignage
+auteur: Edmond de Goncourt
+vie: 1822-1896
+titre: « Le bruit mat et lointain des tambours prussiens »
+oeuvre: Journal des Goncourt, tome IV
+annee: 1871
+quand: 1871-03-01
+intro: Les préliminaires de paix signés à Versailles le 26 février laissent aux Allemands le droit
+  d'entrer dans Paris : environ trente mille hommes occupent les quartiers de l'Ouest, des
+  Champs-Élysées à Auteuil, du 1er au 3 mars 1871, le temps que l'Assemblée réunie à Bordeaux
+  ratifie la paix. Goncourt habite Auteuil, boulevard de Montmorency, dans la zone occupée. Il
+  note la veille, puis l'arrivée, qu'il entend plus qu'il ne la voit.
+p: Mardi 28 février. — Impossible de rendre la tristesse ambiante, qui vous entoure. Paris est sous la plus terrible des appréhensions, l’appréhension de l’inconnu.
+p: Mes yeux aperçoivent des faces pâles dans des voitures d’ambulance : ce sont les blessés du pavillon de Flore, qu’on déménage à la hâte, pour que le roi Guillaume puisse déjeuner aux Tuileries.
+p: Sur la place Louis XV, les villes de France ont la figure voilée de crêpe. Ces femmes de pierre, avec la nuit de leur visage, dans le soleil et le clair jour, font une protestation étrange, lugubre, fantastiquement alarmante.
+p: Mercredi 1er mars. — Maudit Auteuil ! Cette banlieue aura été privée de communication avec le reste de Paris, saccagée par les mobiles, affamée, bombardée, et elle aura encore la malechance de l’occupation prussienne.
+p: Ce matin, Paris n’a plus sa grande voix bourdonnante, et le silence inquiétant des heures mauvaises est tel, que nous entendons sonner onze heures, à l’église de Boulogne.
+p: […]
+p: Puis, dans ce grand silence de tout l’espace, commence à s’élever sourdement le bruit mat et lointain des tambours prussiens, qui se rapprochent. Je ne sais, mais ma porte s’ouvrant et donnant passage à ces Allemands, les maîtres de mon foyer pour quelques jours, cette perspective me fait souffrir, ainsi que d’un mal physique.
+p: C’est maintenant comme un tonnerre, le roulement des voitures et des équipages militaires prussiens. De mon jardin, à travers la grille, j’aperçois deux casques dorés s’arrêter devant ma maison, et en la regardant, un moment hacher de la paille… ils passent.
+p: Jamais les heures ne m’ont paru si longues, des heures où il est impossible de fixer sa pensée sur quoi que ce soit, des heures où il n’est pas possible de rester, une minute, en place. La retraite prussienne a sonné, et il n’est apparu encore aucun Prussien, — nous n’en aurons sans doute que demain.
+p: Je me glisse, dans la nuit, à Auteuil, où il n’y a pas un vivant dans la rue, pas une lumière aux fenêtres, et par les rues à l’aspect morne, je vois passer des Bavarois, qui se promènent, quatre par quatre, mal à l’aise dans cette mort de la ville.
+gallica: bpt6k202667h = Journal des Goncourt : mémoires de la vie littéraire, 4e volume (1870-1871), Paris, G. Charpentier et E. Fasquelle, 1887-1896
+preuve: data.bnf.fr, notice cb34163155m (9 vol.) ; le 4e volume identifié par sa notice Gallica reprise sur Europeana (« Journal des Goncourt… 4e vol. »)
+source: ws Journal des Goncourt/IV/Année 1871
+pour: preliminaires-de-versailles, armistice-de-1871, france-occupee
+
+@ sand-paris-a-capitule
+genre: temoignage
+auteur: George Sand
+vie: 1804-1876
+titre: « C'en est fait ! Paris a capitulé »
+oeuvre: Journal d'un voyageur pendant la guerre
+annee: 1871
+quand: 1871-01-29
+intro: George Sand, qui a soixante-six ans, passe la guerre dans le Berry, autour de Nohant, et
+  tient un journal qu'elle publie dans la *Revue des Deux Mondes* au printemps 1871, puis en
+  volume. Le 29 janvier lui parvient la nouvelle de l'armistice signé la veille à Versailles
+  par Jules Favre. Paris, dont la province mesurait mal la famine, a cédé ; elle s'en prend aux
+  émeutiers de la journée du 22 janvier devant l'Hôtel de Ville, et ne veut plus que la paix.
+p: C’en est fait ! Paris a capitulé, bien qu’on ne prononce pas encore ce mot-là. Un armistice est signé pour vingt et un jours. Convocation d’une assemblée de députés à Bordeaux : c’est Jules Favre qui a traité à Versailles. On va procéder à la hâte aux élections. On ne sait rien de plus. Y aura-t-il ravitaillement pour le pauvre Paris affamé ? car il est affamé, la chose est claire à présent ! La paix sortira-t-elle de cette suspension d’armes ? Pourrons-nous communiquer avec Paris ? À quelles conditions a-t-on obtenu ce sursis au bombardement ? Il est impossible que l’ennemi n’ait pas exigé la reddition d’un ou de plusieurs forts. Il n’y a pas d’illusion à conserver. Cela devait finir ainsi ! L’émeute a dû être plus grave qu’on ne l’a avoué. Les Prussiens en profitent. Malheureux agitateurs ! que le désastre, la honte et le désespoir du pays vous étouffent, si vous avez une conscience !
+p: Le désordre et le dégoût où l’on a jeté la France rendaient notre perte inévitable. Mais fallait-il laisser dire à nos ennemis :
+p: — Ce peuple insensé se livre lui-même ! Les haines qui le divisent ont fait plus que nos boulets, plus que la famine elle-même !
+p: Ah ! mécontents de Paris, vous qui accusez vos chefs de trahison, et vous aussi qui les abandonnez parce qu’ils veulent épargner la vie des émeutiers, si les choses sont comme elles paraissent, vous êtes tous bien coupables, mais si malheureux qu’on vous plaint tous et qu’on tâchera d’arracher de son cœur cette page de votre histoire pour ne se rappeler que cinq mois de patience, d’union, d’héroïsme véritable !
+p: On vous plaint et on vous aime tous quand même : vous n’êtes plus écrasés par les bombes, vos pauvres enfants vont avoir du pain. On respire en dépit d’une douleur profonde, et on veut la paix, — oui, la paix au prix de notre dernier écu, pourvu que vous échappiez à cette torture ! Quant à moi, il était au-dessus de mes forces de la contempler plus longtemps, et j’avoue qu’en ce moment je suis irritée contre ceux qui reprochent à votre gouvernement d’avoir cédé devant l’horreur de vos souffrances. On réfléchira demain, aujourd’hui on pleure et on aime : arrière ceux qui maudissent !
+gallica: bpt6k103152s = Journal d'un voyageur pendant la guerre, Paris, Michel Lévy frères, 1871
+preuve: data.bnf.fr, notice cb31293767n
+source: ws Journal d’un voyageur pendant la guerre
+pour: armistice-de-1871, siege-de-paris, jules-favre
+
+@ flaubert-muflisme
+genre: temoignage
+auteur: Gustave Flaubert
+vie: 1821-1880
+titre: « Paganisme, christianisme, muflisme »
+oeuvre: Correspondance, lettre à Mme Régnier
+annee: 1871
+quand: 1871-03-11
+intro: Rouen est occupée depuis le 5 décembre 1870. Flaubert s'est réfugié en ville avec sa mère,
+  chez sa nièce, tandis que des soldats allemands logent dans sa maison de Croisset, au bord de
+  la Seine, où il a écrit *Madame Bovary*. Le 11 mars 1871, de Dieppe, il répond à une amie de
+  Mantes, Mme Régnier, dont la maison a été occupée elle aussi. La paix est votée depuis dix
+  jours ; sa colère ne retombe pas.
+p: Chère madame,
+p: Votre lettre datée de Rennes, 17 février, m’est arrivée ici, après beaucoup de détours et de retards. Voilà pourquoi je ne vous ai pas répondu plus vite. Et puis, j’étais tellement accablé (je le suis encore) que je n’avais pas la force de prendre une plume. Je ne crois pas que personne ait été, plus que moi, désespéré par cette guerre. Comment n’en suis-je pas mort de rage et de chagrin !
+p: J’étais comme Rachel, je ne « voulais pas être consolé » et je passais mes nuits assis dans mon lit, à râler comme un moribond. J’en veux à mon époque de m’avoir donné les sentiments d’une brute du XIIe siècle. Quelle barbarie ! quelle reculade ! Je n’étais guère progressiste et humanitaire cependant ! N’importe, j’avais des illusions ! Et je ne croyais pas voir arriver la Fin du monde. Car c’est cela ! nous assistons à la fin du monde latin. Adieu tout ce que nous aimons ! Paganisme, christianisme, muflisme. Telles sont les trois grandes évolutions de l’humanité. Il est désagréable de se trouver dans la dernière. Ah ! nous allons en voir de propres ! Le fiel m’étouffe. voilà le résumé.
+p: Quant à mes pénates dont vous vous informez et qui me sont devenus odieux, ils ont été souillés pendant quarante-cinq jours par dix Prussiens, sans compter quatre chevaux, plus par six autres pendant six jours, et actuellement il n’y en a chez moi rien que quarante. Oui, quatre fois dix ! Vous avez bien lu !
+p: Je m’étais réfugié à Rouen, dans un appartement à ma nièce, où j’en ai six, etc.
+p: Mais tout cela n’est rien comparativement à ce que vous avez souffert. Je sais que ces messieurs se sont amusés avec vos robes. On n’est pas plus drôle. Pauvre Mantes !
+gallica: bpt6k245283 = Œuvres complètes de Gustave Flaubert, Correspondance, sixième série (1869-1872), Paris, Louis Conard, 1930
+preuve: data.bnf.fr, notice cb32110119q (Correspondance, éd. Conard) ; la sixième série identifiée par sa notice Gallica reprise sur Europeana
+source: ws Correspondance de Gustave Flaubert/Tome 6/1150
+pour: france-occupee, guerre-de-1870
+
+@ tissandier-celeste
+genre: temoignage
+auteur: Gaston Tissandier
+vie: 1843-1899
+titre: « Voilà des lettres que vous n'arrêterez pas »
+oeuvre: En ballon ! pendant le siège de Paris
+annee: 1871
+quand: 1870-09-30
+intro: Le chimiste Gaston Tissandier, vingt-six ans, aéronaute depuis 1868, quitte Paris investi le
+  30 septembre 1870, seul à bord du *Céleste*, un petit ballon gonflé à l'usine à gaz de
+  Vaugirard, avec des sacs de dépêches, des pigeons et des proclamations destinées aux soldats
+  allemands. C'est l'un des tout premiers ballons-poste du siège ; il se pose le jour même près
+  de Dreux. Il rejoint ensuite l'armée de la Loire et publie son récit en 1871.
+p: Il est 9 heures 50 ; je plane à 1,000 mètres de haut ; mes yeux ne se détachent pas de la campagne, où j'aperçois un spectacle navrant qui ne s'effacera jamais de mon esprit. Ce ne sont plus ces environs de Paris, riants et animés, ce n'est plus la Seine, dont les bateaux sillonnent l'onde, où les canotiers agitent leurs avirons. C'est un désert, triste, dénudé, horrible. Pas un habitant sur les routes, pas une voiture, pas un convoi de chemin de fer. Tous les ponts détruits offrent l'aspect de ruines abandonnées, pas un canot sur la Seine qui déroule toujours son onde au milieu des campagnes, mais avec tristesse et monotonie. Pas un soldat, pas une sentinelle, rien, rien, l'abandon du cimetière. On se croirait aux abords d'une ville antique, détruite par le temps ; il faut forcer son souvenir pour entrevoir par la pensée les deux millions d'hommes emprisonnés près de là dans une vaste muraille !
+p: […]
+p: Jusqu'ici je n'ai vu que déserts et solitudes, mais au-dessus du parc la scène change. Ce sont des Prussiens que j'aperçois sous la nacelle. Je suis à 1,600 mètres de haut ; aucune balle ne saurait m'atteindre. Je puis donc m'armer d'une lunette et observer attentivement ces soldats, lilliputiens vus de si haut.
+p: Je vois sortir de Trianon des officiers qui me visent avec des lorgnettes, ils me regardent longtemps ; un certain mouvement se produit de toutes parts. Des Prussiens se chauffent le ventre sur le tapis vert, sur cette pelouse que foulait aux pieds Louis XIV. Ils se lèvent, et dressent la tête vers le *Céleste*. Quelle joie j'éprouve en pensant à leur dépit. — Voilà des lettres que vous n'arrêterez pas, et des dépêches que vous ne pourrez lire ! Mais je me rappelle au même moment qu'il m'a été remis 10,000 proclamations imprimées en allemand à l'adresse de l'armée ennemie.
+p: J'en empoigne une centaine que je lance par dessus bord ; je les vois voltiger dans l'air en revenant lentement à terre ; j'en jette à plusieurs reprises un millier environ, gardant le reste de ma provision pour les autres Prussiens que je pourrai rencontrer sur ma route.
+p: Que contenait cette proclamation ? Quelques paroles simples disant à l'armée allemande que nous n'avions plus chez nous ni empereur, ni roi, et que s'ils avaient le bon sens de nous imiter, on ne se tuerait plus inutilement comme des bêtes sauvages. Paroles sensées, mais jetées au vent, emportées par la brise comme elles sont venues !
+gallica: bpt6k1054575 = En ballon ! pendant le siège de Paris, souvenirs d'un aéronaute, Paris, É. Dentu, 1871
+preuve: data.bnf.fr, notice cb314727769
+source: ia enballonpendantl11038gut = Projet Gutenberg n° 11038, transcription relue d'après l'exemplaire de Gallica
+pour: ballons-du-siege, pigeons-voyageurs, siege-de-paris
+
+@ freycinet-10-octobre
+genre: temoignage
+auteur: Charles de Freycinet
+vie: 1828-1923
+titre: « Faire la guerre sans se diriger sur des cartes »
+oeuvre: La Guerre en province pendant le siège de Paris
+annee: 1871
+quand: 1870-10-10
+intro: Ingénieur des Mines, Charles de Freycinet a quarante et un ans quand Gambetta, sorti de Paris
+  en ballon, l'appelle à Tours comme délégué au ministère de la Guerre, le 10 octobre 1870. En
+  quatre mois, ils lèvent, arment et lancent les armées de la Loire, du Nord et de l'Est. Dès
+  1871, Freycinet publie ce précis pour défendre leur œuvre ; il y dresse l'état des forces de
+  la France au jour de son entrée en fonctions.
+p: M. Gambetta prit en mains les deux ministères de la guerre et de l'intérieur, et m'appela comme son délégué au premier de ces deux départements. C'est en cette qualité, sous le titre de Délégué du ministre de la guerre, que j'ai participé aux événements qui suivirent et que j'en ai connu personnellement les détails.
+p: A la date du 10 octobre, jour où la nouvelle administration entra en fonctions, la situation militaire de la France était la suivante :
+p: Paris étroitement bloqué ne communiquait plus que d'une manière intermittente et par voies extraordinaires avec la province ;
+p: Le maréchal Bazaine enfermé dans Metz avait cessé de prendre part aux hostilités et préparait déjà sa capitulation ;
+p: Sur les bords de la Loire, vingt à vingt-cinq mille hommes, battus à Artenay et bientôt à Orléans, commençaient une retraite qui ne devait s'arrêter qu'au fond de la Sologne ;
+p: Dans l'Est, l'armée du général Cambriels, réduite par le feu, la fatigue et surtout les désertions, à vingt-quatre mille hommes, abandonnait les Vosges et cherchait un abri à Besançon ;
+p: Dans l'Ouest, trente mille gardes nationaux mobiles, mal équipés, mal armés et non encore embrigadés, sans cavalerie ni artillerie, formaient, de Chartres à Evreux, un fragile cordon, destiné à être rompu au premier choc ;
+p: Dans le Nord, aucune force constituée ; des garnisons dans les places, mais pas de corps tenant la campagne ;
+p: Au total, moins de quarante mille hommes de troupes régulières, autant de gardes nationaux mobiles, cinq à six mille cavaliers, une centaine de pièces de canon, le tout en assez mauvais état et fort éprouvé, tel était l'ensemble des moyens opposés à une invasion qui disposait déjà de sept à huit cent mille soldats parfaitement organisés, de deux mille pièces de canon, non compris les batteries de siège, et de puissantes réserves échelonnées sur le Rhin pour maintenir l'armée envahissante à un constant niveau.
+p: […]
+p: Mais ce qui était peut-être plus grave encore, c'est qu'à ce personnel déjà si exigu, le nécessaire même manquait. Il avait été expédié de Paris si précipitamment et, croyait-on, pour si peu de temps, qu'on ne lui avait pas donné son bagage administratif ordinaire. Les archives étaient demeurées dans Paris. On ne possédait à Tours ni les dossiers de l'armée, ni les cartes de l'état-major. Ainsi, on allait être condamné à constituer des cadres et à confier des commandements sans connaître les antécédents des officiers, et à faire la guerre sans se diriger sur des cartes.
+gallica: bpt6k5467583s = La Guerre en province pendant le siège de Paris, 1870-1871, précis historique, Paris, Michel Lévy frères, 1871
+preuve: data.bnf.fr, notice cb30465251z
+source: ia laguerreenprovin00frey = Internet Archive (exemplaire de l'université de Toronto), texte reconnu corrigé à la main
+pour: delegation-de-tours, charles-de-freycinet, effectifs-compares, guerre-a-outrance
+
+@ adam-bombardement
+genre: temoignage
+auteur: Juliette Adam
+vie: 1836-1936
+titre: « Le gouverneur de Paris ne capitulera pas ! »
+oeuvre: Le Siège de Paris, journal d'une Parisienne
+annee: 1871
+quand: 1871-01-06
+intro: Romancière sous le nom de Juliette Lamber, femme d'Edmond Adam, républicain de 1848 qui fut
+  un mois préfet de police à l'automne, elle tient salon boulevard Poissonnière et écrit chaque
+  soir pour sa fille, mise à l'abri hors de Paris. Dans la nuit du 5 au 6 janvier 1871, les obus
+  allemands tombent pour la première fois sur la rive gauche. Le même jour, Trochu fait afficher
+  une phrase qui le poursuivra : trois semaines plus tard, Paris capitule.
+p: Le bombardement de Paris a commencé cette nuit, sans que nous en ayons été officiellement avertis par les Prussiens, suivant l’usage de la guerre. Les barbares ! Plus de trois mille bombes sont tombées autour du Jardin des plantes, du Luxembourg. On ne s’était pas garé, ne sachant rien ; plusieurs personnes ont été tuées dans leur lit. Les obus sifflaient par-dessus les toits, éclataient à droite, à gauche. Les pauvres bombardés ont d’abord perdu la tête, et, au lieu de se réfugier dans les caves, beaucoup se sont sauvés, se sont fait tuer dans la rue.
+p: Le courage de Paris ne faiblit pas. Nous courons dès le matin chercher les bombardés ; on réquisitionne pour eux les maisons des absents ; c’est un va-et-vient, un déménagement universel des extrémités au centre de Paris. Le commandant Gauthier m’amène Jeanne, sa fille, une amie de la mienne, avec son sac de voyage. Elle a compté dix-huit obus qui ont éclaté autour de sa maison, elle a la fièvre ; son courage n’a pas diminué, mais son exaltation est extrême.
+p: Ce matin, en s’éveillant, elle s’est précipitée à une glace pour voir si, durant cette interminable nuit, ses cheveux n’avaient pas blanchi.
+p: […]
+p: Ce soir, on lit sur les murs de Paris la proclamation suivante :
+p: « Au moment où l’ennemi redouble ses efforts d’intimidation, on cherche à égarer les citoyens de Paris par la tromperie et la calomnie. On exploite contre la défense nos souffrances et nos sacrifices. Rien ne fera tomber les armes de nos mains. Courage, confiance, patriotisme ! Le gouverneur de Paris ne capitulera pas !
+p: 6 janvier 1871.
+p: Le gouverneur de Paris,
+p: Général TROCHU. »
+p: On entend le bruit incessant des obus, des canons, bruit tantôt sourd, tantôt déchirant, selon la distance où l’on est des bombes qui éclatent.
+p: À neuf heures, le silence est extraordinaire ; ni voiture, ni passant sur le boulevard ; pas d’autres bruits que les bruits du bombardement ! Il dégèle, le ciel est noir, les rues sont boueuses, humides, glissantes. On ne trouverait pas un fiacre à prix d’or.
+p: Tout est dramatique : le temps, le lieu, l’action. Nous pourrions, en ce moment, dans nos lettres, dans nos journaux, parler le langage des grandes situations de l’histoire, sans qu’on ait le droit de nous reprocher d’être juchés et déclamatoires. Si les capitales de l’Europe se demandent quel air, pendant ce bombardement, a ce Paris si gai, si spirituel, si léger, répondons-leur : « Paris est fier d’être bombardé ! regardez-le, voyez son calme, son courage, et tâchez de l’égaler ! »
+gallica: bpt6k65430770 = Le Siège de Paris, journal d'une Parisienne, Paris, Michel Lévy frères, 1873
+preuve: data.bnf.fr, notice cb34085474f
+source: ws Le siège de Paris/Janvier 1871
+pour: bombardement-de-paris, trochu, siege-de-paris, mots-de-1870
+
+@ marc-monnier-verrieres
+genre: temoignage
+auteur: Marc-Monnier
+vie: 1829-1885
+titre: « Ce n'était plus une armée, c'était une cohue »
+oeuvre: La Suisse pendant la guerre de 1870, Revue des Deux Mondes
+annee: 1871
+quand: 1871-02-01
+intro: Exclue de l'armistice du 28 janvier, l'armée de l'Est, acculée au Jura par Manteuffel, passe
+  en Suisse en vertu de la convention signée aux Verrières dans la nuit du 31 janvier au
+  1er février 1871 par le général Clinchant et le général suisse Herzog. Professeur à Genève,
+  l'écrivain Marc-Monnier, de père français et de mère genevoise, a vu arriver les internés ; il
+  raconte l'aide de la Suisse dans la *Revue des Deux Mondes* du 1er mai 1871.
+p: Ces articles à peine dictés et signés par le général Herzog, aussitôt son aide-de-camp et l’officier français, sans attendre l’aube, coururent à la partie française du village des Verrières, où les attendait le général Clinchant dans une petite chambre au rez-de-chaussée d’une pauvre maison. Deux hommes s’étaient emparés du lit qui meublait cette pièce, d’autres étaient étendus sur le plancher ; à chaque pas, on écrasait un bras ou une jambe. Le général, très agité, était assis à une petite table malpropre ; derrière lui, son chef d’état-major et quelques officiers ; plus loin, la propriétaire de la chambre, une vieille femme, les mains jointes sous son tablier, et une fille à peine adulte qui regardait avec un air de stupeur. Une lumière vacillante s’efforçait en vain d’éclairer la scène. […]
+p: Leur entrée se fit par un chemin frayé entre deux murs de neige ; chaque homme en entrant jetait sa cartouchière et ses armes sur le bord de la route, où elles formèrent pendant plusieurs jours un épaulement de 2 mètres de haut. Le défilé continua sans interruption pendant quarante-huit heures. […] Non moins malheureux, les hommes rôdaient pêle-mêle entre les roues des milliers de chars qui encombraient la voie, ou roulaient en torrent dans la chaussée du chemin de fer ; ce n’était plus une armée, c’était une cohue : les officiers ne commandaient plus, et marchaient en sabots, en pantoufles, au milieu des soldats sans chaussures, qui déchiraient des pans d’habit pour emmailloter leurs pieds gelés, et cette neige implacable, qui était tombée sur eux tout l’hiver, s’amassait maintenant sous leurs pieds en poussière glacée où ils enfonçaient jusqu’aux genoux. […] Nous avons vu entrer en Suisse les adolescens qui sortaient de ces épreuves ; ils vivaient encore, mais décharnés, tremblant de fièvre, les yeux enfoncés et ternes ; ils marchaient encore d’un mouvement machinal, sans savoir où ils allaient ; ils regardaient, mais sans voir ; ils se laissaient abattre par l’ennemi, qui de loin, par derrière, jusqu’à la dernière heure, sans un éclair de pitié, tirait sur eux ; les obus partant de batteries invisibles passaient par-dessus la montagne, et venaient éclater sur la route. Ainsi défilait cette lugubre procession de corps inertes avec la stupeur et l’égoïsme du désespoir, abandonnant leurs morts, leurs mourans, s’abandonnant eux-mêmes, refusant parfois la vie que vous veniez leur rendre, vous disant quand vous leur tendiez une gourde : — Laissez-moi tranquille. — Mais que voulez-vous donc ? — Je veux mourir !
+gallica: bpt6k35513h = Revue des Deux Mondes, 2e période, tome 93, mai-juin 1871
+preuve: notice Gallica du volume (« 1871/05 (période 2, t. 93) »), reprise sur Europeana ; périodique : data.bnf.fr, notice cb32858360p
+source: ws La Suisse pendant la guerre de 1870 - Nos émigrés de Strasbourg et nos soldats de l’armée de l’est
+pour: retraite-de-l-armee-de-l-est, armee-de-l-est, clinchant
+
+@ about-emigration
+genre: temoignage
+auteur: Edmond About
+vie: 1828-1885
+titre: « Un vaste et unanime sanglot »
+oeuvre: Alsace, 1871-1872
+annee: 1873
+quand: 1872-09
+intro: Romancier et journaliste, Edmond About vivait près de Saverne. Le traité de Francfort laisse
+  aux Alsaciens-Lorrains jusqu'au 1er octobre 1872 pour garder la nationalité française, à
+  condition de quitter le pays. About, qui a choisi la France, revient en Alsace à la fin de
+  l'été 1872 et décrit dans ce livre, paru l'année suivante, le grand départ : celui des jeunes
+  gens surtout, qui refusent de servir dans l'armée allemande.
+p: Jamais les yeux de l’homme n’ont vu spectacle plus navrant que le départ de ces longs trains qui emportent la jeunesse alsacienne et lorraine loin du pays natal. Les garçons rient et chantent pour ne pas pleurer ; ils ont bu, ils se sont monté la tête, et d’ailleurs la jeunesse est facilement éblouie par les mirages de l’inconnu. Mais quand la machine a sifflé, quand la dernière voiture a disparu avec tous les chapeaux qui s’agitent aux portières, il reste sur le quai une masse inerte, hébétée, stupide, et comme anéantie par l’accablement du malheur. Cela vit cependant, car cela souffre, et la respiration qui sort de cette matière opprimée est un vaste et unanime sanglot.
+p: Dieu sait combien de temps ils resteraient en place ! Mais les gens de la gare viennent bientôt leur rappeler que c’est fini. J’ai suivi un vieux couple de paysans qui s’éloignait à petits pas ; l’homme disait à la femme :
+p: — En avoir eu trois, et maintenant plus un !
+p: — Si seulement ils pouvaient être heureux ! reprit la mère.
+p: — Et nous ? De si bons ouvriers ! Que ferons-nous sans eux ? Comment vivre ?
+p: — Tais-toi donc ! à quoi sert de vivre ?
+p: Ils devisèrent longtemps sur ce ton, en s’essuyant les yeux de temps à autre, et sans entremêler à leurs plaintes un seul mot de malédiction. Mais lorsqu’ils furent arrivés à leur porte, avant d’entrer dans ce logis désert, le vieillard recula d’un pas, leva le bras au ciel et murmura d’une voix sourde :
+p: « Mais s’il y a jamais une justice en ce monde ou dans l’autre !… »
+p: Amen ! mon pauvre ami. Du plus profond de mon cœur, amen !
+gallica: bpt6k1022803 = Alsace, 1871-1872, Paris, L. Hachette, 1873
+preuve: data.bnf.fr, notice cb300012214
+source: ws Alsace : 1871-1872/Chapitre VIII
+pour: optants, alsace-lorraine, traite-de-francfort
+
+@ flaubert-croisset-occupe
+genre: temoignage
+auteur: Gustave Flaubert
+vie: 1821-1880
+titre: « J'entends traîner des sabres sur le trottoir »
+oeuvre: Correspondance, lettre à sa nièce Caroline
+annee: 1870
+quand: 1870-12-24
+intro: Les Allemands sont à Rouen depuis le 5 décembre 1870. Flaubert, quarante-neuf ans, a quitté
+  sa maison de Croisset, pleine de soldats, pour l'appartement de sa nièce en ville, où il
+  veille sur sa mère de soixante-dix-sept ans. La veille de Noël, il écrit à cette nièce,
+  Caroline, réfugiée en Angleterre. Les lettres passent mal, les journaux n'arrivent plus ;
+  l'écrivain tient les comptes de la cuisinière.
+p: Ta pauvre grand’mère est de plus en plus mal, moralement parlant. Il y a des jours où elle ne parle plus du tout (tant elle souffre de la tête, dit-elle). Elle se plaint de ce qu’on ne vient pas la voir, et quand elle a des visites, elle ne dit mot ! Si la guerre dure encore longtemps (ce qui se peut) et que ton absence se prolonge, qu’en adviendra-t-il ? Ah ! quelle fatale idée tu as eue de t’en aller ! Nous n’aurions pas (elle et moi) souffert le quart de ce que nous souffrons si tu fusses restée. Je te répète toujours la même chose, parce que je n’ai que cela à te dire. Ton oncle Achille Flaubert va devenir malade, par le chagrin et les tracas que lui cause le Conseil municipal ! L’arrivée des troupes du prince de Mecklembourg a été pour nous comme une seconde invasion. Leurs exigences sont insensées et ils font des menaces. Je crois, cependant, qu’ils s’adouciront et qu’on s’en tirera encore. J’ai été ce matin à Croisset, ce qui est dur ! 200 nouveaux soldats y sont arrivés hier. Mais M. Poutrel m’a affirmé que (d’ici à quelque temps du moins) ils resteraient à Dieppedalle. Aurons-nous cette chance-là ? Mon pauvre Émile n’en peut plus ! Sais-tu qu’ils ont brûlé en quarante-cinq jours pour 420 francs de bois ! Tu peux juger du reste.
+p: Avant-hier nous en avons eu deux à loger ici. Mais ils ne sont pas restés.
+p: Nous ne recevons plus aucun journal et nous ne savons rien. On dit les nouvelles de Paris déplorables. Mais avant que le pauvre Paris ne se rende, il se passera des choses formidables. Et quand il se sera rendu, tout ne sera pas fini. Je n’ai plus maintenant qu’une envie, c’est de mourir pour en finir avec un supplice pareil.
+p: Le froid a repris. La neige ne fond pas. J’entends traîner des sabres sur le trottoir et je viens de faire des comptes avec la cuisinière ! Car c’est moi qui m’occupe du ménage, jusqu’à desservir la table tous les soirs. Je vis dans le chagrin et dans l’abjection ! Quel intérieur ! Quelles journées !
+p: Adieu, pauvre loulou. Quand nous reverrons-nous ? Nous reverrons-nous ?
+gallica: bpt6k245283 = Œuvres complètes de Gustave Flaubert, Correspondance, sixième série (1869-1872), Paris, Louis Conard, 1930
+preuve: data.bnf.fr, notice cb32110119q (Correspondance, éd. Conard) ; la sixième série identifiée par sa notice Gallica reprise sur Europeana
+source: ws Correspondance de Gustave Flaubert/Tome 6/1145
+pour: france-occupee, grand-duc-de-mecklembourg, guerre-de-1870
+
+@ sand-armee-sans-armes
+genre: temoignage
+auteur: George Sand
+vie: 1804-1876
+titre: « Une armée sans armes, sans pain, sans chaussures »
+oeuvre: Journal d'un voyageur pendant la guerre
+annee: 1870
+quand: 1870-10-16
+intro: À la mi-octobre 1870, George Sand a fui Nohant, où sévit la variole, et vit en réfugiée
+  entre Creuse et Berry. Les Bavarois de von der Tann ont battu à Artenay le petit corps du général de La
+  Motterouge et sont entrés dans Orléans le 11 ; la nouvelle arrive déformée, par bribes.
+  Gambetta, descendu de ballon, vient de prendre à Tours la direction de la guerre. La
+  romancière, républicaine de 1848, doute déjà de la levée en masse.
+p: 14 octobre.
+p: Les Prussiens ne sont pas entrés à Orléans ; mais ils y entreront quand ils voudront, ils ont fait la place nette. Le général La Motterouge est battu et privé de son commandement pour avoir manqué de résolution, disent les uns, pour avoir manqué de munitions, disent les autres. Si on déshonore tous ceux qui en seront là, ce n’est pas fini !
+p: 15 octobre.
+p: Pas de nouvelles. La poste ne s’occupe plus de nous ; tout se désorganise. Je suis étonnée de la tranquillité qui règne ici. La province consternée se gouverne toute seule par habitude.
+p: Dimanche 16.
+p: J’aurais voulu tenir un journal des événements ; mais il faudrait savoir la vérité, et c’est souvent impossible. Les rares et courts journaux qui nous parviennent se font la guerre entre eux et se contredisent ouvertement
+p: — Les mobiles sont des braves.
+p: — Non, les mobiles faiblissent partout.
+p: — Mais non, c’est la troupe régulière qui lâche pied.
+p: — Non, vous dis-je, c’est elle qui tient !
+p: Le plus clair, c’est qu’une armée sans armes, sans pain, sans chaussures, sans vêtements et sans abri, ne peut pas résister à une armée pourvue de tout et bien commandée.
+p: On agite beaucoup la question suivante, et on nous rapporte fidèlement, de auditu, l’opinion de M. Gambetta.
+p: — L’armée régulière est détruite, démoralisée, perdue ; elle ne nous sauvera pas. C’est de l’élément civil que nous viendra la victoire, c’est le citoyen improvisé soldat qu’il faut appeler et encourager.
+p: La question est fort douteuse, et, si d’avance elle est résolue, elle devient inquiétante au dernier degré. On peut improviser des soldats dans une localité menacée, et les mobiliser jusqu’à un certain point ; mais leur faire jouer le rôle de la troupe exercée au métier et endurcie à la fatigue, c’est un rêve, l’expérience le prouve déjà. Les malades encombrent les ambulances. On parle d’organiser une Vendée dans toute la France. Organise-t-on le désordre ?
+p: […]
+gallica: bpt6k103152s = Journal d'un voyageur pendant la guerre, Paris, Michel Lévy frères, 1871
+preuve: data.bnf.fr, notice cb31293767n
+source: ws Journal d’un voyageur pendant la guerre
+pour: prise-d-orleans, garde-mobile, guerre-a-outrance, gambetta
+
+@ monod-mobiles-zouaves-marins
+genre: temoignage
+auteur: Gabriel Monod
+vie: 1844-1912
+titre: Mobiles, zouaves pontificaux et marins
+oeuvre: Allemands et Français, souvenirs de campagne
+annee: 1872
+quand: 1870-12
+intro: Jeune historien protestant, formé en partie en Allemagne, Gabriel Monod a vingt-six ans
+  quand il s'engage comme infirmier volontaire dans une ambulance. Il suit la guerre de Sedan à
+  la Loire, autour de Vendôme, soignant les blessés des deux camps, et publie en 1872 un petit
+  livre qui veut juger équitablement les uns et les autres. Il y passe en revue les soldats
+  improvisés de la Défense nationale.
+p: Un peu plus tard, au siège de Paris et sur la Loire, vint le tour des gardes mobiles. Ces jeunes recrues, à peine instruites du maniement des armes, n'ont presque jamais été de véritables soldats. Certains bataillons se sont admirablement battus ; ceux de la Sarthe, de la Bretagne, du Loir-et-Cher, de la Dordogne, de l'Isère, du Haut-Rhin, ont étonné les vieux soldats par leur courage. Parmi les mobiles se trouvaient beaucoup de jeunes gens de familles aisées, qui savaient pourquoi ils se battaient et par suite se battaient bien ; mais le plus grand nombre étaient des paysans ou des ouvriers arrachés à la charrue ou à l'atelier ; ils s'étaient crus libérés du service militaire, subissaient à contre-cœur la loi nouvelle, supportaient mal les privations d'une guerre désastreuse et les intempéries d'un hiver rigoureux, et se sentaient incapables de résister à des troupes régulières et à une formidable artillerie. […]
+p: Deux corps seuls se sont montrés dans la campagne de la Loire véritablement sans peur et sans reproche : les zouaves pontificaux et les marins. Les zouaves pontificaux, recrutés principalement parmi les jeunes gens des familles nobles ou cléricales, ou parmi les populations si religieuses de l'Ouest, ont montré ce que peuvent des hommes soutenus par une forte conviction. Royalistes, ils avaient seuls conservé, avec les souvenirs de la vieille France monarchique, une idée nette, un amour profond de la patrie ; catholiques, ils avaient le sentiment très-juste que la défaite de la France était la chute du catholicisme. Ils ont combattu contre toute espérance, sans jamais reculer, parce qu'ils avaient la foi. Naïfs et chevaleresques, ils étaient convaincus que la bonne cause devait triompher.
+p: Les marins, appelés de la flotte en automne, donnèrent à Paris ses meilleurs artilleurs, et à l'armée de la Loire ses meilleurs fantassins. Commandés par un corps d'officiers exceptionnellement intelligents, instruits et dévoués, soumis à une discipline de fer, accoutumés à voir de face le danger et la mort sans jamais trembler, modestes, fidèles et loyaux comme le sont d'ordinaire les populations maritimes, les marins ont fait l'admiration de tous par leur indomptable et silencieux courage.
+gallica: bpt6k6365962b = Allemands et Français, souvenirs de campagne, Paris, Sandoz et Fischbacher, 1872 (2e édition)
+preuve: data.bnf.fr, notice cb34082068p
+source: ia allemandsetfran00monogoog = Internet Archive (numérisation Google), texte reconnu corrigé à la main
+pour: garde-mobile, zouaves-pontificaux, marine-en-1870, armee-de-la-loire
+
+@ chanzy-bataille-du-mans
+genre: temoignage
+auteur: Alfred Chanzy
+vie: 1823-1883
+titre: Le soir de la bataille du Mans
+oeuvre: La Deuxième Armée de la Loire
+annee: 1871
+quand: 1871-01-11
+intro: Depuis la perte d'Orléans, Chanzy recule en combattant, de Beaugency à Vendôme puis au Mans,
+  devant le prince Frédéric-Charles et le grand-duc de Mecklembourg. Le 11 janvier 1871, sa
+  deuxième armée de la Loire tient toute la journée autour de la ville. Le soir, il télégraphie
+  à Gambetta ; il reproduit la dépêche dans le récit qu'il publie la même année. La position de
+  la Tuilerie, lâchée par des mobilisés bretons mal armés, ne sera pas reprise : le lendemain,
+  l'armée se retire sur Laval.
+p: « Nous avons eu aujourd'hui la bataille du Mans ; l'ennemi nous a attaqués sur toute la ligne. Le général Jaurès s'est solidement maintenu sur la rive droite de l'Huisne ; le général de Colomb s'est battu avec acharnement pendant six heures sur le plateau d'Auvours ; le général Goujard, qui a eu son cheval percé de six balles, a montré là la plus grande vigueur, et ses troupes de Bretagne ont puissamment contribué à conserver cette position importante. J'ai annoncé au général Goujard qu'il était commandeur. Au-dessus de Changé, le général de Jouffroy s'est maintenu, malgré la fatigue de sa division et les efforts de l'ennemi ; la division Roquebrune ne s'est pas laissé entamer sur la route de Parigné. Nous coucherions sur toutes nos positions, sans une panique des mobilisés de Bretagne du général Lalande, qui, cédant sans résister devant un retour offensif tenté à la tombée de la nuit par l'ennemi, ont abandonné la position importante de la Tuilerie. Le vice-amiral Jauréguiberry, chargé de la défense en avant de Pontlieue, a déjà pris ses dispositions pour faire reprendre la Tuilerie avant le jour.
+p: C'est bien le prince Frédéric-Charles que nous avons devant nous, et qui n'est nullement parti pour l'Est. Nous avons fait des prisonniers, dont j'ignore encore le nombre ; tous l'affirment, citent les divisions de son armée et de celle du grand-duc de Mecklembourg, et évaluent l'ensemble des forces engagées ou en réserve à 180,000 hommes. Le combat n'a cessé qu'après la nuit venue. Je sais déjà que trois de nos colonels sont grièvement blessés ; je crois à des pertes sensibles, mais j'espère en avoir infligé de cruelles à l'ennemi. Je m'attends demain à une nouvelle bataille. […] »
+gallica: bpt6k6365735r = Campagne de 1870-1871. La deuxième armée de la Loire, Paris, H. Plon, 1871
+preuve: data.bnf.fr, notice cb30220772x
+source: ia ladeuximearm00chanuoft = Internet Archive (exemplaire de l'université de Toronto), texte reconnu corrigé à la main
+pour: bataille-du-mans, chanzy, camp-de-conlie, armee-de-la-loire
+
+@ freycinet-armistice-armee-de-l-est
+genre: temoignage
+auteur: Charles de Freycinet
+vie: 1828-1923
+titre: « Le piège que lui tendait M. de Bismarck »
+oeuvre: La Guerre en province pendant le siège de Paris
+annee: 1871
+quand: 1871-01-29
+intro: La convention d'armistice signée à Versailles le 28 janvier 1871 par Jules Favre laisse hors
+  de la trêve Belfort et les départements de l'Est, où l'armée de Bourbaki bat en retraite. La
+  dépêche envoyée à Bordeaux n'en dit rien : la Délégation ordonne partout de cesser le feu,
+  et l'armée de l'Est s'arrête pendant que Manteuffel avance. Freycinet, délégué à la Guerre,
+  règle ses comptes avec le négociateur dès 1871.
+p: Il est donc manifeste que M. de Bismark a rédigé la convention à son gré et que les négociateurs français trop crédules l'ont acceptée sur sa parole sans en prévoir les conséquences.
+p: S'ils les avaient prévues, en effet, ces conséquences funestes, ils n'auraient pas manqué d'en instruire leurs correspondants de Bordeaux. Ils auraient ajouté à leur brève dépêche quelque phrase dans ce sens : « Nous attirons votre attention sur l'exception relative à l'armée de l'Est ; nous avons dû la subir et vous aurez à aviser. » Or, non-seulement un tel avertissement n'a pas été donné, mais le texte même de la convention n'a pas été fourni. Pendant plus de quarante-huit heures l'administration de la guerre a ignoré qu'aucune ligne de démarcation eût été tracée et que les armées de l'Est fussent exceptées de l'armistice. Elle l'aurait même ignoré pendant cinq jours, si le général Chanzy n'avait pas reçu directement du prince Charles et n'avait pas transmis à Bordeaux une copie de la convention originale. […]
+p: Les « difficultés » dont parle ici M. Jules Favre, étaient précisément la perte de l'armée de l'Est et la dispersion de l'armée de Garibaldi, en d'autres termes l'anéantissement, pour la France, d'une force de près de 200,000 hommes ; nouvelle preuve que le négociateur français, en signant ces stipulations léonines, ne s'était pas douté du piège que lui tendait M. de Bismarck.
+p: Aucun trait n'a manqué à l'odieux de cette convention. Ainsi le négociateur prussien s'était réservé le privilège monstrueux, après que le reste de la France aurait mis bas les armes, d'écraser sous les forces réunies de l'Allemagne, l'héroïque place de Belfort qui résistait encore. Oui, quinze jours durant, on a pu voir, grâce à la convention du 28 janvier, 100,000 Allemands s'acharner contre une petite garnison de 10,000 hommes et son vaillant commandant le colonel d'Enfert-Rochereau, tandis que, partout ailleurs, les hostilités ayant cessé, la France était obligée d'assister impassible à ce spectacle.
+gallica: bpt6k5467583s = La Guerre en province pendant le siège de Paris, 1870-1871, précis historique, Paris, Michel Lévy frères, 1871
+preuve: data.bnf.fr, notice cb30465251z
+source: ia laguerreenprovin00frey = Internet Archive (exemplaire de l'université de Toronto), texte reconnu corrigé à la main
+pour: armistice-de-1871, jules-favre, armee-de-l-est, siege-de-belfort
+
+@ about-belfort
+genre: temoignage
+auteur: Edmond About
+vie: 1828-1885
+titre: Belfort, « exténués, mais invaincus »
+oeuvre: Alsace, 1871-1872
+annee: 1873
+quand: 1871-02-18
+intro: Investie le 3 novembre 1870, bombardée à partir de décembre, Belfort tient encore quand
+  l'armistice est signé ; la garnison du colonel Denfert-Rochereau n'en sort, avec les honneurs
+  de la guerre, que le 18 février 1871, sur ordre du gouvernement. La ville reste française
+  par le traité, mais occupée jusqu'en 1873. Edmond About la visite à l'automne 1872, au terme
+  de son voyage dans l'Alsace annexée ; les chiffres sont les siens.
+p: Une garnison de 17,600 hommes, qui ne comptait pas plus de 5,000 soldats de ligne, presque tous conscrits de dépôt, s’est si bien aguerrie en peu de temps qu’elle ne tenait plus aucun compte du froid, des privations et des dangers. Les approches de la place ont été savamment gardées et vaillamment défendues. Un siège de 104 jours, 410,000 obus de tout calibre lancés sans interruption durant 75 jours, une épidémie de variole et la contagion des fièvres purulentes, qui tuaient un blessé sur deux, ne découragèrent ni la garnison, ni la population civile, quoique le général de Trescow, assiégeant, eût interdit la sortie des vieillards, des enfants et des femmes.
+p: Ce beau type d’humanité germanique n’a pas eu, malgré tout, l’honneur de prendre la ville ; il ne l’a point enlevée à ses défenseurs ; c’est un ordre du gouvernement français qui la lui a ouverte, et nos soldats décimés, exténués, mais invaincus, sont sortis de Belfort avec armes et bagages, le 18 février 1871.
+p: La bonne foi m’oblige à dire que ce jour-là, l’ennemi, installé sur les Hautes et les Basses-Perches, était maître d’anéantir la ville en quelques heures. Avouons franchement que l’artillerie prussienne, après trois mois et demi de travail incessant, a prouvé qu’elle était plus forte que les défenses si renommées de Belfort ; mais le colonel Denfert et ses dignes soldats ont eu la gloire de prolonger la résistance jusqu’au moment où la paix rendait tout effort inutile.
+gallica: bpt6k1022803 = Alsace, 1871-1872, Paris, L. Hachette, 1873
+preuve: data.bnf.fr, notice cb300012214
+source: ws Alsace : 1871-1872/Chapitre X
+pour: siege-de-belfort, denfert-rochereau, artillerie-de-siege
+
+@ sand-mobilises-de-blois
+genre: temoignage
+auteur: George Sand
+vie: 1804-1876
+titre: « Sans avoir appris à tenir un fusil »
+oeuvre: Journal d'un voyageur pendant la guerre
+annee: 1871
+quand: 1871-02-06
+intro: L'armistice est signé depuis neuf jours, mais les nouvelles mettent une semaine à gagner le
+  Berry. George Sand apprend ce qu'il est advenu des gardes nationaux mobilisés de son pays,
+  levés par les décrets de Gambetta et envoyés devant Blois dans les derniers jours de
+  janvier. Elle tient ce récit de seconde main ; sa colère contre la « dictature » de Bordeaux,
+  qui veut encore la guerre à outrance, est celle d'une grande partie des campagnes.
+p: Pas plus de nouvelles qu’hier ; nous n’avons que les journaux d’avant-hier, qui disent que l’armistice, mal réglé ou mal compris, a amené de nouveaux malheurs pour nos troupes. Nous sommes inquiets d’une partie de nos mobilisés qui a été conduite au feu, comme nous le redoutions, sans avoir appris à tenir un fusil, et qui s’est trouvée à l’affaire de la reprise du faubourg de Blois. Ils s’y sont jetés comme des fous, traversant la Loire, en désordre sur un pont miné, tombant dans la rivière, sortant de là en riant pour aller droit aux Prussiens embusqués dans les maisons, tirant au hasard leurs mauvais fusils qui éclataient dans leurs mains, et vers le soir se tuant les uns les autres faute de se reconnaître et faute de direction. Le lendemain, nos pauvres enfants étaient cernés ; la retraite leur était absolument coupée, et ils attendaient l’écrasement final lorsque, après six heures d’attente dans la boue, l’arme au pied, leur colonel fut obligé de leur laisser connaître l’armistice, mais en leur déclarant qu’il ne l’acceptait pas. Si Gambetta dure, ce colonel intelligent sera décoré ou général. — Avec de tels chefs, l’épuisement désiré ira vite, et le pouvoir de ceux qui sacrifient ainsi la jeunesse d’un pays ne sera pas d’aussi longue durée qu’ils l’espèrent.
+gallica: bpt6k103152s = Journal d'un voyageur pendant la guerre, Paris, Michel Lévy frères, 1871
+preuve: data.bnf.fr, notice cb31293767n
+source: ws Journal d’un voyageur pendant la guerre
+pour: garde-nationale, armistice-de-1871, guerre-a-outrance, gambetta

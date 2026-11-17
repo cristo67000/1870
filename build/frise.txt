@@ -1,0 +1,21 @@
+# Les faits de la frise qui n'ont pas d'article à eux : « date | voie | fait | article lié (facultatif) ».
+# Voies : avant, politique, operations, paris, apres. La frise se nourrit d'abord des articles
+# datés (« quand: ») ; ces lignes la complètent, sans les répéter.
+1870-01-02 | politique | Émile Ollivier forme le ministère de l'Empire libéral. | emile-ollivier
+1870-07-28 | operations | Napoléon III quitte Saint-Cloud pour Metz et prend le commandement de l'armée du Rhin. | napoleon-iii
+1870-08-09 | politique | Le Corps législatif renverse le ministère Ollivier ; Palikao forme un gouvernement le lendemain. | comte-de-palikao
+1870-08-12 | operations | L'empereur remet le commandement de l'armée du Rhin à Bazaine. | bazaine
+1870-08-17 | politique | Au camp de Châlons, Trochu est nommé gouverneur de Paris. | trochu
+1870-08-23 | operations | L'armée de Châlons quitte Reims vers le nord-est, pour tendre la main à Bazaine. | armee-de-chalons
+1870-09-02 | operations | Napoléon III, prisonnier, est conduit en Allemagne, au château de Wilhelmshöhe. | napoleon-iii
+1870-09-05 | politique | Victor Hugo rentre à Paris après dix-neuf ans d'exil. | victor-hugo-en-1870
+1870-09-12 | politique | Thiers part chercher des appuis à Londres, Vienne, Saint-Pétersbourg et Florence. | isolement-diplomatique
+1870-09-20 | apres | Les troupes italiennes entrent dans Rome, que la garnison française a quittée en août. | consequences-de-la-guerre
+1870-10-09 | politique | Garibaldi arrive à Tours et offre ses services à la République. | garibaldi
+1870-10-31 | apres | La Russie dénonce les clauses du traité de Paris de 1856 qui neutralisaient la mer Noire. | consequences-de-la-guerre
+1871-01-22 | paris | Fusillade devant l'Hôtel de Ville de Paris entre gardes nationaux et mobiles. | siege-de-paris
+1871-01-29 | paris | Les forts de Paris sont remis aux Allemands. | armistice-de-1871
+1871-02-06 | politique | Gambetta, désavoué par le gouvernement de Paris, démissionne. | gambetta
+1871-03-01 | paris | L'Assemblée ratifie les préliminaires et vote la déchéance de Napoléon III ; les Allemands défilent dans Paris jusqu'au 3 mars. | preliminaires-de-versailles
+1871-03-10 | politique | L'Assemblée décide de siéger à Versailles. | assemblee-de-bordeaux
+1873-01-09 | apres | Napoléon III meurt en exil, à Chislehurst, en Angleterre. | napoleon-iii

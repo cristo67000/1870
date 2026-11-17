@@ -1,0 +1,504 @@
+# 1870 — lot 06 : les batailles de l'été 1870, du Schirlenhof (25 juillet) à la capitulation de Sedan
+# (2 septembre). Quinze articles, dans l'ordre du plan. Dates, unités et chiffres vérifiés sur Wikipédia
+# (fr, de, en : texte et boîtes d'information), recoupés entre langues ; coordonnées OpenStreetMap ou
+
+@ combat-de-schirlenhof
+cat: batailles
+nom: Le combat de Schirlenhof
+alias: Schirlenhof, Scheuerlenhof, chevauchée de Zeppelin, Erkundungsritt, Pagnier, Winsloe
+dates: 25 juillet 1870
+quand: 1870-07-25
+def: Escarmouche du 25 juillet 1870 au hameau du Schirlenhof, à Gundershoffen (Bas-Rhin) : des chasseurs à cheval français surprennent à l'auberge la patrouille de reconnaissance du [[comte-zeppelin|comte Zeppelin]]. Les deux tués du jour passent pour les premiers morts de la guerre.
+texte: La guerre est déclarée depuis cinq jours quand, le dimanche 24 juillet 1870, vers 9 h 30, une douzaine de cavaliers passent la frontière à Lauterbourg. Le capitaine comte Ferdinand von Zeppelin, 32 ans, officier d'état-major de la cavalerie wurtembergeoise, emmène quatre officiers et sept ou huit dragons badois — les récits ne s'accordent pas sur le compte. Sa mission : savoir où [[mac-mahon]] rassemble ses troupes. La patrouille bouscule douaniers et gendarmes, coupe le fil du télégraphe, se bat un instant à Crœttwiller contre un gendarme et un lancier, traverse les villages au trot et passe la nuit dans les bois, près de Hunspach. Le lundi 25, par Wœrth, elle gagne le Schirlenhof, quelques maisons à l'écart de Gundershoffen, et s'attable à l'auberge.
+texte: Elle a été vue. Averti par la gendarmerie, le 12e chasseurs à cheval, cantonné à Niederbronn, lance des pelotons dans toutes les directions ; celui du lieutenant de Chabot entre dans la cour de l'auberge. La sentinelle tire : le maréchal des logis Claude Ferréol Pagnier, 41 ans, médaillé militaire au Mexique, est tué net. Chabot blesse de deux balles de pistolet le lieutenant Winsloe, qui meurt quelques heures plus tard. Les autres sont pris. Zeppelin, lui, s'échappe par l'arrière de la maison, saute sur un cheval — celui de Pagnier, dira-t-il — et, par les bois, atteint le Palatinat bavarois le lendemain.
+texte: Chaque camp peut se dire vainqueur. Les Français ont pris la patrouille ; les Allemands savent ce qu'ils voulaient savoir : aucune masse de troupes ne se tient entre la Lauter et la Sauer. Le comte de Leusse, maire de Reichshoffen et député, en tire une autre leçon dans les souvenirs qu'il écrit en 1871 : pendant que l'ennemi se promenait chez eux, deux régiments de cavalerie légère « pourrissaient à ne rien faire » à Niederbronn. La [[cavalerie-en-1870|cavalerie]] française, elle, n'ira pas voir ce qui se prépare au nord de la frontière ; dix jours plus tard, la division Douay est surprise à [[bataille-de-wissembourg|Wissembourg]]. Zeppelin y gagne une célébrité qui servira, trente ans après, le constructeur de dirigeables.
+repere: 19 juillet 1870 — La France déclare la guerre à la Prusse.
+repere: 24 juillet 1870, 9 h 30 — La patrouille de Zeppelin franchit la frontière à Lauterbourg.
+repere: nuit du 24 au 25 juillet 1870 — Les cavaliers se cachent dans les bois, près de Hunspach.
+repere: 25 juillet 1870 — Un peloton du 12e chasseurs à cheval surprend la patrouille à l'auberge du Schirlenhof : Pagnier et Winsloe sont tués, Zeppelin s'échappe.
+repere: 26 juillet 1870 — Zeppelin rentre en territoire bavarois par Hirschthal, dans le Palatinat.
+repere: 1890 — Une plaque à la mémoire de Winsloe est posée au Schirlenhof ; le Souvenir français élève un obélisque sur la tombe de Pagnier.
+attention: Pagnier et Winsloe ne sont les « premiers morts de la guerre » que sur les monuments. Dans la nuit du 20 au 21 juillet, des soldats français avaient déjà été tués près de Forbach et de Spicheren, dont un sergent-major abattu par méprise par un autre régiment ; le 23, le douanier Mouty était tué à son poste de Schreckling, en Moselle.
+issue: patrouille allemande capturée
+effectifs: ? | 12
+pertes: 1 | ?
+chefs: lieutenant de Chabot | capitaine von Zeppelin
+chiffres: Un tué de chaque côté ; le reste de la patrouille est pris, sauf Zeppelin. Les récits donnent quatre officiers et sept ou huit dragons au départ (Leusse, sur le moment, parle de cinq cavaliers) ; l'effectif du peloton français n'est pas donné par les sources consultées.
+geo: 48.9144, 7.6959
+lieu: Schirlenhof, Gundershoffen, Bas-Rhin, France
+lien: wp Claude Ferréol Pagnier
+lien: de Der Erkundungsritt des Grafen Zeppelin im Juli 1870
+sources: Wikipédia (fr : Claude Ferréol Pagnier, d'après Ph. Tomasetti, « Sur la trace des premiers morts », Les Saisons d'Alsace, 2020 ; de : Der Erkundungsritt des Grafen Zeppelin im Juli 1870 ; fr et de : Ferdinand von Zeppelin) ; Paul de Leusse, Souvenirs écrits en 1871 (transcription de travail) ; OpenStreetMap pour les coordonnées.
+voir: comte-zeppelin, cavalerie-en-1870, espionnage-et-renseignement, bataille-de-wissembourg, mac-mahon, sur-les-champs-de-bataille-d-alsace
+
+@ combat-de-sarrebruck
+cat: batailles
+nom: Le combat de Sarrebruck
+alias: Sarrebruck, Saarbrücken, baptême du feu, prince impérial, Lulustein
+dates: 2 août 1870
+quand: 1870-08-02
+def: Le 2 août 1870, le 2e corps de [[frossard]] chasse un faible détachement prussien des hauteurs qui dominent Sarrebruck, sous les yeux de [[napoleon-iii]] et du prince impérial. Premier combat de la guerre, célébré comme une victoire, il reste sans aucune suite.
+texte: À la fin de juillet 1870, [[armee-du-rhin]] piétine le long de la frontière : la [[mobilisation-de-1870|mobilisation]] n'est pas achevée, les vivres manquent, et l'on ne sait rien de l'ennemi. À Paris, l'opinion s'impatiente. Napoléon III, arrivé à Metz le 28 juillet pour prendre le commandement, décide une « reconnaissance offensive » sur Sarrebruck, première ville prussienne au-delà de la frontière, en face de Forbach. Un conseil de guerre règle l'affaire le 31 juillet : le 2e corps de Frossard marchera sur la ville, pendant qu'une division du 3e corps de [[bazaine]] et une du 5e corps feront diversion sur ses flancs.
+texte: Le 2 août au matin, la division Bataille s'avance en première ligne, la brigade Pouget de front vers le champ de manœuvres, l'*Exerzierplatz*, la brigade Bastoul par Saint-Arnual ; deux autres brigades suivent en soutien. Le 2e corps compte près de 28 700 hommes, dont environ 16 000 sont portés en avant. En face, le lieutenant-colonel von Pestel n'a qu'un bataillon du 40e fusiliers et trois escadrons de uhlans, avec deux bataillons, un escadron de hussards et une batterie en réserve — et l'ordre de se replier devant des forces supérieures. Après une heure de fusillade, les Prussiens repassent la Sarre sous la protection de quatre pièces, et les Français s'installent sur les hauteurs de la rive gauche. Le combat a coûté 86 hommes aux uns, 83 aux autres.
+texte: L'empereur a suivi l'action avec son fils Louis, âgé de quatorze ans. Le soir, il télégraphie à l'impératrice que « Louis vient de recevoir le baptême du feu », vante son sang-froid et raconte que l'enfant a gardé une balle tombée près de lui. La dépêche, livrée aux journaux, fait de l'escarmouche une victoire, et le ministère parle d'« offensive victorieuse ». À Sarrebruck, une pierre, le *Lulustein*, marque encore l'endroit où, selon la tradition locale, le prince aurait tiré le canon — et le point le plus avancé atteint par l'armée française en Allemagne.
+texte: Militairement, l'opération n'a rien donné. Frossard ne poursuit pas, ne coupe ni les ponts ni le télégraphe, n'apprend rien des positions allemandes, alors que les trois armées de [[moltke]] achèvent leur concentration à quelques marches de là. Le 5 août, le 2e corps quitte les hauteurs de Sarrebruck pour celles de Spicheren, où la [[bataille-de-spicheren|bataille du 6 août]] le chasse à son tour. L'historien militaire Léonce Rousset a résumé l'affaire d'une phrase : la reconnaissance « n'avait rien appris, ne servait à rien ».
+repere: 28 juillet 1870 — Napoléon III arrive à Metz et prend le commandement de l'armée du Rhin.
+repere: 31 juillet 1870 — Un conseil de guerre décide une reconnaissance offensive sur Sarrebruck.
+repere: 2 août 1870 — La division Bataille enlève les hauteurs de la rive gauche ; les Prussiens se replient derrière la Sarre.
+repere: 2 août 1870, soir — L'empereur télégraphie à l'impératrice le « baptême du feu » du prince impérial.
+repere: 5 août 1870 — Le 2e corps quitte Sarrebruck pour les hauteurs de Spicheren.
+repere: 6 août 1870 — Frossard est attaqué et battu à Spicheren.
+repere: octobre 1870 — Rimbaud date son sonnet *L'Éclatante Victoire de Sarrebrück*.
+attention: Le « baptême du feu » n'est pas une invention des adversaires de l'Empire : le mot est de Napoléon III lui-même, dans sa dépêche à l'impératrice. C'est l'écart entre ce ton et la réalité — un bataillon délogé par un corps d'armée, quatre jours avant deux défaites — qui en a fait un objet de dérision ; Rimbaud s'en moque dès octobre 1870 dans un sonnet, « remportée aux cris de vive l'Empereur ! ».
+issue: succès français sans lendemain
+effectifs: 16000 | 3000
+pertes: 86 | 83
+chefs: Frossard | lieutenant-colonel von Pestel
+chiffres: Pertes d'après Rousset : 11 tués et 75 blessés français ; 8 tués, 68 blessés et 7 disparus prussiens. Effectifs : la division Bataille et deux brigades de soutien, environ 16 000 hommes sur les 28 700 du 2e corps ; côté prussien trois bataillons, quatre escadrons et une batterie, de l'ordre de 3 000 hommes (estimation), dont un seul bataillon en première ligne.
+geo: 49.2333, 7.0000
+lieu: Sarrebruck, Sarre, Allemagne
+lien: wp Bataille de Sarrebruck
+lien: wp L'Éclatante Victoire de Sarrebrück
+sources: Wikipédia (fr : Bataille de Sarrebruck et Ordre de bataille lors de la bataille de Sarrebruck, d'après L. Rousset, Histoire générale de la guerre franco-allemande ; en : Battle of Saarbrücken ; de : Schlacht bei Spichern, pour le Lulustein ; fr : L'Éclatante Victoire de Sarrebrück).
+voir: frossard, napoleon-iii, bataille-de-spicheren, armee-du-rhin, bazaine, mots-de-1870, mobilisation-de-1870
+
+@ bataille-de-wissembourg
+cat: batailles
+nom: Bataille de Wissembourg
+alias: Weissenburg, Weißenburg, combat du Geisberg, Wissembourg-Geisberg, Schafbusch
+dates: 4 août 1870
+quand: 1870-08-04
+def: Le 4 août 1870, la division d'[[abel-douay]], isolée à la frontière nord de l'Alsace, est attaquée par trois corps de la IIIe armée allemande du [[kronprinz-frederic-guillaume|Kronprinz]]. Douay est tué, la ville et le Geisberg sont pris : c'est la première bataille de la guerre.
+texte: Wissembourg, sur la Lauter, est la porte nord de l'Alsace ; déclassée comme place de guerre en 1867, elle garde ses remparts et ses fossés. À la fin de juillet, [[ducrot]], qui connaît le pays, a fait évacuer la ville et Lauterbourg pour ne pas éparpiller les troupes le long de la frontière. Le sous-préfet Hepp proteste, le ministère désapprouve, l'intendance réclame les fours de la ville, capables de cuire 30 000 rations par jour. Le 2 août, [[mac-mahon]] ordonne donc à la 2e division du 1er corps, celle du général Abel Douay, de la réoccuper. Le comte de Leusse, député de l'arrondissement, avouera dès 1871 avoir demandé lui-même cette « faute », « pour rassurer les populations ».
+texte: La division arrive le 3 août au soir, sous l'orage : environ 8 000 hommes — huit bataillons, huit escadrons, dix-huit pièces — au lieu des 15 000 d'une division complète, et aucun renseignement sur l'ennemi. Ducrot écrit ce jour-là qu'il est « convaincu que l'ennemi n'est en force nulle part à proximité » ; le sous-préfet et le maire annoncent au contraire que 30 000 hommes ont quitté Landau. Le 4, à 5 h 27, Mac-Mahon télégraphie à Douay de se tenir sur ses gardes et, s'il est attaqué par des forces très supérieures, de rallier Ducrot par le col du Pigeonnier. La reconnaissance de cavalerie envoyée à l'aube rentre vers 6 h sans avoir rien vu. Les hommes font la soupe.
+texte: Vers 8 h 15, une batterie bavaroise ouvre le feu des hauteurs de Schweigen. C'est la division Bothmer, tête du IIe corps bavarois ; derrière elle, sur un large front, arrivent le Ve corps prussien de Kirchbach, par Altenstadt, et le XIe de Bose, par le Bienwald. Le 1er régiment de tirailleurs algériens — les [[armee-d-afrique|turcos]] — défend la gare et les abords de la ville, un bataillon du 74e de ligne les remparts, la brigade Montmarie le plateau du Geisberg. Toute la matinée les Bavarois sont tenus en échec, et le [[fusil-chassepot|chassepot]] fait payer cher chaque pas ; mais l'artillerie allemande fait taire les batteries françaises, les [[mitrailleuse-de-reffye|canons à balles]] ne peuvent tenir nulle part, et les Prussiens débordent par l'est.
+texte: Vers 10 h 30, Douay comprend qu'il n'a pas affaire à une reconnaissance et ordonne la retraite. Vers 11 h, il est mortellement atteint — un éclat d'obus au ventre, selon la plupart des récits — et meurt à la ferme du Schafbusch ; le général Pellé prend le commandement. La gare est emportée au même moment par les Silésiens et les Posnaniens du Ve corps. Reste le château du Geisberg, grosse ferme close de murs où se sont enfermés des bataillons du 74e et du 50e : le régiment des grenadiers du Roi s'y brise, le major von Kaisenberg, qui mène l'assaut, y est mortellement blessé ; il faut le canon et l'arrivée du XIe corps sur les arrières pour obtenir la reddition, peu après 14 h. À la même heure, le bataillon Liaud, cerné dans la ville, capitule.
+texte: Mac-Mahon, accouru de Strasbourg, a vu la fin du combat du col du Pigeonnier, à quatre kilomètres, aux côtés de Ducrot, sans pouvoir rien y changer. Les débris de la division gagnent Lembach et Haguenau dans la nuit ; les Allemands ne poursuivent pas. Le soir, le Kronprinz vient saluer la dépouille de Douay au Schafbusch — Anton von Werner en fera un tableau. La défaite est petite par les effectifs, lourde par ses effets : la frontière est forcée, une des quatre divisions du 1er corps est durement éprouvée, et le maréchal se replie sur la position de [[bataille-de-froeschwiller-woerth|Frœschwiller]], où tout se joue deux jours plus tard.
+repere: 2 août 1870 — Mac-Mahon ordonne à la division Douay de réoccuper Wissembourg, évacuée fin juillet.
+repere: 3 août 1870, soir — La division arrive sous l'orage et campe sur le Geisberg ; à Landau, le Kronprinz ordonne à la IIIe armée de marcher sur la Lauter.
+repere: 4 août 1870, 5 h 27 — Mac-Mahon télégraphie à Douay de se tenir sur ses gardes.
+repere: 4 août 1870, vers 8 h 15 — Une batterie bavaroise ouvre le feu sur la ville depuis les hauteurs de Schweigen.
+repere: 4 août 1870, vers 10 h 30 — Débordé à l'est par les Ve et XIe corps prussiens, Douay ordonne la retraite vers le col du Pigeonnier.
+repere: 4 août 1870, vers 11 h — Douay est mortellement blessé ; la gare, défendue par les turcos, est emportée.
+repere: 4 août 1870, vers midi — Mac-Mahon arrive au col du Pigeonnier et observe la fin du combat.
+repere: 4 août 1870, vers 14 h — Le château du Geisberg et le bataillon resté dans Wissembourg se rendent.
+attention: Douay n'a pas été « surpris » par négligence personnelle : une division incomplète avait été posée seule à la frontière, à une journée de marche de tout secours, pour des raisons de subsistances et de politique locale, et la cavalerie n'éclairait pas au-delà de la Lauter. Sur sa mort, les récits divergent : éclat d'obus au flanc ou à l'aine pour la plupart, explosion d'un caisson de munitions pour un autre.
+issue: victoire allemande
+effectifs: 8000 | 25000
+canons: 18 | 144
+pertes: 2300 | 1550
+chefs: Abel Douay, puis Pellé | le Kronprinz Frédéric-Guillaume
+chiffres: Environ 8 000 Français (6 000 selon Clodfelter) et dix-huit pièces, dont six canons à balles. Côté allemand, 22 à 31 bataillons engagés selon les décomptes, soit quelque 25 000 hommes sur les 50 000 à 60 000 des trois corps arrivés sur le terrain, avec 144 pièces. Pertes françaises : 1 300 à 1 600 tués et blessés et 700 à 1 000 prisonniers ; pertes allemandes : 1 551 hommes d'après l'état-major prussien.
+geo: 49.0148, 7.9538
+lieu: Wissembourg, Bas-Rhin, France
+lien: wp Bataille de Wissembourg (1870)
+lien: de Schlacht bei Weißenburg (1870)
+sources: Wikipédia (fr : Bataille de Wissembourg (1870) et Abel Douay ; de : Schlacht bei Weißenburg (1870) ; en : Battle of Wissembourg (1870), d'après Howard 1961, Wawro 2003 et Clodfelter 2008) ; dépêches des Archives de la guerre publiées par E. Picard, 1870. La perte de l'Alsace, et Souvenirs du comte de Leusse (1871), lus dans les notes de travail du projet ; Cugnac, Les Prodromes de Frœschwiller, 1911.
+voir: abel-douay, bataille-de-froeschwiller-woerth, armee-d-afrique, kronprinz-frederic-guillaume, ducrot, mac-mahon, combat-de-schirlenhof, sur-les-champs-de-bataille-d-alsace
+
+@ bataille-de-froeschwiller-woerth
+cat: batailles
+nom: Bataille de Frœschwiller-Wœrth
+alias: Reichshoffen, bataille de Reichshoffen, Wœrth, Woerth, Wörth, Schlacht bei Wörth, Froeschwiller, Frœschwiller, Niederwald, Elsasshausen
+dates: 6 août 1870
+quand: 1870-08-06
+def: Le 6 août 1870, sur les hauteurs qui dominent Wœrth, le 1er corps de [[mac-mahon]] est attaqué puis enveloppé par la IIIe armée allemande du [[kronprinz-frederic-guillaume|Kronprinz]], deux fois plus nombreuse. La défaite, dite aussi de Reichshoffen, ouvre l'Alsace à l'invasion.
+texte: Au soir de [[bataille-de-wissembourg|Wissembourg]], Mac-Mahon ramène le 1er corps sur une position connue : les hauteurs de Frœschwiller, qui dominent à l'ouest la vallée de la Sauer, de Nehwiller au nord à Morsbronn au sud. Hoche y avait vaincu en 1793. La position couvre les routes de Bitche et de Saverne et la voie ferrée qui relie l'Alsace à la Lorraine ; elle est forte de front, avec ses pentes de vignes et de houblonnières, ses bois, le bourg de Wœrth au fond de la vallée. Mais elle est trop étendue pour les troupes disponibles, et sa droite, vers Morsbronn et la forêt de Haguenau, ne s'appuie à rien. Le comte de Leusse, maire de Reichshoffen, qui accompagne le maréchal, rapporte le mot des généraux : « bonne pour cinquante mille hommes », elle est « trop en l'air » pour ceux que l'on a.
+texte: Le maréchal dispose de ses quatre divisions — [[ducrot]] à gauche, Raoult au centre face à Wœrth, Lartigue à droite, Pellé, qui a succédé à Douay, en réserve —, de la division Conseil-Dumesnil du 7e corps, débarquée dans la nuit, et d'une forte cavalerie, dont les cuirassiers de la brigade Michel et de la division Bonnemains. Les six régiments d'[[armee-d-afrique|Afrique]], zouaves et tirailleurs algériens, en sont l'élite. Le 5 août, l'empereur lui a aussi donné le 5e corps de Failly, qui est à Bitche, à une trentaine de kilomètres. « Venez à Reichshoffen avec tout votre corps d'armée le plus tôt possible », télégraphie Mac-Mahon ; la dépêche, partie à 20 h 10, met près de trois heures à arriver. Failly, qui craint pour Bitche, tient conseil jusqu'à 2 h du matin et n'envoie qu'une division, laquelle mettra huit heures à faire vingt et un kilomètres.
+texte: Aucun des deux chefs ne veut se battre le 6. Le Kronprinz, dont le quartier général est à Soultz, entend d'abord resserrer la IIIe armée ; Mac-Mahon attend Failly. À l'aube, Ducrot et Raoult, qui devinent de grandes masses devant eux, font plaider par Leusse la retraite vers les Vosges. Le maréchal semble y consentir — « quand le maréchal va sentir la poudre, il ne voudra plus rétrograder », prévient Ducrot — mais aucun ordre ne part. Il est déjà trop tard. Après une nuit d'orage, les avant-postes se fusillent autour de Wœrth, que les Français n'occupent pas ; vers 7 h, une brigade du Ve corps prussien y pousse une reconnaissance avec du canon. Le bruit suffit : au nord, le IIe corps bavarois de Hartmann marche sur Frœschwiller par Langensoultzbach ; au sud, l'avant-garde du XIe corps prussien de Bose passe la Sauer à Gunstett.
+texte: Toute la matinée, les Français ont le dessus. Le 1er zouaves rejette les Bavarois dans les bois ; la division Lartigue ramène le XIe corps jusqu'à la rivière. Le Kronprinz envoie l'ordre de rompre le combat ; il n'arrête, un moment, que les Bavarois. Car le général von Kirchbach, chef du Ve corps, décide de lui-même, vers 10 h 30, d'engager tout son monde. Ses pièces, 84 puis 108, en batterie à l'est de Wœrth, font taire l'[[artillerie-francaise|artillerie française]] ; mais ses bataillons, lancés à travers la Sauer, sont rejetés par les contre-attaques des zouaves et des turcos de Raoult. À midi, Mac-Mahon griffonne à Leusse : « Cela va mieux, je viens de réoccuper Wœrth. » À la même heure, une dépêche de Paris lui apprend qu'il a devant lui « toute l'armée du prince royal ».
+texte: À 13 h, le Kronprinz arrive sur les hauteurs en face de Wœrth et prend la bataille en main : le Ve corps fixera le centre, le XIe et les Wurtembergeois envelopperont la droite. La brigade Schkopp s'empare de Morsbronn ; pour dégager Lartigue, la brigade Michel charge et se fait détruire dans le village — la première des [[charges-de-reichshoffen|charges dites de Reichshoffen]]. Le bois du Niederwald tombe vers 14 h 30, le hameau d'Elsasshausen une demi-heure plus tard. Mac-Mahon, qui a suivi la journée du pied d'un noyer que l'on montra longtemps aux visiteurs, jette alors ses dernières réserves : les quatre régiments de cuirassiers de Bonnemains, fusillés dans les houblonnières, puis le 1er tirailleurs algériens, rescapé de Wissembourg, qui reprend un instant Elsasshausen et des canons perdus avant d'être pris de flanc.
+texte: Vers 16 h, Frœschwiller, en flammes, est assailli de trois côtés ; Prussiens venus du sud et Bavarois venus du nord s'y rejoignent. Le général Raoult, la hanche brisée, reste sur le terrain ; le général Colson, chef d'état-major du maréchal, est tué. La retraite, couverte un moment par les zouaves et les tirailleurs, tourne à la déroute sur la route de Reichshoffen, que bat déjà le canon. À 17 h 30, les premiers cavaliers allemands entrent dans le bourg, où Leusse compte plus d'un millier de blessés. La division envoyée par Failly, arrivée à Niederbronn vers 16 h, ne peut que recueillir les fuyards.
+texte: La journée coûte aux Allemands plus de 10 000 hommes, aux Français au moins 15 000, dont 9 000 prisonniers, avec 28 canons et 5 mitrailleuses. Elle livre l'Alsace : le 1er corps, désorganisé, repasse les Vosges par Saverne et ne s'arrête qu'au camp de Châlons ; [[siege-de-strasbourg|Strasbourg]] est investi quelques jours plus tard. Le même jour, [[frossard]] est battu à [[bataille-de-spicheren|Spicheren]] : en douze heures, [[armee-du-rhin]] a perdu la frontière, et l'Empire son crédit. Les Allemands appellent la bataille Wœrth ; les Français, Frœschwiller, ou Reichshoffen, du nom du bourg situé en arrière du champ de bataille, par où s'est faite la retraite.
+repere: 4 août 1870, soir — Battu à Wissembourg, Mac-Mahon décide de concentrer le 1er corps sur les hauteurs de Frœschwiller, derrière la Sauer.
+repere: 5 août 1870, 12 h 50 — De Metz, l'empereur place les 1er, 5e et 7e corps sous les ordres de Mac-Mahon.
+repere: 5 août 1870, 20 h 10 — Le télégramme qui appelle le 5e corps à Reichshoffen part ; il n'atteint Bitche que vers 23 h.
+repere: 6 août 1870, vers 5 h 30 — Ducrot et Raoult demandent la retraite ; le maréchal paraît y consentir, sans donner d'ordre.
+repere: 6 août 1870, 7 h — Une brigade du Ve corps prussien attaque Wœrth ; le canon attire les Bavarois au nord et le XIe corps au sud.
+repere: 6 août 1870, vers 10 h 30 — Kirchbach engage tout le Ve corps malgré l'ordre du Kronprinz ; ses assauts sont repoussés sur les pentes.
+repere: 6 août 1870, 13 h — Le Kronprinz prend la direction de la bataille ; le XIe corps tourne l'aile droite française par Morsbronn.
+repere: 6 août 1870, vers 13 h 30 — La brigade de cuirassiers Michel est détruite dans Morsbronn.
+repere: 6 août 1870, vers 15 h — Le Niederwald et Elsasshausen sont perdus ; charge de la division Bonnemains, contre-attaque des turcos.
+repere: 6 août 1870, vers 17 h — Frœschwiller est pris ; l'armée reflue en désordre sur Reichshoffen, Niederbronn et Saverne.
+attention: On ne s'est pas battu à Reichshoffen, et les Français n'étaient pas à un contre trois ou quatre : les Allemands ont réellement engagé de 80 000 à 90 000 hommes contre 45 000, deux contre un, avec une artillerie très supérieure. Quant au projet de retraite du matin, il n'est connu que par Leusse et Ducrot ; ni le maréchal ni ses aides de camp n'en disent mot, et le lieutenant-colonel de Cugnac, qui a interrogé les survivants, conclut qu'il « n'a pas dépassé les limites d'une conversation ».
+issue: victoire allemande
+effectifs: 45000 | 88000
+canons: 167 | 300
+pertes: 15000 | 10600
+chefs: Mac-Mahon | le Kronprinz Frédéric-Guillaume
+chiffres: Environ 45 000 Français (de 40 000 à 48 000 selon les sources) et 167 pièces. La IIIe armée comptait quelque 125 000 hommes et 342 pièces, dont 80 000 à 90 000 hommes et environ 300 pièces ont combattu. Pertes allemandes : de 10 550 à 10 650 hommes. Pertes françaises : 15 100 selon le décompte le plus courant (5 900 tués et blessés, 9 200 prisonniers et disparus) ; l'état-major prussien compte 8 000 tués et blessés et 9 000 prisonniers, d'autres auteurs jusqu'à 11 000 tués et blessés.
+geo: 48.9397, 7.7464
+lieu: Wœrth et Frœschwiller, Bas-Rhin, France
+lien: wp Bataille de Frœschwiller-Wœrth (1870)
+lien: de Schlacht bei Wörth
+sources: Wikipédia (fr : Bataille de Frœschwiller-Wœrth (1870) ; de : Schlacht bei Wörth ; en : Battle of Wörth) ; lieutenant-colonel de Cugnac, Les Prodromes de Frœschwiller ou 40 heures de stratégie de Mac-Mahon, 1911 (télégrammes et heures) ; Paul de Leusse, Souvenirs écrits en 1871 ; ces deux derniers lus dans les notes de travail du projet.
+voir: mac-mahon, charges-de-reichshoffen, kronprinz-frederic-guillaume, ducrot, armee-d-afrique, bataille-de-wissembourg, bataille-de-spicheren, sur-les-champs-de-bataille-d-alsace
+
+@ charges-de-reichshoffen
+cat: batailles
+nom: Les charges de Reichshoffen
+alias: cuirassiers de Reichshoffen, charge de Morsbronn, charge d'Elsasshausen, brigade Michel, division Bonnemains, Reichshoffen
+dates: 6 août 1870
+quand: 1870-08-06
+def: Les deux charges de cuirassiers lancées le 6 août 1870 pendant la [[bataille-de-froeschwiller-woerth]] : la brigade Michel à Morsbronn vers 13 h 30, la division Bonnemains à Elsasshausen vers 15 h 30. Deux sacrifices sans effet sur l'issue, devenus légende sous un nom qui n'est pas celui du lieu.
+texte: Vers 13 h, l'aile droite de [[mac-mahon]] plie. Le XIe corps prussien a pris pied dans Morsbronn et déborde la division Lartigue, qui doit se replier à travers le bois du Niederwald. Pour lui en donner le temps, on fait appel à la brigade du général Michel, restée à couvert près d'Eberbach : les 8e et 9e cuirassiers et deux escadrons du 6e lanciers, un millier de sabres. Michel fait observer que le terrain est détestable — des pentes coupées de vignes, de houblonnières et d'arbres. L'ordre est maintenu. « Camarades, on a besoin de nous », aurait-il dit en mettant sa brigade en marche.
+texte: Les escadrons descendent vers le village sous le feu de flanc de l'infanterie prussienne, qui ne se forme plus en carrés mais reste en ligne et tire à volonté. Le 8e cuirassiers s'engouffre dans la grand-rue de Morsbronn, large à l'entrée, étranglée vers l'église ; des maisons, les fantassins tirent à bout portant sur une masse de chevaux qui ne peut ni avancer ni tourner bride. Dix-sept cavaliers seulement en sortent par le sud. Le 9e, dont l'escadron de tête culbute dans un ravin, traverse le village et se disperse ; une cinquantaine d'hommes rejoignent l'armée à Saverne. Les lanciers sont dispersés par le 13e hussards prussien. En quelques minutes, la brigade a perdu environ 800 hommes sur 1 200 et presque tous ses chevaux. L'état-major allemand reconnaîtra que ce sacrifice a permis à l'infanterie de Lartigue de se dégager.
+texte: Deux heures plus tard, la scène se répète au centre. Elsasshausen vient de tomber ; le maréchal veut gagner le temps d'amener son artillerie de réserve et ses derniers bataillons. Il lance la division de cavalerie de réserve du général de Bonnemains : les 1er, 2e, 3e et 4e cuirassiers, qui chargent par échelons à travers des houblonnières et des vignes impraticables aux chevaux. L'infanterie allemande, appuyée par le canon, les fusille sans se laisser aborder ; aucun escadron n'atteint la ligne ennemie. La contre-attaque des [[armee-d-afrique|turcos]], qui suit, reprend plus de terrain que les cuirassiers.
+texte: Ni l'une ni l'autre de ces charges n'a eu lieu à Reichshoffen, bourg situé à plusieurs kilomètres en arrière, où la cavalerie de réserve avait débarqué la veille et par où passa la retraite ; mais c'est le nom que l'on donna en France à la bataille, et il est resté aux cuirassiers. La défaite avait besoin de héros : les « cuirassiers de Reichshoffen » le devinrent par la chanson, par les tableaux de [[peinture-de-la-guerre|Detaille et de Morot]], par un panorama montré à Paris et en province dans les années 1880, puis par les dessins de Hansi. Dès 1873, un monument est élevé au-dessus de Morsbronn ; son inscription, plus exacte que l'usage, le dédie « aux cuirassiers dits de Reichshoffen ». Un trompette de la brigade Michel, l'Alsacien Léonard Hemberger, resté au pays après l'annexion, défilera en 1908 devant Guillaume II avec ses décorations françaises.
+repere: 5 août 1870 — La division de cuirassiers Bonnemains débarque à Reichshoffen et bivouaque en arrière de Frœschwiller.
+repere: 6 août 1870, vers 13 h — Le XIe corps prussien occupe Morsbronn ; la brigade Michel reçoit l'ordre de charger.
+repere: 6 août 1870, vers 13 h 30 — Les 8e et 9e cuirassiers et le 6e lanciers sont détruits dans Morsbronn et sur ses abords.
+repere: 6 août 1870, vers 14 h 30 — Le Niederwald est aux mains des Prussiens, qui se rabattent sur Elsasshausen.
+repere: 6 août 1870, vers 15 h 30 — Les quatre régiments de la division Bonnemains chargent près d'Elsasshausen sans atteindre l'ennemi.
+repere: 1873 — Un monument « aux cuirassiers dits de Reichshoffen » est élevé au-dessus de Morsbronn.
+attention: « Reichshoffen » est une erreur de lieu consacrée par l'usage : les charges eurent lieu à Morsbronn et à Elsasshausen. Elles ne furent pas non plus une mêlée au sabre : la plupart des cuirassiers tombèrent sous les balles sans avoir abordé un fantassin. Enfin le mot « Ah ! les braves gens ! », que Renan lui-même accole en 1889 aux cuirassiers de Reichshoffen, appartient à une autre journée : le roi Guillaume l'aurait dit à Sedan, devant les [[charges-de-floing|charges de Floing]].
+issue: charges repoussées
+effectifs: 1200 | ?
+pertes: 800 | ?
+chefs: général Michel, général de Bonnemains | général von Bose (XIe corps)
+chiffres: Les nombres portés ici sont ceux de la seule brigade Michel à Morsbronn : environ 1 200 cavaliers, dont près de 800 tués, blessés ou pris, d'après Wikipédia (de) ; d'autres récits disent un millier de sabres et 700 cuirassiers pris au piège dans le village. Les pertes de la division Bonnemains et celles de l'infanterie allemande dans ces deux épisodes ne sont pas isolées par les sources consultées.
+geo: 48.9009, 7.7431
+lieu: Morsbronn-les-Bains, Bas-Rhin, France
+lien: wp Bataille de Frœschwiller-Wœrth (1870)
+lien: de Schlacht bei Wörth
+sources: Wikipédia (fr : Bataille de Frœschwiller-Wœrth (1870), sections sur les charges de Morsbronn et de Frœschwiller ; de : Schlacht bei Wörth ; en : Battle of Wörth) ; Renan, « Examen de conscience philosophique », Revue des Deux Mondes, 1889 (cité par Wikipédia) ; Souvenirs du comte de Leusse (1871), lus dans les notes de travail du projet ; OpenStreetMap pour les coordonnées.
+voir: bataille-de-froeschwiller-woerth, cavalerie-en-1870, charges-de-floing, mac-mahon, peinture-de-la-guerre, idees-recues-sur-1870, armes-blanches, sur-les-champs-de-bataille-d-alsace
+
+@ bataille-de-spicheren
+cat: batailles
+nom: Bataille de Spicheren
+alias: Forbach, bataille de Forbach, Forbach-Spicheren, Spichern, Schlacht bei Spichern, Rotherberg, Roter Berg, Stiring-Wendel
+dates: 6 août 1870
+quand: 1870-08-06
+def: Le 6 août 1870, le 2e corps de [[frossard]], retranché sur le plateau de Spicheren, au-dessus de Forbach, est attaqué par l'avant-garde de la Ire armée prussienne, que renforcent d'heure en heure les troupes accourues au canon. Faute de secours, il se retire à la nuit.
+texte: Le 5 août au soir, Frossard ramène le 2e corps des hauteurs de [[combat-de-sarrebruck|Sarrebruck]], où il se sent « en flèche », sur le plateau de Spicheren, à la frontière même. Général du génie, il a étudié ce terrain et le tient pour une position magnifique : un massif boisé aux pentes raides, que termine au nord un éperon de grès, le Rotherberg, la « montagne rouge » ; à gauche, la trouée de la route de Metz, fermée par le village industriel de Stiring-Wendel, puis Forbach, sa gare et les approvisionnements qu'on y a entassés. La division Laveaucoupet tient le plateau, où l'on creuse une tranchée en fer à cheval sur l'éperon ; la division Vergé garde la vallée ; la division Bataille reste en réserve à Œting. En tout 28 000 hommes et 90 pièces. Mais les ponts de la Sarre n'ont pas été coupés.
+texte: Rien, dans les plans de [[moltke]], ne prévoyait une bataille ce jour-là. Mais la cavalerie annonce que les Français se retirent, et le général von Kameke, dont la 14e division marche en tête de la Ire armée de [[steinmetz]], passe la rivière le 6 au matin pour accrocher ce qu'il prend pour une arrière-garde. Vers midi, la brigade du général von François monte à l'assaut du Rotherberg et des bois. Elle est clouée au pied des pentes par le feu des [[fusil-chassepot|chassepots]] ; François est tué de cinq balles en entraînant une compagnie du 39e fusiliers sur l'éperon.
+texte: Ce qui sauve Kameke, c'est la marche au canon. Sans attendre d'ordre, les généraux voisins dirigent sur le bruit tout ce qu'ils ont sous la main : des bataillons de la 16e division, du VIIIe corps, puis la 5e division du IIIe corps, que [[constantin-von-alvensleben]] amène d'une autre armée, la IIe. Des pièces sont hissées sur le Rotherberg au prix de lourdes pertes en hommes et en chevaux. En face, Frossard reste à Forbach, relié par le télégraphe à [[bazaine]], qui est à Saint-Avold avec le 3e corps. Trois divisions françaises, Metman, Castagny et Montaudon, bivouaquent à moins de quinze kilomètres du champ de bataille : aucune n'y paraît.
+texte: Vers 17 h, la division Bataille, engagée à son tour, reprend le terrain perdu autour de Stiring et ramène les Prussiens vers Sarrebruck ; sur le plateau, on se bat au corps à corps dans le Gifertwald jusqu'à la nuit. Mais la 13e division prussienne, qui a tourné la position par Völklingen et la vallée de la Rosselle, débouche au-dessus de Forbach, sur la ligne de retraite. Frossard, sans réserves et sans nouvelles des secours, ordonne vers 19 h la retraite sur Sarreguemines. À 21 h, les Prussiens sont maîtres du plateau ; épuisés, leurs unités mêlées, ils ne poursuivent pas et n'entrent dans Forbach que le lendemain.
+texte: Les vainqueurs ont perdu plus de monde que les vaincus : 4 871 hommes contre 4 078, dont 2 100 prisonniers et disparus. L'infanterie française a tenu tête tout le jour ; la défaite n'en est pas moins complète. Ajoutée à celle de [[bataille-de-froeschwiller-woerth|Frœschwiller]], le même jour, elle décide le repli de toute l'[[armee-du-rhin|armée du Rhin]] sur Metz. Les Français disent Forbach, les Allemands Spichern. Sur le Rotherberg, les monuments des régiments prussiens, inaugurés dès le 6 août 1872, voisinent avec le monument français ; à Sarrebruck, on honore encore Katharine Weissgerber, la « Schultze Kathrin », une domestique qui secourut sous le feu les blessés des deux camps.
+repere: 5 août 1870, soir — Frossard quitte les hauteurs de Sarrebruck pour le plateau de Spicheren, sans faire sauter les ponts de la Sarre.
+repere: 6 août 1870, 4 h 40 — Le grand quartier général le prévient qu'une attaque sérieuse est possible le jour même.
+repere: 6 août 1870, vers midi — La 14e division prussienne, qui croit les Français en retraite, attaque le Rotherberg et les bois de Stiring.
+repere: 6 août 1870, après-midi — Le général von François est tué sur l'éperon ; les renforts des VIIIe et IIIe corps arrivent au canon.
+repere: 6 août 1870, vers 17 h — La division Bataille contre-attaque à Stiring et ramène les Prussiens vers Sarrebruck.
+repere: 6 août 1870, vers 19 h — Menacé d'être tourné par Forbach, Frossard ordonne la retraite.
+repere: 6 août 1870, vers 21 h — Les Prussiens tiennent tout le plateau ; le 2e corps se retire sur Sarreguemines.
+repere: 7 août 1870 — Les Prussiens entrent dans Forbach sans combat.
+attention: Spicheren n'est pas l'écrasement d'un corps surpris : Frossard était prévenu, retranché, et il a infligé plus de pertes qu'il n'en a subi. La bataille s'est perdue ailleurs — par l'initiative des généraux allemands, qui marchent au canon sans ordre, quand les divisions de Bazaine, à trois heures de marche, attendent les leurs. On a reproché à Bazaine d'avoir laissé battre un rival ; les historiens y voient plutôt la passivité ordinaire du [[commandement-francais|commandement français]] de 1870.
+issue: victoire allemande
+effectifs: 28000 | 37000
+canons: 90 | 108
+pertes: 4078 | 4871
+chefs: Frossard | von Kameke, puis Steinmetz
+chiffres: De 27 000 à 30 000 Français et 90 pièces. Les Allemands, peu nombreux à midi, finissent par engager 33 bataillons et 108 pièces, soit 37 000 hommes selon Henderson, 45 000 selon d'autres décomptes. Pertes françaises : 1 982 tués et blessés, 2 096 prisonniers et disparus ; pertes allemandes : 843 tués, 3 656 blessés, 372 disparus.
+geo: 49.2066, 6.9710
+lieu: Spicheren, Moselle, France
+lien: wp Bataille de Forbach-Spicheren
+lien: de Schlacht bei Spichern
+sources: Wikipédia (fr : Bataille de Forbach-Spicheren ; de : Schlacht bei Spichern ; en : Battle of Spicheren, d'après Howard 1961 et Henderson). Les deux notes de travail du projet sur Spicheren, pauvres et fautives, n'ont servi que d'aide-mémoire.
+voir: frossard, steinmetz, combat-de-sarrebruck, bataille-de-froeschwiller-woerth, bazaine, constantin-von-alvensleben, tactique-en-1870, armee-du-rhin
+
+@ bataille-de-borny
+cat: batailles
+nom: Bataille de Borny
+alias: Borny-Colombey, Colombey, Colombey-Nouilly, Schlacht bei Colombey, allée des Morts
+dates: 14 août 1870
+quand: 1870-08-14
+def: Le 14 août 1870, à l'est de Metz, les avant-gardes de la Ire armée de [[steinmetz]] attaquent de leur propre chef l'arrière-garde de l'[[armee-du-rhin|armée du Rhin]], qui repasse la Moselle. Les Français gardent le terrain, mais perdent des heures précieuses sur la route de Verdun.
+texte: Après les défaites du 6 août, l'armée du Rhin s'est repliée sous Metz. Le 12, [[napoleon-iii]], malade et discrédité, en remet le commandement à [[bazaine]], avec une consigne : repasser la Moselle et gagner Verdun, puis Châlons, avant que les Allemands ne coupent la route. Le mouvement commence le 14 au matin, dans l'encombrement des ponts et des convois. Au début de l'après-midi, le 2e et le 6e corps sont sur la rive gauche et le 4e traverse au nord de la ville ; le 3e corps du général Decaen et la Garde de [[bourbaki]] attendent leur tour sur le plateau de Borny, sous les forts de Queuleu et de Saint-Julien.
+texte: En face, les avant-gardes de la Ire armée ont ordre d'observer sans s'engager. Mais le général von der Goltz, qui commande celle du VIIe corps, voit les Français décrocher et décide de les retenir. Vers 15 h 30, sa 26e brigade enlève le château d'Aubigny, Coincy et le hameau de Colombey. Decaen fait faire demi-tour à ses divisions ; il est mortellement blessé. On se fusille à bout portant dans les bois et le long d'un chemin bordé de sapins que l'on appellera l'« allée des Morts ». Au nord, le Ier corps de [[edwin-von-manteuffel|Manteuffel]] s'engage à son tour, prend Montoy vers 17 h et pousse sur Nouilly ; Ladmirault rappelle deux divisions du 4e corps déjà passées sur l'autre rive, reprend Nouilly et menace de déborder l'adversaire. La nuit arrête le combat.
+texte: Chacun se dit vainqueur. Les Français n'ont pas été entamés et ont infligé plus de pertes qu'ils n'en ont subi : environ 3 600 hommes contre 5 000. Steinmetz ramène le soir ses troupes sur leurs positions de départ. Mais Bazaine, contusionné à l'épaule par un éclat d'obus, n'a engagé ni la Garde ni les corps déjà passés : il n'a voulu ni refuser le combat ni l'exploiter. Dans la nuit, la retraite reprend ; au matin du 15, il ne reste plus un soldat français sur la rive droite.
+texte: L'effet de la journée est ailleurs. Pendant que l'on se battait devant Borny, la IIe armée du [[prince-frederic-charles|prince Frédéric-Charles]] continuait de contourner Metz par le sud pour passer la Moselle en amont. L'armée française a perdu une demi-journée ; le 16, lorsqu'elle s'engage enfin sur la route de Verdun, elle trouve l'ennemi en travers, à [[bataille-de-mars-la-tour|Mars-la-Tour]]. Les historiens discutent le poids de ce retard : pour plusieurs, l'indécision des ordres et l'encombrement des routes ont pesé plus lourd que la bataille elle-même.
+repere: 12 août 1870 — Napoléon III remet à Bazaine le commandement de l'armée du Rhin.
+repere: 13 août 1870, soir — Bazaine ordonne le passage de l'armée sur la rive gauche de la Moselle.
+repere: 14 août 1870, matin — Le passage commence ; les 2e et 6e corps traversent les premiers.
+repere: 14 août 1870, vers 15 h 30 — La brigade von der Goltz attaque Colombey ; le 3e corps fait volte-face.
+repere: 14 août 1870, vers 17 h — Le Ier corps prussien prend Montoy ; le 4e corps français revient sur la rive droite et contre-attaque à Nouilly.
+repere: 14 août 1870, vers 18 h 30 — Le gros du Ier corps et la 14e division entrent en ligne ; la nuit met fin au combat.
+repere: 15 août 1870 — Au matin, toute l'armée française est passée sur la rive gauche.
+repere: 16 août 1870 — La route de Verdun est coupée à Mars-la-Tour.
+attention: Borny a fourni un premier grief contre Bazaine : il aurait accepté le combat pour ne pas quitter Metz. Rien ne l'établit ; la bataille lui a été imposée par l'initiative d'un général de brigade prussien, et son armée a repris sa marche dans la nuit. Le mot prêté à Napoléon III l'accueillant ce soir-là — le « charme » serait enfin rompu — dit surtout le soulagement d'un état-major qui ne connaissait que des défaites.
+issue: indécise (succès défensif français)
+effectifs: 83500 | 67500
+pertes: 3600 | 5000
+chefs: Bazaine, Decaen | Steinmetz, von der Goltz
+chiffres: Les effectifs sont ceux des troupes présentes devant Metz (Wikipédia fr et de) ; Clodfelter ne compte que 30 000 Français et 50 000 Allemands réellement engagés. Pertes françaises : 377 tués, 2 641 blessés, 490 disparus (jusqu'à 3 900 selon d'autres décomptes) ; pertes allemandes : 1 189 tués, 3 590 blessés, 127 disparus (jusqu'à 5 200).
+geo: 49.1069, 6.2596
+lieu: Colombey (Coincy) et Borny, Moselle, France
+lien: wp Bataille de Borny-Colombey
+lien: de Schlacht bei Colombey
+sources: Wikipédia (fr : Bataille de Borny-Colombey, d'après le colonel Fabre de Navacelle ; de : Schlacht bei Colombey ; en : Battle of Borny–Colombey, d'après Clodfelter et l'état-major prussien) ; OpenStreetMap pour les coordonnées.
+voir: bazaine, steinmetz, bataille-de-mars-la-tour, armee-du-rhin, siege-de-metz, edwin-von-manteuffel, prince-frederic-charles, proces-de-bazaine
+
+@ bataille-de-mars-la-tour
+cat: batailles
+nom: Bataille de Mars-la-Tour
+alias: Rezonville, bataille de Rezonville, Vionville, Vionville–Mars-la-Tour, Schlacht bei Mars-la-Tour, chevauchée de la mort, Todesritt, Flavigny, Tronville
+dates: 16 août 1870
+quand: 1870-08-16
+def: Le 16 août 1870, à l'ouest de Metz, deux corps prussiens se jettent en travers de la route de Verdun et tiennent tête toute la journée à l'[[armee-du-rhin|armée du Rhin]] de [[bazaine]]. Indécise sur le terrain, la bataille, dite de Rezonville en France, coupe la retraite française.
+texte: Le 15 août, l'armée du Rhin sort enfin de Metz par la route de Gravelotte, où elle se partage : au nord par Doncourt et Étain, au sud par Rezonville, Vionville et Mars-la-Tour. Elle avance lentement, dans un encombrement de convois, et Bazaine ordonne pour le matin du 16 une halte qui doit laisser serrer les 3e et 4e corps. À l'aube, [[napoleon-iii]] quitte l'armée à Gravelotte pour Verdun et Châlons. Pendant ce temps, la IIe armée du [[prince-frederic-charles|prince Frédéric-Charles]] a passé la Moselle en amont de Metz. Persuadé que les Français sont déjà loin vers la Meuse, le prince ne dirige sur la route de Verdun que deux corps, le IIIe et le Xe, précédés de cavalerie.
+texte: Le 16 au matin, l'artillerie à cheval allemande surprend au bivouac de Vionville la division de cavalerie Forton, qui reflue en désordre. Vers 10 h, le IIIe corps de [[constantin-von-alvensleben]] débouche de Gorze et attaque sans attendre. Son chef croit tenir une arrière-garde ; il a devant lui toute l'armée française — le 2e corps de [[frossard]], le 6e de [[canrobert]], la Garde, bientôt le 3e et le 4e —, 127 000 hommes contre 30 000. Vionville est pris à 11 h 30, Flavigny vers midi : la route du sud est coupée. Bazaine, qui manque d'être enlevé par des hussards près de Rezonville, ne pense qu'à sa gauche et à sa liaison avec Metz ; il y masse la Garde et ne tente rien de décisif.
+texte: Vers 14 h, le 6e corps menace d'écraser la gauche prussienne. Alvensleben n'a plus de réserve d'infanterie ; il demande à la brigade de cavalerie du général [[von-bredow]] de faire taire les batteries de Canrobert, « coûte que coûte ». Les cuirassiers de Magdebourg et les uhlans de l'Altmark, 800 cavaliers, profitent d'un pli de terrain et de la fumée, surgissent à moins de mille mètres des canons, traversent les batteries et l'infanterie, puis sont ramenés par la cavalerie française. Près de la moitié ne revient pas. Mais l'attaque de Canrobert est arrêtée : c'est la « chevauchée de la mort », le *Todesritt*, que l'Allemagne célébrera pendant un demi-siècle.
+texte: L'après-midi, les renforts arrivent des deux côtés. Vers 16 h, le 3e corps de [[edmond-le-boeuf|Le Bœuf]] et une division du 4e, celui de Ladmirault, attaquent la gauche allemande par Saint-Marcel et Bruville et la chassent des bois de Tronville ; le Xe corps de Voigts-Rhetz, accouru au canon, la rétablit. Sa 38e brigade, lancée de Mars-la-Tour contre les hauteurs de Bruville après douze heures de marche, tombe sous le feu des divisions Grenier et Cissey : elle perd 2 600 hommes et un drapeau, le premier pris aux Allemands. Vers 19 h, sur le plateau de l'Yron, des milliers de cavaliers des deux armées se mêlent dans le plus grand combat de [[cavalerie-en-1870|cavalerie]] de la guerre ; le général Legrand y est tué. On se bat encore devant Rezonville à 22 h.
+texte: Au soir, les deux armées bivouaquent face à face, chacune avec 16 000 à 17 000 hommes hors de combat. Les Français, qui ont gardé leur champ de bataille, se disent vainqueurs. Mais la route de Mars-la-Tour reste aux Allemands, et Bazaine, invoquant le manque de vivres et de munitions, ramène le 17 son armée vers Metz, sur la ligne qui va de Gravelotte à Saint-Privat, au lieu de forcer le passage ou de filer par la route du nord, encore libre. Deux corps prussiens ont arrêté une armée ; le surlendemain, à [[bataille-de-gravelotte|Saint-Privat]], toute l'armée allemande est là.
+repere: 15 août 1870 — L'armée du Rhin quitte Metz par Gravelotte ; la IIe armée allemande passe la Moselle au sud de la place.
+repere: 16 août 1870, aube — Napoléon III quitte l'armée à Gravelotte pour Verdun et Châlons.
+repere: 16 août 1870, vers 10 h — Le IIIe corps d'Alvensleben attaque, croyant n'avoir affaire qu'à une arrière-garde.
+repere: 16 août 1870, 11 h 30 — Vionville est pris, Flavigny vers midi : la route de Verdun par Mars-la-Tour est coupée.
+repere: 16 août 1870, 14 h — La brigade Bredow charge les batteries du 6e corps.
+repere: 16 août 1870, vers 16 h — Les 3e et 4e corps français attaquent la gauche allemande ; le Xe corps arrive ; la 38e brigade est écrasée devant Bruville.
+repere: 16 août 1870, vers 19 h — Grande mêlée de cavalerie sur le plateau de l'Yron, au nord de Mars-la-Tour.
+repere: 16 août 1870, vers 22 h — Les derniers combats cessent devant Rezonville.
+repere: 17 août 1870 — Bazaine replie l'armée vers Metz, sur la ligne de Gravelotte à Saint-Privat.
+repere: 1883 — Detaille et Neuville achèvent le panorama de *La Bataille de Rezonville*, long de 120 mètres.
+attention: Les Français appellent la journée Rezonville et l'ont comptée comme une victoire, puisqu'ils ont couché sur le terrain ; les Allemands disent Vionville–Mars-la-Tour. Tactiquement indécise, elle est stratégiquement une défaite française : la route de Verdun est coupée. Quant à la « chevauchée de la mort », elle n'a pas anéanti la brigade Bredow : environ 420 cavaliers sur 800 sont rentrés.
+issue: indécise (succès stratégique allemand)
+effectifs: 127000 | 80000
+pertes: 17000 | 15800
+chefs: Bazaine | Constantin von Alvensleben, puis le prince Frédéric-Charles
+chiffres: 127 000 Français à portée, dont une partie seulement a combattu (80 000 selon Clodfelter) ; 30 000 Allemands le matin, 80 000 au soir. Pertes allemandes : 15 800 hommes, dont 711 officiers. Pertes françaises : de 13 800 à 17 000 selon les décomptes, dont 5 500 prisonniers et disparus dans le plus élevé.
+geo: 49.0923, 5.9481
+lieu: Vionville, Rezonville et Mars-la-Tour, Lorraine, France
+lien: wp Bataille de Mars-la-Tour
+lien: de Schlacht bei Mars-la-Tour
+sources: Wikipédia (fr : Bataille de Mars-la-Tour ; de : Schlacht bei Mars-la-Tour, qui confronte les pertes selon Meyers, Wawro et Berndt ; en : Battle of Mars-la-Tour, boîte d'information) ; OpenStreetMap pour les coordonnées (Vionville).
+voir: bazaine, constantin-von-alvensleben, von-bredow, prince-frederic-charles, bataille-de-gravelotte, bataille-de-borny, cavalerie-en-1870, canrobert
+
+@ bataille-de-gravelotte
+cat: batailles
+nom: Bataille de Gravelotte – Saint-Privat
+alias: Gravelotte, Saint-Privat, Saint-Privat-la-Montagne, Amanvillers, Schlacht bei Gravelotte, Gravelotte–St. Privat, ravin de la Mance, Roncourt, tombeau de la Garde
+dates: 18 août 1870
+quand: 1870-08-18
+def: Le 18 août 1870, à l'ouest de Metz, les Ire et IIe armées allemandes attaquent l'[[armee-du-rhin|armée du Rhin]] de [[bazaine]] de Gravelotte à Saint-Privat. C'est la plus grande bataille de la guerre : victorieux au sud, tournés au nord, les Français rentrent dans Metz, où ils sont bloqués.
+texte: Au lendemain de [[bataille-de-mars-la-tour|Mars-la-Tour]], Bazaine renonce à la route de Verdun. « Le manque de munitions et de vivres », dit son ordre du 17 août, oblige l'armée « à se reporter sur Metz ». Il l'établit sur une ligne de crêtes d'une douzaine de kilomètres, face à l'ouest : au sud, au-dessus du ravin boisé de la Mance, le 2e corps de [[frossard]], de Rozérieulles au Point-du-Jour, puis le 3e de [[edmond-le-boeuf|Le Bœuf]], dans les fermes de Saint-Hubert, de Moscou, de Leipzig et de La Folie ; au centre le 4e corps de Ladmirault, autour d'Amanvillers ; au nord le 6e corps de [[canrobert]], à Saint-Privat-la-Montagne et à Roncourt. La gauche et le centre creusent des tranchées dans la nuit. La droite, elle, est en l'air sur un plateau nu ; le 6e corps manque d'outils et d'artillerie. Et la Garde de [[bourbaki]], seule réserve, est placée derrière la gauche, près du fort de Plappeville, où Bazaine reste toute la journée, à dix kilomètres du point qui va décider de tout.
+texte: En face, [[moltke]] dispose de 188 000 hommes et de 732 canons, sous les yeux du roi [[guillaume-ier]] : c'est une bataille à fronts renversés, où les Allemands tournent le dos à Paris. Son plan est simple. La Ire armée de [[steinmetz]] fixera la gauche française devant Gravelotte ; la IIe armée du [[prince-frederic-charles|prince Frédéric-Charles]] remontera vers le nord jusqu'à trouver l'extrémité de la ligne adverse, et l'enveloppera. Mais personne ne sait où cette ligne finit. Vers midi, le général von Manstein, qui croit l'avoir dépassée, ouvre le feu devant Amanvillers avec l'artillerie du IXe corps : il est en plein centre français, et ses batteries, prises sous le tir des chassepots, perdent leurs servants et leurs chevaux.
+texte: Au sud, Steinmetz ne se contente pas de fixer. À partir de 14 h 30, il jette le VIIIe corps de [[august-von-goeben|Goeben]], puis le VIIe, dans le ravin de la Mance, que franchit une seule chaussée. La ferme de Saint-Hubert est enlevée vers 15 h 30 ; rien d'autre ne cède. Bataillons, batteries et même une division de cavalerie s'entassent dans le défilé sous le feu des [[fusil-chassepot|chassepots]] et des [[mitrailleuse-de-reffye|canons à balles]], bien abrités sur la crête. Vers 18 h 30, une contre-attaque française provoque la panique : des fuyards refluent à travers Gravelotte jusque sous les yeux du roi. Le IIe corps poméranien de Fransecky, arrivé à marches forcées, est engagé à la nuit tombante dans la même impasse. Devant le Point-du-Jour, la Ire armée a perdu 4 300 hommes, ses adversaires la moitié.
+texte: La décision vient du nord. La Garde prussienne et le XIIe corps saxon d'[[albert-de-saxe]] ont pris Sainte-Marie-aux-Chênes dans l'après-midi ; les Saxons doivent encore faire un long détour par Roncourt pour déborder Saint-Privat. Le prince Auguste de Wurtemberg, qui commande la Garde, ne les attend pas. Peu après 17 h, ses brigades montent en rangs serrés le long glacis découvert qui mène au village, tenu par les divisions de Canrobert abritées derrière les murs. En une heure, elles perdent plus de 5 000 hommes sans presque voir l'ennemi ; un de leurs bataillons finit la journée sous les ordres d'un sergent-major. À 18 h 30, l'attaque s'arrête à quelques centaines de mètres du but.
+texte: C'est alors l'artillerie qui fait la besogne : plus de deux cents pièces écrasent Saint-Privat, dont l'église brûle avec des centaines de blessés. Canrobert, à court de munitions, a demandé plusieurs fois du secours à Bazaine ; il n'obtient presque rien, et la Garde impériale n'est pas engagée. Vers 19 h 30, les Saxons débouchent enfin de Roncourt ; Gardes et Saxons entrent ensemble dans le village, où l'on se bat à la baïonnette jusque dans le cimetière. Vers 20 h, Saint-Privat est perdu. Le 6e corps reflue vers Metz par les bois, le 4e doit suivre ; Bourbaki, qui avait fini par avancer une division, la ramène en voyant le flot des fuyards. La gauche française, elle, garde ses positions jusqu'au matin.
+texte: Les Allemands ont perdu 20 160 hommes, dont 8 000 pour la seule Garde, forte de 18 000 fantassins — « le tombeau de ma Garde », dira Guillaume Ier ; depuis Leipzig, en 1813, aucune journée ne leur avait coûté autant. Les Français en ont perdu environ 12 300, pour la plupart sous les obus. Mais le 19 août l'armée du Rhin se retire sous les forts de Metz, et le 20 l'investissement est achevé : le [[siege-de-metz]] commence, qui s'achèvera le 27 octobre par la capitulation de la dernière armée régulière de l'Empire. Pour la dégager, on enverra l'[[armee-de-chalons|armée de Châlons]] vers [[bataille-de-sedan|Sedan]].
+texte: Les Allemands disent Gravelotte–Saint-Privat ; l'état-major français, Saint-Privat ; le public a retenu Gravelotte, où l'armée française avait pourtant été victorieuse. Le village de Saint-Privat, incendié, fut rebâti avec son église ; Alphonse de Neuville a peint *Le Cimetière de Saint-Privat* en 1881. À Gravelotte, annexée de 1871 à 1918, se trouve aujourd'hui le musée de la Guerre de 1870 et de l'Annexion.
+repere: 17 août 1870 — Bazaine replie l'armée du Rhin sur les crêtes de Rozérieulles à Saint-Privat.
+repere: 18 août 1870, 8 h — Le roi et Moltke ordonnent la marche des Ire et IIe armées contre la position française.
+repere: 18 août 1870, vers midi — Le IXe corps de Manstein ouvre le feu devant Amanvillers, en plein centre français.
+repere: 18 août 1870, 14 h 30 — Steinmetz lance le VIIIe corps dans le ravin de la Mance ; la ferme de Saint-Hubert tombe vers 15 h 30.
+repere: 18 août 1870, vers 15 h 30 — La Garde prussienne et les Saxons enlèvent Sainte-Marie-aux-Chênes.
+repere: 18 août 1870, vers 17 h — La Garde attaque Saint-Privat à découvert et perd plus de 5 000 hommes en une heure.
+repere: 18 août 1870, vers 18 h 30 — Panique dans la Ire armée, qui reflue du ravin de la Mance sur Gravelotte.
+repere: 18 août 1870, vers 19 h 30 — Les Saxons, arrivés par Roncourt, attaquent Saint-Privat avec la Garde ; le village est pris vers 20 h.
+repere: 19 août 1870 — L'armée du Rhin se retire sous les forts de Metz.
+repere: 20 août 1870 — L'investissement de Metz est achevé.
+attention: « Ça tombe comme à Gravelotte », dit-on encore d'une pluie ou d'une grêle violente : l'expression garde le souvenir de la densité du feu, balles et obus, des journées des 16 et 18 août, sans que l'on sache qui l'a lancée. Elle fait oublier que Gravelotte même fut un succès français, et que la bataille s'est perdue à dix kilomètres de là, à Saint-Privat. L'inaction de Bazaine, resté à Plappeville avec sa réserve, a nourri l'accusation de trahison ; les historiens y voient plutôt un chef dépassé, qui ne songeait déjà qu'à l'abri de la place.
+issue: victoire allemande
+effectifs: 112800 | 188300
+canons: 520 | 732
+pertes: 12300 | 20160
+chefs: Bazaine, Canrobert | Guillaume Ier et Moltke, Steinmetz, le prince Frédéric-Charles
+chiffres: 112 800 Français selon le décompte le plus courant (131 000 selon des sources allemandes), 520 pièces ; 188 300 Allemands et 732 pièces, 209 000 hommes avec le IIe corps arrivé le soir. Pertes allemandes : 5 237 tués, 14 430 blessés, 493 disparus. Pertes françaises : 1 146 tués, 6 709 blessés, 4 420 prisonniers et disparus, chiffres que Michael Howard juge incomplets.
+geo: 49.1500, 6.0167
+lieu: Gravelotte et Saint-Privat-la-Montagne, Moselle, France
+lien: wp Bataille de Saint-Privat
+lien: de Schlacht bei Gravelotte
+lien: en Battle of Gravelotte
+sources: Wikipédia (fr : Bataille de Saint-Privat ; de : Schlacht bei Gravelotte ; en : Battle of Gravelotte, d'après Howard 1961 et Wawro 2003) ; P. et V. Margueritte, Histoire de la guerre de 1870-71, pour l'attitude de Bazaine (extrait lu dans les notes de travail du projet).
+voir: bazaine, canrobert, moltke, steinmetz, albert-de-saxe, siege-de-metz, bataille-de-mars-la-tour, lieux-de-memoire
+
+@ bataille-de-noisseville
+cat: batailles
+nom: Bataille de Noisseville
+alias: Noisseville-Servigny, bataille de Sainte-Barbe, Schlacht bei Noisseville, sortie du 31 août, Servigny, Flanville, fort Saint-Julien
+dates: 31 août – 1er septembre 1870
+quand: 1870-08-31
+jusqu: 1870-09-01
+def: Les 31 août et 1er septembre 1870, l'[[armee-du-rhin|armée du Rhin]], bloquée dans Metz, tente de percer vers le nord-est, entre Noisseville et Servigny, pour rejoindre l'armée de Châlons. Lancée tard et sans vigueur, la sortie est repoussée par le Ier corps prussien de [[edwin-von-manteuffel|Manteuffel]].
+texte: Rentrée sous les forts après [[bataille-de-gravelotte|Saint-Privat]], l'armée de [[bazaine|Bazaine]] est investie depuis le 20 août par les troupes du [[prince-frederic-charles|prince Frédéric-Charles]]. Le maréchal sait qu'une seconde armée se forme à Châlons, puis qu'elle marche vers lui ; il n'en informe ses chefs de corps que le 29 août, retard qui lui sera reproché à son [[proces-de-bazaine|procès]]. Une première sortie, ordonnée pour le 26, a déjà tourné court : contrariées par le mauvais temps, les colonnes passées sur la rive droite de la Moselle se sont arrêtées devant les avant-postes allemands et sont revenues s'abriter sous le fort Saint-Julien.
+texte: Le plan du 31 août reprend le même dessein : enlever sur la rive droite les hauteurs de Sainte-Barbe, puis gagner Thionville, y repasser la Moselle et marcher au-devant de [[mac-mahon|Mac-Mahon]]. Au matin, près de 96 000 hommes sont massés autour du fort Saint-Julien : le 6e corps de [[canrobert|Canrobert]] à gauche, le long de la rivière, le 4e de Ladmirault au centre, le 3e de [[edmond-le-boeuf|Le Bœuf]] à droite, vers Noisseville, le 2e de [[frossard|Frossard]] en seconde ligne, la Garde de [[bourbaki|Bourbaki]] en réserve. En face, sur cette rive, Manteuffel ne dispose d'abord que de 41 000 hommes et de 138 pièces. Mais l'attaque ne part pas. On fait venir du fort de grosses pièces de place pour battre les barricades ; la matinée passe, puis le début de l'après-midi, et les Allemands font franchir la Moselle à leurs renforts sous les yeux des Français.
+texte: Le canon ne donne le signal qu'à 16 h. Soixante pièces prussiennes, poussées en avant des lignes, brisent l'élan des colonnes qui montent vers Sainte-Barbe. À droite seulement, l'attaque mord : vers 18 h, la brigade [[clinchant|Clinchant]] enlève Noisseville, et Montoy, Flanville, Coincy, Colombey tombent aussi. À 21 h, la division Aymard emporte Servigny à la baïonnette ; elle en est chassée une heure plus tard. Le soir, les Français se sont enfoncés comme un coin entre les deux divisions prussiennes, sans avoir pris la position qui commande la route du nord. La Garde n'a pas été engagée. Dans la nuit, Frédéric-Charles envoie le IXe corps à Manteuffel.
+texte: Le 1er septembre, Manteuffel porte à 114 pièces l'artillerie tournée contre Noisseville et lance ses réserves sur la droite française : la 28e brigade, venue du VIIe corps, reprend Flanville et Coincy à la division Fauvart-Bastoul. Le Bœuf, voyant son flanc menacé, ordonne la retraite ; les autres corps suivent. À 11 h, les Prussiens réoccupent Noisseville sans combat ; vers midi, l'armée entière est rentrée sous le canon de Metz. Les deux journées ont coûté environ 3 500 hommes aux Français et 3 000 aux Allemands. Le même jour, à une centaine de kilomètres au nord-ouest, l'armée qui devait la délivrer était détruite à [[bataille-de-sedan|Sedan]]. L'armée du Rhin ne tentera plus qu'une sortie, le 7 octobre, avant la capitulation qui clôt le [[siege-de-metz|siège de Metz]].
+repere: 26 août 1870 — Une première sortie sur la rive droite de la Moselle tourne court, par mauvais temps.
+repere: 29 août 1870 — Bazaine informe ses chefs de corps que l'armée de Châlons marche à son secours.
+repere: 31 août 1870, matin — Près de 96 000 hommes se massent sur la rive droite, autour du fort Saint-Julien.
+repere: 31 août 1870, 16 h — L'attaque commence ; l'artillerie prussienne l'arrête devant Sainte-Barbe.
+repere: 31 août 1870, vers 18 h — La brigade Clinchant enlève Noisseville.
+repere: 31 août 1870, 21 h — La division Aymard prend Servigny à la baïonnette ; elle le reperd vers 22 h.
+repere: 1er septembre 1870, matin — Renforcé par le IXe corps, Manteuffel reprend Flanville et Coincy ; Le Bœuf ordonne la retraite.
+repere: 1er septembre 1870, 11 h — Les Prussiens réoccupent Noisseville ; vers midi, l'armée du Rhin est rentrée sous les forts.
+attention: On a dit après la guerre que Noisseville n'avait été qu'une sortie de façade, montée par un maréchal résolu à rester dans Metz. Les faits établis suffisent à expliquer l'échec : des chefs de corps prévenus au dernier moment, une matinée perdue à attendre des pièces de place, une attaque lancée à 16 h, la Garde jamais engagée. Ils ne prouvent pas une trahison ; ils montrent un chef qui doutait de la percée et ne voulait pas s'éloigner des forts.
+issue: victoire allemande
+effectifs: 96000 | 70000
+pertes: 3547 | 2978
+chefs: Bazaine | Manteuffel, sous le prince Frédéric-Charles
+chiffres: Effectifs d'après Wikipédia en allemand : environ 96 000 Français portés sur la rive droite ; en face, 41 000 Allemands et 138 pièces le 31 au matin, près de 60 000 avec les troupes du secteur sud, 70 000 et 300 pièces le 1er septembre. Pertes des deux journées : 146 officiers et 3 401 hommes français, 128 officiers et 2 850 hommes allemands ; Wikipédia en français et en anglais donne 145 et 3 379, 126 et 2 850.
+geo: 49.1353, 6.2744
+lieu: Noisseville, Moselle, France
+lien: wp Bataille de Noisseville
+lien: de Schlacht von Noisseville
+sources: Wikipédia (fr : Bataille de Noisseville, Siège de Metz (1870) ; de : Schlacht von Noisseville, Belagerung von Metz ; en : Battle of Noisseville, Siege of Metz (1870)).
+voir: siege-de-metz, bazaine, edwin-von-manteuffel, prince-frederic-charles, bataille-de-gravelotte, armee-du-rhin, clinchant, proces-de-bazaine
+
+@ bataille-de-beaumont
+cat: batailles
+nom: Bataille de Beaumont
+alias: Beaumont-en-Argonne, surprise de Beaumont, Beaumont-Mouzon, Gefecht bei Beaumont, Mouzon, Failly, Nouart
+dates: 30 août 1870
+quand: 1870-08-30
+def: Le 30 août 1870, à Beaumont-en-Argonne, le 5e corps du général de Failly, arrivé de nuit et épuisé, est surpris dans ses camps par l'armée de la Meuse et les Bavarois, puis rejeté sur la Meuse à Mouzon. L'[[armee-de-chalons|armée de Châlons]] renonce à marcher sur Metz et se replie sur Sedan.
+texte: Le 27 août, au Chesne, [[mac-mahon|Mac-Mahon]] a voulu se dérober vers Mézières ; Paris l'a renvoyé vers l'est, au secours de Metz. Il cherche donc à franchir la Meuse à Mouzon et à Remilly, pendant que [[moltke|Moltke]], qui a deviné la manœuvre, rabat sur lui l'armée de la Meuse d'[[albert-de-saxe|Albert de Saxe]] et la IIIe armée du [[kronprinz-frederic-guillaume|Kronprinz]]. Le 5e corps, qui couvre la droite, est accroché le 29 près de Nouart. Il marche ensuite toute la nuit par des chemins forestiers et arrive à Beaumont-en-Argonne entre minuit et le petit jour. Les régiments s'entassent dans le noir, sur un terrain que personne n'a reconnu ; les grand-gardes restent trop près des camps pour rien voir.
+texte: Vers 7 h, Mac-Mahon traverse Beaumont et presse Failly de passer la Meuse au plus tôt. Le général objecte que ses hommes n'ont pas reçu de vivres depuis trois jours ; le maréchal accepte que l'on parte après la distribution. À 9 h, un conseil décide de ravitailler les troupes et de faire nettoyer les armes, sans changer les positions puisqu'on va partir. Des habitants signalent les Prussiens tout proches ; on ne s'en inquiète pas. Vers midi, beaucoup de soldats dorment ou font la soupe quand l'avant-garde de la 8e division prussienne, débouchant des bois au sud, découvre les camps sans un poste devant eux et ouvre le feu.
+texte: Le 5e corps, environ 17 000 hommes, se ressaisit vite. Les brigades Saurin et Fontanges contre-attaquent et arrêtent un moment l'assaillant ; le 68e de ligne y perd son lieutenant-colonel, ses trois chefs de bataillon, 26 officiers et 750 hommes. Mais tout le IVe corps prussien de Gustav von Alvensleben entre en ligne, les Saxons arrivent sur sa droite, les Bavarois de [[von-der-tann|von der Tann]] sur sa gauche, et quatorze batteries tirent des hauteurs. À 14 h, Beaumont et le camp, avec ses bagages, sont aux mains des Allemands. La retraite vers Mouzon tourne à la déroute sur une route que des voitures renversées obstruent ; le 86e de ligne y perd près de six cents hommes.
+texte: Devant Mouzon, la brigade de Villeneuve, envoyée par le 12e corps, tient le mont de Brune, et deux bataillons du 30e de ligne le faubourg, jusqu'à la nuit, pour laisser les débris passer le pont ; le 5e cuirassiers y est décimé et perd son colonel ; Failly, dont le cheval a été tué, se bat en simple soldat. Avant l'aube, le lieutenant-colonel Demange, coupé du reste avec deux cents hommes du 88e, force le pont : quatre-vingt-dix passent, lui-même mortellement blessé. La manœuvre vers Metz est morte. Mac-Mahon replie l'armée sur Sedan, où il compte la ravitailler avant de gagner Mézières, et Moltke pousse aussitôt ses Ve et XIe corps à l'ouest et au nord de la place pour lui fermer cette route. Failly est relevé : [[wimpffen|Wimpffen]], arrivé d'Algérie, prend le 5e corps. Le soir même, raconte-t-on, le prince royal de Saxe dîna sous la tente du général français, où ses provisions étaient restées.
+repere: 27 août 1870 — Au Chesne, Mac-Mahon renonce à Metz, puis reprend la marche vers l'est sur l'ordre de Paris.
+repere: 29 août 1870 — Accroché près de Nouart, le 5e corps marche toute la nuit vers Beaumont.
+repere: 30 août 1870, vers 7 h — Mac-Mahon presse Failly de passer la Meuse à Mouzon.
+repere: 30 août 1870, 9 h — Un conseil décide de ravitailler les troupes et de nettoyer les armes avant le départ.
+repere: 30 août 1870, vers midi — L'avant-garde de la 8e division prussienne ouvre le feu sur les camps.
+repere: 30 août 1870, 14 h — Beaumont et le camp français sont pris.
+repere: 30 août 1870, soir — Combat devant Mouzon ; les débris du 5e corps repassent la Meuse.
+repere: nuit du 30 au 31 août 1870 — L'armée de Châlons se replie sur Sedan.
+attention: « Surpris en train de faire la soupe » : la formule est exacte, mais elle ne dit pas tout. Mac-Mahon lui-même avait accepté, le matin, que le départ attende les distributions, et les régiments, sans vivres depuis plusieurs jours, se sont reformés assez vite pour contre-attaquer. La faute du commandement est ailleurs : aucun poste avancé à distance utile, aucune reconnaissance vers les bois du sud, et des avertissements d'habitants laissés sans suite.
+issue: victoire allemande
+effectifs: 21000 | 80000
+pertes: 7500 | 3400
+chefs: Failly | Albert de Saxe ; Gustav von Alvensleben, von der Tann
+chiffres: Côté français, le 5e corps (environ 17 000 hommes) et 4 000 hommes du 12e corps, d'après Wikipédia en français ; côté allemand, 80 000 hommes pour les trois corps présents (IVe prussien, XIIe saxon, Ier bavarois), qui ne furent pas tous engagés. Pertes françaises : 7 500 hommes, dont 1 800 prisonniers, selon Wikipédia en allemand et en anglais ; 4 800, dont 2 000 prisonniers, selon Rousset ; 42 pièces et mitrailleuses perdues. Pertes allemandes : 3 400 à 3 529 hommes.
+geo: 49.5392, 5.0581
+lieu: Beaumont-en-Argonne, Ardennes, France
+lien: wp Bataille de Beaumont
+lien: de Gefecht bei Beaumont
+sources: Wikipédia (fr : Bataille de Beaumont, d'après L. Rousset, et Pierre Louis Charles de Failly ; de : Gefecht bei Beaumont, Schlacht von Sedan ; en : Battle of Beaumont, d'après Howard, Wawro et Clodfelter ; it : Battaglia di Sedan).
+voir: armee-de-chalons, mac-mahon, albert-de-saxe, von-der-tann, wimpffen, kronprinz-frederic-guillaume, moltke, bataille-de-sedan
+
+@ bataille-de-bazeilles
+cat: batailles
+nom: Bazeilles
+alias: bataille de Bazeilles, combats de Bazeilles, Kampf um Bazeilles, division bleue, marsouins, infanterie de marine, maison de la dernière cartouche, auberge Bourgerie, Les Dernières Cartouches, Balan, Vassoigne, Lambert
+dates: 31 août – 1er septembre 1870
+quand: 1870-08-31
+jusqu: 1870-09-01
+def: Les 31 août et 1er septembre 1870, au sud-est de Sedan, la division d'infanterie de marine du général de Vassoigne dispute le village de Bazeilles au Ier corps bavarois. Combats de maison à maison, village incendié, civils tués, « dernière cartouche » : Bazeilles devient un lieu de mémoire des deux pays.
+texte: Bazeilles, gros village sur la Meuse à cinq kilomètres au sud-est de Sedan, ferme le dispositif français du côté du fleuve. Le 12e corps du général Lebrun y place sa division d'infanterie de marine, celle du général de Vassoigne : quatre régiments de « marsouins » et l'artillerie de marine, réunis pour la première fois en une seule division, la « division bleue ». Le 31 août, une avant-garde bavaroise s'empare du pont du chemin de fer avant qu'il ait sauté et pousse jusque dans le village. La brigade Martin des Pallières la rejette ; les Bavarois reviennent, les maisons brûlent, le général est blessé. Vers 16 h, les marsouins ne tiennent plus que la lisière nord ; la brigade Reboul, engagée à son tour, reprend Bazeilles avant la nuit.
+texte: Le 1er septembre vers 4 h, dans la brume, [[von-der-tann|von der Tann]] lance la 1re brigade bavaroise sur le village, sans attendre que l'armée allemande ait achevé son déploiement. Les Bavarois croient Bazeilles abandonné ; une contre-attaque de 150 marsouins, menée par le commandant Lambert, sous-chef d'état-major de la division, les rejette. Commence une lutte de rues et de maisons barricadées que chaque camp nourrit sans cesse : à 9 h, toute la 1re division bavaroise et une partie de la 2e sont engagées, avec l'artillerie saxonne. Les ordres contraires du commandement français se lisent sur le terrain : sur l'ordre de [[ducrot|Ducrot]], on évacue le village ; sur celui de [[wimpffen|Wimpffen]], on le reprend.
+texte: Vers 11 h, la tête de la 8e division prussienne atteint Balan et coupe Bazeilles de Sedan. Les munitions s'épuisent ; Vassoigne juge que l'infanterie de marine a « atteint les extrêmes limites du devoir » et, vers midi, fait sonner la retraite. Dans la dernière maison du village sur la route de Balan, l'auberge Bourgerie, le commandant Lambert et une cinquantaine d'hommes couvrent le repli et tirent jusqu'à leurs dernières cartouches ; une quinzaine de survivants se rendent et doivent la vie à un officier bavarois. À midi, Bazeilles n'est plus qu'un brasier.
+texte: Des habitants ont tiré sur les Bavarois depuis les caves et les fenêtres. Exaspérés par leurs pertes, ceux-ci abattent des villageois qu'ils tiennent pour des francs-tireurs et incendient les maisons d'où partent les coups. Une enquête officielle française comptera trente-neuf habitants tués pendant les combats et cent cinquante autres morts de leurs blessures dans les mois suivants, un dixième de la population. Les pertes militaires sont parmi les plus lourdes de la journée de [[bataille-de-sedan|Sedan]] : 2 655 hommes, dont une centaine d'officiers, pour la seule division bleue ; l'armée bavaroise, engagée surtout à Bazeilles et à Balan, perd ce jour-là plus de 4 000 tués et blessés.
+texte: Le village devient aussitôt un symbole, différent de chaque côté. En France, celui d'un village martyr et d'une troupe qui se bat jusqu'au bout : Alphonse de Neuville expose au Salon de 1873 *Les Dernières Cartouches*, l'une des toiles les plus reproduites du siècle ; un ossuaire, où reposent des milliers de soldats français et bavarois, est bâti de 1876 à 1878 ; l'auberge, rachetée en 1899 par une souscription du *Gaulois*, devient la « Maison de la dernière cartouche », musée des troupes de marine. En Allemagne, celui d'une victoire bavaroise chèrement payée, que mettent en scène les panoramas d'Anton von Werner et de Michael Zeno Diemer.
+repere: 31 août 1870 — Une avant-garde bavaroise prend le pont du chemin de fer sur la Meuse et entre dans Bazeilles.
+repere: 31 août 1870, vers 16 h — Les marsouins ne tiennent plus que la lisière nord ; la brigade Reboul reprend le village avant la nuit.
+repere: 1er septembre 1870, vers 4 h — Von der Tann lance la 1re brigade bavaroise sur le village, dans la brume.
+repere: 1er septembre 1870, 9 h — Toute la 1re division bavaroise et une partie de la 2e combattent dans Bazeilles.
+repere: 1er septembre 1870, vers 11 h — La 8e division prussienne atteint Balan ; Bazeilles est coupé de Sedan.
+repere: 1er septembre 1870, vers midi — Vassoigne fait sonner la retraite ; l'auberge Bourgerie tient jusqu'aux dernières cartouches.
+repere: 1873 — Alphonse de Neuville expose *Les Dernières Cartouches* au Salon.
+repere: 1899 — L'auberge Bourgerie, rachetée par souscription, devient la Maison de la dernière cartouche.
+attention: « Bazeilles, village martyr » : la presse française de 1870 parla d'un massacre général des hommes, des femmes et des enfants. L'enquête officielle ramène le bilan à 39 habitants tués pendant les combats, plus 150 morts des suites de leurs blessures, et les récits français eux-mêmes reconnaissent que des civils ont pris part à la lutte. Les exécutions et l'incendie délibéré sont avérés ; ils sont sans commune mesure avec la tuerie décrite par la propagande.
+issue: village pris par les Bavarois
+pertes: 2655 | 4089
+chefs: Vassoigne, sous Lebrun | von der Tann
+chiffres: 2 655 tués, blessés et disparus pour la seule division d'infanterie de marine, dont une centaine d'officiers, d'après les situations du lendemain (Wikipédia en français et en allemand). Côté allemand, 4 089 tués et blessés, dont 213 officiers : c'est la perte de toute l'armée bavaroise à Sedan, engagée surtout à Bazeilles et à Balan ; Wikipédia en allemand attribue à Bazeilles 64 officiers et un millier de soldats tués. Les « 5 000 Bavarois morts » que citent des récits français dépassent le total de leurs tués et blessés. Effectifs engagés : non trouvés dans les sources consultées.
+geo: 49.6780, 4.9770
+lieu: Bazeilles, Ardennes, France
+lien: wp Bataille de Bazeilles
+lien: wp Maison de la dernière cartouche (musée)
+lien: de Kampf um Bazeilles
+sources: Wikipédia (fr : Bataille de Bazeilles, Bataille de Sedan, Les Dernières Cartouches, Maison de la dernière cartouche (musée) ; de : Kampf um Bazeilles, Schlacht von Sedan ; en : Battle of Bazeilles ; it : Battaglia di Sedan) ; Fondation Napoléon (napoleon.org), notice du tableau *Les Dernières Cartouches*.
+voir: bataille-de-sedan, von-der-tann, armee-de-chalons, peinture-de-la-guerre, lieux-de-memoire, tombes-et-monuments, france-occupee
+
+@ bataille-de-sedan
+cat: batailles
+nom: Bataille de Sedan
+alias: Sedan, Schlacht von Sedan, Schlacht bei Sedan, Sedantag, Illy, calvaire d'Illy, bois de la Garenne, Floing, Balan, Givonne, drapeau blanc, Frénois
+dates: 1er septembre 1870
+quand: 1870-09-01
+def: Le 1er septembre 1870, l'[[armee-de-chalons|armée de Châlons]], acculée à la frontière belge, est encerclée autour de Sedan par l'armée de la Meuse et la IIIe armée allemandes et écrasée par leur artillerie. Napoléon III fait hisser le drapeau blanc : la capitulation du lendemain livre l'empereur et plus de 100 000 hommes.
+texte: Au soir de [[bataille-de-beaumont|Beaumont]], [[mac-mahon|Mac-Mahon]] replie l'armée sur Sedan pour la ravitailler avant de gagner Mézières. La petite place forte, au bord de la Meuse, est dominée de toutes parts par des collines. L'armée, quelque 120 000 hommes et 560 pièces, s'établit sur les hauteurs, en un triangle dont les pointes sont Floing, Illy et Bazeilles : le 7e corps de Félix Douay au nord, de Floing au calvaire d'Illy ; le 1er corps de [[ducrot|Ducrot]] à l'est, le long du ravin de la Givonne ; le 12e corps de Lebrun au sud-est, de La Moncelle à Bazeilles ; le 5e, battu la veille, en réserve près de la place. Le maréchal ne se croit pas menacé d'encerclement : il laisse intacts des ponts de la Meuse et accorde à l'armée, pour le 1er septembre, une journée de repos. Ducrot voudrait masser les troupes sur le plateau d'Illy pour garder ouverte la route de l'ouest ; il n'est pas écouté.
+texte: [[moltke|Moltke]], lui, voit la nasse. Le 31 août, le XIe corps occupe Donchery, à l'ouest, et tient la voie ferrée de Mézières ; avec le Ve corps, il doit passer la Meuse et remonter vers le nord, entre Sedan et la Belgique, pendant que l'armée de la Meuse d'[[albert-de-saxe|Albert de Saxe]], Saxons, Garde prussienne et IVe corps, attaquera par l'est et que les Bavarois de la IIIe armée fixeront le sud. Plus de 200 000 hommes et près de 780 canons vont fermer le cercle. Le roi Guillaume Ier, Moltke et Bismarck suivront la journée d'une hauteur au-dessus de Frénois, sur la rive gauche, entourés de princes allemands, d'officiers étrangers et du général américain Sheridan.
+texte: La bataille s'ouvre à 4 h, dans la brume, à [[bataille-de-bazeilles|Bazeilles]], où les Bavarois se heurtent à l'infanterie de marine. Accouru sur les hauteurs de Balan, Mac-Mahon est grièvement blessé par un éclat d'obus vers 6 h, entre 5 h 45 et 7 h selon les récits ; il désigne Ducrot pour le remplacer. Ducrot, qui reçoit l'ordre vers 7 h, voit le piège : il prescrit aussitôt la retraite vers l'ouest, par le plateau d'Illy, sur Mézières, tant que la route est libre. Le mouvement commence à peine quand, vers 8 h 30, [[wimpffen|Wimpffen]], arrivé la veille pour prendre le 5e corps, produit une lettre du [[comte-de-palikao|comte de Palikao]], ministre de la Guerre, qui lui confie le commandement si le maréchal est empêché. Plus ancien que Ducrot, il le réclame et annule tout : il ne veut pas reculer, mais percer à l'est, vers Carignan. En trois heures, l'armée a eu trois chefs et reçu deux plans contraires ; à Bazeilles, on évacue le village, puis on le reprend.
+texte: Pendant ce temps, le cercle se ferme. Le XIe corps débouche sur Floing, le Ve sur Fleigneux et Illy, et ils tendent la main à la Garde prussienne venue de l'est ; vers 14 h, les Allemands tiennent le calvaire d'Illy, clef du plateau. Leurs batteries couronnent toutes les hauteurs, jusque sur la rive gauche, à Frénois et à la Marfée, et leurs obus fouillent les bois et les vallons où les Français s'entassent : la journée est d'abord une victoire de l'artillerie. Pour rouvrir la route de l'ouest, Ducrot lance la cavalerie de [[general-margueritte|Margueritte]] sur l'infanterie allemande au-dessus de Floing ; ce sont les [[charges-de-floing|charges de Floing]], vaines. Vers 14 h 30, la Garde prussienne entre dans le bois de la Garenne, où des milliers d'hommes se rendent. Partout, les débris des corps refluent vers la ville, dont les rues, les ponts et les fossés s'engorgent d'hommes, de chevaux et de voitures sous les obus.
+texte: Wimpffen ne renonce pas. Vers 13 h, il a ordonné de percer vers Carignan et, pour cela, dégarni le front nord ; dans l'après-midi, il invite l'empereur à se mettre à la tête des troupes, rallie avec Lebrun quelques milliers d'hommes et pousse jusqu'à Balan, d'où l'artillerie allemande et une contre-attaque bavaroise les rejettent. [[napoleon-iii|Napoléon III]], qui a passé des heures à cheval sous le feu, est rentré à la sous-préfecture. Voyant la ville pleine de fuyards et les obus tomber sur les maisons, il fait hisser le drapeau blanc sur la citadelle ; le général Faure, chef d'état-major, qui ne reconnaît que les ordres de Wimpffen, le fait abattre ; l'empereur le fait remettre. Vers 16 h 30, un officier de l'état-major de Moltke, Bronsart von Schellendorf, se présente en parlementaire et découvre, stupéfait, que l'empereur est dans la place. En fin de journée, le général Reille porte au roi, à Frénois, le billet par lequel Napoléon III remet son épée. La [[capitulation-de-sedan|capitulation]] de l'armée reste à négocier.
+texte: La journée coûte aux Français environ 17 000 tués et blessés et 21 000 prisonniers ; la capitulation du lendemain en livre 83 000 de plus, avec la place et 419 canons, si bien que plus de 100 000 hommes prennent le chemin de l'Allemagne. Les Allemands ont perdu quelque 9 000 hommes, dont plus de 4 000 Bavarois. Il ne reste à la France que l'armée bloquée dans Metz et des troupes à improviser. La nouvelle, connue à Paris le 3 septembre, emporte l'Empire le lendemain : c'est le [[quatre-septembre|4 septembre]]. En Allemagne, le 2 septembre devient le *Sedantag*, fête patriotique célébrée jusqu'en 1919 ; en France, Sedan reste pour longtemps le nom même de la défaite.
+repere: 31 août 1870 — L'armée de Châlons se resserre autour de Sedan ; le XIe corps prussien occupe Donchery et la voie ferrée de Mézières.
+repere: 1er septembre 1870, 4 h — Les Bavarois attaquent Bazeilles dans la brume.
+repere: 1er septembre 1870, vers 6 h — Mac-Mahon est blessé sur les hauteurs de Balan et désigne Ducrot pour le remplacer.
+repere: 1er septembre 1870, vers 7 h — Ducrot ordonne la retraite vers l'ouest, par le plateau d'Illy, sur Mézières.
+repere: 1er septembre 1870, vers 8 h 30 — Wimpffen, lettre de Palikao en main, prend le commandement et annule la retraite.
+repere: 1er septembre 1870, vers 11 h — Les Allemands atteignent Balan ; Bazeilles, coupé de la place, tombe vers midi.
+repere: 1er septembre 1870, vers 13 h — Wimpffen ordonne de percer vers Carignan et dégarnit le front nord.
+repere: 1er septembre 1870, vers 14 h — Les Allemands tiennent le calvaire d'Illy : le cercle est fermé ; la cavalerie de Margueritte charge au-dessus de Floing.
+repere: 1er septembre 1870, après-midi — Napoléon III fait hisser le drapeau blanc sur la citadelle ; Wimpffen tente une dernière percée vers Balan.
+repere: 1er septembre 1870, soir — Le général Reille porte au roi de Prusse, à Frénois, la lettre de l'empereur.
+attention: Trois mots de légende s'attachent à Sedan. La « dernière cartouche » de l'auberge Bourgerie, à Bazeilles, est un fait d'armes réel, mais le tableau d'Alphonse de Neuville (1873) qui l'a rendue célèbre arrange la scène, et les récits ne s'accordent même pas sur l'officier qui tira la dernière balle, le commandant Lambert ou le capitaine Aubert ; « Ah ! les braves gens ! », que Guillaume Ier aurait lancé en voyant charger les chasseurs d'Afrique, circule en français et en allemand (« Ach, die tapferen Leute ! ») sans témoin nommé dans les sources consultées : plausible, invérifiable, il a donné son nom à un monument élevé à Floing en 1910. Quant au « Nous sommes dans un pot de chambre, et nous y serons emmerdés » de Ducrot, partout cité, il est placé tantôt au matin, quand il prend le commandement, tantôt au moment où le cercle se ferme : le mot est vraisemblable, mais ni la scène ni le témoin ne sont fixés.
+issue: victoire allemande, armée encerclée
+effectifs: 120000 | 200000
+canons: 564 | 774
+pertes: 38000 | 9000
+chefs: Mac-Mahon, puis Ducrot, puis Wimpffen | Moltke, sous Guillaume Ier ; le Kronprinz, Albert de Saxe
+chiffres: Effectifs : environ 120 000 Français (130 000 à la formation de l'armée de Châlons), 202 bataillons, 80 escadrons et 564 pièces ; plus de 200 000 Allemands, 222 bataillons, 186 escadrons et 774 pièces (Wikipédia en anglais ; 560 et 780 pièces selon la page française). Pertes du 1er septembre : environ 17 000 tués et blessés français (3 220 tués et 14 811 blessés selon Wikipédia en anglais) et 21 000 prisonniers ; la capitulation du 2 en ajoute 83 000, soit quelque 104 000 prisonniers en tout. Pertes allemandes : environ 9 000 hommes (2 320 tués, 5 980 blessés et 700 disparus selon Wikipédia en italien ; 9 860 selon la page anglaise), dont plus de 4 000 Bavarois.
+geo: 49.6986, 4.9456
+lieu: Sedan, Ardennes, France
+lien: wp Bataille de Sedan
+lien: de Schlacht von Sedan
+lien: en Battle of Sedan
+sources: Wikipédia (fr : Bataille de Sedan, Bataille de Bazeilles, Les Dernières Cartouches ; de : Schlacht von Sedan, Auguste-Alexandre Ducrot ; en : Battle of Sedan, d'après Howard 1961 et Wawro 2003, Auguste-Alexandre Ducrot ; it : Battaglia di Sedan) ; Fondation Napoléon (napoleon.org), « La bataille de Sedan », 2019, et compte rendu de R. Biguenet et L. Corlouër, *Tant qu'il en restera un !*, 2026 ; A.-D. Houte, « La défaite de Sedan », Chemins de mémoire (ministère des Armées).
+voir: capitulation-de-sedan, bataille-de-bazeilles, charges-de-floing, armee-de-chalons, ducrot, wimpffen, moltke, quatre-septembre
+
+@ charges-de-floing
+cat: batailles
+nom: Les charges de Floing
+alias: charge de Floing, charges de Sedan, plateau d'Illy, calvaire d'Illy, Braves Gens, chasseurs d'Afrique, « Ah ! les braves gens ! », « Tant qu'il en restera un »
+dates: 1er septembre 1870
+quand: 1870-09-01
+def: Le 1er septembre 1870, vers 14 h, la division de cavalerie du [[general-margueritte|général Margueritte]], puis de [[galliffet|Galliffet]], charge à plusieurs reprises l'infanterie prussienne au-dessus de Floing pour rouvrir à l'armée encerclée la route de Mézières. Les charges échouent ; Margueritte y est mortellement blessé.
+texte: Vers 13 h, le 1er septembre, la [[bataille-de-sedan]] est perdue au nord. Le XIe corps prussien a pris Floing, le Ve tient Fleigneux et marche sur Illy ; leur artillerie a fait taire celle du 7e corps de Félix Douay, que [[wimpffen|Wimpffen]] vient de dégarnir pour sa percée vers l'est. Pour rouvrir la route de Mézières, il ne reste que la cavalerie. Sur le plateau, entre Floing et le calvaire d'Illy, attend la division de réserve de Margueritte, promu général de division le jour même : la brigade Galliffet, trois régiments de chasseurs d'Afrique, et la brigade Tillard, un régiment de hussards et un de chasseurs à cheval, avec deux batteries à cheval. Elle a déjà souffert : à 9 h, le 3e chasseurs d'Afrique a chargé et laissé un tiers de ses hommes sur le terrain, et les obus ont tué le général Tillard dans le bois de la Garenne.
+texte: Vers 14 h, [[ducrot|Ducrot]], qui commande ce secteur, ordonne de charger. Margueritte part en avant reconnaître le terrain ; une balle lui traverse les deux joues et lui coupe la langue. Ramené, défiguré, il passe devant le 1er chasseurs d'Afrique qui l'acclame et, ne pouvant plus parler, montre l'ennemi du geste. Galliffet prend la tête. Les escadrons s'élancent vers Floing sur une infanterie qui les attend et les fusille à courte distance ; certains passent entre les compagnies et atteignent les batteries, aucun ne perce. On se reforme, on repart : trois fois selon la plupart des récits, quatre selon d'autres. Le 1er chasseurs d'Afrique perd les deux tiers de son effectif ; son colonel, Clicquot de Mentque, est mortellement blessé. Vers 15 h, c'est fini.
+texte: Sur l'autre rive de la Meuse, du haut de Frénois, le roi [[guillaume-ier|Guillaume Ier]] suit les charges ; c'est alors qu'il aurait dit : « Ah ! les braves gens ! », l'un des [[mots-de-1870|mots de 1870]]. Les charges n'ont rien changé : à 14 h 30, la Garde prussienne entre dans le bois de la Garenne, et l'armée reflue vers Sedan. Du côté allemand, le général von Gersdorff, chef du XIe corps, est mortellement atteint dans les combats de l'après-midi. Margueritte, transporté en Belgique, meurt le 6 septembre au château de Beauraing. La hauteur d'où partirent les chasseurs d'Afrique a gardé l'exclamation du roi comme nom de lieu ; un monument dit des Braves Gens y a été élevé en 1910, et une croix marque l'endroit où tomba Margueritte.
+repere: 1er septembre 1870, vers 7 h — La division Margueritte est en position sur les hauteurs d'Illy, à l'extrême gauche de l'armée.
+repere: 1er septembre 1870, 9 h — Le 3e chasseurs d'Afrique charge l'infanterie prussienne qui gagne le plateau et y laisse un tiers de ses hommes.
+repere: 1er septembre 1870, vers 13 h — Le XIe corps prussien tient Floing ; l'artillerie française du secteur est réduite au silence.
+repere: 1er septembre 1870, vers 14 h — Ducrot ordonne de charger ; Margueritte, parti reconnaître le terrain, est atteint d'une balle au visage.
+repere: 1er septembre 1870, vers 15 h — Après trois charges menées par Galliffet, la cavalerie reflue sans avoir percé.
+repere: 6 septembre 1870 — Margueritte meurt de ses blessures au château de Beauraing, en Belgique.
+repere: 1910 — Un monument dit des Braves Gens est élevé sur le plateau de Floing.
+attention: La réplique prêtée à Galliffet quand Ducrot lui demanda s'il pouvait charger encore — « Tant qu'il en restera un ! » — appartient à la légende de Floing plus qu'à son histoire établie : on la cite sans témoin, et le livre récent qui en tire son titre la présente lui-même comme une réponse « prêtée » au général. Elle n'en dit pas moins ce que fut l'après-midi : des cavaliers lancés sans espoir raisonnable contre une infanterie qui les attendait en ligne.
+issue: charges repoussées
+pertes: 791 | ?
+chefs: Margueritte, puis Galliffet | von Gersdorff (XIe corps)
+chiffres: 791 tués et blessés pour la cavalerie française, selon Wikipédia en anglais ; les autres sources consultées ne donnent pas de total, mais le 1er chasseurs d'Afrique perd à lui seul les deux tiers de son effectif dans l'après-midi, et le 3e un tiers dès la charge du matin. Ni l'effectif de la division ni les pertes allemandes propres à cet épisode ne sont donnés par les sources consultées.
+geo: 49.7200, 4.9345
+lieu: Floing, Ardennes, France
+lien: wp Jean-Auguste Margueritte
+lien: url https://www.napoleon.org/magazine/livres/tant-quil-en-restera-un-sedan-la-derniere-charge-de-la-guerre-de-1870/ = Fondation Napoléon : R. Biguenet et L. Corlouër, Tant qu'il en restera un ! (2026)
+sources: Wikipédia (fr : Jean-Auguste Margueritte, Gaston de Galliffet, 1er régiment de chasseurs d'Afrique, Floing, Bataille de Sedan ; de : Schlacht von Sedan, Jean-Auguste Margueritte ; en : Battle of Sedan ; it : Battaglia di Sedan) ; Fondation Napoléon, compte rendu de R. Biguenet et L. Corlouër, *Tant qu'il en restera un !*, 2026 ; OpenStreetMap (mémorial des Chasseurs d'Afrique) pour les coordonnées.
+voir: general-margueritte, galliffet, bataille-de-sedan, armee-d-afrique, cavalerie-en-1870, charges-de-reichshoffen, mots-de-1870, lieux-de-memoire
+
+@ capitulation-de-sedan
+cat: batailles
+nom: La capitulation de Sedan
+alias: capitulation de Sedan, Donchery, maison du tisserand, château de Bellevue, presqu'île d'Iges, camp de la misère, Kapitulation von Sedan, Frénois
+dates: 1er – 2 septembre 1870
+quand: 1870-09-01
+jusqu: 1870-09-02
+def: Du soir du 1er au matin du 2 septembre 1870, Napoléon III se rend au roi de Prusse, puis Wimpffen, après une nuit de négociation à Donchery, signe au château de Bellevue la capitulation de l'armée de Châlons : 83 000 hommes s'ajoutent aux prisonniers de la bataille.
+texte: Le billet que le général Reille remet au roi, le 1er septembre au soir, sur la hauteur de Frénois, ne rend que la personne de l'empereur : « Monsieur mon frère, n'ayant pu mourir au milieu de mes troupes, il ne me reste qu'à remettre mon épée entre les mains de Votre Majesté. » [[guillaume-ier|Guillaume Ier]] l'accepte, « tout en regrettant les circonstances » de leur rencontre, demande qu'un officier muni de pleins pouvoirs vienne traiter de la capitulation de l'armée, et désigne [[moltke|Moltke]] pour la négocier. Ce sera [[wimpffen|Wimpffen]], commandant en chef depuis le matin, qui a d'abord tenté de se dérober à la tâche.
+texte: Tard dans la soirée, Wimpffen arrive à Donchery, où loge l'état-major allemand, avec le général Castelnau, aide de camp de l'empereur, et quelques officiers. En face, Moltke et [[bismarck|Bismarck]]. Wimpffen demande que l'armée, qui s'est bien battue, soit libérée sur parole et renvoyée en France ou en Algérie ; à défaut, qu'on ne prenne que la place, l'artillerie et les hommes déjà prisonniers. Moltke refuse : il veut l'armée entière, avec armes et bagages. Les Français, dit-il, n'ont plus ni vivres ni munitions, ils sont 80 000 contre 250 000, cernés de batteries, et le feu reprendra à la fin de la trêve, à 4 h du matin. Bismarck l'appuie. Vers 1 h, on prolonge la trêve jusqu'à 9 h, pour que Wimpffen consulte ses généraux.
+texte: Au petit jour, [[napoleon-iii|Napoléon III]] quitte Sedan en voiture pour aller trouver le roi, dans l'espoir d'adoucir le sort de l'armée. Bismarck, prévenu, part à sa rencontre et l'arrête sur la route de Donchery. Ils s'entretiennent dans la maison d'un tisserand, au bord de la route : le chancelier veut savoir si l'empereur traite de la paix, celui-ci répond que cela regarde la régente, et Bismarck renvoie les questions militaires à Moltke. Le roi ne recevra son prisonnier qu'après la signature. Le peintre Wilhelm Camphausen en a tiré un tableau en 1878.
+texte: À 7 h, à Sedan, le conseil de guerre réuni par Wimpffen constate qu'il n'y a plus ni vivres, ni munitions, ni issue, et se résout à accepter. Vers 11 h, au château de Bellevue, une demeure bourgeoise qui domine la Meuse, Wimpffen et Moltke signent la capitulation. L'armée se rend prisonnière avec la place : 39 généraux, 2 830 officiers, 83 000 soldats, 419 canons, 6 000 chevaux, les armes et les drapeaux. Les concessions sont minces : les officiers qui jurent de ne plus servir pendant la guerre peuvent rentrer chez eux, et 550 le font ; ceux qui suivent leurs hommes gardent leurs armes et leurs effets ; l'empereur sera interné à Wilhelmshöhe. Le roi n'arrive à Bellevue qu'au début de l'après-midi ; son entretien avec l'empereur dure un quart d'heure et ne change rien. Le 3, Napoléon III part pour Wilhelmshöhe.
+texte: Dès le 3 septembre, environ 80 000 prisonniers sont conduits dans la presqu'île d'Iges, une boucle de la Meuse à l'ouest de Sedan, fermée par un canal, que quelques sentinelles suffisent à garder. Ils y restent des jours sans abri et presque sans vivres, sous des pluies torrentielles, buvant l'eau d'une rivière où flottent des cadavres ; la dysenterie s'installe, des hommes meurent chaque jour, beaucoup s'évadent vers la Belgique toute proche. Les soldats l'appellent le « camp de la misère ». Puis, par colonnes, ils partent pour les forteresses et les camps d'Allemagne, rejoindre les [[prisonniers-de-guerre|prisonniers]] de l'été.
+repere: 1er septembre 1870, soir — Le roi accepte l'épée de Napoléon III et désigne Moltke pour traiter de la capitulation de l'armée.
+repere: 1er septembre 1870, vers 22 h — À Donchery, Wimpffen demande que l'armée soit libérée sur parole ; Moltke exige qu'elle se rende prisonnière.
+repere: 2 septembre 1870, vers 1 h — La trêve est prolongée jusqu'à 9 h pour que les généraux français délibèrent.
+repere: 2 septembre 1870, à l'aube — Napoléon III quitte Sedan ; Bismarck le rejoint sur la route de Donchery, et ils s'entretiennent dans la maison d'un tisserand.
+repere: 2 septembre 1870, 7 h — Le conseil de guerre réuni à Sedan se résout à accepter les conditions allemandes.
+repere: 2 septembre 1870, vers 11 h — Wimpffen et Moltke signent la capitulation au château de Bellevue.
+repere: 2 septembre 1870, après-midi — Guillaume Ier reçoit Napoléon III à Bellevue pendant un quart d'heure.
+repere: 3 septembre 1870 — L'empereur part pour l'Allemagne ; environ 80 000 prisonniers sont parqués dans la presqu'île d'Iges.
+attention: Napoléon III n'a pas signé la capitulation de Sedan, quoi qu'en disent encore bien des notices : l'acte porte les signatures de Wimpffen et de Moltke, et l'empereur ne fut reçu par le roi qu'une fois l'acte signé. Le chiffre de « 83 000 prisonniers » souvent cité ne compte que la capitulation : avec les 21 000 hommes pris pendant la bataille, Sedan en livre plus de 100 000.
+issue: capitulation
+effectifs: 83000 | 200000
+chefs: Wimpffen | Moltke ; Bismarck
+chiffres: Côté français, ce que rend la capitulation : 39 généraux, 2 830 officiers et 83 000 soldats (Wikipédia en allemand), 419 canons et 6 000 chevaux (Wikipédia en français et en italien) ; s'y ajoutent les 21 000 prisonniers faits pendant la bataille. Côté allemand, les quelque 200 000 hommes des deux armées qui encerclaient la place. Moltke parla à Donchery de 250 000 Allemands contre 80 000 Français.
+geo: 49.6970, 4.9029
+lieu: Château de Bellevue, Sedan, Ardennes, France
+lien: wp Château de Bellevue (Frénois)
+lien: url https://germanhistorydocs.org/en/forging-an-empire-bismarckian-germany-1866-1890/negotiations-during-the-battle-of-sedan-september-1-1870 = German History in Documents and Images : la négociation de Donchery (en anglais)
+sources: Wikipédia (fr : Bataille de Sedan, Château de Bellevue (Frénois) ; de : Schlacht von Sedan ; en : Battle of Sedan ; it : Battaglia di Sedan) ; German History in Documents and Images (Institut historique allemand de Washington), notice sur les négociations de Sedan ; Fondation Napoléon (napoleon.org), « La bataille de Sedan », 2019 ; OpenStreetMap pour les coordonnées.
+voir: bataille-de-sedan, napoleon-iii, wimpffen, moltke, bismarck, guillaume-ier, prisonniers-de-guerre, quatre-septembre

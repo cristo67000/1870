@@ -1,0 +1,987 @@
+
+
+# ── Les images (écrites par build/assembler_illustrations.py, ne pas retoucher à la main) ──
+
+= guerre-de-1870
+commons: A v Werner - Kaiserproklamation am 18 Januar 1871 (3. Fassung 1885).jpg
+legende: La proclamation de l’Empire allemand à Versailles, le 18 janvier 1871, peinte par Anton von Werner (version de 1885)
+credit: Anton von Werner, 1885
+pour: guerre-de-1870
+
+= second-empire-en-1870
+commons: Comité central plébiscitaire 1870.jpg
+legende: Le comité central plébiscitaire de 1870 (gravure)
+credit: auteur inconnu, 1870
+pour: second-empire-en-1870
+
+= depeche-d-ems
+commons: Wilhelm I at Bad Ems.jpg
+legende: Guillaume Ier à Ems, avec le prince Nicolas-Guillaume de Nassau
+credit: auteur inconnu, 1870
+pour: depeche-d-ems
+
+= quatre-septembre
+commons: Proclamation de la République.jpg
+legende: La proclamation de la République, haut-relief de Léopold Morice au monument de la place de la République, à Paris
+credit: Roi Boshi, 2011
+pour: quatre-septembre
+
+= gouvernement-de-la-defense-nationale
+commons: Le Gouvernement de la défense nationale.jpg
+legende: Les membres du gouvernement de la Défense nationale, 4 septembre 1870
+credit: auteur inconnu, 1870
+pour: gouvernement-de-la-defense-nationale
+
+= entrevue-de-ferrieres
+commons: Jules Favre par Pierre Petit.jpg
+legende: Jules Favre, photographié par Pierre Petit
+credit: Pierre Petit, 1860
+pour: entrevue-de-ferrieres
+
+= guerre-a-outrance
+commons: Gambetta par Étienne Carjat (photo recadrée).jpg
+legende: Léon Gambetta, photographié par Étienne Carjat
+credit: Étienne Carjat, 1870
+pour: guerre-a-outrance
+
+= proclamation-de-l-empire-allemand
+commons: Die Kaiserproklamation 1871 (Anton von Werner).jpg
+legende: *La Proclamation de l’Empire allemand*, d’Anton von Werner : la galerie des Glaces, le 18 janvier 1871
+credit: Anton von Werner, 1877
+pour: proclamation-de-l-empire-allemand
+
+= protestation-de-bordeaux
+commons: Emile Küss.jpg
+legende: Émile Küss, maire de Strasbourg, mort à Bordeaux le 1er mars 1871
+credit: A. Meyer, 1884
+pour: protestation-de-bordeaux
+
+= preliminaires-de-versailles
+commons: Deutsches Reichsgesetzblatt 1871 026 215.jpg
+legende: Les préliminaires de paix au *Reichsgesetzblatt*, le journal des lois de l’Empire allemand (1871)
+credit: Official Juridical Document
+pour: preliminaires-de-versailles
+
+= napoleon-iii
+commons: Napoléon III par Jean Hippolyte Flandrin.jpg
+legende: Napoléon III dans son cabinet des Tuileries, par Hippolyte Flandrin (1862)
+credit: Hippolyte Flandrin, 1862
+pour: napoleon-iii
+
+= imperatrice-eugenie
+commons: Empress Eugénie in Court Dress (after Winterhalter, Compiègne IMP25).jpg
+legende: L'impératrice Eugénie
+credit: After Franz Xaver Winterhalter, 1855
+pour: imperatrice-eugenie
+
+= emile-ollivier
+commons: Émile Ollivier by Pierre-Louis Pierson, 1870.png
+legende: Émile Ollivier
+credit: Pierre-Louis Pierson, 1870
+pour: emile-ollivier
+
+= duc-de-gramont
+commons: Agénor de Gramont (1819-1880).jpg
+legende: Le duc de Gramont
+credit: Eliseo Sala, 1853
+pour: duc-de-gramont
+
+= edmond-le-boeuf
+commons: Edmond Leboeuf.png
+legende: Le maréchal Le Bœuf
+credit: Léon Crémière (1831-1913); restored by A ngelus, 1850
+pour: edmond-le-boeuf
+
+= comte-de-palikao
+commons: Charles Cousin-Montauban, comte de Palikao.jpg
+legende: Le comte de Palikao
+credit: Eugène Disdéri, 1862
+pour: comte-de-palikao
+
+= mac-mahon
+commons: Patrice de Mac Mahon crop.jpg
+legende: Patrice de Mac-Mahon, photographié par Pierre Petit
+credit: Pierre Petit
+pour: mac-mahon
+
+= bazaine
+commons: Jean-Adolphe Beaucé - Achille-François Bazaine, Marshal of France, Marshal of France, 1867.jpg
+legende: Bazaine
+credit: Jean-Adolphe Beaucé, 1867
+pour: bazaine
+
+= canrobert
+commons: François Certain de Canrobert Versailles.png
+legende: Canrobert
+credit: Horace Vernet, 1857
+pour: canrobert
+
+= frossard
+commons: Crimean War 1854-56 Q71487.jpg
+legende: Frossard à l’époque de la guerre de Crimée
+credit: auteur inconnu, 1914
+pour: frossard
+
+= abel-douay
+commons: General Abel Douay.jpg
+legende: Abel Douay
+credit: Franz Robert Richard Brendámour, 1895
+pour: abel-douay
+
+= ducrot
+commons: General Ducrot.jpg
+legende: Ducrot
+credit: Franz Robert Richard Brendámour, 1895
+pour: ducrot
+
+= wimpffen
+commons: Wimphen, général, Nadar, Gallica.jpg
+legende: Le général de Wimpffen, photographié par Nadar
+credit: Nadar, 1870
+pour: wimpffen
+
+= bourbaki
+commons: Portrait Bourbaki.JPG
+legende: Bourbaki
+credit: Pierre-Louis Pierson
+pour: bourbaki
+
+= general-uhrich
+commons: Jean-Jacques UHRICH.jpg
+legende: Le général Uhrich, photographié par Pierson
+credit: Portrait de Louis-Pierre PIERSON (1822-1913) - vers 1860/70, 2011
+pour: general-uhrich
+
+= general-margueritte
+commons: General margueritte.jpg
+legende: Le général Margueritte
+credit: auteur inconnu, 1870
+pour: general-margueritte
+
+= galliffet
+commons: Galliffet, Gaston de.jpg
+legende: Le marquis de Galliffet, photographié par Nadar
+credit: Nadar, 2006
+pour: galliffet
+
+= gambetta
+commons: Léon Gambetta 1870 Nadar.jpg
+legende: Léon Gambetta photographié par Nadar
+credit: Nadar, 1871
+pour: gambetta
+
+= trochu
+commons: Louis Jules Trochu.jpg
+legende: Le général Trochu
+credit: auteur inconnu, 1850
+pour: trochu
+
+= jules-favre
+commons: Jules Favre 1865 Nadar.jpg
+legende: Jules Favre photographié par Nadar
+credit: Nadar, 1865
+pour: jules-favre
+
+= adolphe-thiers
+commons: Adolphe Thiers Nadar 2.JPG
+legende: Adolphe Thiers
+credit: Nadar, 1867
+pour: adolphe-thiers
+
+= charles-de-freycinet
+commons: Freycinet, de Saulces de, Charles, Nadar, Gallica (cropped).jpg
+legende: Charles de Freycinet, photographié par Nadar
+credit: Nadar, 1880
+pour: charles-de-freycinet
+
+= chanzy
+commons: Antoine Alfred Eugène Chanzy.JPG
+legende: Chanzy
+credit: auteur inconnu, 1892
+pour: chanzy
+
+= aurelle-de-paladines
+commons: Général de Paladines.jpg
+legende: Le général d’Aurelle de Paladines
+credit: Langerock, 1870
+pour: aurelle-de-paladines
+
+= faidherbe
+commons: Le général Faidherbe.jpg
+legende: Faidherbe
+credit: Marie Madeleine Rignot-Dubaux, 1884
+pour: faidherbe
+
+= denfert-rochereau
+commons: Col. Denfert-Rochereau by Étienne Carjat 1878.jpg
+legende: Le colonel Denfert-Rochereau, photographié par Étienne Carjat
+credit: Ettienne Carjat, 1878
+pour: denfert-rochereau
+
+= garibaldi
+commons: Garibaldi (1866).jpg
+legende: Garibaldi en 1866
+credit: Fratelli Alinari, 1867
+pour: garibaldi
+
+= general-vinoy
+commons: Crimean War 1854-56 Q71111.jpg
+legende: Vinoy à l’époque de la guerre de Crimée
+credit: auteur inconnu, 1914
+pour: general-vinoy
+
+= clinchant
+commons: Général Clinchant.jpg
+legende: Clinchant
+credit: Eugène et Ernest-Charles Appert, 1860
+pour: clinchant
+
+= commandant-teyssier
+commons: Bitche-Buste du colonel Teyssier.jpg
+legende: Le buste du colonel Teyssier, à Bitche
+credit: Ji-Elle, 2011
+pour: commandant-teyssier
+
+= louis-rossel
+commons: Louis Rossel 1.jpg
+legende: Louis Rossel
+credit: auteur inconnu
+pour: louis-rossel
+
+= emile-kuss
+commons: Le maire Küss au milieu des ruines de Strasbourg (1873) (cropped) (2).jpg
+legende: Le maire Küss au milieu des ruines de Strasbourg
+credit: Théophile Schuler, 1873
+pour: emile-kuss
+
+= sergent-hoff
+commons: Ignace Hoff - photo Ferdinand Mulnier.jpg
+legende: Ignace Hoff photographié par Ferdinand Mulnier
+credit: Ferdinand Mulnier, 1867
+pour: sergent-hoff
+
+= victor-hugo-en-1870
+commons: Victor Hugo et l'Année terrible.jpg
+legende: Frontispice de *L’Année terrible*, de Victor Hugo (Michel Lévy, 1873)
+credit: Léopold Flameng, 1872
+pour: victor-hugo-en-1870
+
+= guillaume-ier
+commons: Bülow, Hans - Emperor Wilhelm I - Marburg.jpg
+legende: Guillaume Ier
+credit: Paul Bülow, 1879
+pour: guillaume-ier
+
+= bismarck
+commons: Bundesarchiv Bild 146-2005-0057, Otto von Bismarck.jpg
+legende: Bismarck
+credit: Jacques Pilartz, 1890
+pour: bismarck
+
+= moltke
+commons: Helmuth Karl Bernhard von Moltke, Count von Moltke by Carl Günther circa 1860.png
+legende: Moltke
+credit: Missing Name, 1860
+pour: moltke
+
+= albrecht-von-roon
+commons: Count Albrecht von Roon circa 1870.jpg
+legende: Roon
+credit: Carl Günther, 1870
+pour: albrecht-von-roon
+
+= kronprinz-frederic-guillaume
+commons: Bundesarchiv Bild 146-2004-0099, Kaiser Friedrich III..jpg
+legende: Le Kronprinz Frédéric-Guillaume
+credit: Reichard & Lindner, 1875
+pour: kronprinz-frederic-guillaume
+
+= prince-frederic-charles
+commons: Friedrich-Karl-Preußen.JPG
+legende: Le prince Frédéric-Charles
+credit: Moritz Klinkicht
+pour: prince-frederic-charles
+
+= steinmetz
+commons: Karl Friedrich von Steinmetz.jpg
+legende: Steinmetz
+credit: auteur inconnu
+pour: steinmetz
+
+= albert-de-saxe
+commons: Albert of Saxony by Nicola Perscheid c1900.jpg
+legende: Albert de Saxe
+credit: Nicola Perscheid, 1900
+pour: albert-de-saxe
+
+= von-der-tann
+commons: Ludwig Freiherr von der Tann.jpg
+legende: Von der Tann
+credit: Franz Hanfstaengl, 1860
+pour: von-der-tann
+
+= august-von-werder
+commons: August von Werder BNF Gallica.jpg
+legende: Werder
+credit: Kunst Verlag der Photographischen Gesellschaft , Berlin. Upload,…, 1870
+pour: august-von-werder
+
+= edwin-von-manteuffel
+commons: Edwin Freiherr von Manteuffel by Adolphe Braun.png
+legende: Edwin von Manteuffel, photographié par Adolphe Braun
+credit: Studio of Adolphe Braun, 1879
+pour: edwin-von-manteuffel
+
+= august-von-goeben
+commons: August Karl Von Goeben.jpg
+legende: Goeben
+credit: auteur inconnu, 1880
+pour: august-von-goeben
+
+= blumenthal
+commons: Generalfeldmarschall Leonhard Graf von Blumenthal.JPG
+legende: Blumenthal
+credit: Kunst-Verlag der Photographischen Gesellschaft Berlin am Dönhofsplatz, 1850
+pour: blumenthal
+
+= constantin-von-alvensleben
+commons: Constantin von Alvensleben.jpg
+legende: Constantin von Alvensleben
+credit: auteur inconnu
+pour: constantin-von-alvensleben
+
+= von-bredow
+commons: General von Bredow.jpg
+legende: Von Bredow
+credit: Franz Robert Richard Brendámour, 1895
+pour: von-bredow
+
+= grand-duc-de-mecklembourg
+commons: 1823 Friedrich Franz-04.JPG
+legende: Frédéric-François II, grand-duc de Mecklembourg-Schwerin
+credit: Thyra, 2007
+pour: grand-duc-de-mecklembourg
+
+= comte-zeppelin
+commons: Ferdinand von Zeppelin.jpg
+legende: Le comte Zeppelin
+credit: auteur inconnu
+pour: comte-zeppelin
+
+= louis-ii-de-baviere
+commons: König Ludwig II. von Bayern in Generalsuniform mit dem Krönungsmantel.jpg
+legende: Louis II de Bavière
+credit: Ferdinand von Piloty (1828-1895), 1865
+pour: louis-ii-de-baviere
+
+= combat-de-sarrebruck
+commons: Anonymous - Sarrebruck après la bataille, le 5 août 1870 - P394 - Musée Carnavalet.jpg
+legende: Sarrebruck après la bataille, le 5 août 1870
+credit: auteur inconnu, 1870
+pour: combat-de-sarrebruck
+
+= combat-de-sarrebruck-2
+commons: L'Éclatante Victoire de Sarrebrück.jpg
+legende: Le manuscrit du sonnet de Rimbaud « L’Éclatante Victoire de Sarrebrück »
+credit: Arthur Rimbaud, 1870
+pour: combat-de-sarrebruck
+
+= bataille-de-wissembourg
+commons: Battle of wissembourg.png
+legende: Carte allemande de la bataille de Wissembourg, 4 août 1870
+credit: J. Scheibert, 1892
+pour: bataille-de-wissembourg
+
+= bataille-de-froeschwiller-woerth
+commons: Battle of Worth MKL Bd. 16 1890 (128536185).jpg
+legende: La bataille de Wœrth, carte du dictionnaire allemand Meyers (1890)
+credit: auteur inconnu, 1890
+pour: bataille-de-froeschwiller-woerth
+
+= bataille-de-spicheren
+commons: Bataille de Forbach, 6 août 1870 - Jean-Adolphe Bocquin et Jules Férat (cropped1).jpg
+legende: « Bataille de Forbach, 6 août 1870 », lithographie éditée par Eugène Jouy
+credit: Jean-Adolphe Bocquin / Jules Férat / Adam Cuerden, 1870
+pour: bataille-de-spicheren
+
+= bataille-de-spicheren-2
+commons: Battle of Spicheren.png
+legende: Les positions françaises et allemandes à Spicheren vers 18 h, le 6 août 1870
+credit: auteur inconnu, 1890
+pour: bataille-de-spicheren
+
+= bataille-de-borny
+commons: Battle of Borny (P. Didion, 1874).jpg
+legende: La bataille de Borny, par Paulin Didion
+credit: Paulin Didion, 1872
+pour: bataille-de-borny
+
+= bataille-de-borny-2
+commons: Schlacht1871Inf.5.jpg
+legende: Carte tactique allemande de la bataille de Colombey-Nouilly (Borny)
+credit: Kriegsgeschichtliche Abteilung I, 2015
+pour: bataille-de-borny
+
+= bataille-de-mars-la-tour
+commons: Battle-Mars-Le-Tour-large.jpg
+legende: La bataille de Mars-la-Tour, 16 août 1870
+credit: auteur inconnu, 1870
+pour: bataille-de-mars-la-tour
+
+= bataille-de-mars-la-tour-2
+commons: Battle of Mars-La-Tour, August 16,1870 by Emil Hünten.jpg
+legende: La bataille de Mars-la-Tour, par Emil Hünten
+credit: Painter: Emil Hünten / Photograph: Rauantiques, 2018
+pour: bataille-de-mars-la-tour
+
+= bataille-de-gravelotte
+commons: AlphonseNeuvilleFriedhofSaint-PrivatL1100806 (2).jpg
+legende: *Le Cimetière de Saint-Privat*, d’Alphonse de Neuville
+credit: Alphonse de Neuville, 1881
+pour: bataille-de-gravelotte
+
+= bataille-de-gravelotte-2
+commons: 1870 Tod des Majors von Halden.jpg
+legende: La mort du major von Halden à Gravelotte, le 18 août 1870
+credit: Carl Röchling, 1920
+pour: bataille-de-gravelotte
+
+= bataille-de-noisseville
+commons: Battle of Saint-Barbe (Noisseville, P. Didion).jpg
+legende: La bataille de Sainte-Barbe, dite de Noisseville, par Paulin Didion
+credit: Paulin Didion, 1871
+pour: bataille-de-noisseville
+
+= bataille-de-beaumont
+commons: Bataille de Beaumont (1870).jpg
+legende: Carte de la bataille de Beaumont, d’après l’*Histoire de la guerre de 1870-71* de Paul et Victor Margueritte
+credit: BrunoLC, 2014
+pour: bataille-de-beaumont
+
+= bataille-de-bazeilles
+commons: Marines contre bavarois 043.JPG
+legende: Les combats devant l’auberge Bourgerie, tableau exposé à la Maison de la dernière cartouche
+credit: G.Garitan, 2012
+pour: bataille-de-bazeilles
+
+= bataille-de-bazeilles-2
+commons: Dernière cartouche 996.JPG
+legende: La Maison de la dernière cartouche, à Bazeilles
+credit: G.Garitan, 2012
+pour: bataille-de-bazeilles
+
+= bataille-de-sedan
+commons: Nap sedan von Wilhelm Camphausen.jpg
+legende: Napoléon III à Sedan, par Wilhelm Camphausen (Deutsches Historisches Museum, Berlin)
+credit: Wilhelm Camphausen
+pour: bataille-de-sedan
+
+= bataille-de-sedan-2
+commons: Battle of Sedan Bd. 14 1890 (128642685).jpg
+legende: La bataille de Sedan, carte du dictionnaire allemand Meyers (1890)
+credit: auteur inconnu, 1890
+pour: bataille-de-sedan
+
+= defense-de-chateaudun
+commons: Gravure de la bataille de Chateaudun.jpg
+legende: Le combat sur la place de Châteaudun, le 18 octobre 1870 au soir (gravure)
+credit: auteur inconnu, 1871
+pour: defense-de-chateaudun
+
+= bataille-de-coulmiers
+commons: Bataille de Coulmiers.jpg
+legende: *Salut à la victoire* (Coulmiers), tableau d’Étienne Dujardin-Beaumetz
+credit: Henri-Charles-Etienne Dujardin-Beaumetz, 1911
+pour: bataille-de-coulmiers
+
+= bataille-de-coulmiers-2
+commons: Bataille de Coulmiers, reprise d'Orléans. Paris Musées 20230527180451.jpg
+legende: « Bataille de Coulmiers, reprise d’Orléans », lithographie de Napoléon Thomas
+credit: Thomas, Napoléon, dessinateur-lithographe, 1870
+pour: bataille-de-coulmiers
+
+= bataille-de-beaune-la-rolande
+commons: Beaune-la-Rolande Beauquesne.jpg
+legende: Bataille de Beaune-la-Rolande (1870), tableau de Beauquesne
+credit: Wilfrid Constant Beauquesne (1840-1913), 1913
+pour: bataille-de-beaune-la-rolande
+
+= bataille-de-loigny
+commons: La bataille de Loigny C Castellani (1879).jpg
+legende: *La Bataille de Loigny*, de Charles Castellani (1879)
+credit: Charles Castellani, 1879
+pour: bataille-de-loigny
+
+= seconde-bataille-d-orleans
+commons: Entrée des Allemands à Orléans.jpg
+legende: Entrée des Allemands à Orléans, 1870. Tableau de Ludwig Braun
+credit: Ludwig Braun (1836-1916), 1911
+pour: seconde-bataille-d-orleans
+
+= bataille-du-mans
+commons: Bataille du Mans.jpg
+legende: Bataille du Mans. Tableau de Maurice Orange
+credit: Maurice Orange (1868-1916), 1911
+pour: bataille-du-mans
+
+= bataille-du-mans-2
+commons: Lionel Royer - Bataille d'Auvours, le 10 janvier 1871 (1874).jpg
+legende: Bataille d'Auvours, le 10 janvier 1871
+credit: Lionel Royer, 1874
+pour: bataille-du-mans
+
+= bataille-de-champigny
+commons: Champigny, le four à chaux (détail).jpg
+legende: La Bataille de Champigny
+credit: Alphonse de Neuville, 1880
+pour: bataille-de-champigny
+
+= bataille-de-champigny-2
+commons: Schlacht bei Villiers.jpg
+legende: Plan allemand de la bataille de Villiers (Champigny)
+credit: auteur inconnu
+pour: bataille-de-champigny
+
+= combats-du-bourget
+commons: 1870 bei Le Bourget.jpg
+legende: Les grenadiers de la Garde prussienne au premier combat du Bourget
+credit: Carl Röchling, 1908
+pour: combats-du-bourget
+
+= combats-du-bourget-2
+commons: Bivouac après le combat du Bourget, 21 décembre 1870.jpg
+legende: Bivouac après le combat du Bourget, 21 décembre 1870
+credit: Alphonse de Neuville, 1873
+pour: combats-du-bourget
+
+= bataille-de-buzenval
+commons: Bataille de Buzenval. Paris Musées 20230527181503.jpg
+legende: « Bataille de Buzenval », lithographie de la série *La Guerre de 1870-1871*
+credit: Anonyme, dessinateur-lithographe, 1870
+pour: bataille-de-buzenval
+
+= bataille-de-buzenval-2
+commons: Henri Regnault par Berthaud BNF Gallica.jpg
+legende: Le peintre Henri Regnault, tué à Buzenval
+credit: Michel Berthaud, 1865
+pour: bataille-de-buzenval
+
+= bataille-d-amiens
+commons: Villers-Bretonneux.jpg
+legende: Carte des environs d'Amiens
+credit: Rousset
+pour: bataille-d-amiens
+
+= bataille-de-pont-noyelles
+commons: Bataille de Pont-Noyelles.jpg
+legende: Bataille de Pont-Noyelles. Tableau de Ludwig Braun
+credit: Ludwig Braun (1836-1916), 1911
+pour: bataille-de-pont-noyelles
+
+= bataille-de-bapaume
+commons: Bapaume-tableau-Faidherbe.jpg
+legende: Le Général Faidherbe au combat de Biefviller-lès-Bapaume, 3 janvier 1871
+credit: Charles Édouard Armand-Dumaresq, 1883
+pour: bataille-de-bapaume
+
+= bataille-de-saint-quentin
+commons: PD 204 - SAINT-QUENTIN - Les prussiens sur la Grand'Place en 1871.jpg
+legende: Les Prussiens sur la Grand-Place de Saint-Quentin en 1871 (carte postale ancienne)
+credit: Scanné Par Claude Shoshany, 1904
+pour: bataille-de-saint-quentin
+
+= bataille-de-saint-quentin-2
+commons: Richard Knötel - Die 7. Uhlanen in der Schlacht bei St. Quentin (19. Jannuar 1871).jpg
+legende: Le 7e uhlans à la bataille de Saint-Quentin, le 19 janvier 1871, par Richard Knötel
+credit: Richard Knötel, 1914
+pour: bataille-de-saint-quentin
+
+= bataille-de-nompatelize
+commons: Bataille de Nompatelize.png
+legende: Le bataillon des mobiles de la Meurthe à la bataille de Nompatelize, le 6 octobre 1870
+credit: Joseph-Émile Gridel, 1874
+pour: bataille-de-nompatelize
+
+= batailles-de-dijon
+commons: Garibaldi in Dijon.jpg
+legende: Garibaldi à Dijon, pendant l’hiver 1870-1871
+credit: Sebastiano De Albertis, 1877
+pour: batailles-de-dijon
+
+= bataille-de-villersexel
+commons: Bataille de Villersexel - 01.jpg
+legende: Bataille de Villersexel, 1871. Tableau d'Alphonse de Neuville
+credit: Alphonse de Neuville, 1885
+pour: bataille-de-villersexel
+
+= bataille-d-hericourt
+commons: Bataille Lizaine.jpg
+legende: Bataille de la Lizaine en 1871
+credit: JP. Neri, 2004
+pour: bataille-d-hericourt
+
+= retraite-de-l-armee-de-l-est
+commons: Armée-Bourb-en-Suisse.jpg
+legende: Armée de Bourbaki en Suisse en 1871
+credit: Edouard Castres, 1881
+pour: retraite-de-l-armee-de-l-est
+
+= retraite-de-l-armee-de-l-est-2
+commons: Bourbaki Panorama.jpg
+legende: Le bâtiment du panorama Bourbaki, à Lucerne
+credit: Leiju, 2011
+pour: retraite-de-l-armee-de-l-est
+
+= pont-de-fontenoy
+commons: Fontenoy sur moselle 064.JPG
+legende: La mairie et l'église de Fontenoy-sur-Moselle
+credit: Gérald Garitan, 2010
+pour: pont-de-fontenoy
+
+= siege-de-strasbourg
+commons: StrasbourgSiege.png
+legende: La capitulation de Strasbourg : le départ des prisonniers français (*Illustrated London News*, octobre 1870)
+credit: Arthur Hopkins / After William Simpson, 1870
+pour: siege-de-strasbourg
+
+= siege-de-strasbourg-2
+commons: Strassburg vom Steintor aus 28 Sept 1870.jpg
+legende: Strasbourg vue de la porte de Pierre, le 28 septembre 1870
+credit: Charles David Winter, 1870
+pour: siege-de-strasbourg
+
+= siege-de-metz
+commons: Freyberg – Übergabe von Metz.jpg
+legende: *La Reddition de Metz*, tableau de Conrad Freyberg
+credit: Conrad Freyberg, 1876
+pour: siege-de-metz
+
+= siege-de-metz-2
+commons: Régnier (E. Appert).jpg
+legende: Édouard Régnier, photographié par Eugène Appert pour le procès Bazaine
+credit: Eugène Appert, 1873
+pour: siege-de-metz
+
+= siege-de-paris
+commons: Siege of Paris.jpg
+legende: Le siège de Paris
+credit: Jean-Louis-Ernest Meissonier, 1870
+pour: siege-de-paris
+
+= siege-de-paris-2
+commons: Investissement de Paris, 17 septembre 1870 - 28 janvier 1871 (18 btv1b8444518t 1).jpg
+legende: Investissement de Paris, 17 septembre 1870 - 28 janvier 1871. Emplacement des troupes Allemandes en octobre 1870. Attaque du Bourget par la Garde…
+credit: Capitaine Lannegrace et commandant Ferré, 1888
+pour: siege-de-paris
+
+= vie-a-paris-pendant-le-siege
+commons: Abattage d'un éléphant du Jardin des plantes pendant le Siège de Paris - 1871 (cropped).jpg
+legende: L’abattage d’un éléphant du Jardin des plantes pendant le siège (lithographie)
+credit: Anonyme, dessinateur-lithographe, 1871
+pour: vie-a-paris-pendant-le-siege
+
+= bombardement-de-paris
+commons: Braun, Adolphe (1811-1877) - Paris, 1871 - St Cloud, La place.jpg
+legende: Saint-Cloud en ruine, photographié par Adolphe Braun en 1871
+credit: Adolphe Braun
+pour: bombardement-de-paris
+
+= siege-de-belfort
+commons: LionBelfort.jpg
+legende: Le Lion de Belfort
+credit: Jean-Christophe BENOIST
+pour: siege-de-belfort
+
+= siege-de-bitche
+commons: Bitche (Zitadelle).jpg
+legende: La citadelle de Bitche, au-dessus de la ville
+credit: Pwagenblast, 2023
+pour: siege-de-bitche
+
+= siege-de-phalsbourg
+commons: Phalsbourg monument des 3 sieges6.jpg
+legende: Monument des 3 sièges à Phalsbourg
+credit: Didivo67, 2022
+pour: siege-de-phalsbourg
+
+= siege-de-phalsbourg-2
+commons: Pierre Taillant.jpg
+legende: Pierre Taillant, commandant de la place de Phalsbourg en 1870
+credit: Dupont (Meaux), 2021
+pour: siege-de-phalsbourg
+
+= lichtenberg-et-la-petite-pierre
+commons: Lichtenberg Alsace 05.jpg
+legende: Le château de Lichtenberg aujourd’hui
+credit: Getüm, 2007
+pour: lichtenberg-et-la-petite-pierre
+
+= lichtenberg-et-la-petite-pierre-2
+commons: Chateau de La Petite-Pierre.jpg
+legende: Le château de La Petite-Pierre
+credit: Ralf Schulze from Koblenz, Germany, 2008
+pour: lichtenberg-et-la-petite-pierre
+
+= siege-de-toul
+commons: Toul Monument des morts 2.JPG
+legende: À Toul, la sculpture centrale du monument aux victimes de la guerre de 1870
+credit: Ad Meskens, 2011
+pour: siege-de-toul
+
+= siege-de-toul-2
+commons: Bilder aus dem Deutsch-französischen Kriege 1870. Nr. 9. Episode aus der Belagerung von Toul. Paris Musées 20230603023403.jpg
+legende: Épisode du siège de Toul, gravure allemande de la série *Bilder aus dem Deutsch-französischen Kriege*
+credit: auteur inconnu, 1870
+pour: siege-de-toul
+
+= siege-de-neuf-brisach
+commons: Aerial image of Neuf-Brisach (view from the southwest).jpg
+legende: Vue aérienne de Neuf-Brisach (vue depuis le sud-ouest)
+credit: Carsten Steger, 2025
+pour: siege-de-neuf-brisach
+
+= siege-de-neuf-brisach-2
+commons: Neuf-Brisach, Porte du Fort Mortier 1.jpg
+legende: Le Porte du Fort Mortier à Neuf-Brisach (Propriété privée, fermée aux visiteurs.)
+credit: Rauenstein, 2022
+pour: siege-de-neuf-brisach
+
+= siege-de-longwy
+commons: Longwy Porte de France.JPG
+legende: La porte de France, reste des fortifications de la ville haute de Longwy
+credit: Carl-9000, 2007
+pour: siege-de-longwy
+
+= citadelle-de-laon
+commons: FR-02-Laon10.JPG
+legende: L’entrée de la citadelle de Laon
+credit: Szeder László, 2007
+pour: citadelle-de-laon
+
+= garde-mobile
+commons: 16 Garde mobile – Officier. Paris Musées 20230810080640.jpg
+legende: Un officier de la garde mobile, lithographie de Draner
+credit: Draner (Liège, 11–11–1833 - Paris, 1926), dessinateur-lithographe, 1871
+pour: garde-mobile
+
+= garde-nationale
+commons: Barricade du passage Raoul, Boulevard Richard-Lenoir.18 mars 1871. PH4142-173.jpg
+legende: Une barricade du passage Raoul, boulevard Richard-Lenoir, le 18 mars 1871
+credit: auteur inconnu, 1870
+pour: garde-nationale
+
+= francs-tireurs
+commons: Francs-tireurs.jpg
+legende: Paysans des Vosges faisant le coup de feu
+credit: Loki11
+pour: francs-tireurs
+
+= armee-de-l-est
+commons: Anker Bourbakis 1871.jpg
+legende: Soldats de l’armée de Bourbaki internés en Suisse, par Albert Anker (1871)
+credit: Albert Anker, 1871
+pour: armee-de-l-est
+
+= armee-des-vosges
+commons: Doc11garib.jpg
+legende: L’état-major de Garibaldi, image populaire de la guerre de 1870-1871
+credit: auteur inconnu
+pour: armee-des-vosges
+
+= camp-de-conlie
+commons: Monument des Bretons.jpg
+legende: Le monument des Bretons, sur le site du camp de Conlie
+credit: FCNantes72, 2015
+pour: camp-de-conlie
+
+= landwehr
+commons: Auszug der Ostpr. Landwehr 1813.JPG
+legende: Le départ de la Landwehr de Prusse-Orientale en 1813, l’année de sa création
+credit: Gustav Graef, 1860
+pour: landwehr
+
+= chemins-de-fer
+commons: 070000 - Ligne de Paris-Est à Strasbourg-Ville.png
+legende: La ligne de Paris à Strasbourg (tracé actuel)
+credit: Poudou99, 2020
+pour: chemins-de-fer
+
+= fusil-chassepot
+commons: Chassepot-p1000738.jpg
+legende: Un fusil Chassepot modèle 1866
+credit: Rama
+pour: fusil-chassepot
+
+= fusil-chassepot-2
+commons: Chassepot-diag.jpg
+legende: Le mécanisme du Chassepot
+credit: Rama
+pour: fusil-chassepot
+
+= fusil-dreyse
+commons: Zuendnadelgewehr.jpg
+legende: Le fusil à aiguille Dreyse
+credit: Sendker, 2007
+pour: fusil-dreyse
+
+= mitrailleuse-de-reffye
+commons: Mitrailleuse front.jpg
+legende: Une mitrailleuse de Reffye, vue de face
+credit: auteur inconnu
+pour: mitrailleuse-de-reffye
+
+= canon-krupp
+commons: C61 Saarlouis.JPG
+legende: Un canon prussien C/61 en acier Krupp, à Sarrelouis
+credit: Piusfuchs, 2009
+pour: canon-krupp
+
+= canon-krupp-2
+commons: C 64 67 01.jpg
+legende: Canon de campagne prussien de 4 livres, modèle C/64-67, en acier Krupp
+credit: Holger Kotthaus, 2008
+pour: canon-krupp
+
+= artillerie-francaise
+commons: Canon de montagne de 4 modele 1859 Le Petulant.jpg
+legende: Le canon de montagne de 4 modèle 1859 « Le Pétulant »
+credit: PHGCOM, 2008
+pour: artillerie-francaise
+
+= ballons-du-siege
+commons: Le Neptune Nadar.jpg
+legende: Le *Neptune*, premier ballon parti de Paris assiégé, sur la place Saint-Pierre à Montmartre (photographie de Nadar)
+credit: auteur inconnu
+pour: ballons-du-siege
+
+= pigeons-voyageurs
+commons: Le Pigeon-Pierre Puvis de Chavannes-IMG 8272.JPG
+legende: *Le Pigeon*, de Pierre Puvis de Chavannes
+credit: Pierre Puvis de Chavannes, 1871
+pour: pigeons-voyageurs
+
+= fortifications-de-paris
+commons: Paris PC 1859 jms.jpg
+legende: Paris et ses fortifications en 1859
+credit: J.M. Schomburg, aka ThePromenader, 2013
+pour: fortifications-de-paris
+
+= fusils-bavarois
+commons: Werder-Gewehr-M1869-Bayern-AM.033360.png
+legende: Un fusil Werder modèle 1869 de l’armée bavaroise
+credit: Swedish Army Museum ( ), 2014
+pour: fusils-bavarois
+
+= idee-de-revanche
+commons: The Geography Lesson or "The Black Spot".jpg
+legende: *La Tache noire* ou *La Leçon de géographie*, d’Albert Bettannier
+credit: Albert Bettannier, 1887
+pour: idee-de-revanche
+
+= tombes-et-monuments
+commons: Monument morts Mars la Tour.jpg
+legende: Le monument de Mars-la-Tour, sculpté par Frédéric Bogino
+credit: Original uploader was Aimelaime at fr.wikipedia, 2011
+pour: tombes-et-monuments
+
+= memoire-allemande
+commons: SedanBrandenburgerTor.jpg
+legende: La porte de Brandebourg, à Berlin, pavoisée pour les vingt-cinq ans de Sedan (1895)
+credit: Scanned by Immanuel Giel, 2005
+pour: memoire-allemande
+
+= peinture-de-la-guerre
+commons: Alphonse-Marie-Adolphe de Neuville - Les dernières cartouches (1873).jpg
+legende: *Les Dernières Cartouches*, d’Alphonse de Neuville (1873)
+credit: Alphonse de Neuville, 1873
+pour: peinture-de-la-guerre
+
+= litterature-de-la-guerre
+commons: Groupe de Médan.jpg
+legende: Le groupe de Médan
+credit: auteur inconnu, 1850
+pour: litterature-de-la-guerre
+
+= proces-de-bazaine
+commons: Duc d'Aumale LACMA AC1992.229.118.jpg
+legende: Le duc d’Aumale, qui présida le conseil de guerre de Trianon
+credit: Ernest Charles Eugène Appert (France, 1830-1891), 1876
+pour: proces-de-bazaine
+
+= traite-de-francfort
+commons: Frieden von Frankfurt am Main.jpg
+legende: Le traité de Francfort et la plume avec laquelle Bismarck le signa
+credit: Sendker
+pour: traite-de-francfort
+
+= commune-de-paris
+commons: Destruction de la colonne Vendôme.jpg
+legende: Destruction de la colonne Vendôme pendant la Commune de Paris
+credit: Bruno Braquehais, 1871
+pour: commune-de-paris
+
+= commune-de-paris-2
+commons: Colonne vendome.jpg
+legende: La colonne Vendôme renversée, mai 1871
+credit: André Adolphe-Eugène Disdéri (1819 - 1889), 1871
+pour: commune-de-paris
+
+= zouaves-pontificaux
+commons: Papal Zouave.jpg
+legende: Un zouave pontifical
+credit: Photographer, Fratelli D'Alessandri , Roma, 1865
+pour: zouaves-pontificaux
+
+= marine-en-1870
+commons: Das Seegefecht vor Havanna am 9. November 1870. Llinks das norddeutschen Kanonenboot SMS METEOR, rechts der französische Aviso BOUVET. Illustration von Hermann Penner.jpg
+legende: Le combat de La Havane, 9 novembre 1870 : à gauche la canonnière allemande *Meteor*, à droite l’aviso français *Bouvet* (illustration de Hermann Penner)
+credit: Hermann Penner, 2015
+pour: marine-en-1870
+
+= service-de-sante
+commons: Original Geneva Conventions.jpg
+legende: Fac-similé de la première convention de Genève (1864)
+credit: Kevin Quinn, Ohio, US, 2005
+pour: service-de-sante
+
+= canon-de-7
+commons: Commune de Paris Les canons 18 mars 1871.jpg
+legende: Les canons repris à l’armée devant la mairie du 18e arrondissement, le 18 mars 1871
+credit: J. Gaildrau
+pour: canon-de-7
+
+= juliette-dodu
+commons: Juliette Dodu — Leonore.png
+legende: Juliette Dodu
+credit: auteur inconnu
+pour: juliette-dodu
+
+= consequences-de-la-guerre
+commons: Breccia di Porta Pia Ademollo.jpg
+legende: La brèche de la Porta Pia : les troupes italiennes entrent dans Rome le 20 septembre 1870 (tableau de Carlo Ademollo)
+credit: Carlo Ademollo, 1880
+pour: consequences-de-la-guerre
+
+= telegraphe-en-1870
+commons: Boule de Moulin 2017.jpg
+legende: Une boule de Moulins, exposée au musée de l’Armée
+credit: Siren-Com, 2017
+pour: telegraphe-en-1870
+
+= chansons-et-images
+commons: Alsace et lorraine.JPG
+legende: La partition d’« Alsace et Lorraine »
+credit: auteur inconnu, 1871
+pour: chansons-et-images
+
+= sur-les-champs-de-bataille-d-alsace
+commons: Woerth-Château (5).jpg
+legende: Le château de Wœrth, qui abrite le musée de la bataille du 6 août 1870
+credit: Ji-Elle, 2011
+pour: sur-les-champs-de-bataille-d-alsace
+
+= lieux-de-memoire
+commons: Musée de la Guerre de 1870 et de l'Annexion, également musée de Gravelotte.jpg
+legende: Le musée de la Guerre de 1870 et de l’Annexion, à Gravelotte
+credit: Cristo6772, 2019
+pour: lieux-de-memoire

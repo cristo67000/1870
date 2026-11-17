@@ -1,0 +1,417 @@
+# 1870 — lot 07 : les batailles de la Loire et les sorties de Paris, du combat de Châtillon
+# (19 septembre 1870) à Buzenval (19 janvier 1871). Douze articles, dans l'ordre du plan. Faits,
+# heures et pertes recoupés entre Wikipédia (fr, de, en : texte et boîtes d'information), le récit
+# de Moltke (trad. anglaise de 1891, Project Gutenberg) et le site loire1870.fr pour les journées
+# de la Loire ; coordonnées tirées de Wikipédia.
+
+@ combat-de-chatillon
+cat: batailles
+nom: Combat de Châtillon
+alias: première bataille de Châtillon, redoute de Châtillon, Moulin de la Tour, Petit-Bicêtre, Plessis-Piquet, Villacoublay, ferme de Trivaux, Gefecht bei Sceaux, Gefecht bei Petit-Bicêtre
+dates: 19 septembre 1870
+quand: 1870-09-19
+def: Le 19 septembre 1870, [[ducrot]] lance le 14e corps contre le flanc des colonnes allemandes qui contournent Paris par le sud. Ses jeunes troupes cèdent à la panique, le plateau de Châtillon est perdu et, le soir même, l'investissement de la capitale est complet.
+texte: Le 18 septembre 1870, le Ve corps prussien de Kirchbach et le IIe corps bavarois de Hartmann, de la IIIe armée du [[kronprinz-frederic-guillaume|Kronprinz]], défilent au sud de Paris en direction de Versailles. Leur route passe au pied des hauteurs de Châtillon, de Clamart et de Meudon, d'où l'on voit à moins de trois kilomètres les forts d'Issy, de Vanves et de Montrouge. [[trochu|Trochu]], gouverneur de Paris, ne veut tenir que la ligne des [[fortifications-de-paris|forts]]. Ducrot, échappé aux Allemands après [[bataille-de-sedan|Sedan]], obtient de garder le plateau, où l'on achève à la hâte une redoute de terre au lieu-dit le Moulin de la Tour, et de frapper les colonnes en marche. Il dispose du 14e corps, formé en quelques jours : des régiments de marche faits des quatrièmes bataillons des dépôts, un régiment de marche de zouaves, des [[garde-mobile|mobiles]] de la Seine.
+texte: Le 19, à l'aube, dans le brouillard, deux divisions sortent des bois de Meudon vers le Petit-Bicêtre et Villacoublay, bousculent les avant-postes de la 9e division prussienne et incendient la ferme du Petit-Bicêtre. Vers 8 h 30, une cinquantaine de pièces françaises sont en batterie. Mais le reste du Ve corps arrive, et une brigade bavaroise accourt au bruit du canon. Trois régiments de marche lancés contre le Petit-Bicêtre et le bois de la Garenne sont reçus par un feu meurtrier ; ce sont de jeunes recrues, que Ducrot lui-même ne parvient pas à porter en avant. Quelques obus tombent sur les zouaves postés à la ferme de Trivaux : ils s'enfuient d'une traite jusqu'à Paris. La division Caussade reflue par Clamart vers la ville ; à gauche, la division Maussion abandonne Bagneux en invoquant un ordre mal compris.
+texte: Le plateau, lui, tient encore. Autour de la redoute, neuf batteries de campagne battent tout le terrain, et la 3e division bavaroise doit enlever pied à pied le moulin et le parc du Plessis-Piquet. Au milieu de l'après-midi, Ducrot fait enclouer les pièces de la redoute et se retire parmi les derniers vers le fort de Vanves ; vers 15 h, une compagnie bavaroise entre dans l'ouvrage vide. Le soir, le Ve corps entre à Versailles et l'anneau se ferme : c'est le premier jour du [[siege-de-paris|siège de Paris]]. Le même jour, à Ferrières, Jules Favre rencontre Bismarck ([[entrevue-de-ferrieres]]).
+texte: Le retour du 14e corps en désordre sème une telle alarme que Trochu rappelle de Vincennes une division du 13e corps pour garder l'enceinte, puis fait évacuer les positions avancées. La perte du plateau pèse sur tout le siège : c'est de là que, le 5 janvier 1871, les batteries allemandes ouvriront le feu sur les forts du sud et sur la rive gauche ([[bombardement-de-paris]]). Le 13 octobre, une reconnaissance sur Bagneux et Châtillon reprend quelques maisons, puis rentre dans les lignes. Après la guerre, on bâtira près de l'ancienne redoute le fort de Châtillon.
+repere: 18 septembre 1870 — Le Ve corps prussien et le IIe corps bavarois défilent au sud de Paris vers Versailles.
+repere: 19 septembre 1870, aube — Deux divisions du 14e corps attaquent vers le Petit-Bicêtre et Villacoublay, dans le brouillard.
+repere: 19 septembre 1870, vers 8 h 30 — Une cinquantaine de canons français sont en batterie ; l'attaque des régiments de marche échoue devant le bois de la Garenne.
+repere: 19 septembre 1870, vers 9 h — Le gros du IIe corps bavarois, pris sous le feu devant Fontenay-aux-Roses, marche sur le Plessis-Piquet.
+repere: 19 septembre 1870, matinée — Les zouaves de la ferme de Trivaux s'enfuient vers Paris ; la division Caussade se replie sur la ville, la division Maussion quitte Bagneux.
+repere: 19 septembre 1870, vers 15 h — Une compagnie bavaroise entre dans la redoute du Moulin de la Tour, abandonnée, ses pièces enclouées.
+repere: 19 septembre 1870, soir — Le Ve corps entre à Versailles ; l'investissement de Paris est complet.
+repere: 5 janvier 1871 — Les batteries allemandes du plateau de Châtillon ouvrent le feu sur les forts du sud et la rive gauche.
+attention: Les « zouaves » de Châtillon formaient un régiment de marche improvisé en septembre avec un bataillon de chacun des trois régiments de zouaves : rien de la cohésion des régiments aguerris de Frœschwiller. Leur fuite a fait oublier que le reste du corps a tenu le plateau jusqu'à l'après-midi. À ne pas confondre avec le second combat du 13 octobre, à Bagneux et Châtillon, ni avec le combat de Châtillon-sur-Seine, livré le 19 novembre 1870 par les francs-tireurs de Ricciotti Garibaldi.
+issue: victoire allemande
+effectifs: 30000 | 15000
+pertes: 960 | 443
+chefs: Auguste-Alexandre Ducrot | Hugo von Kirchbach et Jakob von Hartmann
+chiffres: Effectifs mal établis : 30 000 à 45 000 Français sous les ordres de Ducrot selon les sources, dont deux divisions seulement attaquent ; environ 15 000 Allemands engagés, la plupart en fin de combat (estimation de la Wikipédia allemande). Pertes selon Moltke : 265 hommes au IIe corps bavarois et 178 au Ve corps ; côté français, 661 tués ou blessés (la traduction anglaise dit « killed ») et plus de 300 prisonniers. Huit ou neuf pièces sont restées dans la redoute.
+geo: 48.7906, 2.2761
+lieu: Plateau de Châtillon, Châtillon et Fontenay-aux-Roses, Hauts-de-Seine, France
+lien: wp Première bataille de Châtillon (1870)
+lien: de Gefecht bei Sceaux
+sources: H. von Moltke, The Franco-German War of 1870-71 (trad. anglaise 1891, Project Gutenberg), chapitre « Investment of Paris » ; Wikipédia (fr : Première bataille de Châtillon (1870), Siège de Paris (1870-1871), Chronologie du siège de Paris (1870-1871) ; de : Gefecht bei Sceaux, Belagerung von Paris (1870–1871) ; en : Battle of Châtillon, Fort de Châtillon, dont les coordonnées sont reprises).
+voir: ducrot, trochu, siege-de-paris, fortifications-de-paris, bombardement-de-paris, garde-mobile, entrevue-de-ferrieres
+
+@ prise-d-orleans
+cat: batailles
+nom: Artenay et la première prise d'Orléans
+alias: combat d'Artenay, Gefecht bei Artenay, première bataille d'Orléans, combat d'Orléans, Les Aydes, Saran, Ormes, faubourg Bannier, La Motte-Rouge
+dates: 10 – 11 octobre 1870
+quand: 1870-10-10
+jusqu: 1870-10-11
+def: Les 10 et 11 octobre 1870, les Bavarois de [[von-der-tann|von der Tann]] battent à Artenay le 15e corps, premier noyau de l'[[armee-de-la-loire|armée de la Loire]], puis enlèvent Orléans au soir d'un long combat de faubourgs contre une arrière-garde qui couvre la retraite du gros derrière la Loire.
+texte: À la fin de septembre 1870, la [[delegation-de-tours|Délégation de Tours]] rassemble autour d'Orléans le 15e corps de La Motte-Rouge : des régiments de marche, des [[garde-mobile|mobiles]], quelques régiments rappelés d'Algérie. Pour couvrir au sud le [[siege-de-paris|siège de Paris]], [[moltke]] place le 6 octobre sous les ordres de von der Tann le Ier corps bavarois, la 22e division prussienne de Wittich et deux divisions de cavalerie. Le 10, la colonne marche sur Artenay, sur la route de Paris, à vingt kilomètres au nord d'Orléans, où La Motte-Rouge a porté son avant-garde.
+texte: Vers 10 h, les Bavarois se déploient devant Artenay, l'infanterie au centre avec quatre-vingts pièces, une division de cavalerie sur chaque aile. En face, des mobiles de la Nièvre et du Cher, des chasseurs, un régiment de marche, des tirailleurs algériens et deux brigades de cavalerie, quelque 8 000 hommes et seize canons. Écrasés par l'artillerie, menacés sur leurs flancs, ils reculent vers 14 h en laissant leurs tentes debout, et la retraite tourne à la débandade. Les cavaliers allemands prennent quatre canons et 250 prisonniers ; 600 hommes se rendent à la Croix-Briquet. Artenay est occupé vers 16 h.
+texte: La Motte-Rouge décide alors de repasser la Loire et laisse sur la rive droite une arrière-garde. Le 11, dès 6 h, les Allemands attaquent. À droite, la 22e division bute vers 10 h sur les retranchements d'Ormes, que le 83e régiment enlève à 14 h ; au centre, les Bavarois s'usent devant Saran et Bel-Air, puis devant le faubourg des Aydes, où un bataillon de la Légion étrangère perd plus de la moitié de ses hommes. Une compagnie d'anciens zouaves pontificaux de Charette, bientôt nommés [[zouaves-pontificaux|Volontaires de l'Ouest]], y livre son premier combat en France. À 16 h 30, il faut encore enlever le remblai du chemin de fer, la gare et l'usine à gaz. Vers 17 h, von der Tann engage sa réserve ; vers 19 h, le 1er régiment bavarois, officiers en tête, atteint le centre de la ville, pendant que les derniers défenseurs passent le pont.
+texte: Le maire obtient l'arrêt du bombardement en annonçant l'évacuation ; von der Tann entre vers 23 h. Les Allemands ont perdu 900 à 1 250 hommes ; ils font 1 800 prisonniers et prennent 5 000 fusils, dix locomotives et soixante wagons. Moltke lui-même reconnaît à cette arrière-garde d'avoir tenu tout un jour contre des forces supérieures : en rase campagne, écrit-il, elle eût été vite battue, mais dans un combat de rues le courage suffit, et les recrues des nouvelles levées n'en manquaient pas. Le 15e corps se reforme à Salbris, derrière la Sauldre ; Gambetta, arrivé à Tours le 9, le confie à [[aurelle-de-paladines|d'Aurelle de Paladines]]. Trop faible pour aller plus loin, von der Tann s'en tient à la Loire ; la 22e division repart vers Paris en nettoyant la Beauce : c'est la route de [[defense-de-chateaudun|Châteaudun]].
+repere: 6 octobre 1870 — Von der Tann reçoit le commandement du Ier corps bavarois, de la 22e division et de deux divisions de cavalerie.
+repere: 10 octobre 1870, vers 10 h — Les Bavarois se déploient devant Artenay, sur la route de Paris à Orléans.
+repere: 10 octobre 1870, vers 14 h — Les Français reculent sous le feu de l'artillerie ; la retraite tourne à la débandade jusqu'à la Croix-Briquet.
+repere: 10 octobre 1870, vers 16 h — Le 1er régiment bavarois occupe Artenay.
+repere: 11 octobre 1870, 6 h — Les Allemands marchent sur Orléans.
+repere: 11 octobre 1870, 14 h — Le 83e régiment prussien enlève les retranchements d'Ormes.
+repere: 11 octobre 1870, vers 17 h — Von der Tann lance sa réserve, la 1re brigade bavaroise ; les défenseurs reculent sur le faubourg Saint-Jean.
+repere: 11 octobre 1870, vers 19 h — Le 1er régiment bavarois atteint le centre d'Orléans ; les Français repassent la Loire.
+repere: 11 octobre 1870, vers 23 h — Von der Tann entre dans Orléans.
+attention: On lit parfois qu'Orléans est occupée dès le 8 octobre : les Allemands n'y entrent que le 11 au soir, après deux jours de combats. Et ce n'est pas d'Aurelle de Paladines, nommé après la défaite, qui a évacué la ville, comme on le lit aussi, mais La Motte-Rouge.
+issue: victoire allemande, Orléans occupée
+effectifs: 15000 | 30000
+pertes: 3000 | 1300
+chefs: Joseph de La Motte-Rouge | Ludwig von der Tann
+chiffres: Ordres de grandeur. À Artenay, environ 8 000 Français contre une colonne bien plus forte ; ils perdent quelque 900 hommes, presque tous prisonniers, les Allemands 200. Le 11, l'arrière-garde compte 7 600 hommes selon le site loire1870, 15 000 selon Moltke, face à 30 000 à 40 000 Allemands, dont la 22e division réduite à 6 000. Pertes allemandes du 11 : 900 selon Moltke, environ 1 250 (60 officiers et 1 200 hommes) selon les décomptes repris par les Wikipédias allemande et loire1870 ; pertes françaises : 1 800 prisonniers selon Moltke, 2 000 hommes hors de combat selon loire1870, 3 000 prisonniers selon la Wikipédia allemande. Le bataillon de la Légion étrangère aurait perdu 600 tués et blessés et 250 prisonniers sur 1 350 hommes (loire1870).
+geo: 47.9514, 1.8747
+lieu: Artenay, Saran et Orléans, Loiret, France
+lien: de Gefecht bei Artenay
+lien: url https://www.loire1870.fr/pages/pa_ope/operations01.html = L'armée de la Loire 1870-1871 : les opérations d'octobre, jour par jour
+sources: H. von Moltke, The Franco-German War of 1870-71 (trad. anglaise 1891, Project Gutenberg), « Action of Artenay » et « Engagement at Orleans » ; Wikipédia (de : Gefecht bei Artenay, Schlacht von Orléans ; fr : Bataille d'Orléans (1870), Armée de la Loire, Joseph Édouard de La Motte-Rouge, Histoire du Loiret ; en : Battle of Artenay) ; loire1870.fr, opérations d'octobre 1870 ; coordonnées de Saran (Wikipédia).
+voir: von-der-tann, armee-de-la-loire, aurelle-de-paladines, delegation-de-tours, zouaves-pontificaux, defense-de-chateaudun, bataille-de-coulmiers
+
+@ defense-de-chateaudun
+cat: batailles
+nom: La défense de Châteaudun
+alias: bataille de Châteaudun, combat de Châteaudun, Schlacht bei Châteaudun, Lipowski, francs-tireurs de Paris, Ablis, Wittich
+dates: 18 octobre 1870
+quand: 1870-10-18
+jusqu: 1870-10-19
+def: Le 18 octobre 1870, environ 1 200 francs-tireurs et gardes nationaux, sans canons, défendent Châteaudun pendant une journée et une partie de la nuit contre une division prussienne. La ville est en partie incendiée ; la République en fait un symbole, et elle porte depuis 1877 la Légion d'honneur.
+texte: Après la [[prise-d-orleans|prise d'Orléans]], la 22e division prussienne du général von Wittich reprend la route de Paris avec l'ordre de disperser les volontaires signalés à Châteaudun et à Chartres. Dans la sous-préfecture d'Eure-et-Loir, perchée au-dessus du Loir, la troupe de ligne a été rappelée sur Blois. Restent environ 1 200 hommes, que commande Ernest de Lipowski, 27 ans, né à Strasbourg : 650 [[francs-tireurs|francs-tireurs]] de Paris, 400 gardes nationaux de la ville armés de fusils à piston, des compagnies franches venues de Nantes, de Cannes, de Vendôme et du Loir-et-Cher. Le 8 octobre, à Ablis, les hommes de Lipowski ont surpris un détachement de hussards ; en représailles, les Allemands ont brûlé cent vingt maisons du village et fusillé six habitants. Le 18 au matin, averti que l'ennemi vient, Lipowski répond, selon un témoin : « Nous restons ». On barricade les rues.
+texte: Vers midi, la division débouche par la route de Beaugency ; le premier coup de canon part vers 13 h. Wittich n'engage pas d'abord son infanterie : quatre batteries, vingt-quatre pièces, battent la ville pendant des heures. Les francs-tireurs, qui ont des [[fusil-chassepot|chassepots]], visent les artilleurs ; vers 14 h, le feu prend dans le quartier Saint-Valérien, dont le clocher sert de poste de tir, et le vent l'étend. À la tombée du jour, l'assaut général est lancé. Vers 19 h, les défenseurs de la rue de Chartres, se croyant tournés, lâchent pied ; on se bat alors de maison en maison, de barricade en barricade, et encore vers 21 h sur la grand-place. Dans la nuit, les francs-tireurs s'échappent vers Brou, laissant 150 prisonniers selon Moltke.
+texte: Ce qui suit est resté dans la mémoire française comme un crime. Des témoins, dont le principal du collège, décrivent des maisons incendiées à la main, des propriétaires forcés sous la menace de mettre le feu chez eux, des habitants asphyxiés dans leurs caves, un vieillard brûlé dans son lit, des gardes nationaux fusillés après s'être rendus. On compte 235 à 263 maisons détruites ; l'hôtel de ville, la sous-préfecture et l'Hôtel-Dieu sont touchés. Pour les Allemands, des civils avaient combattu sans uniforme et ne pouvaient prétendre au traitement de soldats ; Moltke écrit seulement que les habitants, bien qu'ayant pris part au combat, s'en tirèrent avec une amende. Le 21 octobre, Chartres, avertie, ouvre ses portes après un bref engagement ([[france-occupee]]).
+texte: La [[delegation-de-tours|Délégation de Tours]] fait aussitôt de Châteaudun un exemple : un décret du 20 octobre déclare que la ville « a bien mérité de la patrie » et ouvre un crédit de 100 000 francs pour la reconstruire. Lipowski est fait général à 27 ans, un grade qui ne lui sera pas maintenu après la guerre. Le 3 octobre 1877, un décret du maréchal de [[mac-mahon|Mac-Mahon]] autorise la ville à faire figurer la Légion d'honneur dans ses armes.
+repere: 8 octobre 1870 — À Ablis, les francs-tireurs de Lipowski surprennent des hussards ; le village est brûlé en représailles.
+repere: 18 octobre 1870, vers midi — La 22e division prussienne arrive devant Châteaudun par la route de Beaugency.
+repere: 18 octobre 1870, vers 13 h — Premier coup de canon ; quatre batteries bombardent la ville.
+repere: 18 octobre 1870, vers 14 h — Le feu prend dans le quartier Saint-Valérien.
+repere: 18 octobre 1870, vers 19 h — Les Prussiens entrent par la rue de Chartres ; combats de maison en maison.
+repere: 18 octobre 1870, vers 21 h — On se bat encore sur la grand-place.
+repere: 19 octobre 1870, vers 3 h — Les derniers francs-tireurs quittent la ville en direction de Brou.
+repere: 20 octobre 1870 — Un décret de la Délégation de Tours déclare que Châteaudun a bien mérité de la patrie.
+repere: 21 octobre 1870 — Chartres capitule devant la même division.
+repere: 3 octobre 1877 — Châteaudun reçoit le droit de porter la Légion d'honneur dans ses armes.
+attention: Le « un contre dix » des récits — 1 200 défenseurs contre 12 000 Prussiens — grossit l'adversaire : la 22e division ne comptait plus qu'environ 6 000 hommes après Orléans, selon Moltke. La disproportion reste écrasante, d'autant que les défenseurs n'avaient pas un canon. Quant aux pertes allemandes « de plus de 2 500 hommes » avancées par le même témoin, elles sont invraisemblables pour une division de cette taille.
+issue: victoire allemande, ville incendiée
+effectifs: 1255 | 6000
+canons: 0 | 24
+pertes: 470 | ?
+chiffres: Défenseurs : 1 255 hommes au matin du 18 selon la Wikipédia française (1 800 selon Moltke) ; assaillants : la 22e division, réduite à 6 000 hommes environ le 11 octobre (Moltke), avec quatre batteries — 12 000 hommes et 24 pièces selon le récit du principal du collège, J.-B. Bernot. Pertes françaises : 320 tués et blessés selon la Wikipédia française, et 150 prisonniers selon Moltke (97 selon Bernot). Les pertes allemandes ne sont pas établies par les sources consultées.
+geo: 48.0717, 1.3387
+lieu: Châteaudun, Eure-et-Loir, France
+lien: wp Bataille de Châteaudun
+lien: wp Ernest de Lipowski
+sources: H. von Moltke, The Franco-German War of 1870-71 (trad. anglaise 1891, Project Gutenberg), « Storming of Chateaudun » ; Wikipédia (fr : Bataille de Châteaudun, qui reproduit le récit de J.-B. Bernot, et Ernest de Lipowski ; de : Schlacht bei Châteaudun ; en : Battle of Châteaudun) ; loire1870.fr, opérations d'octobre 1870.
+voir: francs-tireurs, france-occupee, prise-d-orleans, delegation-de-tours, armee-de-la-loire, garde-nationale
+
+@ bataille-de-coulmiers
+cat: batailles
+nom: Bataille de Coulmiers
+alias: Coulmiers, Schlacht bei Coulmiers, Baccon, La Renardière, Champs, Cheminiers, Montpipeau, reprise d'Orléans
+dates: 9 novembre 1870
+quand: 1870-11-09
+def: Le 9 novembre 1870, à l'ouest d'Orléans, l'[[armee-de-la-loire|armée de la Loire]] de [[aurelle-de-paladines|d'Aurelle de Paladines]] contraint à la retraite le Ier corps bavarois de [[von-der-tann|von der Tann]] et reprend Orléans. C'est la victoire la plus nette des armées de la Défense nationale, mais elle reste sans lendemain.
+texte: Après la perte d'Orléans, d'Aurelle de Paladines, 66 ans, rappelé au service en août, reprend en main le 15e corps au camp de Salbris, en Sologne, par l'exercice et une discipline sévère. À Blois, [[chanzy]] forme le 16e corps. Au début de novembre, l'armée compte quelque 70 000 hommes en état de combattre, pour la plupart des [[garde-mobile|mobiles]] et des régiments de marche encadrés par de rares troupes anciennes, avec environ 160 canons et des fusils venus d'Angleterre et des États-Unis. Un conseil de guerre tenu à Tours décide de reprendre Orléans en l'attaquant par l'ouest : le gros passe sur la rive droite de la Loire, à Mer et derrière la forêt de Marchenoir, pendant que le reste doit déboucher de Gien, en amont.
+texte: Von der Tann n'a plus qu'une vingtaine de milliers d'hommes, mais 110 pièces et une forte cavalerie. Averti le 7 novembre par une reconnaissance qui se heurte à Chanzy près de Saint-Laurent-des-Bois, il refuse de se laisser enfermer dans Orléans et ses bois : dans la nuit du 8 au 9, il évacue la ville, sauf une petite garnison laissée aux blessés, et attend l'ennemi en terrain découvert, entre le château de Montpipeau et Rosières, le village de Coulmiers devant son centre.
+texte: Le 9, par un temps froid et venteux, le combat s'engage vers 9 h aux avant-postes de Baccon. Pendant que d'Aurelle, avec le 15e corps, fixe les Bavarois au sud, Chanzy les déborde : la division Barry marche sur Coulmiers, la division de l'amiral Jauréguiberry sur Champs et Cheminiers, au nord, et la cavalerie du général Reyau pousse plus loin encore pour couper la route de Paris. Vers 13 h, l'attaque devient générale. La division Peytavin enlève La Renardière, Barry les carrières devant Coulmiers ; vers 14 h, une brigade de Jauréguiberry lâche Champs dans le désordre, et l'amiral doit rallier lui-même ses hommes à Cheminiers. Vers 15 h, Barry relance l'assaut contre le parc de Coulmiers, que tient depuis des heures une seule brigade bavaroise ; il est encore repoussé par les canons et les charges de la cavalerie. L'[[artillerie-francaise|artillerie française]], portée cette fois en masse et à courte distance, fait de grands ravages, notamment dans les bois de Montpipeau.
+texte: À 16 h, menacé d'être tourné sur sa droite, von der Tann ordonne la retraite par brigades sur Artenay. Les Français entrent dans le parc de Coulmiers, mais la nuit tombe et personne ne poursuit : la cavalerie de Reyau, après une longue canonnade, s'est repliée vers l'ouest, trompée, dit-on, par les francs-tireurs de Lipowski qu'elle a pris pour des renforts allemands. Les Bavarois marchent toute la nuit. Le 10, l'armée de la Loire rentre dans Orléans, où elle délivre quelque 2 000 prisonniers et ramasse des blessés, des malades et un convoi de munitions.
+texte: Un pigeon porte la nouvelle à Paris assiégé, où elle relance l'espoir et pèse sur le choix de la grande sortie de la fin du mois ([[bataille-de-champigny]]). Mais d'Aurelle, jugeant ses troupes trop neuves, ne marche pas sur Paris ; il retranche Orléans, y fait monter des canons de marine et attend des renforts. Pendant ce temps, la IIe armée du [[prince-frederic-charles|prince Frédéric-Charles]], libérée par la capitulation de Metz le 27 octobre, arrive par Troyes, et le [[grand-duc-de-mecklembourg|grand-duc de Mecklembourg]] prend le commandement d'un détachement d'armée formé autour des Bavarois. L'occasion, si elle a existé, ne revient pas. À Coulmiers, un ossuaire veille au bord de la route d'Orléans au Mans, et un monument rappelle au cimetière les soldats bavarois ; à Périgueux et à Ribérac, une rue honore les « Mobiles de Coulmiers ».
+repere: 7 novembre 1870 — Une reconnaissance bavaroise se heurte au 16e corps près de Saint-Laurent-des-Bois.
+repere: 8 novembre 1870 — L'armée de la Loire occupe la forêt de Marchenoir, sa droite à Meung, sa gauche à Ouzouer.
+repere: nuit du 8 au 9 novembre 1870 — Les Bavarois évacuent Orléans et se concentrent devant Coulmiers.
+repere: 9 novembre 1870, vers 9 h — Premiers combats aux avant-postes de Baccon.
+repere: 9 novembre 1870, vers 11 h — Au nord, la cavalerie de Reyau se borne à canonner les cuirassiers bavarois.
+repere: 9 novembre 1870, vers 13 h — Attaque générale : La Renardière et les carrières de Coulmiers sont enlevées.
+repere: 9 novembre 1870, vers 14 h — Une brigade du 16e corps abandonne Champs ; Jauréguiberry la rallie à Cheminiers.
+repere: 9 novembre 1870, vers 15 h — Nouvel assaut de la division Barry sur le parc de Coulmiers.
+repere: 9 novembre 1870, 16 h — Von der Tann ordonne la retraite sur Artenay.
+repere: 10 novembre 1870 — L'armée de la Loire rentre dans Orléans.
+attention: Coulmiers n'est pas une surprise, comme on l'a souvent écrit : von der Tann, averti dès le 7, a choisi de quitter Orléans pour livrer bataille à découvert. Il est battu par le nombre, plus de trois contre un, et par la manœuvre de Chanzy sur son aile droite, puis s'échappe faute de poursuite. Quant à la marche sur Paris que d'Aurelle aurait manquée, elle a nourri dès 1871 une polémique entre lui et [[charles-de-freycinet|Freycinet]] ; elle se serait heurtée en quelques jours à la IIe armée revenue de Metz, déjà à Troyes le jour de la bataille.
+issue: victoire française
+effectifs: 70000 | 20000
+canons: 160 | 110
+pertes: 1500 | 2000
+chiffres: Effectifs : 65 000 à 75 000 Français engagés ou à portée, contre 20 000 à 22 000 Bavarois (14 543 fantassins, 4 450 cavaliers et 110 pièces selon la Wikipédia allemande). Pertes françaises : environ 1 500 tués et blessés, chiffre commun à toutes les sources. Pertes bavaroises : 800 tués et blessés selon Moltke, 1 166 selon la Wikipédia allemande, auxquels s'ajoutent les prisonniers, de 150 (Moltke) à 1 000 (sources allemandes), et jusqu'à 2 000 ou 2 500 selon Chanzy et d'Aurelle, qui comptent les malades et blessés pris à Orléans.
+geo: 47.9322, 1.6644
+lieu: Coulmiers, Loiret, France
+lien: wp Bataille de Coulmiers
+lien: de Schlacht bei Coulmiers
+sources: H. von Moltke, The Franco-German War of 1870-71 (trad. anglaise 1891, Project Gutenberg), « Engagement at Coulmiers » ; Wikipédia (de : Schlacht bei Coulmiers, texte et boîte d'information ; fr : Bataille de Coulmiers ; en : Battle of Coulmiers) ; loire1870.fr, opérations de novembre 1870.
+voir: aurelle-de-paladines, chanzy, von-der-tann, armee-de-la-loire, garde-mobile, prise-d-orleans, guerre-a-outrance, bataille-de-beaune-la-rolande
+
+@ bataille-de-beaune-la-rolande
+cat: batailles
+nom: Bataille de Beaune-la-Rolande
+alias: Beaune-la-Rolande, Schlacht bei Beaune-la-Rolande, Juranville, Les Cotelles, Batilly, Ladon, Maizières, Frédéric Bazille
+dates: 28 novembre 1870
+quand: 1870-11-28
+def: Le 28 novembre 1870, les 18e et 20e corps, aile droite de l'[[armee-de-la-loire|armée de la Loire]] en marche vers Fontainebleau, attaquent le Xe corps prussien retranché à Beaune-la-Rolande. Onze mille hommes tiennent dix heures contre soixante mille, jusqu'à l'arrivée de renforts : la route de Paris reste fermée.
+texte: Au lendemain de [[bataille-de-coulmiers|Coulmiers]], l'armée de la Loire aligne près de 200 000 hommes autour d'Orléans, mais le temps travaille contre elle : la IIe armée du [[prince-frederic-charles|prince Frédéric-Charles]], libérée par la chute de Metz, arrive sur le Loing. [[gambetta]] veut marcher sur Paris par Pithiviers et Fontainebleau ; [[aurelle-de-paladines|d'Aurelle]], qui préférerait attendre l'ennemi dans ses retranchements, objecte en vain. Le 26 novembre, Tours ordonne à Crouzat d'attaquer Beaune-la-Rolande, à une quarantaine de kilomètres au nord-est d'Orléans, avec son 20e corps et le 18e de Billot, formés depuis quelques semaines : 60 000 hommes et 138 canons. Les combats de Ladon et de Maizières, le 24, ont alerté le Xe corps de Voigts-Rhetz — Westphaliens, Hanovriens, Oldenbourgeois —, retranché sur cinq kilomètres autour de la petite ville.
+texte: Le 28, vers 9 h, l'avant-garde du 20e corps tombe sur les avant-postes du 57e régiment entre Batilly et Foucerive, tandis que le 18e attaque à l'est, par Juranville et Lorcy. Mais les deux corps n'avancent pas du même pas. À l'est, la 39e brigade abandonne vers 12 h 30 le remblai de la voie ferrée à Corbeilles, reprend un moment Juranville, d'où elle ramène 300 prisonniers, puis recule ; vers 14 h, Les Cotelles tombe. À l'ouest, la 38e brigade est refoulée et Beaune se trouve presque cernée. Le 16e régiment, 1 500 hommes, s'y barricade derrière les restes du vieux mur d'enceinte et dans le cimetière, que le capitaine Feige tient avec quatre compagnies. Les obus français incendient des maisons ; aucun assaut ne passe. Au quartier général du Xe corps, on annonce Beaune perdue, mais le chef d'état-major, Caprivi, obtient que l'on retarde l'ordre de retraite.
+texte: Vers 16 h, le Xe corps n'a presque plus de munitions quand arrive le IIIe corps de [[constantin-von-alvensleben|Constantin von Alvensleben]], parti de Pithiviers au bruit du canon — la 5e division de Stülpnagel s'est mise en route de sa propre initiative. Soixante-six pièces se tournent contre l'aile gauche française ; vers 16 h 30, le 52e régiment attaque Batilly, puis le 12e dégage l'ouest de Beaune. À la nuit, Crouzat ramène vers Bois-Commun et Bellegarde des unités toutes mêlées. À vingt-cinq kilomètres de là, le reste de l'armée de la Loire n'a pas bougé de la journée.
+texte: Les Français ont perdu au moins 1 300 tués et blessés et 1 800 prisonniers, peut-être beaucoup plus ; le Xe corps, quelque 900 hommes. Parmi les morts, un engagé volontaire des zouaves de 28 ans, le peintre Frédéric Bazille, qui avait partagé l'atelier de Renoir et peint avec Monet. La route de Fontainebleau reste fermée. L'armée de la Loire tente alors sa chance par sa gauche : quatre jours plus tard, c'est [[bataille-de-loigny|Loigny]].
+repere: nuit du 22 au 23 novembre 1870 — De Tours, Gambetta télégraphie l'ordre de marcher sur Pithiviers et Fontainebleau, malgré les objections de d'Aurelle.
+repere: 24 novembre 1870 — Combats de Ladon et de Maizières : le Xe corps est alerté.
+repere: 28 novembre 1870, vers 9 h — Les avant-gardes du 20e corps attaquent les avant-postes prussiens devant Beaune.
+repere: 28 novembre 1870, vers 12 h 30 — À l'est, la 39e brigade cède le remblai de Corbeilles au 18e corps.
+repere: 28 novembre 1870, vers 14 h — Les Cotelles tombe ; Beaune, presque cernée, tient toujours.
+repere: 28 novembre 1870, vers 16 h — Le IIIe corps arrive de Pithiviers au secours du Xe.
+repere: 28 novembre 1870, soir — Crouzat se replie sur Bois-Commun et Bellegarde.
+repere: 2 décembre 1870 — L'armée de la Loire attaque par sa gauche, à Loigny.
+attention: Ce n'est pas d'Aurelle de Paladines qui a été battu à Beaune-la-Rolande, comme l'écrivent certaines chronologies : il n'y était pas, et désapprouvait l'opération voulue par Gambetta et Freycinet. Le combat oppose deux corps commandés par Crouzat et Billot au seul Xe corps, secouru le soir par le IIIe. Les « 3 000 Français et 800 Prussiens tués » que l'on cite parfois sont des pertes totales, non des morts.
+issue: victoire allemande
+effectifs: 60000 | 11000
+canons: 138 | 70
+pertes: 3100 | 900
+chiffres: Effectifs : 60 000 Français et 138 pièces (Wikipédia allemande) contre 11 000 Allemands et 70 pièces du Xe corps, rejoints vers 16 h par une partie du IIIe corps. Pertes allemandes : 38 officiers et 817 à 858 hommes tués et blessés selon les décomptes concordants, 900 selon Moltke. Pertes françaises : 1 300 tués et blessés et 1 800 prisonniers selon Moltke et le Meyers ; d'autres sources vont jusqu'à 8 000 tués et blessés et 1 000 prisonniers.
+geo: 48.0706, 2.4300
+lieu: Beaune-la-Rolande, Loiret, France
+lien: wp Bataille de Beaune-la-Rolande
+lien: de Schlacht bei Beaune-la-Rolande
+sources: H. von Moltke, The Franco-German War of 1870-71 (trad. anglaise 1891, Project Gutenberg), « Battle of Beaune la Rolande » ; Wikipédia (de : Schlacht bei Beaune-la-Rolande, texte et boîte d'information, et Frédéric Bazille ; en : Beaune-la-Rolande, pour les coordonnées).
+voir: armee-de-la-loire, aurelle-de-paladines, prince-frederic-charles, constantin-von-alvensleben, gambetta, bataille-de-coulmiers, bataille-de-loigny
+
+@ bataille-de-loigny
+cat: batailles
+nom: Bataille de Loigny
+alias: Loigny-Poupry, Loigny-Lumeau-Poupry, Schlacht bei Loigny und Poupry, Villepion, château de Goury, Lumeau, Poupry, Sonis, Charette, bannière du Sacré-Cœur
+dates: 2 décembre 1870
+quand: 1870-12-02
+def: Le 2 décembre 1870, au nord d'Orléans, l'aile gauche de l'[[armee-de-la-loire|armée de la Loire]], partie vers Paris, se brise sur le détachement du [[grand-duc-de-mecklembourg|grand-duc de Mecklembourg]]. La charge des Volontaires de l'Ouest, menée par Sonis à la tombée du jour, a fait de Loigny un haut lieu de la mémoire catholique.
+texte: À la fin de novembre, [[gambetta]] et [[charles-de-freycinet|Freycinet]] veulent à tout prix tendre la main à Paris, d'où l'on annonce une grande sortie ([[bataille-de-champigny]]). L'échec de [[bataille-de-beaune-la-rolande|Beaune-la-Rolande]] reporte l'effort sur la gauche : le 1er décembre, le 16e corps de [[chanzy]] chasse les Bavarois de Villepion, l'amiral Jauréguiberry en tête. Tours y voit une victoire, d'autant qu'on croit les Parisiens arrivés à Épinay, près de Longjumeau, quand il s'agit d'un autre Épinay, au nord de Paris. Le 2, le 16e corps doit gagner la ligne Allaines–Toury, le 17e de Sonis le suivre, le 15e marcher par la grand-route d'Artenay. Le grand-duc, lui, porte au-devant de l'ennemi tout son détachement : le Ier corps bavarois de [[von-der-tann|von der Tann]], les 17e et 22e divisions prussiennes et deux divisions de cavalerie, quelque 35 000 hommes.
+texte: Le 2 décembre, à 8 h, Chanzy part de Terminiers vers Loigny et Lumeau. Vers 9 h, ses divisions abordent les Bavarois entre Beauvilliers et le château de Goury ; à 10 h 30, tout le corps se déploie de Nonneville à Neuvilliers et refoule les Bavarois, qui ont contre-attaqué. Vers 11 h 30, une brigade bavaroise fraîche et la cavalerie rétablissent le combat, et la division Jauréguiberry est rejetée sur Loigny. À droite, la 17e division prussienne atteint Lumeau juste à temps, brise les assauts partis de Terminiers, puis se rabat sur le flanc français ; sa 33e brigade dégage le château de Goury et entre dans Loigny avec les Bavarois. Deux bataillons du 37e de marche tiennent longtemps encore le cimetière, au bout du village, sous le feu de quatre-vingts canons. À l'est, le 15e corps se heurte à Poupry à la 22e division de Wittich, accourue au pas de course : ses attaques de 15 h et de 16 h échouent. Le 16e corps s'est battu presque seul toute la journée.
+texte: C'est à la tombée du jour qu'arrive Sonis, à la tête de l'avant-garde du 17e corps. Pour dégager Loigny, il rassemble quelque 800 hommes : des mobiles des Côtes-du-Nord, des francs-tireurs de Tours et de Blida, et environ 300 [[zouaves-pontificaux|Volontaires de l'Ouest]], les anciens zouaves pontificaux du lieutenant-colonel de Charette, qui portent la bannière du Sacré-Cœur brodée par les visitandines de Paray-le-Monial. Vers 16 h, la petite troupe s'élance à travers champs, atteint un bois aux abords du village, puis est fauchée par les dernières réserves prussiennes. Les Volontaires perdent plus des deux tiers des leurs. Sonis, grièvement blessé à la jambe, passe la nuit sur le champ de bataille gelé, parmi les blessés ; on l'amputera le 4 décembre. Charette, blessé, est pris, puis s'évade. La charge n'a pas changé l'issue de la journée.
+texte: Le soir, Loigny est aux Allemands et son église est détruite. Les Français ont perdu 4 000 à 4 500 tués et blessés et 2 500 prisonniers, huit canons et une mitrailleuse ; les Allemands, à peu près autant de tués et de blessés. L'aile gauche n'a pu passer, et le lendemain le [[prince-frederic-charles|prince Frédéric-Charles]] marche sur Orléans ([[seconde-bataille-d-orleans]]). Loigny devient ensuite un lieu de pèlerinage : une messe y est dite chaque 2 décembre, la crypte de l'église reconstruite garde les restes de plus de 1 300 soldats français, prussiens et bavarois, et Sonis, mort en 1887, y repose près des zouaves ; un musée ouvre en 1907.
+repere: 1er décembre 1870 — Combat de Villepion : le 16e corps refoule les Bavarois ; chaque camp perd environ 1 000 hommes.
+repere: 1er décembre 1870, soir — Au bivouac de Saint-Péravy-la-Colombe, les Volontaires de l'Ouest désignent le porteur de la bannière du Sacré-Cœur.
+repere: 2 décembre 1870, 8 h — Chanzy part de Terminiers ; le grand-duc lance tout son détachement au-devant de lui.
+repere: 2 décembre 1870, vers 9 h — Le 16e corps attaque les Bavarois entre Beauvilliers et le château de Goury.
+repere: 2 décembre 1870, vers 11 h 30 — Contre-attaque bavaroise : la division Jauréguiberry est rejetée sur Loigny.
+repere: 2 décembre 1870, après-midi — La 17e division prussienne prend les Français en flanc depuis Lumeau ; Loigny est enlevé, sauf le cimetière.
+repere: 2 décembre 1870, vers 15 h — À l'est, le 15e corps attaque Poupry sans succès.
+repere: 2 décembre 1870, vers 16 h — Charge de Sonis et des Volontaires de l'Ouest vers Loigny.
+repere: nuit du 2 au 3 décembre 1870 — Sonis, grièvement blessé, reste sur le champ de bataille.
+repere: 4 décembre 1870 — Sonis est amputé ; le même jour, les Allemands rentrent dans Orléans.
+attention: La mémoire a fait de Loigny la bataille des zouaves pontificaux. Ils étaient environ 300 sur plus de 40 000 Français, et leur charge, au soir, n'a pas changé l'issue : l'essentiel du combat et des pertes revient aux mobiles et aux régiments de marche du 16e corps, qui se sont battus tout le jour. Quant aux « 9 000 morts » parfois avancés, ils mêlent tués et blessés, voire les deux camps : les décomptes donnent 4 000 à 4 500 tués et blessés de chaque côté.
+issue: victoire allemande
+effectifs: 45000 | 35000
+pertes: 7000 | 4500
+chefs: Chanzy, sous d'Aurelle de Paladines | le grand-duc Frédéric-François II de Mecklembourg
+chiffres: Effectifs : 40 000 à 45 000 Français engagés (Wikipédia française, loire1870) — la Wikipédia allemande en compte 90 000, en incluant les corps restés en arrière — contre 35 000 Allemands. Pertes françaises : 4 000 à 4 500 tués et blessés et 2 500 prisonniers selon Moltke et la Wikipédia française. Pertes allemandes : 4 000 tués et blessés et 500 prisonniers (Wikipédia française), 4 180 selon la Wikipédia allemande ; Moltke les dit à peu près égales aux pertes françaises. Les Volontaires de l'Ouest auraient perdu 18 officiers et 198 hommes sur 300 (loire1870).
+geo: 48.1239, 1.7339
+lieu: Loigny-la-Bataille, Lumeau et Poupry, Eure-et-Loir, France
+lien: wp Bataille de Loigny
+lien: url https://www.napoleon.org/magazine/lieux/le-musee-de-loigny-la-bataille/ = Le musée de la guerre de 1870 de Loigny-la-Bataille (Fondation Napoléon)
+sources: H. von Moltke, The Franco-German War of 1870-71 (trad. anglaise 1891, Project Gutenberg), « Battle of Loigny–Poupry » ; Wikipédia (fr : Bataille de Loigny, Gaston de Sonis ; de : Schlacht bei Loigny und Poupry ; en : Loigny-la-Bataille, pour les coordonnées) ; loire1870.fr, journée du 2 décembre ; Fondation Napoléon, page du musée de Loigny
+voir: zouaves-pontificaux, chanzy, grand-duc-de-mecklembourg, von-der-tann, armee-de-la-loire, seconde-bataille-d-orleans, lieux-de-memoire, bataille-de-beaune-la-rolande
+
+@ seconde-bataille-d-orleans
+cat: batailles
+nom: La seconde bataille d'Orléans
+alias: bataille d'Orléans, Schlacht von Orléans, Artenay, Chevilly, Cercottes, Gidy, Vaumainbert, Patay
+dates: 3 – 4 décembre 1870
+quand: 1870-12-03
+jusqu: 1870-12-04
+def: Les 3 et 4 décembre 1870, la IIe armée du [[prince-frederic-charles|prince Frédéric-Charles]] et le détachement du grand-duc de Mecklembourg marchent sur Orléans et la reprennent. L'[[armee-de-la-loire|armée de la Loire]], coupée en deux, recule d'un côté vers Bourges, de l'autre vers Beaugency.
+texte: Au soir de [[bataille-de-loigny|Loigny]], le grand quartier général juge venu le moment d'en finir avec la menace du sud : le 2 décembre à midi, il ordonne à Frédéric-Charles d'attaquer Orléans avec toutes ses forces. Les IIIe, IXe et Xe corps de la IIe armée et le détachement du [[grand-duc-de-mecklembourg|grand-duc]] convergent du nord et du nord-est. L'armée de la Loire compte encore près de 200 000 hommes, mais ses corps sont étirés sur près de 80 km, épuisés, et deux d'entre eux viennent d'être battus.
+texte: Le 3 décembre vers 9 h, le IIIe corps de [[constantin-von-alvensleben|Constantin von Alvensleben]] tombe à Santeau sur une division du 15e corps ; à midi, 78 pièces prussiennes sont en batterie, et les Français reculent dans la forêt d'Orléans. Sur la grand-route de Paris, le IXe corps de Manstein et la 22e division écrasent sous le feu de 90 canons la division Martineau : Artenay est pris à midi, la Croix-Briquet dans l'après-midi, Chevilly à la nuit. Le 15e corps a soutenu presque seul le choc ; Chanzy, alerté par le canon, n'a pu envoyer qu'une division, arrêtée devant Huêtre. Les Allemands bivouaquent sous une tempête de neige, à moins de quinze kilomètres d'Orléans.
+texte: Dans la nuit, à Saran, d'Aurelle voit passer en déroute une division du 15e corps. Craignant d'être acculé à la Loire avec des troupes sans cohésion et un seul pont, il ordonne une retraite divergente : le 15e corps par Orléans, les 18e et 20e par Gien, les 16e et 17e vers Beaugency. Tours lui enjoint de tenir ; il hésite, puis renonce. Le 4, les Français abandonnent vers 11 h les retranchements de Gidy, avec huit canons ; à l'est, l'infanterie de marine défend Vaumainbert ; au nord, la gare, barricadée et armée de canons de marine, tient jusqu'à la nuit. Un train venu de Tours, qui amène Gambetta, rebrousse chemin devant la cavalerie allemande. Vers 18 h, la 17e division atteint les portes de la ville ; à 22 h, un accord règle l'entrée des troupes, et peu après minuit le grand-duc entre dans Orléans. Le pont sur la Loire n'a pas sauté.
+texte: La seconde perte d'Orléans coûte aux Français quelque 7 000 tués et blessés et 12 000 prisonniers ; 77 canons, souvent des pièces de marine, restent dans la ville. Les Allemands ont perdu 1 300 à 1 700 hommes. Surtout, l'armée de la Loire est coupée en deux. À l'est, les 15e, 18e et 20e corps, confiés à [[bourbaki]], reculent sur Bourges dans un grand désordre ; ils formeront l'[[armee-de-l-est|armée de l'Est]]. À l'ouest, les 16e et 17e corps, bientôt renforcés du 21e, deviennent la deuxième armée de la Loire de [[chanzy]] ([[bataille-de-beaugency]]). D'Aurelle est relevé le 7 décembre, et la [[delegation-de-tours|Délégation]] quitte Tours pour Bordeaux quelques jours plus tard.
+repere: 2 décembre 1870, midi — Le grand quartier général ordonne l'attaque d'Orléans.
+repere: 3 décembre 1870, vers 9 h — Le IIIe corps attaque une division du 15e corps à Santeau.
+repere: 3 décembre 1870, midi — Le IXe corps prend Artenay sous le feu de 90 canons.
+repere: 3 décembre 1870, soir — Chevilly est évacué ; les Allemands bivouaquent dans la neige.
+repere: nuit du 3 au 4 décembre 1870 — À Saran, d'Aurelle ordonne une retraite divergente ; Tours lui commande de tenir.
+repere: 4 décembre 1870, vers 11 h — Les Français abandonnent Gidy et huit canons.
+repere: 4 décembre 1870, vers 14 h — Le IIIe corps enlève Vaumainbert, à l'est de la ville.
+repere: 4 décembre 1870, vers 17 h 30 — À la nuit, les défenseurs de la gare se replient.
+repere: 4 décembre 1870, vers 22 h — Un accord règle l'entrée des Allemands, qui occupent Orléans après minuit.
+repere: 7 décembre 1870 — D'Aurelle de Paladines est mis en disponibilité.
+attention: On lit que les Prussiens reprennent Orléans « par surprise ». Rien de tel : la ville tombe après deux jours de combats, au terme d'une retraite ordonnée par d'Aurelle et contredite par Tours. Ces ordres contraires, plus que l'effet de surprise, expliquent la confusion des dernières heures et l'éclatement de l'armée.
+issue: victoire allemande, Orléans reprise
+effectifs: 62000 | 30000
+pertes: 19000 | 1700
+chiffres: Effectifs : 62 000 Français engagés selon la Wikipédia française, 80 000 selon l'allemande, sur près de 200 000 hommes que compte l'armée ; environ 30 000 Allemands engagés directement, sur les 80 000 de la IIe armée et du détachement. Pertes françaises : 7 000 tués et blessés et 12 000 prisonniers (Wikipédias française et allemande) ; Moltke donne 20 000 hommes au total. Pertes allemandes : 1 300 tués et blessés selon la Wikipédia allemande, 1 700 selon Moltke et la française.
+geo: 47.9025, 1.9090
+lieu: Artenay, Cercottes et Orléans, Loiret, France
+lien: wp Bataille d'Orléans (1870)
+lien: de Schlacht von Orléans
+sources: H. von Moltke, The Franco-German War of 1870-71 (trad. anglaise 1891, Project Gutenberg), « Battle of Orleans » ; Wikipédia (de : Schlacht von Orléans, texte et boîte d'information ; fr : Bataille d'Orléans (1870), boîte d'information, et Louis d'Aurelle de Paladines).
+voir: prince-frederic-charles, grand-duc-de-mecklembourg, aurelle-de-paladines, armee-de-la-loire, bourbaki, armee-de-l-est, chanzy, bataille-de-beaugency
+
+@ bataille-de-beaugency
+cat: batailles
+nom: Bataille de Beaugency
+alias: Beaugency-Cravant, Josnes, Villorceau, Villorceau-Josnes, Schlacht bei Beaugency, Cravant, Villemarceau, Villejouan, Meung
+dates: 7 – 10 décembre 1870
+quand: 1870-12-07
+jusqu: 1870-12-10
+def: Du 7 au 10 décembre 1870, entre la Loire et la forêt de Marchenoir, la deuxième armée de la Loire de [[chanzy]] tient tête quatre jours au détachement du grand-duc de Mecklembourg, attaquant autant qu'elle se défend, avant de décrocher vers Vendôme puis Le Mans.
+texte: Orléans perdue, l'[[armee-de-la-loire|armée de la Loire]] est coupée en deux. Au nord du fleuve, Chanzy, nommé le 6 décembre à la tête de la deuxième armée de la Loire — les 16e et 17e corps, et le 21e de Jaurès, tout juste formé —, refuse de reculer plus loin. De son quartier général du château de Talcy, il établit quelque 100 000 hommes sur une ligne qui va de la Loire, devant Beaugency, à la forêt de Marchenoir, le centre autour de Josnes. Le [[grand-duc-de-mecklembourg|grand-duc de Mecklembourg]], qui le suit avec les Bavarois de [[von-der-tann|von der Tann]] et les 17e et 22e divisions prussiennes, n'a guère que 27 000 fantassins. Moltke tiendra Chanzy pour le plus capable, sans doute, des chefs que les Allemands aient rencontrés : en quelques jours, il a rendu à des troupes battues assez d'ordre pour attaquer.
+texte: Le 7 décembre, les Allemands abordent Meung, que tient la division Camô. Le 8, dans le brouillard, trois divisions françaises rejettent la 2e division bavaroise sur Beaumont ; il faut dix-sept batteries et l'arrivée de la 22e division à Cravant pour rétablir la ligne. Vers 15 h, la 44e brigade repousse les colonnes du 17e corps lancées sur Cravant ; le général Deflandre y est mortellement blessé. Au soir, à gauche, la 17e division prussienne enlève Messas et Beaugency. Le 9, dès 7 h, Chanzy relance l'attaque : les Bavarois prennent Villorceau vers 10 h 30, les Thuringiens Cernay, et à 15 h la 17e division soutient à Villemarceau le choc de colonnes serrées des 16e et 17e corps. Le soir, les Bavarois, épuisés, reçoivent l'ordre de rentrer à Orléans.
+texte: Le 10 à l'aube, Chanzy attaque encore. À 7 h, le 17e corps se jette sur Origny et Villejouan, où l'on se bat de maison en maison jusqu'à 16 h ; vers 10 h 30, le 21e corps tente enfin de déborder la droite allemande par Villermain, mais plus de cent pièces le contraignent vers 15 h à retirer son artillerie. Le Xe corps, accouru d'Orléans, occupe Beaugency. Les canons d'acier de la 22e division et la plupart des pièces bavaroises sont hors d'usage, leurs fermetures de culasse ruinées par le tir ([[canon-krupp]]).
+texte: Quatre jours ont coûté au détachement allemand 3 400 hommes, dont plus de la moitié aux deux divisions bavaroises ; l'artillerie à elle seule a perdu 255 hommes et 356 chevaux. Les pertes françaises ne sont pas connues. Mais [[bourbaki]], de l'autre côté de la Loire, ne bouge pas, et la IIe armée du [[prince-frederic-charles|prince Frédéric-Charles]] arrive. Le 11, Chanzy décroche vers le Loir. Le dégel change les routes en fondrières jonchées d'armes et de voitures, et les Allemands ramassent des milliers de traînards. Après de nouveaux combats à Fréteval et devant Vendôme, les 14 et 15 décembre, il se retire le 16 sur Le Mans, où se jouera la dernière bataille de la Loire ([[bataille-du-mans]]).
+repere: 6 décembre 1870 — Chanzy reçoit le commandement de la deuxième armée de la Loire.
+repere: 7 décembre 1870 — Premiers combats devant Meung, contre la division Camô.
+repere: 8 décembre 1870, matin — Dans le brouillard, la 2e division bavaroise est rejetée sur Beaumont.
+repere: 8 décembre 1870, vers 15 h — Contre-attaque de la 44e brigade à Cravant ; le général Deflandre est mortellement blessé.
+repere: 8 décembre 1870, soir — La 17e division prussienne prend Messas et Beaugency.
+repere: 9 décembre 1870, vers 10 h 30 — Les Bavarois enlèvent Villorceau.
+repere: 9 décembre 1870, vers 15 h — Combat acharné à Villemarceau ; les Français se replient sur Josnes.
+repere: 10 décembre 1870, 7 h — Le 17e corps attaque Origny et Villejouan.
+repere: 10 décembre 1870, vers 15 h — Plus de cent canons allemands arrêtent le 21e corps devant Villermain.
+repere: 11 décembre 1870 — Chanzy décroche vers le Loir.
+attention: Beaugency n'est pas une déroute : pendant quatre jours, une armée improvisée, battue une semaine plus tôt, a attaqué autant qu'elle a reculé, et coûté 3 400 hommes à l'adversaire. Chanzy se retire le 11 parce que Bourbaki ne fait rien de l'autre côté du fleuve et que la IIe armée arrive, non parce que sa ligne est rompue. Le nom varie selon le camp : Josnes ou Villorceau pour les Français, Beaugency-Cravant pour les Allemands.
+issue: victoire allemande, retraite française en ordre
+effectifs: 100000 | 35000
+pertes: ? | 3400
+chiffres: Effectifs : environ 100 000 Français (110 000 selon la boîte d'information de la Wikipédia française) ; côté allemand, 27 000 fantassins au départ, avec deux divisions de cavalerie, soit quelque 35 000 hommes, portés à près de 70 000 le 10 avec le Xe corps selon la Wikipédia allemande. Pertes allemandes : 3 400 hommes selon Moltke. Pertes françaises inconnues de Moltke ; la Wikipédia française ne donne que 1 600 prisonniers.
+geo: 47.7792, 1.6325
+lieu: Beaugency, Villorceau, Cravant et Josnes, Loiret et Loir-et-Cher, France
+lien: wp Bataille de Beaugency (1870)
+lien: de Schlacht bei Beaugency
+sources: H. von Moltke, The Franco-German War of 1870-71 (trad. anglaise 1891, Project Gutenberg), « Fighting of the Grand Duke of Mecklenburg » ; Wikipédia (de : Schlacht bei Beaugency ; fr : Bataille de Beaugency (1870), texte, boîte d'information et coordonnées).
+voir: chanzy, grand-duc-de-mecklembourg, von-der-tann, armee-de-la-loire, seconde-bataille-d-orleans, bataille-du-mans, bourbaki, canon-krupp
+
+@ bataille-du-mans
+cat: batailles
+nom: Bataille du Mans
+alias: bataille d'Auvours, Schlacht bei Le Mans, La Tuilerie, plateau d'Auvours, Changé, Parigné-l'Évêque, Pontlieue, mobilisés bretons
+dates: 10 – 12 janvier 1871
+quand: 1871-01-10
+jusqu: 1871-01-12
+def: Du 10 au 12 janvier 1871, à l'est et au sud du Mans, la IIe armée du [[prince-frederic-charles|prince Frédéric-Charles]] brise la deuxième armée de la Loire de [[chanzy]]. La perte de La Tuilerie, dans la nuit du 11, décide de la retraite ; l'armée de la Loire ne s'en relèvera pas.
+texte: Après [[bataille-de-beaugency|Beaugency]], Chanzy a ramené au Mans la deuxième armée de la Loire — les 16e, 17e et 21e corps —, renforcée de divisions nouvelles et des mobilisés de Bretagne venus du [[camp-de-conlie|camp de Conlie]] : 150 000 hommes peut-être, à bout de forces. Le 6 janvier 1871, Frédéric-Charles marche sur lui avec les IIIe, IXe et Xe corps et le XIIIe du [[grand-duc-de-mecklembourg|grand-duc de Mecklembourg]] : environ 58 000 fantassins, 15 000 cavaliers et 324 canons. Six jours durant, dans la neige et sur des routes glacées, ses colonnes refoulent les avant-gardes françaises du Loir à l'Huisne. Chanzy accepte la bataille devant Le Mans : entre la Sarthe et l'Huisne, 50 000 à 60 000 hommes de l'amiral Jauréguiberry tiennent des tranchées à la lisière des bois ; cinq divisions bordent la rive droite de l'Huisne, et celle de l'officier de marine Gougeard tient le plateau d'Auvours.
+texte: Le 10 janvier, le IIIe corps de [[constantin-von-alvensleben|Constantin von Alvensleben]] attaque au centre. Ses Brandebourgeois enlèvent Parigné-l'Évêque vers 12 h 30, puis, à la nuit, Changé, où 800 Français se rendent après un combat de rues : ce corps a perdu 450 hommes et fait plus de 5 000 prisonniers dans la journée. Le 11, la vraie bataille commence. Le IIIe corps, seul face au gros de l'armée, s'enfonce dans les bois : les fermes des Granges, du Tertre et des Arches sont prises et reprises jusqu'au soir. À sa droite, le IXe corps gravit vers 13 h, dans la neige, les pentes du plateau d'Auvours et en chasse les Français vers 17 h ; la division Gougeard contre-attaque à la nuit et reprend pied sur le rebord.
+texte: Au sud, le Xe corps, arrivé par Mulsanne, aborde la route de Tours. Vers 20 h 30, un bataillon westphalien, baïonnette au canon et tambours battants, atteint La Tuilerie, que tiennent les mobilisés bretons du général de Lalande. Ils lâchent pied, et la position qui couvre Pontlieue et la route du Mans est ouverte. Vers 22 h 30, Jauréguiberry lance la division Bouëdec pour la reprendre ; pendant une heure, la fusillade crépite, mais ni ses officiers ni ceux des mobiles qui suivent ne parviennent à porter leurs hommes en avant.
+texte: Le 12 à 8 h, apprenant de Jauréguiberry que les troupes refusent d'avancer et que les dernières réserves sont brisées, Chanzy ordonne la retraite générale. Les combats du matin, autour du Tertre, ne servent plus qu'à gagner du temps. Vers 14 h, les Allemands enlèvent Pontlieue, dont le pont a mal sauté, et entrent au Mans, où l'on se bat jusqu'à la nuit dans des rues encombrées de convois ; sur le plateau d'Auvours, les derniers défenseurs se rendent.
+texte: En sept jours, la IIe armée a perdu 3 400 hommes, dont 200 officiers. Les Français comptent 6 000 à 7 000 tués et blessés et quelque 20 000 prisonniers, sans parler de ceux qui se dispersent : les mobilisés bretons regagnent leur province, et le camp de Conlie, déserté et pillé, tombe le 13 aux mains des Allemands, qui y trouvent 8 000 fusils et cinq millions de cartouches. Chanzy se replie sur Laval, derrière la Mayenne, où le trouve l'[[armistice-de-1871|armistice]].
+repere: 6 janvier 1871 — La IIe armée quitte le Loir et marche sur Le Mans.
+repere: 10 janvier 1871, vers 12 h 30 — Le IIIe corps enlève Parigné-l'Évêque.
+repere: 10 janvier 1871, soir — Changé est pris ; 800 Français s'y rendent.
+repere: 11 janvier 1871, vers 13 h — Le IXe corps monte à l'assaut du plateau d'Auvours, dans la neige.
+repere: 11 janvier 1871, vers 17 h — Les Français abandonnent le plateau d'Auvours ; la ferme du Tertre est prise.
+repere: 11 janvier 1871, vers 20 h 30 — Un bataillon du Xe corps enlève La Tuilerie, tenue par les mobilisés bretons.
+repere: 11 janvier 1871, vers 22 h 30 — La contre-attaque de la division Bouëdec échoue.
+repere: 12 janvier 1871, 8 h — Chanzy ordonne la retraite générale.
+repere: 12 janvier 1871, vers 14 h — Les Allemands enlèvent Pontlieue et entrent au Mans.
+repere: 13 janvier 1871 — Le camp de Conlie, déserté et pillé, tombe aux mains des Allemands.
+attention: La défaite a longtemps été mise au compte des seuls mobilisés bretons de La Tuilerie : c'est encore le jugement de l'*Encyclopædia Britannica* en 1911. Ces hommes, levés depuis quelques semaines, sortaient de la boue de Conlie avec des fusils souvent rouillés et des cartouches avariées, et on les avait placés là parce que le secteur passait pour le moins menacé. « Je crois que nous avons été sacrifiés », dira leur général, Lalande, devant la commission d'enquête. D'autres Bretons se sont battus jusqu'au soir à Auvours et à Champagné ; et la retraite tient d'abord à l'épuisement de toute l'armée, dont les réserves elles non plus ne voulaient plus avancer.
+issue: victoire allemande décisive
+effectifs: 150000 | 73000
+canons: ? | 324
+pertes: 27000 | 3400
+chiffres: Effectifs : environ 150 000 Français selon la Wikipédia allemande, dont 50 000 à 60 000 sur la ligne principale (Moltke) ; 58 000 fantassins et 15 000 cavaliers allemands, avec 324 pièces. Pertes allemandes : 3 200 hommes et 200 officiers du 6 au 12 janvier (Moltke), 3 418 tués et blessés selon la Wikipédia allemande. Pertes françaises : 6 200 tués et blessés et 20 000 prisonniers selon les estimations françaises citées par Moltke, 7 000 et 22 000 selon la Wikipédia allemande, qui ajoute 50 000 déserteurs ; 17 canons et 2 drapeaux perdus.
+geo: 48.0088, 0.3756
+lieu: Changé, plateau d'Auvours et Le Mans, Sarthe, France
+lien: wp Bataille du Mans (1871)
+lien: de Schlacht bei Le Mans
+sources: H. von Moltke, The Franco-German War of 1870-71 (trad. anglaise 1891, Project Gutenberg), « Battle in front of Le Mans » ; Wikipédia (fr : Bataille du Mans (1871), Camp de Conlie, pour l'armement et la déposition du général de Lalande ; de : Schlacht bei Le Mans, boîte d'information) ; Encyclopædia Britannica, 11e éd., 1911, « Franco-German War ».
+voir: chanzy, camp-de-conlie, prince-frederic-charles, constantin-von-alvensleben, armee-de-la-loire, bataille-de-beaugency, garde-mobile, armistice-de-1871
+
+@ bataille-de-champigny
+cat: batailles
+nom: Bataille de Champigny
+alias: Villiers-Champigny, bataille de Villiers, Schlacht bei Villiers, grande sortie, Bry-sur-Marne, Cœuilly, Mont-Mesly, « mort ou victorieux »
+dates: 30 novembre – 2 décembre 1870
+quand: 1870-11-30
+jusqu: 1870-12-02
+def: Du 30 novembre au 2 décembre 1870, la « grande sortie » de l'armée de Paris franchit la Marne à l'est de la capitale pour tendre la main à l'armée de la Loire. Arrêtée devant le plateau de Villiers, l'armée de [[ducrot]] repasse la rivière le 3, après deux jours de combats et des nuits de gel.
+texte: Depuis octobre, on préparait à Paris une sortie vers l'ouest, par la presqu'île de Gennevilliers. La nouvelle de [[bataille-de-coulmiers|Coulmiers]], connue le 14 novembre, puis l'appel de Tours, le 18, changent tout : on sortira à l'est, par la Marne, au-devant de l'[[armee-de-la-loire|armée de la Loire]]. La garnison est réorganisée en trois armées ; la deuxième, confiée à Ducrot, réunit les meilleures troupes — les anciens 13e et 14e corps, refondus en trois corps sous Blanchard, Renault et d'Exéa —, plus de 100 000 hommes et 300 canons. Ducrot promet dans une proclamation de ne rentrer dans Paris « que mort ou victorieux ». L'attaque, fixée au 29 novembre, est retardée d'un jour : la Marne en crue a emporté un pont de bateaux. Les diversions prévues, à L'Haÿ, à la Gare-aux-Bœufs, au Mont-Mesly, à Épinay, ont lieu quand même et coûtent à elles seules plus de deux mille hommes.
+texte: Le 30, à 5 h 30, par un matin froid puis ensoleillé, les 1er et 2e corps passent la Marne sur huit ponts de bateaux à Joinville, Nogent et Bry, appuyés par les forts et par les pièces portées la veille sur le plateau d'Avron. Bry et Champigny sont enlevés. Mais il faut ensuite gravir le plateau de Villiers et de Cœuilly, que tiennent la division wurtembergeoise d'Obernitz et, vers Noisy, des Saxons : des murs de parcs crénelés, des batteries bien placées. Vers 10 h, la division Maussion se brise contre le parc de Villiers ; serrées en colonnes, les troupes françaises offrent des cibles parfaites à l'artillerie. À 11 h, Ducrot apprend que le 3e corps d'Exéa, qui devait passer la Marne à Neuilly et prendre le plateau à revers, est encore sur l'autre rive ; il ne franchit qu'à 14 h. Un régiment de zouaves, lancé de Bry contre les pentes, perd la moitié de ses hommes et tous ses officiers. Les assauts contre Villiers échouent jusqu'à la nuit, et le général Renault, chef du 2e corps, est mortellement blessé.
+texte: Le soir, les Français tiennent Champigny, Bry et le pied du plateau ; dans la nuit, il neige. Le 1er décembre, une trêve permet de relever les blessés et d'enterrer les morts ; les Allemands en profitent pour amener le IIe corps de Fransecky. Le 2, à 7 h, par dix degrés sous zéro, Saxons et Wurtembergeois contre-attaquent : les uns entrent dans Bry, les autres jusqu'au milieu de Champigny, où l'on se bat de maison en maison et autour des fours à chaux. Vers 9 h, une puissante ligne d'artillerie française rétablit le combat ; devant le parc de Villiers, des mitrailleuses prises aux Français fauchent le 136e régiment à moins de 300 m. Les Saxons, écrasés par le canon des forts, abandonnent Bry en ruine en emmenant 300 prisonniers. En fin d'après-midi, chacun tient ses positions de la veille.
+texte: Ducrot apprend ce jour-là que l'armée de la Loire marcherait sur Fontainebleau ; elle vient en réalité d'être battue à [[bataille-de-loigny|Loigny]]. Ses hommes, partis sans couvertures pour marcher plus vite, grelottent ; le 3 au matin, il fait −14 °C. Le 3, à l'abri d'un épais brouillard, l'armée repasse la Marne ; le 4 au matin, les patrouilles allemandes trouvent Champigny et Bry vides. La bataille a coûté aux Français plus de 9 500 tués et blessés, aux Allemands quelque 3 500. Renault meurt le 6 décembre. C'est le plus grand effort de l'armée de Paris ; le suivant sera aussi le dernier ([[bataille-de-buzenval]]).
+repere: 14 novembre 1870 — La nouvelle de la victoire de Coulmiers parvient à Paris.
+repere: 29 novembre 1870 — La crue de la Marne fait remettre l'attaque ; les diversions de L'Haÿ et de la Gare-aux-Bœufs échouent.
+repere: 30 novembre 1870, 5 h 30 — Les 1er et 2e corps passent la Marne sur huit ponts de bateaux.
+repere: 30 novembre 1870, vers 10 h — Bry et Champigny pris, la division Maussion attaque le parc de Villiers.
+repere: 30 novembre 1870, 14 h — Le 3e corps d'Exéa franchit enfin la Marne à Neuilly.
+repere: 1er décembre 1870 — Trêve pour relever les blessés ; le IIe corps prussien arrive.
+repere: 2 décembre 1870, 7 h — Saxons et Wurtembergeois contre-attaquent sur Bry et Champigny, par −10 °C.
+repere: 2 décembre 1870, fin d'après-midi — Le combat cesse ; chacun garde ses positions.
+repere: 3 décembre 1870 — Sous le brouillard, l'armée de Ducrot repasse la Marne.
+repere: 6 décembre 1870 — Mort du général Renault, blessé à Champigny.
+attention: « Je ne rentrerai dans Paris que mort ou victorieux » : la promesse est bien de Ducrot, dans sa proclamation à la deuxième armée à la veille de l'attaque. Rentré vivant et vaincu, il en portera longtemps le sarcasme ([[mots-de-1870]]). Le mot fait oublier l'essentiel : la sortie a échoué devant des positions fortifiées que l'on connaissait, après un jour perdu par la crue, avec un corps d'armée parvenu sur le champ de bataille au milieu de l'après-midi.
+issue: victoire allemande, sortie repoussée
+effectifs: 52000 | 28000
+pertes: 9500 | 3500
+chiffres: Ducrot fait passer la Marne à quelque 80 000 hommes sur les 100 000 de sa deuxième armée ; Bodart compte 52 000 Français et 28 000 Allemands réellement engagés. Pertes de la bataille de la Marne selon la Wikipédia allemande : 9 477 Français tués et blessés, dont 424 officiers, et 3 529 Allemands, dont 156 officiers. Moltke, qui ajoute les sorties de diversion, donne 12 000 hommes perdus côté français, d'après leurs propres états, et 6 200 côté allemand.
+geo: 48.8172, 2.5156
+lieu: Champigny-sur-Marne, Bry-sur-Marne et Villiers-sur-Marne, Val-de-Marne, France
+lien: wp Bataille de Champigny
+lien: de Schlacht bei Villiers
+sources: H. von Moltke, The Franco-German War of 1870-71 (trad. anglaise 1891, Project Gutenberg), « Paris in November » et « The Attempt of the Army of Paris to break out » ; Wikipédia (de : Schlacht bei Villiers ; fr : Bataille de Champigny, Pierre Hippolyte Publius Renault ; en : Battle of Villiers, boîte d'information d'après Bodart, 1908).
+voir: ducrot, trochu, siege-de-paris, albert-de-saxe, bataille-de-loigny, bataille-de-buzenval, mots-de-1870, armee-de-la-loire
+
+@ combats-du-bourget
+cat: batailles
+nom: Les combats du Bourget
+alias: première bataille du Bourget, deuxième bataille du Bourget, Schlacht von Le Bourget, Le Bourget, francs-tireurs de la Presse, Bellemare, Drancy, église Saint-Nicolas
+dates: 28 – 30 octobre et 21 décembre 1870
+quand: 1870-10-28
+jusqu: 1870-12-21
+def: Au nord-est de Paris, le village du Bourget est enlevé par surprise le 28 octobre 1870, puis repris le 30 par la Garde prussienne ; sa perte, connue en même temps que la capitulation de Metz, déclenche la journée du 31 octobre. Le 21 décembre, une seconde attaque échoue à son tour.
+texte: Le Bourget, village-rue étiré sur la route de Flandre à trois kilomètres du fort d'Aubervilliers, n'est gardé que par un poste de la Garde prussienne. Dans la nuit du 27 au 28 octobre, le général Carrey de Bellemare, qui commande à Saint-Denis, y lance sans l'aval de [[trochu|Trochu]] le commandant Roland et quelque 300 [[francs-tireurs|francs-tireurs]] de la Presse : la compagnie allemande, surprise, s'enfuit. Bellemare pousse dans le village des [[garde-mobile|mobiles]] de la Seine et des soldats de marche avec quelques canons, tandis qu'un bataillon d'infanterie de marine occupe Drancy. Le 28, une trentaine de pièces allemandes bombardent Le Bourget pendant cinq heures, et un bataillon de la Garde est repoussé le soir ; le 29, la canonnade ne donne rien. Bellemare réclame des renforts et de l'artillerie, qu'on lui refuse ; le [[albert-de-saxe|prince royal de Saxe]], lui, ordonne à la Garde de reprendre le village sans délai.
+texte: Le 30, vers 8 h, neuf bataillons de la 2e division de la Garde et cinq batteries attaquent en trois colonnes, depuis Dugny, le Pont-Iblon et Le Blanc-Mesnil, à découvert et sous le feu des forts. À 9 h, les grenadiers de la reine Élisabeth franchissent la barricade du nord ; dans les rues tombent les deux colonels allemands qui mènent l'assaut, Zaluskowski et Waldersee. Les fermes closes sont prises une à une ; on se bat à la baïonnette jusque dans l'église Saint-Nicolas, dont les assaillants escaladent les fenêtres. Le commandant Baroche est tué ; le commandant Brasseur tient l'église jusqu'au bout. Vers 11 h, les trois colonnes se rejoignent au centre, mais des groupes résistent dans les maisons jusque vers 13 h. Les Allemands ont perdu près de 500 hommes, les Français 1 400 tués et blessés et 1 200 prisonniers.
+texte: Le soir même, une note officielle assure que le village, « ne faisant pas partie du système général de notre défense », n'avait qu'« une importance très secondaire ». Les Parisiens apprennent le 31 octobre, en même temps, sa perte, la capitulation de Metz et l'arrivée de Thiers, venu parler d'armistice : ce jour-là, l'Hôtel de Ville est envahi ([[journee-du-31-octobre]]).
+texte: Le Bourget redevient l'objectif le 21 décembre : il faut l'enlever avant que [[ducrot]] ne franchisse la Morée pour une sortie vers le nord. À 7 h 45, quand se lève la brume, les forts, des batteries et des wagons blindés couvrent le village d'obus. Les marins et le 138e de ligne du capitaine de frégate Lamothe-Tenet entrent par le nord, prennent le cimetière et une centaine de prisonniers, et attaquent les barricades à la hache d'abordage ; au sud, la colonne Lavoignet bute sur les murs crénelés. Les renforts de la Garde arrivent à 9 h et à 10 h ; à 11 h, les derniers assaillants sont chassés. Ducrot attend en vain à Drancy le signal convenu. Dans le froid, des centaines d'hommes ont les pieds gelés.
+repere: nuit du 27 au 28 octobre 1870 — Les francs-tireurs de la Presse surprennent le poste prussien du Bourget.
+repere: 28 octobre 1870, vers midi — Une trentaine de canons allemands bombardent le village pendant cinq heures.
+repere: 29 octobre 1870 — Nouvelle canonnade ; le prince royal de Saxe ordonne à la Garde de reprendre Le Bourget.
+repere: 30 octobre 1870, vers 8 h — Neuf bataillons de la 2e division de la Garde attaquent en trois colonnes.
+repere: 30 octobre 1870, 9 h — Les grenadiers de la reine Élisabeth franchissent la barricade du nord.
+repere: 30 octobre 1870, vers 11 h — Les colonnes allemandes se rejoignent au centre du village.
+repere: 30 octobre 1870, vers 13 h — Les derniers défenseurs sont réduits ; deux bataillons de la Garde restent dans le village.
+repere: 31 octobre 1870 — À la nouvelle du Bourget et de Metz, l'Hôtel de Ville est envahi.
+repere: 21 décembre 1870, 7 h 45 — Second assaut français sur Le Bourget, sous le feu des forts.
+repere: 21 décembre 1870, vers 11 h — Les assaillants sont chassés ; la sortie vers le nord tourne court.
+attention: La note du 30 octobre défendait le point de vue de Trochu : l'affaire avait été lancée sans ses ordres, et il refusait d'engager de gros renforts pour un village en pointe. Mais à Paris, elle fut lue comme un aveu d'indifférence, et l'opposition y vit la preuve que le gouvernement ne voulait pas se battre. Les Allemands, eux, avaient jugé le village assez important pour y jeter la Garde.
+issue: victoire allemande, village repris
+effectifs: 8000 | 6000
+pertes: 2600 | 500
+chefs: Adrien Carrey de Bellemare | Rudolph von Budritzki
+chiffres: Les nombres principaux sont ceux du 30 octobre, d'après Bodart (1908) repris par la Wikipédia anglaise : 8 000 Français contre 6 000 Allemands ; 1 400 tués et blessés et 1 200 prisonniers français, 500 tués et blessés allemands, chiffre de Moltke aussi (378 selon la Wikipédia allemande). Le 21 décembre, la Garde perd 445 hommes (400 selon Moltke) et fait 360 prisonniers ; les Français avouent quelque 600 hommes devant Le Bourget, et environ 2 000 pour toute la journée, combats de la Marne compris.
+geo: 48.9353, 2.4256
+lieu: Le Bourget et Drancy, Seine-Saint-Denis, France
+lien: wp Première bataille du Bourget (1870)
+lien: wp Deuxième bataille du Bourget (1870)
+lien: de Schlacht von Le Bourget
+sources: H. von Moltke, The Franco-German War of 1870-71 (trad. anglaise 1891, Project Gutenberg), « Storming of Le Bourget » et « Combat of Le Bourget, 21st December » ; Wikipédia (fr : Première et Deuxième bataille du Bourget (1870), Chronologie du siège de Paris (1870-1871), pour la note officielle du 30 octobre ; de : Schlacht von Le Bourget ; en : Battle of Le Bourget, d'après Bodart, et Siege of Paris (1870–1871)).
+voir: journee-du-31-octobre, trochu, ducrot, siege-de-paris, francs-tireurs, garde-mobile, albert-de-saxe, siege-de-metz
+
+@ bataille-de-buzenval
+cat: batailles
+nom: Bataille de Buzenval
+alias: seconde bataille de Buzenval, bataille du Mont-Valérien, Montretout, Schlacht bei Buzenval, Garches, la Bergerie, porte de Longboyau, Henri Regnault, sortie torrentielle
+dates: 19 janvier 1871
+quand: 1871-01-19
+def: Le 19 janvier 1871, dernière sortie de l'armée de Paris : 90 000 hommes, dont pour la première fois des régiments de la garde nationale, attaquent vers Versailles par Montretout et Buzenval. Ils sont arrêtés par le seul Ve corps prussien ; neuf jours plus tard, Paris signe l'armistice.
+texte: Au début de janvier 1871, Paris a faim, les obus tombent sur la rive gauche ([[bombardement-de-paris]]), et la [[garde-nationale|garde nationale]] réclame une « sortie torrentielle » où elle se battrait enfin. [[trochu|Trochu]], qui n'y croit guère, finit par la concéder, autant pour apaiser les plus ardents que pour tenter la fortune. On sortira à l'ouest, vers Versailles, où [[guillaume-ier|Guillaume Ier]] vient d'être proclamé empereur ([[proclamation-de-l-empire-allemand]]) : la presqu'île de Gennevilliers est le seul terrain où l'on puisse rassembler de grandes masses hors de portée du canon allemand. Quelque 90 000 hommes — troupes de ligne, mobiles et régiments de marche de la garde nationale incorporés dans les brigades — forment trois colonnes : à gauche [[general-vinoy|Vinoy]] sur la redoute de Montretout et Saint-Cloud, au centre Bellemare sur le plateau de la Bergerie, à droite [[ducrot]] par le parc du château de Buzenval et la porte de Longboyau.
+texte: L'attaque doit partir à 6 h. Mais rien n'a réglé le passage des ponts d'Asnières et de Neuilly, où les colonnes s'embouteillent dans la nuit. À 7 h, quand le Mont-Valérien donne le signal, seule la colonne Vinoy est prête ; celle de Ducrot a des heures de retard. Dans un épais brouillard, les Français enlèvent pourtant la redoute de Montretout, que tiennent 89 hommes, entrent dans Saint-Cloud et dans les premières maisons de Garches, et Bellemare couronne la hauteur de la Maison du Curé. Vers 9 h seulement arrivent les soutiens du Ve corps de Kirchbach. Les chasseurs du 5e bataillon reprennent Garches et tiennent tout le jour la ferme de la Bergerie, que cinq bataillons assaillent en vain : la dynamite des sapeurs, gelée, n'explose pas. L'artillerie française, retardée aux ponts ou embourbée, ne suit pas ; à midi, 36 pièces allemandes sont en batterie.
+texte: À droite, Ducrot n'attaque qu'à 10 h 30, entre Rueil et le parc de Buzenval, avec une forte artillerie. Ses colonnes se brisent sur la 20e brigade, postée derrière les murs de La Jonchère et de la porte de Longboyau. À 14 h, il relance l'assaut : une section du génie, un officier et dix hommes, tombe tout entière en voulant faire sauter le mur ; treize compagnies allemandes arrêtent les colonnes à 200 pas et les rejettent, malgré leurs officiers. Les Français gardent le mur du parc de Buzenval, crénelé en hâte, et repoussent les contre-attaques. Mais dès 15 h la gauche recule, et à la nuit le centre quitte la Maison du Curé.
+texte: À 17 h 30, Trochu ordonne la retraite, convaincu que rien ne peut plus réussir et que la garde nationale lui échappe. Les défenseurs de Saint-Cloud, oubliés, ne se rendent que le lendemain. Les Français ont perdu 4 070 hommes, dont 700 tués et quelque 500 prisonniers ; les Allemands, 610, sans avoir engagé leurs réserves. Parmi les morts, le colonel Rochebrune, ancien insurgé de Pologne, qui commandait le 19e régiment de marche de la garde nationale ; Gustave Lambert, qui préparait une expédition au pôle Nord ; et le peintre Henri Regnault, 27 ans, prix de Rome, atteint à la tempe. Le 20 au matin, les colonnes refluent dans le brouillard à travers la presqu'île.
+texte: Buzenval est la dernière sortie. Le 20, Trochu demande une suspension d'armes pour relever les blessés ; le 22, Vinoy le remplace à la tête de l'armée de Paris, et des gardes nationaux tirent devant l'Hôtel de Ville. Le 28, c'est l'[[armistice-de-1871|armistice]]. L'échec creuse le fossé entre les partisans de la paix et ceux de la résistance à outrance, nombreux dans une garde nationale qui se croit sacrifiée : il pèsera lourd en mars ([[commune-de-paris]]).
+repere: 18 janvier 1871 — Guillaume Ier est proclamé empereur allemand à Versailles.
+repere: 19 janvier 1871, 6 h — Les colonnes françaises s'embouteillent aux ponts d'Asnières et de Neuilly.
+repere: 19 janvier 1871, 7 h — Signal du Mont-Valérien ; la colonne Vinoy enlève la redoute de Montretout.
+repere: 19 janvier 1871, vers 9 h — Les soutiens du Ve corps arrivent ; Garches est repris, la Bergerie tient.
+repere: 19 janvier 1871, 10 h 30 — Ducrot attaque entre Rueil et le parc de Buzenval.
+repere: 19 janvier 1871, midi — Trente-six canons allemands sont en batterie ; on se bat dans les rues de Saint-Cloud.
+repere: 19 janvier 1871, 14 h — Nouvel assaut de Ducrot vers la porte de Longboyau, brisé à 200 pas.
+repere: 19 janvier 1871, 17 h 30 — Trochu ordonne la retraite.
+repere: 20 janvier 1871 — Trochu demande une suspension d'armes pour relever les blessés.
+repere: 22 janvier 1871 — Vinoy remplace Trochu ; des gardes nationaux tirent devant l'Hôtel de Ville.
+attention: Deux légendes s'opposent : une garde nationale qui aurait lâché pied, récit répandu après la Commune, et une garde héroïque que les généraux auraient arrêtée en pleine victoire. Trochu, le lendemain, loue au contraire ces « citoyens unis à des troupes de ligne » ; Moltke la dit indisciplinée. Il n'y avait pas de victoire à saisir : l'attaque s'est brisée avant d'atteindre la position principale allemande, dont les réserves n'ont même pas été engagées.
+issue: victoire allemande
+effectifs: 90000 | 12000
+pertes: 4070 | 610
+chefs: Louis Jules Trochu, avec Vinoy, Bellemare et Ducrot | Hugo von Kirchbach, sous le Kronprinz Frédéric-Guillaume
+chiffres: 90 000 Français en trois colonnes, dont une partie seulement arrive au contact ; côté allemand, une douzaine de bataillons du Ve corps, environ 12 000 hommes (Wikipédia allemande), portent presque tout le combat — Moltke parle d'un ennemi quatre fois supérieur. Pertes concordantes chez Moltke et dans les Wikipédias : 4 070 Français (700 tués, 3 370 blessés et disparus, dont 502 prisonniers selon Moltke) ; 610 Allemands (173 tués, 437 blessés ou disparus).
+geo: 48.8778, 2.1813
+lieu: Rueil-Malmaison, Garches et Saint-Cloud, Hauts-de-Seine, France
+lien: wp Bataille de Buzenval (1871)
+lien: de Schlacht bei Buzenval
+lien: wp Henri Regnault
+sources: H. von Moltke, The Franco-German War of 1870-71 (trad. anglaise 1891, Project Gutenberg), « Battle of Mont Valerien » ; Wikipédia (fr : Bataille de Buzenval (1871), qui cite le rapport de Trochu du 20 janvier, et Henri Regnault ; de : Schlacht bei Buzenval, boîte d'information, et Auguste-Alexandre Ducrot).
+voir: trochu, ducrot, general-vinoy, garde-nationale, siege-de-paris, armistice-de-1871, commune-de-paris, bataille-de-champigny
